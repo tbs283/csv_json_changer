@@ -21,7 +21,7 @@
     "ウマ娘/ブエナビスタ": {
         "prompt": "buena vista (umamusume), umamusume, ear, tails,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "ブエナビスタ"
     },
     "ウマ娘/メジロアルダン": {
         "prompt": "mejiro ardan (umamusume), umamusume, ear, tails,",
@@ -190,7 +190,7 @@
     "学マス/リーリヤ": {
         "prompt": "katsuragi lilja, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "リーリヤ制服"
     },
     "学マス/莉波": {
         "prompt": "himesaki rinami, gakuen idolmaster,",
