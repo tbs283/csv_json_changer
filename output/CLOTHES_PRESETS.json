@@ -221,7 +221,8 @@
     "girlUnder": "thigh-high socks",
     "panties": "white panties",
     "bra": "",
-    "clothesStatus": "2"
+    "clothesStatus": "2",
+    "characterOnly": ["ウマ娘/ライスシャワー"]
   }, 
   "カレンブーケドール勝負服": {
     "girlTop": "white clothes,turtleneck,short sleeves,groves,with gold lines,",
