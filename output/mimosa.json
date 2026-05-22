@@ -15,16 +15,16 @@
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
+        "girlTop": "",
+        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlUnder": "1",
         "girlAction": "",
         "clothesStatus": ""
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "1",
+      "clothesFlg": "10",
       "seed": []
     },
     {
@@ -42,16 +42,16 @@
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
+        "girlTop": "",
+        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlUnder": "1",
         "girlAction": "",
         "clothesStatus": ""
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "1",
+      "clothesFlg": "10",
       "seed": []
     },
     {
@@ -69,16 +69,16 @@
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
+        "girlTop": "",
+        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlUnder": "1",
         "girlAction": "",
         "clothesStatus": ""
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "1",
+      "clothesFlg": "10",
       "seed": []
     },
     {
@@ -96,16 +96,16 @@
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
+        "girlTop": "",
+        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlUnder": "1",
         "girlAction": "",
         "clothesStatus": "open clothes"
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "1",
+      "clothesFlg": "10",
       "seed": []
     },
     {
@@ -123,16 +123,16 @@
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
+        "girlTop": "",
+        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlUnder": "1",
         "girlAction": "",
         "clothesStatus": "open clothes"
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "1",
+      "clothesFlg": "10",
       "seed": []
     },
     {
@@ -150,16 +150,16 @@
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
+        "girlTop": "",
+        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlUnder": "1",
         "girlAction": "",
         "clothesStatus": "open clothes"
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "1",
+      "clothesFlg": "10",
       "seed": []
     }
   ],
