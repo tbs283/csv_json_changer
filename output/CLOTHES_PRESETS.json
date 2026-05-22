@@ -376,5 +376,14 @@
     "bra": "sky blue bra",
     "clothesStatus": "0",
     "characterOnly": "\"劣等生/深雪\",\"劣等生/ほのか\""
+  },
+  "全裸": {
+    "girlTop": "completely nude,",
+    "girlBottom": "completely nude,",
+    "girlUnder": "completely nude,",
+    "panties": "completely nude,",
+    "bra": "completely nude,",
+    "clothesStatus": "2",
+    "characterOnly": ""
   }
 }
