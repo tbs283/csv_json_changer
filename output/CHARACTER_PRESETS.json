@@ -1,190 +1,191 @@
 {
     "ウマ娘/ライスシャワー": {
         "prompt": "rice shower (umamusume), umamusume,short girl,ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘", "ロリ"],
         "defaultClothes": ""},
     "ウマ娘/ハロライス": {
         "prompt": "rice shower (make up vampire!) (umamusume), umamusume, ear, tails,short girl,",
-        "tag": [],
+        "tag": ["ウマ娘", "ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/豊食祭ライス": {
         "prompt": "rice shower (yummy dreamy fairy) (umamusume), umamusume, ear, tails,short girl,",
-        "tag": [],
+        "tag": ["ウマ娘", "ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/嫁ライス": {
         "prompt": "rice shower (longed-for scenery) (umamusume),  umamusume, ear, tails,the short girl,",
-        "tag": [],
+        "tag": ["ウマ娘", "ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/ブエナビスタ": {
         "prompt": "buena vista (umamusume), umamusume, ear, tails,",
-        "tag": [],
-        "defaultClothes": "ブエナビスタ"
+        "tag": ["ウマ娘"],
+        "defaultClothes": "ブエナビスタ勝負服"
     },
     "ウマ娘/メジロアルダン": {
         "prompt": "mejiro ardan (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/男装アルダン": {
         "prompt": "mejiro ardan (neige emeraude) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/サトノダイヤモンド": {
         "prompt": "satono diamond (umamusume), umamusume, ear, tails,",
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/正月ダイヤ": {
         "prompt": "satono diamond (floral star prosperous green) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/騎士ダイヤ": {
         "prompt": "satono diamond (chevalier bleu) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/ダンツフレーム": {
         "prompt": "dantsu flame (umamusume),umamusume,tail,",
-        "tag": [],
-        "defaultClothes": ""
+        "tag": ["ウマ娘"],
+        "defaultClothes": "ダンツフレーム勝負服"
     },
     "ウマ娘/エイシンフラッシュ": {
         "prompt": "eishin flash (umamusume),umamusume,tail,horse tail,ear,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/チョコフラッシュ": {
         "prompt": "eishin flash (reines plaetschern) (umamusume),umamusume,tail,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/水着フラッシュ": {
         "prompt": "eishin flash (collect chocolatier) (umamusume),umamusume,tail,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/サイレンススズカ": {
         "prompt": "silence suzuka (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/水着スズカ": {
         "prompt": "silence suzuka (emerald on the waves) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
        "defaultClothes": ""
     },
     "ウマ娘/ヤマニンゼファー": {
         "prompt": "yamanin zephyr (umamusume), skirt,umamusume,tail,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/チョコゼファー": {
         "prompt": "yamanin zephyr (sugary wind) (umamusume), skirt,umamusume,tail,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/カレンチャン": {
         "prompt": "curren chan (umamusume), {{tail}},umamusume,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/嫁カレン": {
         "prompt": "curren chan (sakutsuki ma cherie) (umamusume),",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/ホッコータルマエ": {
         "prompt": "hokko tarumae (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/水着タルマエ": {
         "prompt": "hokko tarumae (pastel marine locadol) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/アーモンドアイ": {
         "prompt": "almond eye (umamusume), tail,umamusume,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/カレンブーケドール": {
         "prompt": "curren bouquetd'or (umamusume), umamusume,",
-        "tag": [],
-        "defaultClothes": ""
+        "tag": ["ウマ娘"],
+        "defaultClothes": "カレンブーケドール勝負服"
     },
     "ウマ娘/グランアレグリア": {
         "prompt": "gran alegria (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/メジロドーベル": {
         "prompt": "mejiro dober (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/夏ドーベル": {
         "prompt": "mejiro dober (vacation safir) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/マヤノトップガン": {
         "prompt": "mayano top gun (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘","ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/嫁マヤ": {
         "prompt": "mayano top gun (sunlight bouquet) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘","ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/ハロマヤ": {
         "prompt": "mayano top gun (formation: party) (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘","ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/メジロマックイーン": {
         "prompt": "mejiro mcqueen (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/キタサンブラック": {
         "prompt": "kitasan black (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/ルビー": {
         "prompt": "daiichi ruby (umamusume),umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘","ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/ダンスルビー": {
         "prompt": "daiichi ruby (flowing blue) (umamusume),umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘","ロリ"],
         "defaultClothes": ""
     },
    "ウマ娘/フラワー": {
        "prompt": "nishino flower (umamusume),umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘","ロリ"],
        "defaultClothes": ""
     },
     "ウマ娘/嫁フラワー": {
         "prompt": "nishino flower (sweet juneberry) (umamusume),umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘","ロリ"],
         "defaultClothes": ""
     },
     "ウマ娘/スペシャルウィーク": {
         "prompt": "special week (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "ウマ娘/トーカイテイオー": {
         "prompt": "tokai teio (umamusume), umamusume, ear, tails,",
-        "tag": [],
+        "tag": ["ウマ娘"],
         "defaultClothes": ""
     },
     "学マス/リーリヤ": {
@@ -195,52 +196,57 @@
     "学マス/莉波": {
         "prompt": "himesaki rinami, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "莉波制服"
     },
     "学マス/佑芽": {
         "prompt": "hanami ume, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "佑芽制服"
     },
     "学マス/美鈴": {
         "prompt": "hataya misuzu, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "美鈴制服"
     },
     "学マス/清夏": {
         "prompt": "shiun sumika, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "清夏制服"
     },
     "学マス/咲季": {
         "prompt": "hanami saki, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "咲季制服"
+    },
+    "学マス/手毬": {
+        "prompt": "tsukimura temari, gakuen idolmaster,",
+        "tag": [],
+        "defaultClothes": "手毬制服"
     },
     "学マス/琴音": {
         "prompt": "fujita kotone, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "琴音制服"
     },
     "学マス/千奈": {
         "prompt": "kuramoto china, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "千奈制服"
     },
     "学マス/広": {
         "prompt": "shinosawa hiro, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "広制服"
     },
     "学マス/星南": {
         "prompt": "juo sena, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "星南制服"
     },
     "学マス/亜紗里": {
         "prompt": "neo asari, gakuen idolmaster,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "亜紗里私服"
     },
     "よう実/一之瀬": {
         "prompt": "ichinose honami (youjitsu), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -280,22 +286,22 @@
     "五等分の花嫁/中野一花": {
         "prompt": "nakano ichika (anime), go-toubun no hanayome, ",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "一花制服"
     },
     "五等分の花嫁/中野二乃": {
         "prompt": "nakano nino (anime), go-toubun no hanayome, ",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "二乃制服"
     },
     "五等分の花嫁/中野三玖": {
         "prompt": "nakano miku (anime), go-toubun no hanayome, ",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "三玖制服"
     },
     "五等分の花嫁/中野四葉": {
         "prompt": "nakano yotsuba (anime), go-toubun no hanayome, ",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "四葉制服"
     },
     "五等分の花嫁/中野五月": {
         "prompt": "nakano itsuki (anime), go-toubun no hanayome, ",
@@ -305,7 +311,7 @@
     "ごちうさ/千夜": {
         "prompt": "ujimatsu chiya (anime), gochuumon wa usagi desu ka?,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ千夜着物"
     },
     "ごちうさ/ココア": {
         "prompt": "hoto cocoa, gochuumon wa usagi desu ka?,",
@@ -345,7 +351,7 @@
     "推しの子/あかね": {
         "prompt": "kurokawa akane (anime), oshi no ko,",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "黒川あかね制服"
     },
     "推しの子/ルビー": {
         "prompt": "hoshino ruby (anime), oshi no ko,",
@@ -375,7 +381,7 @@
     "めだかわ/川井モナ": {
         "prompt": "kawai mona (anime), kuroiwa medaka ni watashi no kawaii ga tsuujinai, ",
         "tag": [],
-        "defaultClothes": ""
+        "defaultClothes": "川井モナ制服"
     },
     "マギ/ヤムライハ": {
         "prompt": "yamraiha, magi the labyrinth of magic,",

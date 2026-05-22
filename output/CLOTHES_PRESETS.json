@@ -44,7 +44,7 @@
     "clothesStatus": "1",
     "characterOnly": "\"ごちうさ/チノ\",\"ごちうさ/メグ\",\"ごちうさ/マヤ\""
   },
-  "千夜": {
+  "ごちうさ千夜着物": {
     "girlTop": "green kimono,white apron,",
     "girlBottom": "",
     "girlUnder": "brown boots,",
@@ -215,7 +215,7 @@
     "clothesStatus": "0",
     "characterOnly": "\"学マス/星南\""
   },
-  "亜紗里": {
+  "亜紗里私服": {
     "girlTop": "white striped t-shirt",
     "girlBottom": "light green pants",
     "girlUnder": "",
@@ -224,7 +224,7 @@
     "clothesStatus": "0",
     "characterOnly": "\"学マス/亜紗里\""
   },
-  "ダンツフレーム": {
+  "ダンツフレーム勝負服": {
     "girlTop": "pink tops,black sleeves,",
     "girlBottom": "pink short pants,black tights,",
     "girlUnder": "black tights,shoes",
@@ -278,7 +278,7 @@
     "clothesStatus": "0",
     "characterOnly": ""
   },
-  "ブエナビスタ": {
+  "ブエナビスタ勝負服": {
     "girlTop": "brown outer,brown tops,with red and white lines,brown tie,",
     "girlBottom": "brown skirt,brown right socks,",
     "girlUnder": "red and white shoes",
@@ -287,7 +287,7 @@
     "clothesStatus": "0",
     "characterOnly": "\"ウマ娘/ブエナビスタ\""
   },
-  "一花": {
+  "一花制服": {
     "girlTop": "school uniform,white shirts",
     "girlBottom": "green skirt,yellow cardigan around waist,",
     "girlUnder": "black high socks",
@@ -296,7 +296,7 @@
     "clothesStatus": "0",
     "characterOnly": "\"五等分の花嫁/中野一花\""
   },
-  "二乃": {
+  "二乃制服": {
     "girlTop": "school uniform,black cardigan,white shirts",
     "girlBottom": "green skirt,white thigh-high socks",
     "girlUnder": "white thigh-high socks",
@@ -305,7 +305,7 @@
     "clothesStatus": "0",
     "characterOnly": "\"五等分の花嫁/中野二乃\""
   },
-  "三玖": {
+  "三玖制服": {
     "girlTop": "school uniform,blue cardigan,white shirts",
     "girlBottom": "green skirt,black tights,",
     "girlUnder": "black tights",
@@ -314,7 +314,7 @@
     "clothesStatus": "0",
     "characterOnly": "\"五等分の花嫁/中野三玖\""
   },
-  "四葉": {
+  "四葉制服": {
     "girlTop": "school uniform,white shirts,yellow cardigan,robbon tie,",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
@@ -323,7 +323,7 @@
     "clothesStatus": "0",
     "characterOnly": "\"五等分の花嫁/中野四葉\""
   },
-  "五月": {
+  "五月制服": {
     "girlTop": "school uniform,white shirts,red cardigan",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
