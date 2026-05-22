@@ -1,4 +1,168 @@
 {
+  "下半身": [
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front,thick thighs,thigh focus,upper legs,zettai ryouiki,from front,straight-on",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,breast",
+        "girlAction": "embarrassed,sad,tears,blush,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front,thick thighs,thigh focus,upper legs,zettai ryouiki,from side",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,breast",
+        "girlAction": "embarrassed,sad,tears,blush,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front,ass focus,back view,rear view,hips",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,back",
+        "girlAction": "embarrassed,sad,tears,blush,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front,thick thighs,thigh focus,upper legs,zettai ryouiki,from front,straight-on",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,breast",
+        "girlAction": "embarrassed,sad,tears,blush,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front,thick thighs,thigh focus,upper legs,zettai ryouiki,from side",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,breast",
+        "girlAction": "embarrassed,sad,tears,blush,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front,ass focus,back view,rear view,hips",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,back",
+        "girlAction": "embarrassed,sad,tears,blush,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    }
+  ],
   "胸": [
     {
       "base": {
