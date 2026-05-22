@@ -1,0 +1,25 @@
+{
+  "name": "ai_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git commit -m update && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbs283/csv_json_changer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tbs283/csv_json_changer/issues"
+  },
+  "homepage": "https://github.com/tbs283/csv_json_changer#readme"
+}
