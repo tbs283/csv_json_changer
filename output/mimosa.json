@@ -1,4 +1,87 @@
 {
+  "上半身": [
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front,straight-on",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,back",
+        "girlAction": "embarrassed,sad,tears,blush,hugging own body",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front,straight-on",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,back",
+        "girlAction": "embarrassed,sad,tears,blush,hidden own nipples",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front,straight-on",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,back",
+        "girlAction": "embarrassed,sad,tears,blush,grabbing own breasts,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    }
+  ],
   "下半身": [
     {
       "base": {
