@@ -1,0 +1,31 @@
+{
+  "ラブホ_マイクロビキニ_landscape": [
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
+        "play": "1 girl,solo,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,",
+        "girlAction": "embarrassed,sad,tears,blush,",
+        "male": "",
+        "bgBase": "love hotel,pink room,simple room,no furniture,",
+        "bgTop": "pink bed,pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "0"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed": []
+    }
+  ]
+}

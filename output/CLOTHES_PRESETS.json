@@ -1,0 +1,338 @@
+﻿{
+  "ブルマ": {
+    "girlTop": "white short-sleeved gym shirt with red collar and sleeve bands,",
+    "girlBottom": "red gym bloomers with white stripes on sides,high-leg gym bloomers,white socks,",
+    "girlUnder": "shoes,",
+    "panties": "white panties,",
+    "bra": "white bra,",
+    "clothesStatus": "1"
+  }, 
+  "猫ランジェリー": {
+    "girlTop": "white cat lingerie,bra with cat hole,cat ears,red collar with bell,cat gloves,",
+    "girlBottom": "white cat panties,cat tails,white socks,thigh-high socks",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "1"
+  }, 
+  "ネグリジェ": {
+    "girlTop": "lace negligee with white frilles,white negligee,",
+    "girlBottom": "white thongs,",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "1"
+  }, 
+  "toloveる制服": {
+    "girlTop": "yellow vest,white shirt,half sleeves,green tie,",
+    "girlBottom": "green skirt,",
+    "girlUnder": "black socks,",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "1"
+  }, 
+  "ごちうさ制服": {
+    "girlTop": "school uniform,half sleeves,blue tie,",
+    "girlBottom": "white skirt,",
+    "girlUnder": "white socks,brown shoes,",
+    "panties": "sky blue panties,",
+    "bra": "sky blue bra,",
+    "clothesStatus": "1"
+  }, 
+  "千夜": {
+    "girlTop": "green kimono,white apron,",
+    "girlBottom": "",
+    "girlUnder": "brown boots,",
+    "panties": "pink panties,",
+    "bra": "pink bra,",
+    "clothesStatus": "0"
+  }, 
+  "マイクロビキニ": {
+    "girlTop": "simple micro bikini,white bikini,very small bikini,",
+    "girlBottom": "simple bikini panties,white bikini panties",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "1"
+  }, 
+  "逆バニー": {
+    "girlTop": "Playboy bunny,",
+    "girlBottom": "fishnet pantyhose,",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "1"
+  }, 
+  "温泉": {
+    "girlTop": "no accessory,less accessory,white bath towel wrapped around body, secure towel fit,wet body,",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "2"
+  }, 
+  "クローム制服": {
+    "girlTop": "school uniform,green clothes,",
+    "girlBottom": "green skirt,black belt,",
+    "girlUnder": "black boots,",
+    "panties": "white panties,",
+    "bra": "white bra,",
+    "clothesStatus": "1"
+  }, 
+  "坂柳制服": {
+    "girlTop": "school uniform,red blazer,white shirt,tie,",
+    "girlBottom": "white skirt,garter belt,white thigh-high socks",
+    "girlUnder": "white thigh-high socks,shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "よう実制服": {
+    "girlTop": "school uniform,red blazer,white shirt,tie,",
+    "girlBottom": "white skirt,",
+    "girlUnder": "socks,shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "小野寺小咲制服": {
+    "girlTop": "school uniform,white tops,orange tie,long sleeves,",
+    "girlBottom": "light blue skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "リーリヤ制服": {
+    "girlTop": "white blazer,white shirt",
+    "girlBottom": "navy skirt",
+    "girlUnder": "socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "莉波制服": {
+    "girlTop": "school uniform,navy blazer,yellow vest,white shirts",
+    "girlBottom": "blue skirt,black tights,",
+    "girlUnder": "black tights,",
+    "panties": "",
+    "bra": "pink bra",
+    "clothesStatus": "0"
+  }, 
+  "美鈴制服": {
+    "girlTop": "school uniform,nevy vest,white shirt",
+    "girlBottom": "navy skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "咲季制服": {
+    "girlTop": "pink blazer,white shirt,",
+    "girlBottom": "blue and navy skirt",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "手毬制服": {
+    "girlTop": "gray coat,dark green tops,",
+    "girlBottom": "black skirt,",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "琴音制服": {
+    "girlTop": "light green outer,yellow t-shirt,",
+    "girlBottom": "blue skirt",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "千奈制服": {
+    "girlTop": "white tops,",
+    "girlBottom": "blue skirt",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "清夏制服": {
+    "girlTop": "white shirt,tie,",
+    "girlBottom": "blue skirt",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "広制服": {
+    "girlTop": "white outer,white tops",
+    "girlBottom": "blue pants",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "佑芽制服": {
+    "girlTop": "pink cardigan,white shirt",
+    "girlBottom": "blue and navy skirt",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "星南制服": {
+    "girlTop": "white blazer,white shirt,black tie",
+    "girlBottom": "blue and navy skirt,black tights",
+    "girlUnder": "",
+    "panties": "panties",
+    "bra": "bra",
+    "clothesStatus": "0"
+  }, 
+  "亜紗里": {
+    "girlTop": "white striped t-shirt",
+    "girlBottom": "light green pants",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "ダンツフレーム": {
+    "girlTop": "pink tops,black sleeves,",
+    "girlBottom": "pink short pants,black tights,",
+    "girlUnder": "black tights,shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "黒川あかね制服": {
+    "girlTop": "school uniform, navy vest,white shirt with long sleeves,blue tie,",
+    "girlBottom": "gray skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "ライスシャワー勝負服": {
+    "girlTop": "purple one-piece dress,crimson sleeves,",
+    "girlBottom": "tails,skirt",
+    "girlUnder": "thigh-high socks",
+    "panties": "white panties",
+    "bra": "",
+    "clothesStatus": "2"
+  }, 
+  "カレンブーケドール勝負服": {
+    "girlTop": "white clothes,turtleneck,short sleeves,groves,with gold lines,",
+    "girlBottom": "skirt with floral lining,tails,",
+    "girlUnder": "white and black shoes",
+    "panties": "floral panties",
+    "bra": "floral bra",
+    "clothesStatus": "1"
+  }, 
+  "シュヴァルグラン勝負服": {
+    "girlTop": "white tops,A cloak with a starry sky pattern lining,",
+    "girlBottom": "black pants",
+    "girlUnder": "shoes",
+    "panties": "blue panties",
+    "bra": "blue bra",
+    "clothesStatus": "0"
+  }, 
+  "デュランダル": {
+    "girlTop": "white and yellow clothes,groves",
+    "girlBottom": "white long pants",
+    "girlUnder": "black boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "ブエナビスタ": {
+    "girlTop": "brown outer,brown tops,with red and white lines,brown tie,",
+    "girlBottom": "brown skirt,brown right socks,",
+    "girlUnder": "red and white shoes",
+    "panties": "white panties",
+    "bra": "whtie bra",
+    "clothesStatus": "0"
+  }, 
+  "一花": {
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "0"
+  }, 
+  "二乃": {
+    "girlTop": "school uniform,black cardigan,white shirts",
+    "girlBottom": "green skirt,white thigh-high socks",
+    "girlUnder": "white thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "三玖": {
+    "girlTop": "school uniform,blue cardigan,white shirts",
+    "girlBottom": "green skirt,black tights,",
+    "girlUnder": "black tights",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "四葉": {
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "0"
+  }, 
+  "五月": {
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "0"
+  }, 
+  "美遊制服": {
+    "girlTop": "school uniform,white tops,half sleeves,ribbon tie,",
+    "girlBottom": "black skirt,black thigh-high socks",
+    "girlUnder": "black thigh-high socks",
+    "panties": "pinkpanties,",
+    "bra": "pink bra",
+    "clothesStatus": "0"
+  }, 
+  "川井モナ制服": {
+    "girlTop": "school uniform,pink vest,white shirt",
+    "girlBottom": "green checked skirt",
+    "girlUnder": "green socks",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesStatus": "0"
+  }, 
+  "パシフィックレーシング": {
+    "girlTop": "blue tops",
+    "girlBottom": "blue skirt",
+    "girlUnder": "blue boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0"
+  }, 
+  "赤ちゃん": {
+    "girlTop": "completely nude,floral white bib",
+    "girlBottom": "nappy,white nappy,",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "2"
+  }, 
+  "魔法科高校の劣等生制服": {
+    "girlTop": "school uniform, white tops,green outer,",
+    "girlBottom": "white skirt",
+    "girlUnder": "black boots, gray socks",
+    "panties": "sky blue panties",
+    "bra": "sky blue bra",
+    "clothesStatus": "0"
+  }
+}
