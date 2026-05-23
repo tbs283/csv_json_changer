@@ -539,17 +539,17 @@
         "defaultClothes": ""
     },
     "Blue Archive/マリー": {
-        "prompt": "mari (blue archive),halo,",
+        "prompt": "mari (blue archive),halo,cat ear,",
         "tag": ["Blue Archive","ブルアカ","トリニティ","シスターフッド"],
         "defaultClothes": ""
     },
     "Blue Archive/マリー(体操服)": {
-        "prompt": "mari (track) (blue archive),halo,",
+        "prompt": "mari (track) (blue archive),halo,cat ear,",
         "tag": ["Blue Archive","ブルアカ","トリニティ","シスターフッド"],
         "defaultClothes": ""
     },
     "Blue Archive/マリー(アイドル)": {
-        "prompt": "mari (idol) (blue archive),halo,",
+        "prompt": "mari (idol) (blue archive),halo,cat ear,",
         "tag": ["Blue Archive","ブルアカ","トリニティ","シスターフッド"],
         "defaultClothes": ""
     },
