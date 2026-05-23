@@ -32,11 +32,7 @@ def convert_row(row):
         "キャラヘッダフラグ": row.get("キャラヘッダフラグ", "1"),
         "縦横比": row.get("縦横比", "1"),
         "clothesFlg": row.get("clothesFlg", "1"),
-        "seed": (
-            [s.strip() for s in row["seed"].split(",")] 
-            if row.get("seed") 
-            else []
-        )
+        "seed_id": row.get("seed_id")
     }
 
 
