@@ -1056,7 +1056,7 @@
     "ニセコイ/小野寺小咲": {
         "prompt": "onodera kosaki (anime),nisekoi,",
         "tag": ["ニセコイ"],
-        "defaultClothes": ""
+        "defaultClothes": "ニセコイ制服"
     },
     "ニセコイ/まりか": {
         "prompt": "tachibana marika (anime),nisekoi,",
@@ -1066,12 +1066,12 @@
     "ニセコイ/千棘": {
         "prompt": "kirisaki chitoge (anime),nisekoi,",
         "tag": ["ニセコイ"],
-        "defaultClothes": ""
+        "defaultClothes": "ニセコイ制服"
     },
     "ニセコイ/小野寺春": {
         "prompt": "onodera haru (anime),nisekoi,",
         "tag": ["ニセコイ"],
-        "defaultClothes": ""
+        "defaultClothes": "ニセコイ制服"
     },
     "かの借り/水原": {
         "prompt": "mizuhara chizuru, kanojo okarishimasu, ",
