@@ -114,7 +114,7 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesStatus": "0",
-    "characterOnly": ""
+    "characterOnly": "\"ニセコイ/小野寺小咲\",\"ニセコイ/千棘\",\"ニセコイ/小野寺春\""
   },
   "リーリヤ制服": {
     "girlTop": "white blazer,white shirt",
@@ -124,6 +124,15 @@
     "bra": "white bra",
     "clothesStatus": "0",
     "characterOnly": "\"学マス/リーリヤ\""
+  },
+  "リーリヤ白線": {
+    "girlTop": "black one-piece dress,black tie,left long sleeve,right half sleeve.",
+    "girlBottom": "blue belt,black skirt,",
+    "girlUnder": "black boots,",
+    "panties": "whitepanties",
+    "bra": "white bra",
+    "clothesStatus": "",
+    "characterOnly": ""
   },
   "莉波制服": {
     "girlTop": "school uniform,navy blazer,yellow vest,white shirts",
@@ -244,7 +253,7 @@
   },
   "ライスシャワー勝負服": {
     "girlTop": "purple one-piece dress,crimson sleeves,",
-    "girlBottom": "tails,skirt",
+    "girlBottom": "tails,purple skirt,",
     "girlUnder": "thigh-high socks",
     "panties": "white panties",
     "bra": "",
@@ -361,7 +370,7 @@
   },
   "赤ちゃん": {
     "girlTop": "completely nude,floral white bib",
-    "girlBottom": "nappy,white nappy,",
+    "girlBottom": "nappy,white nappy,completely nude,",
     "girlUnder": "",
     "panties": "",
     "bra": "",
@@ -375,7 +384,7 @@
     "panties": "sky blue panties",
     "bra": "sky blue bra",
     "clothesStatus": "0",
-    "characterOnly": "\"劣等生/深雪\",\"劣等生/ほのか\""
+    "characterOnly": "\"劣等生/司波深雪\",\"劣等生/光井ほのか\",\"劣等生/七草真由美\",\"劣等生/北山雫\",\"劣等生/桜井水波\",\"劣等生/柴田美月\""
   },
   "全裸": {
     "girlTop": "completely nude,",
