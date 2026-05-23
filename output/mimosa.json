@@ -3729,762 +3729,357 @@
       "seed_id": "206"
     }
   ],
-  "海": [
+  "和室": [
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
+        "composition": "upper body shot,from above,breasts focus,",
+        "play": "girl,solo",
         "girl": "focus on girl,girl focus,main subject girl",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,covering girl's mouth from behind,stand up behind the girl,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "surprised,tears,looking back,covered mouth by the another,grabbing another's arm",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "11",
-      "seed_id": "1"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind over the clothes,stand up behind the girl,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upper body shot,surprised,tears,looking back,grabbing another's arm",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "11",
-      "seed_id": "2"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,stand up behind the girl,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upper body shot,surprised,tears,looking back,grabbing another's arm",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "14",
-      "seed_id": "3"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from side",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,stand up behind the girl,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upper body shot,surprised,tears,looking back,grabbing another's arm",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "14",
-      "seed_id": "4"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,straight-on,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "",
-        "girlAction": "surprised,tears,looking back,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "5"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,head out of frame,cropped head,body focus,legs visible,from neck down,standing",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "6"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front,thick thighs,thigh focus,upper legs,zettai ryouiki",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
         "girlTop": "",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
-        "clothesStatus": "open clothes,pull up bra,"
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "20",
-      "seed_id": "7"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "lower body focus,legs focus,hip focus,thigh focus,cropped torso,from waist down,close-up,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,stand up behind the girl,fingering,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "",
-        "girlAction": "squirting,forsed orgasm,grabbing another's arm,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "8"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,stand up behind the girl,fingering,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "",
-        "girlAction": "leaning forward,squirting,forsed orgasm,screaming,upper body shot,surprised,tears,looking back,grabbing another's armresisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "9"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot,side view,cowboy shot,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples,covering own mouoth",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,stand up behind the girl,fingering,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "",
-        "girlAction": ",leaning forward,squirting,forsed orgasm,screaming,upper body shot,surprised,tears,looking back,covering own mouth",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "10"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot,side view,cowboy shot,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples,covering own mouoth",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing girl's breast from behind,stand up behind the girl,fingering,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "",
-        "girlAction": ",leaning forward,squirting,forsed orgasm,screaming,upper body shot,surprised,tears,screaming",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "11"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,faces focus,from above,cowboy shot,",
-        "play": "1 girl,solo,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples,pull up clothes",
-        "girlAction": "",
-        "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "wariza,Squinting,looking up,facing front,tired,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "12"
+      "縦横比": "1",
+      "clothesFlg": "1",
+      "seed_id": "44"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front",
-        "play": "1 girl,",
+        "composition": "upper body shot,from above,breasts focus,",
+        "play": "girl,solo",
         "girl": "focus on girl,girl focus,main subject girl",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing another's breast over the clothes,kneeling on the sand,behind the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "girlAction": "sleeping,the head on the futon,lying on side on the futon,",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": "",
+        "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "blush,tears,wariza on the ,looking back",
+        "girlAction": "",
         "clothesStatus": ""
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "17",
-      "seed_id": "13"
+      "縦横比": "1",
+      "clothesFlg": "1",
+      "seed_id": "45"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing another's breast,kneeling on the sand,behind the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,straight-on,crotch focus,feet out of frame",
+        "play": "girl,solo",
+        "girl": "focus on girl,girl focus,main subject girl",
+        "girlAction": "sleeping,m legs,the head on the futon,lying on back on the futon,m legs,",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "blush,tears,wariza on the sand,looking back,covering own mouth",
+        "girlTop": "",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "8",
+      "seed_id": "46"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "man pov,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
+        "girl": "",
+        "girlAction": "",
+        "male": "completely nude man,out of frame,grabbing breasts,out of frame,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "11",
+      "seed_id": "47"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "man pov,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
+        "girl": "",
+        "girlAction": "",
+        "male": "completely nude man,out of frame,grabbing breasts,out of frame,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,",
         "clothesStatus": "open clothes,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "14"
+      "縦横比": "1",
+      "clothesFlg": "14",
+      "seed_id": "48"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,breast focus,",
-        "play": "1 girl,",
+        "composition": "man pov,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
+        "girl": "",
+        "girlAction": "",
+        "male": "completely nude man,out of frame,grabbing breasts,out of frame,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "14",
+      "seed_id": "49"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "man pov,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,grabbing another's nipple from behind,kneeling on the sand,behind the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,out of frame,grabbing breasts,out of frame,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "blush,tears,wariza on the sand,looking back",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "15"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,crotch focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,grabbing another's nipple from behind,kneeling on the sand,behind the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "blush,tears,embarrassed,sitting on the sand,m legs,spread legs,looking at  viewer,leaning back,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "16"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,lower body focus,legs focus,thigh focus,cropped torso,from waist down,close-up,from front,thick thighs,thigh focus,upper legs,zettai ryouiki",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,crotch focus,",
-        "girlAction": "",
-        "male": "completely nude man,fingering,hands in the panties,kneeling on the sand,behind the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "sitting on the sand,m legs,spread legs",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "10",
-      "seed_id": "17"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,crotch focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,hands in the panties,grabbing another's nipple from behind,kneeling on the sand,behind the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "nipples,blush,tears,struggle,closing eyes,squirting,forsed orgasm,screaming,sitting on the sand,m legs,spread legs,grabbing another's arm bay both hands",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "18"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,crotch focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,hands in the panties,grabbing another's nipple from behind,kneeling on the sand,behind the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "nipples,blush,tears,struggle,closing eyes,squirting,forsed orgasm,screaming,facing down,leaning forward,sitting on the sand,closing legs,grabbing another's arm bay both hands,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "19"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,upper body shot,from side,breasts focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,leaning back,m legs,feet out of frame",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,french kiss,grabbing nipple,back shot,kneeling on thesand,next to the girl,fingering,hands in the panties,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "drool,tears,blush,against another's body,wariza,sitting on the sand,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "20"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from side",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,leaning back",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,french kiss,hoiding girl's head",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "drool,tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,sitting on the sand,",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "11",
-      "seed_id": "21"
+      "縦横比": "1",
+      "clothesFlg": "14",
+      "seed_id": "50"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,cowboy shot,portrait,medium close-upfrom front,face focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
-        "girlAction": "",
-        "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "nipples,pussy,blush,tears,tired,sad,crying,heavy breath,squirting,forsed orgasm,wariza,sitting on the sand,Squinting,spread legs,upward gaze,facing down,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "22"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
+        "composition": "man pov,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,licking nipples,hugging girl,back shot,next to the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
+        "male": "completely nude man,out of frame,grabbing breasts,pinching nipple,out of frame,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "23"
+      "seed_id": "51"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
+        "composition": "upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,sucking on the nipples,hugging girl,back shot,next to the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking nipple,grabbing nipple,back shot,next to the girl",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "girlAction": "sleeping,the head on the ,lying on back on the ,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "24"
+      "seed_id": "52"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,looking own armspit",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,licking armpit,grabbing arms,back shot,next to the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking own armspit,facing down,tears,blush,screaming,throw up one arm,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "14",
-      "seed_id": "25"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from side",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,sucking on the ear,hugging girl,back shot,next to the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "14",
-      "seed_id": "26"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,chest shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,licking face,hugging girl,back shot,next to the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sucking on the nipple,grabbing nipple,back shot,next to the girl",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "27"
+      "seed_id": "53"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from side",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples,against another's body",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,french kiss,grabbing head,back shot,next to the girl,hugging girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking armpit,grabbing nipple,back shot,next to the girl",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "drool,tears,blush,against another's body,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "28"
+      "seed_id": "54"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking face,grabbing nipple,back shot,next to the girl",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,facing away,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "14",
+      "seed_id": "55"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,1 man",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,french kiss,grabbing nipple,fingering,back shot,next to the girl",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "drool,sleeping,the head on the futon,lying on back on the futon,tears,blush,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "14",
+      "seed_id": "56"
     },
     {
       "base": {
@@ -4493,403 +4088,268 @@
         "r18": "nsfw,mosaic censoring",
         "composition": "dutch-angle,lower body shot,from below,crotch focus,",
         "play": "1 girl,cunnilingus",
-        "girl": "focus on girl,girl focus,main subject girl,spread legs,pussy,leaning back,m legs,feet out of frame",
+        "girl": "focus on girl,girl focus,main subject girl,spread legs,pussy,lying on back,m legs,feet out of frame",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,licking pussy,grabbing thigh,back shot,in front of the girl",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "lying on back on the sand,tears,blush,screaming,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "29"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "upper body shot,from side,side shot,face focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
-        "bgBase": "beach",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing thigh,back shot,",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,nipples,sitting,the hands against another's body",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
-      "seed_id": "30"
+      "seed_id": "57"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,nipples,wariza,grabbing penis by both hands,the hands against another's body",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "31"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "32"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair,penis,stand up in front of the girl,",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "33"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "34"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair,penis,stand up in front of the girl,",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "35"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from above,girl focus,face focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "upward gaze,tears,sad,nipples,paizuri,grabbing own breast,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "36"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from above,girl focus,face focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up,cum shot",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "upward gaze,facial,bukkake,surprised,tears,sad,nipples,paizuri,grabbing own breast,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "37"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "upward gaze,tears,sad,nipples,paizuri,grabbing own breast,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "38"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up,cum shot",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "upward gaze,facial,bukkake,surprised,tears,sad,nipples,paizuri,grabbing own breast,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "39"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from above,girl focus,face focus,",
+        "composition": "man pov,upper body shot,from above,breasts focus,straight-on,",
         "play": "1 girl,straddling paizuri",
-        "girl": "focus on girl,girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the sand,rising arm,",
-        "male": "penis,out of frame,completely nude man,pov crotch,pov,grabbing breast",
-        "bgBase": "beach",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,penis,grabbing breasts,out of frame,",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "upward gaze,facial,bukkake,struggling,screaming,facing away,averting eyes,surprised,tears,sad,nipples,paizuri,",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "40"
+      "seed_id": "58"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "from above,girl focus,face focus,",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,from side,girl focus,face focus,",
         "play": "1 girl,straddling paizuri",
         "girl": "focus on girl,girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the sand,rising arm,",
-        "male": "penis,out of frame,completely nude man,pov crotch,pov,cum shot,grabbing breast",
-        "bgBase": "beach",
+        "girlAction": "",
+        "male": "penis,out of frame,completely nude man,grabbing breast",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "upward gaze,facial,bukkake,struggling,screaming,facing away,averting eyes,surprised,tears,sad,nipples,paizuri,",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "41"
+      "seed_id": "59"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "from side,girl focus,face focus,",
+        "composition": "man pov,upper body shot,from above,breasts focus,straight-on,",
+        "play": "1 girl,straddling paizuri,facial,bukkake,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,penis,grabbing breasts,out of frame,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "14",
+      "seed_id": "60"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,from side,girl focus,face focus,",
         "play": "1 girl,straddling paizuri",
         "girl": "focus on girl,girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the sand,rising arm,",
+        "girlAction": "",
         "male": "penis,out of frame,completely nude man,cum shot,grabbing breast",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "upward gaze,facial,bukkake,struggling,facing away,closing eyes,surprised,tears,sad,nipples,paizuri,",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "42"
+      "seed_id": "61"
     },
     {
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
-        "play": "1 girl,",
-        "girl": "focus on girl,girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the ,rising arm,",
+        "composition": "upper body shot,from above,breasts focus,",
+        "play": "1 girl,facial,bukkake",
+        "girl": "focus on girl,girl focus,main subject girl,pull up clothes,nipples",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "male": "",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
+        "girlTop": ",",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "upward gaze,facial,bukkake,struggling,facing away,closing eyes,surprised,tears,sad,nipples,paizuri,",
+        "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "14",
-      "seed_id": "43"
+      "seed_id": "62"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "sleeping,m legs,the head on the futon,lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,imminent penetration,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "63"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "sleeping,m legs,the head on the futon,lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov,penis,grabbing thigh,penetration,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "64"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "Half-closed eyes,Half-asleep,m legs,the head on the futon,lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov,penis,grabbing thigh,penetration,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "65"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,lower body shot,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov,penis,grabbing thigh,penetration,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,surprising,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "66"
     },
     {
       "base": {
@@ -4899,22 +4359,22 @@
         "composition": "dutch-angle,from behind,",
         "play": "girl,solo",
         "girl": "focus on girl,girl focus,main subject girl,nipples,leaning forward,",
-        "girlAction": "against  rock,looking back,facing back,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall,looking back,facing back,crying,terror,sad,tear,embarrassed,heavy breath,",
         "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "67"
     },
@@ -4928,20 +4388,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing waist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
-        "girlAction": "against  rock,looking ahead,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall,looking ahead,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "68"
     },
@@ -4955,20 +4415,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing waist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
-        "girlAction": "against  rock,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "69"
     },
@@ -4982,20 +4442,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing waist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
-        "girlAction": "against  rock,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "70"
     },
@@ -5009,20 +4469,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing leg,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
-        "girlAction": "against  rock,leg up,looking back,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall,leg up,looking back,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "71"
     },
@@ -5036,20 +4496,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing wrist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "looking back,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "72"
     },
@@ -5063,20 +4523,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing wrist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "73"
     },
@@ -5090,20 +4550,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing wrist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "looking ahead,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "74"
     },
@@ -5117,20 +4577,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing breasts,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "75"
     },
@@ -5144,20 +4604,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing breasts,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "looking back,facing ahead,leaning forward,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "76"
     },
@@ -5171,20 +4631,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,hugging from behind",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "looking back,facing ahead,leaning forward,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "77"
     },
@@ -5198,20 +4658,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,hugging from behind",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "78"
     },
@@ -5225,20 +4685,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,standing,hugging from behind",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
         "bgBottom": ""
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
+        "girlTop": ",",
+        "girlBottom": ",",
         "girlUnder": "",
         "girlAction": "facing viewer,struggling,",
         "clothesStatus": "open clothes,pull up bra,"
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "15",
       "seed_id": "79"
     },
@@ -5250,20 +4710,20 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from front",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand,sex from behind,",
+        "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon,sex from behind,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing ass,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "Squinting,nipples,breasts,The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand,hands on the ground,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,screaming,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon,hands on the ground,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "2",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5277,20 +4737,20 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side shot,side view",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand,sex from behind,",
+        "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon,sex from behind,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing ass,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "Squinting,nipples,breasts,The chin is touching the sand,The body is facing the sand,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the sand,crying,tear,sad,heavy breath,screaming,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the futon,The body is facing the futon,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the futon,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "2",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5304,22 +4764,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from above,dutch-angle",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl,girl focus,main subject girl",
-        "girlAction": "The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand,sex from behind,",
+        "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon,sex from behind,",
         "male": "completely nude man,pov,sex from behind,grabbing ass,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "Squinting,The chin is touching the sand,The body is facing the sand,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the sand,crying,tear,sad,heavy breath,screaming,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "Squinting,The chin is touching the futon,The body is facing the futon,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the futon,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "82"
     },
@@ -5333,18 +4793,18 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,all fours,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing waist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "screaming,nipples,Squinting,looking down,facing below,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5360,18 +4820,18 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "all fours,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing waist,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "screaming,nipples,Squinting,looking down,facing below,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5387,18 +4847,18 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "breast press,Squinting,looking ahead,facing down,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5414,14 +4874,14 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "breast press,Squinting,looking ahead,facing down,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
@@ -5441,18 +4901,18 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the sand,the chin put on the sand,crying,tear,sad,heavy breath",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the futon,the chin put on the futon,crying,tear,sad,heavy breath",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "2",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5468,18 +4928,18 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the sand,screaming,crying,tear,sad,heavy breath,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the futon,screaming,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "2",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5493,22 +4953,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,imminent penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "89"
     },
@@ -5520,22 +4980,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,imminent penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "90"
     },
@@ -5547,22 +5007,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "91"
     },
@@ -5574,22 +5034,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "92"
     },
@@ -5601,22 +5061,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,covering own eyes,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own eyes,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "93"
     },
@@ -5628,22 +5088,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,covering own eyes,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own eyes,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "94"
     },
@@ -5655,22 +5115,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,covering own mouth,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own mouth,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "95"
     },
@@ -5682,22 +5142,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,covering own mouth,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own mouth,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "96"
     },
@@ -5709,22 +5169,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from\\ above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabing wrist,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,screaming,brests press by arms from the side,both arms is being pulled straight down.,forsed orgasm,penetrated,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,brests press by arms from the side,both arms is being pulled straight down.,forsed orgasm,penetrated,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "97"
     },
@@ -5736,22 +5196,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,feet out of frame",
         "play": "1 girl,missionary",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "legs together,legs up.closing legs,the head on the sand,lying on back on the sand,",
+        "girlAction": "legs together,legs up.closing legs,the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "the head on the sand,lying on back on the sand,tears,blush,screaming,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "98"
     },
@@ -5763,22 +5223,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,feet out of frame",
         "play": "1 girl,mating press",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "v legs,the head on the sand,lying on back on the sand,",
+        "girlAction": "v legs,the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,povpenetrating,grabing thigh from above,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "from between the legs,v legs,the head on the sand,lying on back on the sand,tears,terror,blush,screaming,looking another,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "from between the legs,v legs,the head on the futon,lying on back on the futon,tears,terror,blush,screaming,looking another,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "99"
     },
@@ -5790,22 +5250,22 @@
         "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,feet out of frame",
         "play": "1 girl,mating press",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "the head on the sand,lying on back on the sand,",
+        "girlAction": "the head on the futon,lying on back on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabing thigh from above,",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "v legs,the head on the sand,lying on back on the sand,tears,terror,blush,screaming,(looking at viewer | looking up),(open eyes | closing eyes),facing up,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "v legs,the head on the futon,lying on back on the futon,tears,terror,blush,screaming,(looking at viewer | looking up),(open eyes | closing eyes),facing up,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "2",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "100"
     },
@@ -5817,22 +5277,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,dutch-angle,from above,pussy focus",
         "play": "1 girl,after sex",
         "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,dripped semen from pussylooking away,facing away,lying on back on the sand,tired,drool",
+        "girlAction": "m legs,dripped semen from pussylooking away,facing away,lying on back on the futon,tired,drool",
         "male": "",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "m legs,the head on the sand,lying on back on the sand,tears,blush,Throw up one's hands,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "102"
     },
@@ -5844,20 +5304,20 @@
         "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus",
         "play": "spooning,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "legs together,the head on the sand,lying on side on the sand,",
+        "girlAction": "legs together,the head on the futon,lying on side on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabbing ass,,kneeling",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "struggle,nipples,legs together,arms in front of chest,grabbing sand,the head on the sand,lying on side on the sand,tears,terror,blush,screaming,looking at viewer,facing viewer",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples,legs together,arms in front of chest,grabbing futon,the head on the futon,lying on side on the futon,tears,terror,blush,screaming,looking at viewer,facing viewer",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5871,20 +5331,20 @@
         "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
         "play": "spooning,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "leg up,the head on the sand,lying on side on the sand,",
+        "girlAction": "leg up,the head on the futon,lying on side on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabbing leg,kneeling",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing sand,the head on the sand,lying on side on the sand,tears,terror,blush,screaming,looking at viewer,facing viewer",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing futon,the head on the futon,lying on side on the futon,tears,terror,blush,screaming,looking at viewer,facing viewer",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5898,20 +5358,20 @@
         "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
         "play": "spooning,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "leg up,the head on the sand,lying on side on the sand,",
+        "girlAction": "leg up,the head on the futon,lying on side on the futon,",
         "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabbing leg,kneeling",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing sand,the head on the sand,lying on side on the sand,tears,terror,blush,screaming,looking at another,facing another,",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing futon,the head on the futon,lying on side on the futon,tears,terror,blush,screaming,looking at another,facing another,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5925,20 +5385,20 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
         "play": "spooning,after sex,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "the head on the sand,lying on side on the sand,looking away,facing down,both hands against sand,",
+        "girlAction": "the head on the futon,lying on side on the futon,looking away,facing down,both hands against futon,",
         "male": "",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "1",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5953,21 +5413,21 @@
         "play": "1 girl,cowgirl position,leaning forward,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
         "girlAction": "",
-        "male": "completely nude man,pov,lying on the sand,penis touching girl's pussy,imminent penetration,no hands",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,pov,lying on the futon,penis touching girl's pussy,imminent penetration,no hands",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "m legs,Put own hands forward,Placing both hands on the another's body,nipples,breasts,looking own crotch,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "107"
     },
@@ -5980,21 +5440,21 @@
         "play": "1 girl,cowgirl position,leaning forward,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
         "girlAction": "",
-        "male": "completely nude man,pov,lying on the sand,penetrating,no hands",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,pov,lying on the futon,penetrating,no hands",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "m legs,Put own hands forward,Placing both hands on the another's body,screaming,nipples,breasts,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "108"
     },
@@ -6007,21 +5467,21 @@
         "play": "1 girl,cowgirl position,leaning forward,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the sand,penetrating,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the futon,penetrating,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "leaning forward,m legs,Put own hands forwardPlacing both hands on the another's body,nipples,breasts,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "109"
     },
@@ -6034,21 +5494,21 @@
         "play": "1 girl,cowgirl position,leaning back,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
         "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the sand,penetrating,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the futon,penetrating,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "m legs,Put own hands behind,Placing both hands on the another's body,nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "110"
     },
@@ -6061,21 +5521,21 @@
         "play": "1 girl,cowgirl position,leaning back,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
         "girlAction": "",
-        "male": "completely nude man,povlying on the sand,penetrating,no hands",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,povlying on the futon,penetrating,no hands",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "m legs,Put own hands behindPlacing both hands on the another's body,nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "111"
     },
@@ -6088,21 +5548,21 @@
         "play": "1 girl,cowgirl position,leaning forward,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
         "girlAction": "Placing both hands on the another's body,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the sand,penetrating,grabbing ass,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the futon,penetrating,grabbing ass,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "nipples,breasts,looking back,facing down,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "112"
     },
@@ -6115,21 +5575,21 @@
         "play": "1 girl,cowgirl position,leaning forward,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
         "girlAction": "Placing both hands on the another's body,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the sand,penetrating,grabbing ass,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the futon,penetrating,grabbing ass,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "shoulder peek,screaming,leaning forward,nipples,breasts,looking back,facing down,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "113"
     },
@@ -6142,21 +5602,21 @@
         "play": "1 girl,cowgirl position,leaning back,after sex,",
         "girl": "focus on girl,girl focus,main subject girl,top of head,dripping semen,nipples",
         "girlAction": "m legs,Put own hands behindPlacing both hands on the another's body,",
-        "male": "completely nude man,povlying on the sand,penis,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "male": "completely nude man,povlying on the futon,penis,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,tired",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "114"
     },
@@ -6165,108 +5625,81 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
-        "play": "1 girl,reverse suspended congress,",
-        "girl": "focus on girl,girl focus,main subject girl,top of head,nippels",
-        "girlAction": "leaning back,m legs,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,holding up girl,stand up,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "127"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
-        "play": "1 girl,reverse suspended congress,",
-        "girl": "focus on girl,girl focus,main subject girl,top of head,nippels",
-        "girlAction": "leaning back,v legs,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,holding up girl,stand up,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "128"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
-        "play": "1 girl,full nelson,",
-        "girl": "focus on girl,girl focus,main subject girl,top of head,nippels",
-        "girlAction": "leaning back,v legs,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,holding up girl,stand up,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "129"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,from front,feet out of frame,",
-        "play": "1 girl,after sex,",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,reverse upright straddle,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "looking at viewer,facing viewer,leaning back,m legs,dripping semen,forsed orgasm,squirting,crying,terror,sad,tear,embarrassed,heavy breath,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,holding up girl,grabbing girl's legs,stand up,",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": ""
+        "girlAction": "leaning back,natural body curve,sitting on the boy,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,imminent penetration,grabbing thigh,sitting on the futon",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,surprising,covering own mouth",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "6",
-      "seed_id": "131"
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "118"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,reverse upright straddle,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning back,natural body curve,sitting on the boy,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,hugging,sitting on the futon",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "119"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,reverse upright straddle,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning back,natural body curve,sitting on the boy,legs together,closing legs",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,hugging,sitting on the futon",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "120"
     },
     {
       "base": {
@@ -6278,20 +5711,20 @@
         "girl": "focus on girl,girl focus,main subject girl,feet out of frame,nipples",
         "girlAction": "looking at viewer,facing viewer,leaning back,m legs,dripping semen,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
         "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
       "clothesFlg": "6",
       "seed_id": "132"
     },
@@ -6303,22 +5736,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,from behind,facial,ass focus,",
         "play": "1 girl,solo,after sex,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "Squinting,nipples,breasts,The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand,looking back,facing back,leaning forward,all fours,dripping semen,grabbing sand,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon,looking back,facing back,leaning forward,all fours,dripping semen,grabbing futon,crying,terror,sad,tear,embarrassed,heavy breath,",
         "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
       "clothesFlg": "6",
       "seed_id": "133"
     },
@@ -6330,22 +5763,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,face between the legs,from below,feet out of frame,",
         "play": "1 girl,solo,after sex,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "Squinting,nipples,breasts,The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand,looking back,facing back,leaning forward,all fours,dripping semen,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon,looking back,facing back,leaning forward,all fours,dripping semen,crying,terror,sad,tear,embarrassed,heavy breath,",
         "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "2",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
       "clothesFlg": "6",
       "seed_id": "134"
     },
@@ -6359,20 +5792,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "wariza,ass focus,Squinting,looking back,facing back,dripping semen,tired,terror,sad,tear,embarrassed,heavy breath,",
         "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
       "clothesFlg": "6",
       "seed_id": "135"
     },
@@ -6386,20 +5819,20 @@
         "girl": "focus on girl,girl focus,main subject girl,nipples",
         "girlAction": "wariza,face focus,Squinting,upward gaze,dripping semen,tired,terror,sad,tear,embarrassed,heavy breath,",
         "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
       "clothesFlg": "6",
       "seed_id": "136"
     },
@@ -6411,22 +5844,22 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,breast focus,dutch-angle,full bosy shot,from above,",
         "play": "1 girl,solo,after sex,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "the head on the sand,lying on back on the sand,tired,heavy breath,tears,blush,Throw up one's hands,",
+        "girlAction": "the head on the futon,lying on back on the futon,tired,heavy breath,tears,blush,Throw up one's hands,",
         "male": "",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
       "clothesFlg": "6",
       "seed_id": "137"
     },
@@ -6438,186 +5871,24 @@
         "composition": "girl focus,focus on girl,main subject,portrait,close-up,breast focus,dutch-angle,full bosy shot,from above,",
         "play": "1 girl,solo,after sex,",
         "girl": "focus on girl,girl focus,main subject girl,nipples",
-        "girlAction": "facial,bukkake,empty eyes,the head on the sand,lying on back on the sand,tired,heavy breath,tears,blush,Throw up one's hands,m legs,",
+        "girlAction": "facial,bukkake,empty eyes,the head on the futon,lying on back on the futon,tired,heavy breath,tears,blush,Throw up one's hands,m legs,",
         "male": "",
-        "bgBase": "beach",
+        "bgBase": "japanese style room,",
         "bgTop": "",
-        "bgBottom": "bright sand"
+        "bgBottom": "tatami,futon,"
       },
       "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
       "clothesFlg": "6",
       "seed_id": "138"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
-        "play": "girl,solo",
-        "girl": "focus on girl,girl focus,main subject girl,walking,",
-        "girlAction": "tears,sad,embarrassed,hands on the chestscanning surroundings,searching for someone,looking around cautiously",
-        "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "simple bikini panties,white bikini panties",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "2",
-      "seed_id": "143"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "face focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,back shot,",
-        "play": "1 girl,solo,",
-        "girl": "focus on girl,girl focus,main subject girl",
-        "girlAction": "",
-        "male": "completely nude man,pov crotch,simple man,man pov,no detail man,penis,kneeling in front of the girl,grabbing head,",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,fellatio,all fours,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "2",
-      "キャラヘッダフラグ": "3",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "172"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,side shot,side view,",
-        "play": "1 girl,solo,",
-        "girl": "focus on girl,girl focus,main subject girl",
-        "girlAction": "",
-        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair,penis,kneeling in front of the girl,grabbing head,",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "tears,sad,fellatio,all fours,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "173"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "ass focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from behind,back shot,",
-        "play": "1 girl,solo,",
-        "girl": "focus on girl,girl focus,main subject girl",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,penis,kneeling in front of the girl,grabbing head,",
-        "bgBase": "beach",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,, ",
-        "girlBottom": "simple bikini panties,white bikini panties, ",
-        "girlUnder": "1",
-        "girlAction": "looking ahead,tears,fellatio,all fours,",
-        "clothesStatus": "open clothes,pull up bra,"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "16",
-      "seed_id": "174"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from side,side veiw",
-        "play": "girl,solo",
-        "girl": "focus on girl,girl focus,main subject girl,walking,",
-        "girlAction": "tears,sad,embarrassed,hands on the chestscanning surroundings,searching for someone,looking around cautiously",
-        "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "simple bikini panties,white bikini panties",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "2",
-      "seed_id": "207"
-    },
-    {
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from behind",
-        "play": "girl,solo",
-        "girl": "focus on girl,girl focus,main subject girl,walking,",
-        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest,scanning surroundings,searching for someone,looking around cautiously",
-        "male": "",
-        "bgBase": "beach",
-        "bgTop": "sunlit,vivid blue sky,pure white sunlit clouds with soft edges,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "simple micro bikini,white bikini,very small bikini,",
-        "girlBottom": "simple bikini panties,white bikini panties",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "2",
-      "seed_id": "208"
     }
   ],
   "温泉": [
