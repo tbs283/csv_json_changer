@@ -3751,9 +3751,9 @@
         "girlAction": "",
         "clothesStatus": ""
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "1",
       "seed_id": "44"
     },
@@ -3778,9 +3778,9 @@
         "girlAction": "",
         "clothesStatus": ""
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "1",
       "seed_id": "45"
     },
@@ -3805,9 +3805,9 @@
         "girlAction": "",
         "clothesStatus": ""
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "8",
       "seed_id": "46"
     },
@@ -3832,9 +3832,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,",
         "clothesStatus": ""
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "11",
       "seed_id": "47"
     },
@@ -3859,9 +3859,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,",
         "clothesStatus": "open clothes,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "48"
     },
@@ -3886,9 +3886,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "49"
     },
@@ -3913,9 +3913,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "50"
     },
@@ -3940,9 +3940,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "51"
     },
@@ -3967,9 +3967,9 @@
         "girlAction": "sleeping,the head on the ,lying on back on the ,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "52"
     },
@@ -3994,9 +3994,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "53"
     },
@@ -4021,9 +4021,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "54"
     },
@@ -4048,9 +4048,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,facing away,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "55"
     },
@@ -4075,9 +4075,9 @@
         "girlAction": "drool,sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "56"
     },
@@ -4102,9 +4102,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "57"
     },
@@ -4129,9 +4129,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "58"
     },
@@ -4156,9 +4156,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "59"
     },
@@ -4183,9 +4183,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "60"
     },
@@ -4210,9 +4210,9 @@
         "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "61"
     },
@@ -4237,9 +4237,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "14",
       "seed_id": "62"
     },
@@ -4264,9 +4264,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "63"
     },
@@ -4291,9 +4291,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "64"
     },
@@ -4318,9 +4318,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "65"
     },
@@ -4345,9 +4345,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,surprising,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "66"
     },
@@ -4372,9 +4372,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "67"
     },
@@ -4399,9 +4399,9 @@
         "girlAction": "against  wall,looking ahead,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "68"
     },
@@ -4426,9 +4426,9 @@
         "girlAction": "against  wall,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "69"
     },
@@ -4453,9 +4453,9 @@
         "girlAction": "against  wall,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "70"
     },
@@ -4480,9 +4480,9 @@
         "girlAction": "against  wall,leg up,looking back,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "71"
     },
@@ -4507,9 +4507,9 @@
         "girlAction": "looking back,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "72"
     },
@@ -4534,9 +4534,9 @@
         "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "73"
     },
@@ -4561,9 +4561,9 @@
         "girlAction": "looking ahead,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "74"
     },
@@ -4588,9 +4588,9 @@
         "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "75"
     },
@@ -4615,9 +4615,9 @@
         "girlAction": "looking back,facing ahead,leaning forward,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "76"
     },
@@ -4642,9 +4642,9 @@
         "girlAction": "looking back,facing ahead,leaning forward,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "77"
     },
@@ -4669,9 +4669,9 @@
         "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "78"
     },
@@ -4698,7 +4698,7 @@
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "15",
       "seed_id": "79"
     },
@@ -4723,7 +4723,7 @@
         "girlAction": "Squinting,nipples,breasts,The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon,hands on the ground,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -4750,7 +4750,7 @@
         "girlAction": "Squinting,nipples,breasts,The chin is touching the futon,The body is facing the futon,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the futon,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -4777,9 +4777,9 @@
         "girlAction": "Squinting,The chin is touching the futon,The body is facing the futon,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the futon,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "82"
     },
@@ -4804,7 +4804,7 @@
         "girlAction": "screaming,nipples,Squinting,looking down,facing below,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -4831,7 +4831,7 @@
         "girlAction": "screaming,nipples,Squinting,looking down,facing below,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -4858,7 +4858,7 @@
         "girlAction": "breast press,Squinting,looking ahead,facing down,crying,tear,sad,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -4912,7 +4912,7 @@
         "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the futon,the chin put on the futon,crying,tear,sad,heavy breath",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -4939,7 +4939,7 @@
         "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the futon,screaming,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -4968,7 +4968,7 @@
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "89"
     },
@@ -4995,7 +4995,7 @@
       },
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "90"
     },
@@ -5020,9 +5020,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "91"
     },
@@ -5047,9 +5047,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "92"
     },
@@ -5074,9 +5074,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own eyes,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "93"
     },
@@ -5101,9 +5101,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own eyes,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "94"
     },
@@ -5128,9 +5128,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own mouth,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "95"
     },
@@ -5155,9 +5155,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,covering own mouth,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "96"
     },
@@ -5182,9 +5182,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,screaming,brests press by arms from the side,both arms is being pulled straight down.,forsed orgasm,penetrated,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "97"
     },
@@ -5209,9 +5209,9 @@
         "girlAction": "the head on the futon,lying on back on the futon,tears,blush,screaming,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "98"
     },
@@ -5236,9 +5236,9 @@
         "girlAction": "from between the legs,v legs,the head on the futon,lying on back on the futon,tears,terror,blush,screaming,looking another,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "99"
     },
@@ -5263,9 +5263,9 @@
         "girlAction": "v legs,the head on the futon,lying on back on the futon,tears,terror,blush,screaming,(looking at viewer | looking up),(open eyes | closing eyes),facing up,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "100"
     },
@@ -5290,9 +5290,9 @@
         "girlAction": "m legs,the head on the futon,lying on back on the futon,tears,blush,Throw up one's hands,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "102"
     },
@@ -5317,7 +5317,7 @@
         "girlAction": "struggle,nipples,legs together,arms in front of chest,grabbing futon,the head on the futon,lying on side on the futon,tears,terror,blush,screaming,looking at viewer,facing viewer",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5344,7 +5344,7 @@
         "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing futon,the head on the futon,lying on side on the futon,tears,terror,blush,screaming,looking at viewer,facing viewer",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5371,7 +5371,7 @@
         "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing futon,the head on the futon,lying on side on the futon,tears,terror,blush,screaming,looking at another,facing another,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5398,7 +5398,7 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "1",
       "clothesFlg": "16",
@@ -5425,9 +5425,9 @@
         "girlAction": "m legs,Put own hands forward,Placing both hands on the another's body,nipples,breasts,looking own crotch,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "107"
     },
@@ -5452,9 +5452,9 @@
         "girlAction": "m legs,Put own hands forward,Placing both hands on the another's body,screaming,nipples,breasts,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "108"
     },
@@ -5479,9 +5479,9 @@
         "girlAction": "leaning forward,m legs,Put own hands forwardPlacing both hands on the another's body,nipples,breasts,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "109"
     },
@@ -5506,9 +5506,9 @@
         "girlAction": "m legs,Put own hands behind,Placing both hands on the another's body,nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "110"
     },
@@ -5533,9 +5533,9 @@
         "girlAction": "m legs,Put own hands behindPlacing both hands on the another's body,nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "111"
     },
@@ -5560,9 +5560,9 @@
         "girlAction": "nipples,breasts,looking back,facing down,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "112"
     },
@@ -5587,9 +5587,9 @@
         "girlAction": "shoulder peek,screaming,leaning forward,nipples,breasts,looking back,facing down,character focus,crying,tear,sad,heavy breath,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "113"
     },
@@ -5614,9 +5614,9 @@
         "girlAction": "nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,tired",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "114"
     },
@@ -5641,9 +5641,9 @@
         "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,surprising,covering own mouth",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "118"
     },
@@ -5668,9 +5668,9 @@
         "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "119"
     },
@@ -5695,9 +5695,9 @@
         "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "120"
     },
@@ -5722,9 +5722,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "6",
       "seed_id": "132"
     },
@@ -5749,9 +5749,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "6",
       "seed_id": "133"
     },
@@ -5776,9 +5776,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "6",
       "seed_id": "134"
     },
@@ -5803,9 +5803,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "6",
       "seed_id": "135"
     },
@@ -5830,9 +5830,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "6",
       "seed_id": "136"
     },
@@ -5857,9 +5857,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "6",
       "seed_id": "137"
     },
@@ -5884,9 +5884,9 @@
         "girlAction": "",
         "clothesStatus": "open clothes,pull up bra,"
       },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "1",
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
       "clothesFlg": "6",
       "seed_id": "138"
     }
