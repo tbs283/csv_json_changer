@@ -506,7 +506,7 @@
     "characterOnly": ""
   },
   "SAOユウキ": {
-    "girlBaseClothes": "broken armor",
+    "girlBaseClothes": "",
     "girlHead": "",
     "girlTop": "chest armor,black tops,purple sleeves,",
     "girlBottom": "purple skirt,black thigh-high socks,",
@@ -515,5 +515,16 @@
     "bra": "",
     "clothesStatus": "3",
     "characterOnly": "\"SAO/ユウキ\""
+  },
+  "SAOアスナALO": {
+    "girlBaseClothes": "white and blue clothes",
+    "girlHead": "blue hair,",
+    "girlTop": "",
+    "girlBottom": "white and blue skirt,navy thigh high socks",
+    "girlUnder": "navy thigh high socks",
+    "panties": "white panties",
+    "bra": "",
+    "clothesStatus": "4",
+    "characterOnly": "\"SAO/アスナ\""
   }
 }
