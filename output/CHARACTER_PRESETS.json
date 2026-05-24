@@ -1136,7 +1136,7 @@
     "SAO/ユウキ": {
         "prompt": "yuuki (sao),sword art online,",
         "tag": ["SAO"],
-        "defaultClothes": ""
+        "defaultClothes": "SAOユウキ"
     },
     "SAO/ロニエ": {
         "prompt": "arabel ronie,sword art online,",
