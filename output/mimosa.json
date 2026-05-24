@@ -1631,7 +1631,2302 @@
   ]
 ,
   "森": [
-
+    {
+      "title": "疲労困憊(座)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "close-up, portrait, upper body, focus on face, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "sitting on ground, knees hugged to chest, arms wrapped around knees, back against wall, cornered position, slumped posture, exhausted, tired eyes, heavy breathing, sweat, worn out,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "2",
+      "seed_id": "157"
+    },
+    {
+      "title": "疲労困憊(立)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,close-up, portrait, upper body, focus on face, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "standing,leaning forward, one hand on wall, leaning against wall, body weight supported by arm, slouched posture, head lowered,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "3",
+      "seed_id": "158"
+    },
+    {
+      "title": "疲労困憊(尻)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "standing,leaning forward, one hand on wall, leaning against wall, body weight supported by arm, slouched posture, head lowered,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "3",
+      "seed_id": "159"
+    },
+    {
+      "title": "疲労困憊(膝附)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,close-up, portrait, upper body, focus on face, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "kneeling on one knee, other foot on ground, one knee on ground, slumped posture, leaning forward slightly,hands on the knee,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "3",
+      "seed_id": "160"
+    },
+    {
+      "title": "痴漢(立)(口抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, covering girl's mouth from behind,stand up behind the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,tears, looking back, covered mouth by the another, grabbing another's arm",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "11",
+      "seed_id": "1"
+    },
+    {
+      "title": "痴漢(立)(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind over the clothes,stand up behind the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upper body shot, surprised,tears, looking back, grabbing another's arm",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "11",
+      "seed_id": "2"
+    },
+    {
+      "title": "痴漢(立)(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,stand up behind the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upper body shot, surprised,tears, looking back, grabbing another's arm",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "3"
+    },
+    {
+      "title": "痴漢(立)(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,stand up behind the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upper body shot, surprised,tears, looking back, grabbing another's arm",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "4"
+    },
+    {
+      "title": "痴漢(立)(乳太腿揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, cowboy shot, portrait, medium close-up, from front,straight-on,",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,tears, looking back,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "5"
+    },
+    {
+      "title": "痴漢(立)(乳太腿揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, cowboy shot, head out of frame, cropped head, body focus, legs visible, from neck down, standing",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "6"
+    },
+    {
+      "title": "痴漢(立)(太腿揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "20",
+      "seed_id": "7"
+    },
+    {
+      "title": "痴漢(立)(手マン)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, stand up behind the girl,fingering,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "squirting,forsed orgasm, grabbing another's arm, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "8"
+    },
+    {
+      "title": "痴漢(立)(手マン)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, cowboy shot, portrait, medium close-up, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,stand up behind the girl,fingering,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "leaning forward, squirting,forsed orgasm,screaming, upper body shot,surprised,tears, looking back, grabbing another's arm resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "9"
+    },
+    {
+      "title": "痴漢(立)(絶頂)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,stand up behind the girl,fingering,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": ",leaning forward, squirting,forsed orgasm,screaming, upper body shot,  surprised,tears, looking back, covering own mouth",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "10"
+    },
+    {
+      "title": "痴漢(立)(絶頂)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, grabbing girl's breast from behind,stand up behind the girl,fingering,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": ",leaning forward, squirting,forsed orgasm,screaming, upper body shot,  surprised,tears, screaming",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "11"
+    },
+    {
+      "title": "痴漢(事後)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,faces focus,from above,cowboy shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,pull up clothes",
+        "girlAction": "",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "wariza, Squinting, looking up,facing front, tired,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "12"
+    },
+    {
+      "title": "フェラ(見せつけ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "upper body shot,from side,side shot,face focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man, penis,stand up in front of the girl,grabbing head",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, sitting,the hands against another's body",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "30"
+    },
+    {
+      "title": "フェラ(掴み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man, penis,stand up in front of the girl,grabbing head",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, grabbing penis by both hands,the hands against another's body",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "31"
+    },
+    {
+      "title": "フェラ(フェラ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man, penis,stand up in front of the girl,grabbing head",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples,  fellatio, wariza, grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "32"
+    },
+    {
+      "title": "フェラ(フェラ上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from above",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples,  fellatio, wariza, grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "33"
+    },
+    {
+      "title": "フェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man, penis,stand up in front of the girl,grabbing head",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples,  fellatio, wariza, grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "34"
+    },
+    {
+      "title": "フェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples,  fellatio, wariza, grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "35"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "face focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,man pov,no detail man, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "3",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "172"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,side shot,side view,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "173"
+    },
+    {
+      "title": "四つん這いフェラ(後ろから)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "ass focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from behind,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead, tears, fellatio, all fours,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "174"
+    },
+    {
+      "title": "パイズリ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "from above,girl focus,face focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upward gaze, tears,sad,nipples,  paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "36"
+    },
+    {
+      "title": "パイズリ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "from above,girl focus,face focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up,cum shot",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upward gaze, facial,bukkake, surprised, tears,sad,nipples,  paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "37"
+    },
+    {
+      "title": "パイズリ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upward gaze, tears,sad,nipples,  paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "38"
+    },
+    {
+      "title": "パイズリ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up,cum shot",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upward gaze, facial,bukkake, surprised, tears,sad,nipples,  paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "39"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,from behind,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,leaning forward,",
+        "girlAction": "against  tree, looking back,facing back, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "67"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side view,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  tree, looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "68"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side view,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  tree, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "69"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from behind,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  tree, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "70"
+    },
+    {
+      "title": "立バック(足上げ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from behind,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing,grabbing leg,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  tree,leg up, looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "71"
+    },
+    {
+      "title": "立バック(腕掴み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "72"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "73"
+    },
+    {
+      "title": "立バック(腕掴み横)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "74"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing, grabbing breasts,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "75"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing, grabbing breasts,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead, leaning forward,dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "76"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing, hugging from behind",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead, leaning forward,dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "77"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,standing, hugging from behind",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "78"
+    },
+    {
+      "title": "立バック(胸部フォーカス)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle, upper body, torso focus, cropped head, head out of frame, neck down, from shoulders to waist, body focus, from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,standing,hugging from behind",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "facing viewer,struggling,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "79"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, hands on the ground, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "80"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side shot,side view",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the ground, The body is facing the ground, looking ahead,facing down,character focus, top-down bottom-up.,the head put on the ground, crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "81"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from above,dutch-angle",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind,",
+        "male": "completely nude man,pov, sex from behind,grabbing ass,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting, The chin is touching the ground, The body is facing the ground, looking ahead,facing down,character focus, top-down bottom-up.,the head put on the ground, crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "82"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "83"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on,upper body shot,face focus,dutch-angle",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "84"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,from behind,facial,ass focus,",
+        "play": "1 girl, solo,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the ground, The body is facing the ground, top-down bottom-up.,the head put on the ground, looking back,facing back, leaning forward,all fours,dripping semen,grabbing ground, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "133"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,face between the legs,from below,feet out of frame,",
+        "play": "1 girl, solo,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the ground, The body is facing the ground, top-down bottom-up.,the head put on the ground, looking back,facing back, leaning forward,all fours,dripping semen, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "134"
+    },
+    {
+      "title": "寝バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on,upper body shot,cropped torso,face focus",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "85"
+    },
+    {
+      "title": "寝バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on, extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "86"
+    },
+    {
+      "title": "寝バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on,upper body shot,cropped torso,face focus",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, the head put on the ground, the chin put on the ground, crying,tear,sad,heavy breath",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "87"
+    },
+    {
+      "title": "寝バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,side shot,side view,cropped torso,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, the head put on the ground,screaming, crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "88"
+    },
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,imminent penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "89"
+    },
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,imminent penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "90"
+    },
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "91"
+    },
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "92"
+    },
+    {
+      "title": "正常位(目隠し)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, covering own eyes,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "93"
+    },
+    {
+      "title": "正常位(目隠し)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, covering own eyes,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "94"
+    },
+    {
+      "title": "正常位(口抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, covering own mouth,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "95"
+    },
+    {
+      "title": "正常位(口抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, covering own mouth,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "96"
+    },
+    {
+      "title": "正常位(腕掴み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from\\ above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabing wrist,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush,screaming, brests press by arms from the side,both arms is being pulled straight down., forsed orgasm,penetrated,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "97"
+    },
+    {
+      "title": "足を閉じた正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,feet out of frame",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together,legs up.closing legs,the head on the ground,lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "the head on the ground, lying on back on the ground, tears,blush,screaming, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "98"
+    },
+    {
+      "title": "正常位事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,dutch-angle,from above,pussy focus",
+        "play": "1 girl,after sex",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,dripped semen from pussy looking away,facing away, lying on back on the ground, tired,drool",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the ground, lying on back on the ground, tears,blush, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "102"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from below",
+        "play": "1 girl, solo,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,feet out of frame,nipples",
+        "girlAction": "looking at viewer,facing viewer, leaning back,m legs,dripping semen, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "132"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the ground, lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the ground, lying on back on the ground, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the ground, lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the ground, lying on back on the ground, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "100"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the ground, lying on side on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabbing ass,,kneeling",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing ground, the head on the ground, lying on side on the ground, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "103"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the ground, lying on side on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabbing leg,kneeling",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing ground, the head on the ground, lying on side on the ground, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the ground, lying on side on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabbing leg,kneeling",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing ground, the head on the ground, lying on side on the ground, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the ground, lying on side on the ground, looking away,facing down,both hands against ground,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "106"
+    },
+    {
+      "title": "対面駅弁(suspended congress)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,ass focus,from behind,back shot",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "124"
+    },
+    {
+      "title": "対面駅弁(suspended congress)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,ass focus,from behind,back shot",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "ass focus looking ahead,facing ahead,  dripping semen,forsed orgasm,squirting,penetrated,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "125"
+    },
+    {
+      "title": "対面駅弁(suspended congress)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from side,",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "hugging,m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "ass focus looking ahead,facing ahead, breast press, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "126"
+    },
+    {
+      "title": "背面駅弁",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
+        "play": "1 girl,reverse suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nippels",
+        "girlAction": "leaning back,m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "127"
+    },
+    {
+      "title": "背面駅弁",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
+        "play": "1 girl,reverse suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nippels",
+        "girlAction": "leaning back,v legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "128"
+    },
+    {
+      "title": "背面駅弁",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
+        "play": "1 girl,full nelson,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nippels",
+        "girlAction": "leaning back,v legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "129"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,from front,feet out of frame,",
+        "play": "1 girl,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "looking at viewer,facing viewer,leaning back,m legs,dripping semen,forsed  orgasm,squirting, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, holding up girl,grabbing girl's legs,stand up,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "131"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,from behind,",
+        "play": "1 girl, solo,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza,ass focus, Squinting, looking back,facing back, dripping semen, tired,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "135"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,from above,",
+        "play": "1 girl, solo,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza,face focus, Squinting, upward gaze, dripping semen, tired,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "136"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,breast focus,dutch-angle,full bosy shot,from above,",
+        "play": "1 girl, solo,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the ground, lying on back on the ground, tired,heavy breath,tears,blush, Throw up one's hands,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "137"
+    },
+    {
+      "title": "事後",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,breast focus,dutch-angle,full bosy shot,from above,",
+        "play": "1 girl, solo,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "facial,bukkake,empty eyes, the head on the ground, lying on back on the ground, tired,heavy breath,tears,blush, Throw up one's hands,m legs,",
+        "male": "",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "138"
+    }
   ]
 ,
   "海": [
