@@ -1,4 +1,2382 @@
 {
+  "プール": [
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing another's breast over the clothes,kneeling on the pool side,behind the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "blush,tears,wariza on the ,looking back",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "17",
+      "seed_id": "13"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,grabbing another's breast,kneeling on the pool side,behind the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "blush,tears,wariza on the pool side,looking back,covering own mouth",
+        "clothesStatus": "open clothes,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "14"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,breast focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,grabbing another's nipple from behind,kneeling on the pool side,behind the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "blush,tears,wariza on the pool side,looking back",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "15"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,crotch focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,grabbing another's nipple from behind,kneeling on the pool side,behind the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "blush,tears,embarrassed,sitting on the pool side,m legs,spread legs,looking at  viewer,leaning back,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "16"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,lower body focus,legs focus,thigh focus,cropped torso,from waist down,close-up,from front,thick thighs,thigh focus,upper legs,zettai ryouiki",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,crotch focus,",
+        "girlAction": "",
+        "male": "completely nude man,fingering,hands in the panties,kneeling on the pool side,behind the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "sitting on the pool side,m legs,spread legs",
+        "clothesStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "10",
+      "seed_id": "17"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,crotch focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,hands in the panties,grabbing another's nipple from behind,kneeling on the pool side,behind the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "nipples,blush,tears,struggle,closing eyes,squirting,forsed orgasm,screaming,sitting on the pool side,m legs,spread legs,grabbing another's arm bay both hands",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "18"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,from front,crotch focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,fingering,hands in the panties,grabbing another's nipple from behind,kneeling on the pool side,behind the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "nipples,blush,tears,struggle,closing eyes,squirting,forsed orgasm,screaming,facing down,leaning forward,sitting on the pool side,closing legs,grabbing another's arm bay both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "19"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-up,upper body shot,from side,breasts focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,leaning back,m legs,feet out of frame",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,french kiss,grabbing nipple,back shot,kneeling on thepool side,next to the girl,fingering,hands in the panties,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "drool,tears,blush,against another's body,wariza,sitting on the pool side,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "20"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from side",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,leaning back",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,french kiss,hoiding girl's head",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "drool,tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,sitting on the pool side,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "11",
+      "seed_id": "21"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot,portrait,medium close-upfrom front,face focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,",
+        "girlAction": "",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "nipples,pussy,blush,tears,tired,sad,crying,heavy breath,squirting,forsed orgasm,wariza,sitting on the pool side,Squinting,spread legs,upward gaze,facing down,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "22"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking nipples,hugging girl,back shot,next to the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "23"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sucking on the nipples,hugging girl,back shot,next to the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "24"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,looking own armspit",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking armpit,grabbing arms,back shot,next to the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking own armspit,facing down,tears,blush,screaming,throw up one arm,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "25"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from side",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sucking on the ear,hugging girl,back shot,next to the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "26"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking face,hugging girl,back shot,next to the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "27"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from side",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,against another's body",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,french kiss,grabbing head,back shot,next to the girl,hugging girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "drool,tears,blush,against another's body,struggling,resisting,trying to break free,defensive posture,pushing away,trying to pull away,fighting back,resisting restraint,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "14",
+      "seed_id": "28"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girl": "focus on girl,girl focus,main subject girl,spread legs,pussy,leaning back,m legs,feet out of frame",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking pussy,grabbing thigh,back shot,in front of the girl",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "lying on back on the pool side,tears,blush,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "29"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "upper body shot,from side,side shot,face focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "tears,sad,nipples,sitting,the hands against another's body",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "30"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "tears,sad,nipples,wariza,grabbing penis by both hands,the hands against another's body",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "31"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "32"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair,penis,stand up in front of the girl,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "33"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,penis,stand up in front of the girl,grabbing head",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "34"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair,penis,stand up in front of the girl,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "tears,sad,nipples,fellatio,wariza,grabbing penis by both hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "35"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "from above,girl focus,face focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "upward gaze,tears,sad,nipples,paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "36"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "from above,girl focus,face focus,",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up,cum shot",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "upward gaze,facial,bukkake,surprised,tears,sad,nipples,paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "37"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "upward gaze,tears,sad,nipples,paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "38"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl,girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov crotch,pov legs,stand up,cum shot",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "upward gaze,facial,bukkake,surprised,tears,sad,nipples,paizuri,grabbing own breast,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "39"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,from behind,",
+        "play": "girl,solo",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,leaning forward,",
+        "girlAction": "against  pool edge,soaking in water,looking back,facing back,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "67"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side view,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing waist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "against  pool edge,soaking in water,looking ahead,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "68"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side view,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing waist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "against  pool edge,soaking in water,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "69"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from behind,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing waist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "against  pool edge,soaking in water,looking back,facing back,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "70"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from behind,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing leg,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "against  pool edge,soaking in water,leg up,looking back,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "71"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing wrist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "72"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing wrist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "73"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing wrist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "looking ahead,facing ahead,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "74"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing breasts,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "75"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,grabbing breasts,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead,leaning forward,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "76"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,hugging from behind",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead,leaning forward,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "77"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,standing,hugging from behind",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "78"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,upper body,torso focus,cropped head,head out of frame,neck down,from shoulders to waist,body focus,from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,standing,hugging from behind",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "",
+        "girlAction": "facing viewer,struggling,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "79"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the pool side,The body is facing the pool side,top-down bottom-up.,the head put on the pool side,sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing ass,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the pool side,The body is facing the pool side,top-down bottom-up.,the head put on the pool side,hands on the ground,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "80"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side shot,side view",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the pool side,The body is facing the pool side,top-down bottom-up.,the head put on the pool side,sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing ass,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the pool side,The body is facing the pool side,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the pool side,crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "81"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from above,dutch-angle",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl,girl focus,main subject girl",
+        "girlAction": "The chin is touching the pool side,The body is facing the pool side,top-down bottom-up.,the head put on the pool side,sex from behind,",
+        "male": "completely nude man,pov,sex from behind,grabbing ass,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "Squinting,The chin is touching the pool side,The body is facing the pool side,looking ahead,facing down,character focus,top-down bottom-up.,the head put on the pool side,crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "82"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing waist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "screaming,nipples,Squinting,looking down,facing below,crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "83"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on,upper body shot,face focus,dutch-angle",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing waist,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "screaming,nipples,Squinting,looking down,facing below,crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "84"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on,upper body shot,cropped torso,face focus",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "breast press,Squinting,looking ahead,facing down,crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "85"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on,extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "breast press,Squinting,looking ahead,facing down,crying,tear,sad,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "86"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,straight-on,upper body shot,cropped torso,face focus",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the pool side,the chin put on the pool side,crying,tear,sad,heavy breath",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "87"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,side shot,side view,cropped torso,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sex from behind,grabbing shoulder",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "breast press,Squinting,looking ahead,facing down,the head put on the pool side,screaming,crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "88"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,imminent penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "89"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,imminent penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "90"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "91"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "92"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,covering own eyes,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "93"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,covering own eyes,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "94"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,covering own mouth,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "95"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side shot,side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,covering own mouth,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "96"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from\\ above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabing wrist,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,screaming,brests press by arms from the side,both arms is being pulled straight down.,forsed orgasm,penetrated,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "97"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,feet out of frame",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "legs together,legs up.closing legs,the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenis,grabbing thigh,penetration,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "the head on the pool side,lying on back on the pool side,tears,blush,screaming,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "98"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "v legs,the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,povpenetrating,grabing thigh from above,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "from between the legs,v legs,the head on the pool side,lying on back on the pool side,tears,terror,blush,screaming,looking another,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "99"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "the head on the pool side,lying on back on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabing thigh from above,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "v legs,the head on the pool side,lying on back on the pool side,tears,terror,blush,screaming,(looking at viewer | looking up),(open eyes | closing eyes),facing up,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "100"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,dutch-angle,from above,pussy focus",
+        "play": "1 girl,after sex",
+        "girl": "focus on girl,girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,dripped semen from pussylooking away,facing away,lying on back on the pool side,tired,drool",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,the head on the pool side,lying on back on the pool side,tears,blush,Throw up one's hands,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "102"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "legs together,the head on the pool side,lying on side on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabbing ass,,kneeling",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "struggle,nipples,legs together,arms in front of chest,grabbing pool side,the head on the pool side,lying on side on the pool side,tears,terror,blush,screaming,looking at viewer,facing viewer",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "103"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leg up,the head on the pool side,lying on side on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabbing leg,kneeling",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing pool side,the head on the pool side,lying on side on the pool side,tears,terror,blush,screaming,looking at viewer,facing viewer",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "104"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leg up,the head on the pool side,lying on side on the pool side,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,grabbing leg,kneeling",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "struggle,nipples,leg up,arms in front of chest,grabbing pool side,the head on the pool side,lying on side on the pool side,tears,terror,blush,screaming,looking at another,facing another,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "105"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "the head on the pool side,lying on side on the pool side,looking away,facing down,both hands against pool side,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "16",
+      "seed_id": "106"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov,lying on the pool side,penis touching girl's pussy,imminent penetration,no hands",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,Put own hands forward,Placing both hands on the another's body,nipples,breasts,looking own crotch,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "107"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov,lying on the pool side,penetrating,no hands",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,Put own hands forward,Placing both hands on the another's body,screaming,nipples,breasts,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "108"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from side,side shot side view",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the pool side,penetrating,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "leaning forward,m legs,Put own hands forwardPlacing both hands on the another's body,nipples,breasts,looking at viewer,facing down,character focus,crying,tear,sad,heavy breath,ohogao,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "109"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from side,side shot side view",
+        "play": "1 girl,cowgirl position,leaning back,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the pool side,penetrating,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,Put own hands behind,Placing both hands on the another's body,nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "110"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,pussy focus,straight-on,",
+        "play": "1 girl,cowgirl position,leaning back,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,povlying on the pool side,penetrating,no hands",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "m legs,Put own hands behindPlacing both hands on the another's body,nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "111"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,ass focus,from behind,",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
+        "girlAction": "Placing both hands on the another's body,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the pool side,penetrating,grabbing ass,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "nipples,breasts,looking back,facing down,character focus,crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "112"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,ass focus,from behind,",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nipples",
+        "girlAction": "Placing both hands on the another's body,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,lying on the pool side,penetrating,grabbing ass,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "shoulder peek,screaming,leaning forward,nipples,breasts,looking back,facing down,character focus,crying,tear,sad,heavy breath,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "113"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,pussy focus,straight-on,",
+        "play": "1 girl,cowgirl position,leaning back,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,dripping semen,nipples",
+        "girlAction": "m legs,Put own hands behindPlacing both hands on the another's body,",
+        "male": "completely nude man,povlying on the pool side,penis,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "nipples,breasts,looking ahead,facing up,character focus,crying,tear,sad,heavy breath,tired",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "114"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,reverse upright straddle,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning back,natural body curve,sitting on the boy,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,imminent penetration,grabbing thigh,sitting on the pool side",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,surprising,covering own mouth",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "118"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,reverse upright straddle,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning back,natural body curve,sitting on the boy,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,hugging,sitting on the pool side",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "119"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,straight-on",
+        "play": "1 girl,reverse upright straddle,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "leaning back,natural body curve,sitting on the boy,legs together,closing legs",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,hugging,sitting on the pool side",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "struggle,looking at viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "120"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
+        "play": "1 girl,reverse suspended congress,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nippels",
+        "girlAction": "leaning back,m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,holding up girl,stand up,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "127"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
+        "play": "1 girl,reverse suspended congress,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nippels",
+        "girlAction": "leaning back,v legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,holding up girl,stand up,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "128"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,man partially visible,from front,feet out of frame,",
+        "play": "1 girl,full nelson,",
+        "girl": "focus on girl,girl focus,main subject girl,top of head,nippels",
+        "girlAction": "leaning back,v legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,penetrating,holding up girl,stand up,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "looking at viewer,facing viewer,dripping semen,forsed orgasm,squirting,penetrated,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "129"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,cowboy shot,focus on girl,main subject,portrait,close-up,from front,feet out of frame,",
+        "play": "1 girl,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "looking at viewer,facing viewer,leaning back,m legs,dripping semen,forsed orgasm,squirting,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,holding up girl,grabbing girl's legs,stand up,",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "131"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from below",
+        "play": "1 girl,solo,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,feet out of frame,nipples",
+        "girlAction": "looking at viewer,facing viewer,leaning back,m legs,dripping semen,crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "132"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,from behind,facial,ass focus,",
+        "play": "1 girl,solo,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the pool side,The body is facing the pool side,top-down bottom-up.,the head put on the pool side,looking back,facing back,leaning forward,all fours,dripping semen,grabbing pool side,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "133"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,face between the legs,from below,feet out of frame,",
+        "play": "1 girl,solo,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "Squinting,nipples,breasts,The chin is touching the pool side,The body is facing the pool side,top-down bottom-up.,the head put on the pool side,looking back,facing back,leaning forward,all fours,dripping semen,crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "134"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,from behind,",
+        "play": "1 girl,solo,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "wariza,ass focus,Squinting,looking back,facing back,dripping semen,tired,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "135"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,from above,",
+        "play": "1 girl,solo,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "wariza,face focus,Squinting,upward gaze,dripping semen,tired,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "0",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "136"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,breast focus,dutch-angle,full bosy shot,from above,",
+        "play": "1 girl,solo,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "the head on the pool side,lying on back on the pool side,tired,heavy breath,tears,blush,Throw up one's hands,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "137"
+    },
+    {
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,breast focus,dutch-angle,full bosy shot,from above,",
+        "play": "1 girl,solo,after sex,",
+        "girl": "focus on girl,girl focus,main subject girl,nipples",
+        "girlAction": "facial,bukkake,empty eyes,the head on the pool side,lying on back on the pool side,tired,heavy breath,tears,blush,Throw up one's hands,m legs,",
+        "male": "",
+        "bgBase": "rei no pool,soft natural window light entering from the side,few furniture",
+        "bgTop": "",
+        "bgBottom": "0"
+      },
+      "charaVariable": {
+        "girlTop": ",",
+        "girlBottom": ",",
+        "girlUnder": "2",
+        "girlAction": "",
+        "clothesStatus": "open clothes,pull up bra,"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "6",
+      "seed_id": "138"
+    }
+  ],
   "ベッドルーム": [
     {
       "base": {

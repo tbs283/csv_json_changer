@@ -75,7 +75,6 @@ def convert_row(row):
             "girlAction": row["girlAction_c"],
             "clothesStatus": row["clothesStatus"],
         },
-
         "上下フラグ": row.get("上下フラグ", "3"),
         "キャラヘッダフラグ": row.get("キャラヘッダフラグ", "1"),
         "縦横比": row.get("縦横比", "1"),
