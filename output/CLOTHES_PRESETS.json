@@ -23,7 +23,7 @@
   },
   "ネグリジェ": {
     "girlBaseClothes": "",
-    "girlHead": "",
+    "girlHead": "white cat ear,",
     "girlTop": "lace negligee with white frilles,white negligee,",
     "girlBottom": "white thongs,",
     "girlUnder": "",
@@ -41,6 +41,17 @@
     "panties": "",
     "bra": "",
     "clothesStatus": "",
+    "characterOnly": ""
+  },
+  "スク水": {
+    "girlBaseClothes": "school swimsuit, navy blue swimsuit",
+    "girlHead": "ponytail,",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "2",
     "characterOnly": ""
   },
   "toloveる制服": {
@@ -66,9 +77,9 @@
     "characterOnly": "\"ごちうさ/チノ\",\"ごちうさ/メグ\",\"ごちうさ/マヤ\""
   },
   "ごちうさ千夜着物": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "green kimono,",
     "girlHead": "",
-    "girlTop": "green kimono,white apron,",
+    "girlTop": "white apron,",
     "girlBottom": "",
     "girlUnder": "brown boots,",
     "panties": "pink panties,",
@@ -77,9 +88,9 @@
     "characterOnly": "\"ごちうさ/千夜\""
   },
   "マイクロビキニ": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
     "girlHead": "",
-    "girlTop": "simple micro bikini,white bikini,very small bikini,",
+    "girlTop": "bikini bra",
     "girlBottom": "simple bikini panties,white bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
