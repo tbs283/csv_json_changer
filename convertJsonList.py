@@ -69,9 +69,9 @@ def convert_row(row):
         },
 
         "charaVariable": {
-            "girlTop": row["girlTop_c"],
-            "girlBottom": row["girlBottom_c"],
-            "girlUnder": row["girlUnder_c"],
+            "girlTop": "",
+            "girlBottom": "",
+            "girlUnder": "",
             "girlAction": row["girlAction_c"],
             "clothesStatus": row["clothesStatus"],
         },
