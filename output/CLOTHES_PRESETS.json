@@ -504,5 +504,16 @@
     "bra": "completely nude,",
     "clothesStatus": "2",
     "characterOnly": ""
+  },
+  "SAOユウキ": {
+    "girlBaseClothes": "broken armor",
+    "girlHead": "",
+    "girlTop": "chest armor,black tops,purple sleeves,",
+    "girlBottom": "purple skirt,black thigh-high socks,",
+    "girlUnder": "black thigh-high socks,",
+    "panties": "white panties",
+    "bra": "",
+    "clothesStatus": "3",
+    "characterOnly": "\"SAO/ユウキ\""
   }
 }
