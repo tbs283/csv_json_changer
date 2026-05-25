@@ -566,8 +566,8 @@
     "girlTop": "white cape,black tops,",
     "girlBottom": "black skirt,white belt",
     "girlUnder": "white boots",
-    "panties": "",
-    "bra": "",
+    "panties": "white panties",
+    "bra": "white bra",
     "clothesStatus": "0",
     "characterOnly": "\"鬼滅の刃/栗花落カナヲ\""
   }
