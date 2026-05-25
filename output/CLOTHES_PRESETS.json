@@ -570,5 +570,27 @@
     "bra": "white bra",
     "clothesStatus": "0",
     "characterOnly": "\"鬼滅の刃/栗花落カナヲ\""
+  },
+  "無職転生ロキシー": {
+    "girlBaseClothes": "",
+    "girlHead": "witch hat",
+    "girlTop": "beige coat,black tops",
+    "girlBottom": "white skirt,thigh-high boots",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0",
+    "characterOnly": "\"無職転生/ロキシー\""
+  },
+  "無職転生エリス": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "beige cape,beige tops",
+    "girlBottom": "black pants",
+    "girlUnder": "brown shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesStatus": "0",
+    "characterOnly": "\"無職転生/エリス\""
   }
 }
