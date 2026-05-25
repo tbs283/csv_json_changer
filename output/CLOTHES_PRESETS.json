@@ -559,5 +559,16 @@
     "bra": "",
     "clothesStatus": "4",
     "characterOnly": "\"SAO/アスナ\""
+  },
+  "鬼滅の刃カナヲ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "white cape,black tops,",
+    "girlBottom": "black skirt,white belt",
+    "girlUnder": "white boots",
+    "panties": "",
+    "bra": "",
+    "clothesStatus": "0",
+    "characterOnly": "\"鬼滅の刃/栗花落カナヲ\""
   }
 }

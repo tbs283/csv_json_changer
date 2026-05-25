@@ -1331,7 +1331,7 @@
     "鬼滅の刃/栗花落カナヲ": {
         "prompt": "tsuyuri kanao,kimetsu no yaiba, ",
         "tag": ["鬼滅の刃"],
-        "defaultClothes": ""
+        "defaultClothes": "鬼滅の刃カナヲ"
     },
     "鬼滅の刃/胡蝶忍": {
         "prompt": "kochou shinobu,kimetsu no yaiba, ",
