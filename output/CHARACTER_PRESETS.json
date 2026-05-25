@@ -286,12 +286,12 @@
     "ウマ娘/デュランダル": {
         "prompt": "durandal (umamusume), umamusume,ear, tails,",
         "tag": ["ウマ娘","通常衣装"],
-        "defaultClothes": ""
+        "defaultClothes": "デュランダル勝負服"
     },
     "ウマ娘/シュヴァルグラン": {
         "prompt": "cheval grand (umamusume),umamusume,ear, tails,",
         "tag": ["ウマ娘","通常衣装"],
-        "defaultClothes": ""
+        "defaultClothes": "シュヴァルグラン勝負服"
     },
     "ウマ娘/スペシャルウィーク": {
         "prompt": "special week (umamusume), umamusume, ear, tails,",
@@ -756,37 +756,37 @@
     "よう実/一之瀬": {
         "prompt": "ichinose honami (youjitsu), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],
-        "defaultClothes": ""
+        "defaultClothes": "よう実一之瀬制服"
     },
     "よう実/七瀬": {
         "prompt": "nanase tsubasa, youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],
-        "defaultClothes": ""
+        "defaultClothes": "よう実七瀬制服"
     },
     "よう実/ひより": {
         "prompt": "shiina hiyori, youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],
-        "defaultClothes": ""
+        "defaultClothes": "よう実ひより制服"
     },
     "よう実/堀北": {
         "prompt": "horikita suzune (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],
-        "defaultClothes": ""
+        "defaultClothes": "よう実堀北制服"
     },
     "よう実/櫛田": {
         "prompt": "kushida kikyou (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],
-        "defaultClothes": ""
+        "defaultClothes": "よう実櫛田制服"
     },
     "よう実/軽井沢": {
         "prompt": "karuizawa kei (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],
-        "defaultClothes": ""
+        "defaultClothes": "よう実軽井沢制服"
     },
     "よう実/坂柳": {
         "prompt": "sakayanagi arisu (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],
-        "defaultClothes": ""
+        "defaultClothes": "よう実坂柳制服"
     },
     "五等分の花嫁/中野一花": {
         "prompt": "nakano ichika (anime), go-toubun no hanayome, ",
@@ -1517,5 +1517,10 @@
         "prompt": "shirahama minami (anime),kuroiwa medaka ni watashi no kawaii ga tsuujinai, ",
         "tag": ["めだかわ"],
         "defaultClothes": ""
+    },
+    "プリヤ/美遊": {
+        "prompt": "miyu edelfelt, prisma illya, ",
+        "tag": ["プリヤ"],
+        "defaultClothes": "美遊制服"
     }
 }
