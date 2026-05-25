@@ -1,15 +1,15 @@
 ﻿{
   "廃墟": [
     {
-      "title": "疲労困憊(座)",
+      "title": "迷子",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "close-up, portrait, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
         "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "sitting on ground, knees hugged to chest, arms wrapped around knees, back against wall, cornered position, slumped posture, exhausted, tired eyes, heavy breathing, sweat, worn out,",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
         "male": "",
         "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
         "bgTop": "",
@@ -24,20 +24,20 @@
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "2",
-      "seed_id": "157"
+      "seed_id": "143"
     },
     {
-      "title": "疲労困憊(立)",
+      "title": "迷子",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,close-up, portrait, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
         "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "standing,leaning forward, one hand on wall, leaning against wall, body weight supported by arm, slouched posture, head lowered,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
         "male": "",
         "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
         "bgTop": "",
@@ -53,19 +53,19 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "3",
-      "seed_id": "158"
+      "clothesFlg": "2",
+      "seed_id": "207"
     },
     {
-      "title": "疲労困憊(尻)",
+      "title": "迷子",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
         "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "standing,leaning forward, one hand on wall, leaning against wall, body weight supported by arm, slouched posture, head lowered,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
         "male": "",
         "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
         "bgTop": "",
@@ -81,36 +81,8 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "3",
-      "seed_id": "159"
-    },
-    {
-      "title": "疲労困憊(膝附)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,close-up, portrait, upper body, focus on face, from front",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "kneeling on one knee, other foot on ground, one knee on ground, slumped posture, leaning forward slightly,hands on the knee,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
-        "male": "",
-        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
-        "bgTop": "",
-        "bgBottom": "debris on the floor,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "1",
-      "clothesFlg": "3",
-      "seed_id": "160"
+      "clothesFlg": "2",
+      "seed_id": "208"
     },
     {
       "title": "痴漢(立)(口抑え)",
@@ -3647,15 +3619,15 @@
 ,
   "森": [
     {
-      "title": "疲労困憊(座)",
+      "title": "迷子",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "close-up, portrait, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
         "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "sitting on ground, knees hugged to chest, arms wrapped around knees, back against tree, cornered position, slumped posture, exhausted, tired eyes, heavy breathing, sweat, worn out,",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
         "male": "",
         "bgBase": "dark forest,night,",
         "bgTop": "misty night air,",
@@ -3670,20 +3642,20 @@
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
-      "縦横比": "1",
+      "縦横比": "3",
       "clothesFlg": "2",
-      "seed_id": "157"
+      "seed_id": "143"
     },
     {
-      "title": "疲労困憊(立)",
+      "title": "迷子",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,close-up, portrait, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
         "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "standing,leaning forward, one hand on tree, leaning against tree, body weight supported by arm, slouched posture, head lowered,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
         "male": "",
         "bgBase": "dark forest,night,",
         "bgTop": "misty night air,",
@@ -3699,19 +3671,19 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "3",
-      "seed_id": "158"
+      "clothesFlg": "2",
+      "seed_id": "207"
     },
     {
-      "title": "疲労困憊(尻)",
+      "title": "迷子",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
         "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "standing,leaning forward, one hand on tree, leaning against tree, body weight supported by arm, slouched posture, head lowered,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
         "male": "",
         "bgBase": "dark forest,night,",
         "bgTop": "misty night air,",
@@ -3727,36 +3699,8 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "3",
-      "seed_id": "159"
-    },
-    {
-      "title": "疲労困憊(膝附)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,close-up, portrait, upper body, focus on face, from front",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "kneeling on one knee, other foot on ground, one knee on ground, slumped posture, leaning forward slightly,hands on the knee,  exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
-        "male": "",
-        "bgBase": "dark forest,night,",
-        "bgTop": "misty night air,",
-        "bgBottom": "overgrown underbrush, uneven forest floor,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "1",
-      "clothesFlg": "3",
-      "seed_id": "160"
+      "clothesFlg": "2",
+      "seed_id": "208"
     },
     {
       "title": "痴漢(立)(口抑え)",
