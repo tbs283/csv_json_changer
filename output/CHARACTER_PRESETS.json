@@ -946,12 +946,12 @@
     "無職転生/ロキシー": {
         "prompt": "roxy migurdia, mushoku tensei,",
         "tag": ["無職転生", "ロリ"],
-        "defaultClothes": ""
+        "defaultClothes": "無職転生ロキシー"
     },
     "無職転生/エリス": {
         "prompt": "eris greyrat,mushoku tensei,",
         "tag": ["無職転生"],
-        "defaultClothes": ""
+        "defaultClothes": "無職転生エリス"
     },
     "無職転生/エリス(ロリ)": {
         "prompt": "eris greyrat,mushoku tensei,loli",
