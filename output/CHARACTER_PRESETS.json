@@ -866,37 +866,37 @@
     "ごちうさ/千夜": {
         "prompt": "ujimatsu chiya (anime), gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ"],
-        "defaultClothes": "ごちうさ千夜着物"
+        "defaultClothes": "ごちうさ_チヤ_ラビットハウス"
     },
     "ごちうさ/ココア": {
         "prompt": "hoto cocoa, gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ"],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ_ココア_ラビットハウス"
     },
     "ごちうさ/チノ": {
         "prompt": "kafu chino (anime), gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ", "ロリ"],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ_チノ_ラビットハウス"
     },
     "ごちうさ/リゼ": {
         "prompt": "tedeza rize (anime), gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ"],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ_リゼ_ラビットハウス"
     },
     "ごちうさ/シャロ": {
         "prompt": "kirima sharo (anime), gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ"],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ_シャロ_ラビットハウス"
     },
     "ごちうさ/メグ": {
         "prompt": "natsu megumi, gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ", "ロリ"],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ_メグ_ラビットハウス"
     },
     "ごちうさ/マヤ": {
         "prompt": "jouga maya (anime), gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ", "ロリ"],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ_マヤ_ラビットハウス"
     },
     "ごちうさ/青山(ボブ)": {
         "prompt": "aoyama blue mountain, bob hair,gochuumon wa usagi desu ka?,",
@@ -906,7 +906,12 @@
     "ごちうさ/青山(ポニテ)": {
         "prompt": "aoyama blue mountain, bob hair,gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ"],
-        "defaultClothes": ""
+        "defaultClothes": "ごちうさ_青山_ラビットハウス"
+    },
+    "ごちうさ/モカ": {
+        "prompt": "hoto mocha,gochuumon wa usagi desu ka?,",
+        "tag": ["ごちうさ"],
+        "defaultClothes": "ごちうさ_ココア_ラビットハウス"
     },
     "推しの子/あかね": {
         "prompt": "kurokawa akane (anime), oshi no ko,",
