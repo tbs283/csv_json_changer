@@ -17756,6 +17756,122 @@
 ,
   "カフェ": [
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, holding a brown menu against her chest, looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": ""
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from side",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, guiding customer to a seat with her hand, open palm gesture, welcoming pose,holding a brown menu,looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": ""
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "cowboy shot, portrait, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, guiding customer to a seat with her hand, open palm gesture, welcoming pose,holding a brown menu,looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": ""
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back, surprising,waitress girl, holding a brown menu against her chest, looking at viewer,standing,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": ""
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
