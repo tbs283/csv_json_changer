@@ -2,7 +2,7 @@
     "ウマ娘/ライスシャワー": {
         "prompt": "rice shower (umamusume), umamusume,short girl,ear, tails,",
         "tag": ["ウマ娘", "ロリ","通常衣装"],
-        "defaultClothes": ""},
+        "defaultClothes": "ライスシャワー勝負服"},
     "ウマ娘/ハロライス": {
         "prompt": "rice shower (make up vampire!) (umamusume), umamusume, ear, tails,short girl,",
         "tag": ["ウマ娘", "ロリ"],
