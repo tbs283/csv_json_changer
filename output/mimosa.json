@@ -20076,4 +20076,36 @@
       "seed_id": "138"
     }
   ]
+,
+  "屋外プール": [
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "girl playing in an outdoor pool, cheerful smile, wet skin,  playful pose,  lively expression,",
+        "male": "",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": ""
+    }
+  ]
 }
