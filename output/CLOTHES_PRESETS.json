@@ -224,7 +224,7 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"五等分の花嫁/中野三玖\""
   },
   "四葉制服": {
@@ -296,7 +296,7 @@
     "panties": "",
     "bra": "white bra,",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"ごちうさ/ココア\",\"ごちうさ/モカ\""
   },
   "ごちうさ_リゼ_ラビットハウス": {
@@ -308,7 +308,7 @@
     "panties": "",
     "bra": "white bra,",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"ごちうさ/リゼ\""
   },
   "ごちうさ_チヤ_ラビットハウス": {
@@ -320,7 +320,7 @@
     "panties": "",
     "bra": "white bra,",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"ごちうさ/千夜\""
   },
   "ごちうさ_シャロ_ラビットハウス": {
@@ -332,7 +332,7 @@
     "panties": "",
     "bra": "white bra,",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"ごちうさ/シャロ\""
   },
   "ごちうさ_メグ_ラビットハウス": {
@@ -368,7 +368,7 @@
     "panties": "",
     "bra": "white bra,",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"ごちうさ/青山\""
   },
   "リーリヤ制服": {
@@ -392,7 +392,7 @@
     "panties": "",
     "bra": "pink bra",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"学マス/莉波\""
   },
   "美鈴制服": {
@@ -656,7 +656,7 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"よう実/ひより\""
   },
   "よう実一之瀬制服": {
