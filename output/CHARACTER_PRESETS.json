@@ -753,6 +753,56 @@
         "tag": ["Blue Archive","ブルアカ","アビドス"],
         "defaultClothes": ""
     },
+    "Blue Archive/チセ": {
+        "prompt": "chise (blue archive),halo,",
+        "tag": ["Blue Archive","ブルアカ","百鬼夜行"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/チセ(水着)": {
+        "prompt": "chise (swimsuit) (blue archive), halo,",
+        "tag": ["Blue Archive","ブルアカ","百鬼夜行"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/ミモリ": {
+        "prompt": "mimori (blue archive), halo,",
+        "tag": ["Blue Archive","ブルアカ","百鬼夜行"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/ミモリ(水着)": {
+        "prompt": "mimori (swimsuit) (blue archive), halo,",
+        "tag": ["Blue Archive","ブルアカ","百鬼夜行"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/イズナ": {
+        "prompt": "izuna (blue archive), tail,halo,",
+        "tag": ["Blue Archive","ブルアカ","百鬼夜行"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/イズナ(水着)": {
+        "prompt": "izuna (swimsuit) (blue archive), tail,halo,",
+        "tag": ["Blue Archive","ブルアカ","百鬼夜行"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/キサキ": {
+        "prompt": "kisaki (blue archive),halo,",
+        "tag": ["Blue Archive","ブルアカ","山海経"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/ミヤコ": {
+        "prompt": "miyako (blue archive),halo,",
+        "tag": ["Blue Archive","ブルアカ","SRT"],
+        "defaultClothes": ""
+    },
+    "Blue Archive/ミヤコ(水着)": {
+        "prompt": "miyako (swimsuit) (blue archive), halo,",
+        "tag": ["Blue Archive","ブルアカ","SRT"],
+        "defaultClothes": "ブルアカ水着ミヤコ"
+    },
+    "Blue Archive/ニコ": {
+        "prompt": "niko (blue archive), fox ears,halo,",
+        "tag": ["Blue Archive","ブルアカ","SRT"],
+        "defaultClothes": ""
+    },
     "よう実/一之瀬": {
         "prompt": "ichinose honami (youjitsu), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": ["よう実"],

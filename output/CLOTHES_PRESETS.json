@@ -646,5 +646,17 @@
     "clothesTopStatus": "6",
     "clothesBottomStatus": "",
     "characterOnly": "\"無職転生/エリス\""
+  },
+  "ブルアカ水着ミヤコ": {
+    "girlBaseClothes": "school swimsuit, navy blue swimsuit",
+    "girlHead": "ponytail,",
+    "girlTop": "white coller",
+    "girlBottom": "",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "5",
+    "clothesBottomStatus": "2",
+    "characterOnly": "\"Blue Archive/ミヤコ(水着)\""
   }
 }
