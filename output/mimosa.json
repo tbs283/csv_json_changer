@@ -20106,6 +20106,383 @@
       "縦横比": "3",
       "clothesFlg": "1",
       "seed_id": ""
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,from behind,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,leaning forward,",
+        "girlAction": "against  pool side edge, looking back,facing back, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "male": "",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "67"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side view,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  pool side edge, looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "68"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from side,side view,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  pool side edge, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "69"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from behind,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  pool side edge, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "70"
+    },
+    {
+      "title": "立バック(足上げ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,from behind,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing,grabbing leg,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "against  pool side edge,leg up, looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "71"
+    },
+    {
+      "title": "立バック(腕掴み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "72"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "73"
+    },
+    {
+      "title": "立バック(腕掴み横)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "74"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "sex from behind,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing, grabbing breasts,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "75"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "sex from behind,",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing, grabbing breasts,",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead, leaning forward,dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "76"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing, hugging from behind",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking back,facing ahead, leaning forward,dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "77"
+    },
+    {
+      "title": "立バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle,from front,straight-on,",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "simple man,no face,no detail man,no hair, penetrating,standing, hugging from behind",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "78"
+    },
+    {
+      "title": "立バック(胸部フォーカス)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,boy partially visible,dutch-angle, upper body, torso focus, cropped head, head out of frame, neck down, from shoulders to waist, body focus, from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "standing,hugging from behind",
+        "bgBase": "outdoor pool,summer atmosphere,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,bright sunlight,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "facing viewer,struggling,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "79"
     }
   ]
 }
