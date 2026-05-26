@@ -898,13 +898,8 @@
         "tag": ["ごちうさ", "ロリ"],
         "defaultClothes": "ごちうさ_マヤ_ラビットハウス"
     },
-    "ごちうさ/青山(ボブ)": {
-        "prompt": "aoyama blue mountain, bob hair,gochuumon wa usagi desu ka?,",
-        "tag": ["ごちうさ"],
-        "defaultClothes": ""
-    },
-    "ごちうさ/青山(ポニテ)": {
-        "prompt": "aoyama blue mountain, bob hair,gochuumon wa usagi desu ka?,",
+    "ごちうさ/青山": {
+        "prompt": "aoyama blue mountain, gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ"],
         "defaultClothes": "ごちうさ_青山_ラビットハウス"
     },
