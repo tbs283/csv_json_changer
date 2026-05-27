@@ -696,7 +696,7 @@
     "characterOnly": "\"よう実/七瀬\""
   },
   "よう実ジャージ半袖": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "gym uniform, wet body,dirty clothes,",
     "girlHead": "",
     "girlTop": "white short-sleeved gym shirt with red collar,",
     "girlBottom": "red track pants,",
