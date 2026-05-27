@@ -906,7 +906,7 @@
     "ごちうさ/モカ": {
         "prompt": "hoto mocha,gochuumon wa usagi desu ka?,",
         "tag": ["ごちうさ"],
-        "defaultClothes": "ごちうさ_ココア_ラビットハウス"
+        "defaultClothes": "ごちうさ_モカ_ラビットハウス"
     },
     "推しの子/あかね": {
         "prompt": "kurokawa akane (anime), oshi no ko,",

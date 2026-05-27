@@ -695,6 +695,18 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"よう実/七瀬\""
   },
+  "よう実ジャージ半袖": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "white short-sleeved gym shirt with red collar,",
+    "girlBottom": "red track pants,",
+    "girlUnder": "white sneakers",
+    "panties": "white panties,",
+    "bra": "white bra,",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"よう実/一之瀬\",\"よう実/七瀬\",\"よう実/ひより\",\"よう実/堀北\",\"よう実/櫛田\",\"よう実/軽井沢\",\"よう実/坂柳\""
+  },
   "SAOユウキ": {
     "girlBaseClothes": "",
     "girlHead": "",
