@@ -251,6 +251,18 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"五等分の花嫁/中野五月\""
   },
+  "二乃全裸": {
+    "girlBaseClothes": "",
+    "girlHead": "hair ribbon,bob hair",
+    "girlTop": "completely nude,",
+    "girlBottom": "completely nude,",
+    "girlUnder": "completely nude,",
+    "panties": "completely nude,",
+    "bra": "completely nude,",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": "\"五等分の花嫁/中野二乃\""
+  },
   "ごちうさ制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
@@ -764,7 +776,7 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "6",
-    "clothesBottomStatus": "",
+    "clothesBottomStatus": "4",
     "characterOnly": "\"無職転生/エリス\""
   },
   "ブルアカ水着ミヤコ": {
