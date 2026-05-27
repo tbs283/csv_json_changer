@@ -297,7 +297,7 @@
     "bra": "white bra,",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "3",
-    "characterOnly": "\"ごちうさ/ココア\",\"ごちうさ/モカ\""
+    "characterOnly": "\"ごちうさ/ココア\""
   },
   "ごちうさ_リゼ_ラビットハウス": {
     "girlBaseClothes": "waitress",
@@ -325,7 +325,7 @@
   },
   "ごちうさ_シャロ_ラビットハウス": {
     "girlBaseClothes": "waitress",
-    "girlHead": "",
+    "girlHead": "black hair ribbon,",
     "girlTop": "orange ribbon tie,yellow vest,white shirt,",
     "girlBottom": "black skirt,black tights,",
     "girlUnder": "black boots,",
@@ -370,6 +370,18 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "3",
     "characterOnly": "\"ごちうさ/青山\""
+  },
+  "ごちうさ_モカ_ラビットハウス": {
+    "girlBaseClothes": "waitress",
+    "girlHead": "no tied hair",
+    "girlTop": "red ribbon tie,pink vest,white shirt,",
+    "girlBottom": "black skirt,black tights,",
+    "girlUnder": "black boots,",
+    "panties": "",
+    "bra": "white bra,",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "3",
+    "characterOnly": "\"ごちうさ/モカ\""
   },
   "リーリヤ制服": {
     "girlBaseClothes": "school uniform,",
