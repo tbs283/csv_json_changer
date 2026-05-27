@@ -6127,7 +6127,7 @@
     }
   ]
 ,
-  "森2": [
+  "森(着衣)": [
     {
       "title": "迷子",
       "base": {
@@ -7780,6 +7780,325 @@
       "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "106"
+    },
+    {
+      "title": "騎乗位(挿入前)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,straight-on",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,pov, lying on the ground,penis touching girl's pussy,imminent penetration,no hands",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands forward, Placing both hands on the another's body, nipples,breasts, looking own crotch,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "107"
+    },
+    {
+      "title": "騎乗位(前かがみ正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,straight-on",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,pov, lying on the ground,penetrating,no hands",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands forward, Placing both hands on the another's body, screaming, nipples,breasts, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "108"
+    },
+    {
+      "title": "騎乗位(前かがみ側面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,side shot side view",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,simple man,no face,no detail man,no hair, lying on the ground,penetrating,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "leaning forward,m legs,Put own hands forward Placing both hands on the another's body, nipples,breasts, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "109"
+    },
+    {
+      "title": "騎乗位(後ろ側面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,side shot side view",
+        "play": "1 girl,cowgirl position,leaning back,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,simple man,no face,no detail man,no hair, lying on the ground,penetrating,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands behind, Placing both hands on the another's body, nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "110"
+    },
+    {
+      "title": "騎乗位(後ろ正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,pussy focus,straight-on,",
+        "play": "1 girl,cowgirl position,leaning back,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,pov lying on the ground,penetrating,no hands",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands behind Placing both hands on the another's body, nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "111"
+    },
+    {
+      "title": "騎乗位(尻)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "Placing both hands on the another's body,",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,simple man,no face,no detail man,no hair,  lying on the ground,penetrating,grabbing ass,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "nipples,breasts, looking back,facing down,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "112"
+    },
+    {
+      "title": "騎乗位(尻)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "Placing both hands on the another's body,",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,simple man,no face,no detail man,no hair,  lying on the ground,penetrating,grabbing ass,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "shoulder peek,screaming, leaning forward, nipples,breasts, looking back,facing down,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "113"
+    },
+    {
+      "title": "騎乗位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,pussy focus,straight-on,",
+        "play": "1 girl,cowgirl position,leaning back,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,dripping semen,nipples",
+        "girlAction": "m legs,Put own hands behind Placing both hands on the another's body,",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,pov lying on the ground,penis,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,tired",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "114"
+    },
+    {
+      "title": "対面駅弁(suspended congress)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "m legs,",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "124"
+    },
+    {
+      "title": "対面駅弁(suspended congress)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "m legs,",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "ass focus looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "125"
+    },
+    {
+      "title": "対面駅弁(suspended congress)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "hugging,m legs,",
+        "male": "boywhite short-sleeved gym shirt with red collar,red track pants,long pants,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "ass focus looking ahead,facing ahead, breast press, dripping semen,forsed orgasm,squirting, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "126"
     },
     {
       "title": "背面駅弁",
