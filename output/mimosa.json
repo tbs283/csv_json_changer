@@ -30,6 +30,64 @@
       "seed_id": "143"
     },
     {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "207"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "208"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -3719,6 +3777,64 @@
       "seed_id": "143"
     },
     {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "207"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "208"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -4239,6 +4355,93 @@
       "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "35"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "face focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,man pov,no detail man, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "3",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "172"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,side shot,side view,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "173"
+    },
+    {
+      "title": "四つん這いフェラ(後ろから)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "ass focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from behind,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead, tears, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "174"
     },
     {
       "title": "パイズリ",
@@ -5953,6 +6156,64 @@
       "縦横比": "3",
       "clothesFlg": "2",
       "seed_id": "143"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "207"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "208"
     },
     {
       "title": "痴漢(立)(口抑え)",
@@ -7785,6 +8046,64 @@
       "seed_id": "143"
     },
     {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "207"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "208"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -9615,11 +9934,214 @@
 ,
   "ラブホ": [
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from front,straight-on",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, crotch",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "201"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from side",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, thigh",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "202"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, hip",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "203"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from front,straight-on",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, crotch",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "204"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from side",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, thigh",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "205"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, hip",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "pink wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "206"
+    },
+    {
       "title": "M字開脚",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "pink sheets,pink pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "144"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
         "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
         "play": "girl,solo",
         "girl": "focus on girl, girl focus,main subject girl,",
@@ -11564,6 +12086,93 @@
   ]
 ,
   "温泉": [
+    {
+      "title": "ノーマル",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up, dutch-angle,from side,face focus,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "sitting on bath edge,  feet near water surface, hands on the knee, leaning forward, sideways glance at viewer",
+        "male": "",
+        "bgBase": "outdoor,onsen, natural hot spring pool,surrounding autumn foliage,",
+        "bgTop": "smooth stone bath edges,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgBottom": "hot spring poolside"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "8",
+      "seed_id": "145"
+    },
+    {
+      "title": "ノーマル温泉",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up, upper body shot,",
+        "play": "girl,solo",
+        "girl": "girl, cropped torso",
+        "girlAction": "blush,curious expression,soaking in hot spring water,water level up to chest,",
+        "male": "",
+        "bgBase": "outdoor,onsen, natural hot spring pool,surrounding autumn foliage,",
+        "bgTop": "smooth stone bath edges,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgBottom": "hot spring poolside"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "1",
+      "seed_id": "146"
+    },
+    {
+      "title": "ノーマル温泉後ろ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up, upper body shot,from behind",
+        "play": "girl,solo",
+        "girl": "girl, cropped torso",
+        "girlAction": "blush,surprised,soaking in hot spring water,water level up to chest,leaning back,looking back",
+        "male": "",
+        "bgBase": "outdoor,onsen, natural hot spring pool,surrounding autumn foliage,",
+        "bgTop": "smooth stone bath edges,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgBottom": "hot spring poolside"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "1",
+      "seed_id": "147"
+    },
     {
       "title": "痴漢(立)(口抑え)",
       "base": {
@@ -13548,6 +14157,209 @@
       "seed_id": "144"
     },
     {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the floor, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "144"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from front,straight-on",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, crotch",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "woody wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "201"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from side",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, thigh",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "woody wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "202"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, hip",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "woody wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "203"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from front,straight-on",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, crotch",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "woody wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "204"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from side",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, thigh",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "woody wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "205"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, hip",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "woody wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "206"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -14068,6 +14880,93 @@
       "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "35"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "face focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,man pov,no detail man, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "3",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "172"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,side shot,side view,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "173"
+    },
+    {
+      "title": "四つん這いフェラ(後ろから)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "ass focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from behind,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead, tears, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "174"
     },
     {
       "title": "またがった状態でのパイズリ",
@@ -17817,6 +18716,122 @@
 ,
   "カフェ": [
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, holding a brown menu against her chest, looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": "209"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from side",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, guiding customer to a seat with her hand, open palm gesture, welcoming pose,holding a brown menu,looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": "210"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "cowboy shot, portrait, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, guiding customer to a seat with her hand, open palm gesture, welcoming pose,holding a brown menu,looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": "211"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back, surprising,waitress girl, holding a brown menu against her chest, looking at viewer,standing,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": "212"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -18337,6 +19352,93 @@
       "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "35"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "face focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "business man,black pants,pov crotch,simple man,man pov,no detail man, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "cafeteria",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "3",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "172"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,side shot,side view,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "business man,black pants,pov crotch,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "cafeteria",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "173"
+    },
+    {
+      "title": "四つん這いフェラ(後ろから)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "ass focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from behind,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "cafeteria",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead, tears, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "174"
     },
     {
       "title": "パイズリ",
@@ -19966,6 +21068,35 @@
 ,
   "屋外プール": [
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "girl playing in an outdoor pool, splashing water, cheerful smile, wet skin, playful pose, lively expression",
+        "male": "",
+        "bgBase": "outdoor pool,splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "1",
+      "seed_id": "213"
+    },
+    {
       "title": "立バック",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -20636,11 +21767,214 @@
 ,
   "ベッドルーム": [
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from front,straight-on",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, crotch",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "201"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from side",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, thigh",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "202"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, hip",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "203"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from front,straight-on",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, crotch",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "204"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki, from side",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, thigh",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "205"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, ass focus, back view, rear view, hips",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl, hip",
+        "girlAction": "stand up",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "pull up clothes",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "10",
+      "seed_id": "206"
+    },
+    {
       "title": "M字開脚",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "144"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
         "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
         "play": "girl,solo",
         "girl": "focus on girl, girl focus,main subject girl,",
@@ -22611,6 +23945,64 @@
       "seed_id": "143"
     },
     {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "rock wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "207"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "rock wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "2",
+      "seed_id": "208"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -23131,6 +24523,93 @@
       "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "35"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "face focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,man pov,no detail man, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "3",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "172"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,side shot,side view,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "173"
+    },
+    {
+      "title": "四つん這いフェラ(後ろから)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "ass focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from behind,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead, tears, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "174"
     },
     {
       "title": "パイズリ",
@@ -24441,11 +25920,127 @@
 ,
   "援助交際①": [
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,embarrassed,sad,tears,blush,hugging own body",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed_id": "214"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,embarrassed,sad,tears,blush,pull up own skirt",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "215"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "216"
+    },
+    {
       "title": "M字開脚",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "144"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
         "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
         "play": "girl,solo",
         "girl": "focus on girl, girl focus,main subject girl,",
@@ -24763,11 +26358,127 @@
 ,
   "援助交際②": [
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,embarrassed,sad,tears,blush,hugging own body",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed_id": "214"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,embarrassed,sad,tears,blush,pull up own skirt",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "215"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "216"
+    },
+    {
       "title": "M字開脚",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "144"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
         "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
         "play": "girl,solo",
         "girl": "focus on girl, girl focus,main subject girl,",
@@ -24964,6 +26675,93 @@
       "縦横比": "3",
       "clothesFlg": "16",
       "seed_id": "35"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "face focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,man pov,no detail man, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "3",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "172"
+    },
+    {
+      "title": "四つん這いフェラ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from above,side shot,side view,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "173"
+    },
+    {
+      "title": "四つん這いフェラ(後ろから)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "ass focus,girl focus,focus on girl,main subject,portrait,close-up,man partially visible,from behind,back shot,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penis,kneeling in front of the girl,grabbing head,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead, tears, fellatio, all fours,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "174"
     },
     {
       "title": "パイズリ",
