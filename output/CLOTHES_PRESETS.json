@@ -111,10 +111,10 @@
     "girlBaseClothes": "identical black-and-white maid uniform, white frilled apron, waist apron tied at the back, consistent outfit design",
     "girlHead": "classic maid headdress",
     "girlTop": "white collar, white cuffs, puff sleeves",
-    "girlBottom": "black long dress, thigh-high socks",
+    "girlBottom": "black long dress, white thigh-high socks",
     "girlUnder": "",
-    "panties": "",
-    "bra": "",
+    "panties": "white panties",
+    "bra": "white bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": ""
@@ -814,5 +814,29 @@
     "clothesTopStatus": "5",
     "clothesBottomStatus": "2",
     "characterOnly": "\"Blue Archive/ミヤコ(水着)\""
+  },
+  "ブルアカメイドアリス": {
+    "girlBaseClothes": "identical black-and-white maid uniform, white frilled apron, waist apron tied at the back, consistent outfit design",
+    "girlHead": "classic maid headdress",
+    "girlTop": "white collar, white cuffs, puff sleeves",
+    "girlBottom": "black long dress, white tights",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"Blue Archive/アリス(メイド)\""
+  },
+  "ブルアカシロコ制服": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlTop": "navy blazer,white shirt,sky blue tie,sky blue scarf",
+    "girlBottom": "navy skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"Blue Archive/シロコ\""
   }
 }
