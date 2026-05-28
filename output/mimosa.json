@@ -2092,6 +2092,93 @@
       "seed_id": "142"
     },
     {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, from chest up,medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,embarrassed,sad,tears,blush,hugging own body",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed_id": "214"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot, from chest up,medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,embarrassed,sad,tears,blush,pull up own skirt",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "215"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,cowboy shot, from chest up,medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "216"
+    },
+    {
       "title": "痴漢(乳揉み、服の上から)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -3511,6 +3598,238 @@
       "縦横比": "1",
       "clothesFlg": "16",
       "seed_id": "106"
+    },
+    {
+      "title": "騎乗位(挿入前)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,straight-on",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov, lying on the futon,penis touching girl's pussy,imminent penetration,no hands",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands forward, Placing both hands on the another's body, nipples,breasts, looking own crotch,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "107"
+    },
+    {
+      "title": "騎乗位(前かがみ正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,straight-on",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov, lying on the futon,penetrating,no hands",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands forward, Placing both hands on the another's body, screaming, nipples,breasts, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "108"
+    },
+    {
+      "title": "騎乗位(前かがみ側面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,side shot side view",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, lying on the futon,penetrating,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "leaning forward,m legs,Put own hands forward Placing both hands on the another's body, nipples,breasts, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "109"
+    },
+    {
+      "title": "騎乗位(後ろ側面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,side shot side view",
+        "play": "1 girl,cowgirl position,leaning back,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, lying on the futon,penetrating,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands behind, Placing both hands on the another's body, nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "110"
+    },
+    {
+      "title": "騎乗位(後ろ正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,pussy focus,straight-on,",
+        "play": "1 girl,cowgirl position,leaning back,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov lying on the futon,penetrating,no hands",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs,Put own hands behind Placing both hands on the another's body, nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "111"
+    },
+    {
+      "title": "騎乗位(尻)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "Placing both hands on the another's body,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,  lying on the futon,penetrating,grabbing ass,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "nipples,breasts, looking back,facing down,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "112"
+    },
+    {
+      "title": "騎乗位(尻)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,",
+        "play": "1 girl,cowgirl position,leaning forward,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "Placing both hands on the another's body,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,  lying on the futon,penetrating,grabbing ass,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "shoulder peek,screaming, leaning forward, nipples,breasts, looking back,facing down,character focus, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "113"
+    },
+    {
+      "title": "騎乗位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,pussy focus,straight-on,",
+        "play": "1 girl,cowgirl position,leaning back,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,dripping semen,nipples",
+        "girlAction": "m legs,Put own hands behind Placing both hands on the another's body,",
+        "male": "completely nude man,pov lying on the futon,penis,",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,tired",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "114"
     },
     {
       "title": "背面駅弁",
