@@ -32426,6 +32426,35 @@
       "縦横比": "3",
       "clothesFlg": "7",
       "seed_id": "227"
+    },
+    {
+      "title": "海",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "cowboy shot, medium close-up, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "playful smile, energetic expression, running along the shoreline, playing in the sea, water droplets, dynamic pose, wind-blown hair,",
+        "male": "",
+        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "228"
     }
   ]
 }
