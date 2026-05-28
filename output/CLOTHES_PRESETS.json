@@ -107,6 +107,18 @@
     "clothesBottomStatus": "2",
     "characterOnly": ""
   },
+  "メイド": {
+    "girlBaseClothes": "identical black-and-white maid uniform, white frilled apron, waist apron tied at the back, consistent outfit design",
+    "girlHead": "classic maid headdress",
+    "girlTop": "white collar, white cuffs, puff sleeves",
+    "girlBottom": "black long dress, thigh-high socks",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": ""
+  },
   "toloveる制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
