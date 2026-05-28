@@ -263,6 +263,18 @@
     "clothesBottomStatus": "2",
     "characterOnly": "\"五等分の花嫁/中野二乃\""
   },
+  "四葉マイクロビキニ": {
+    "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
+    "girlHead": "green hair ribbon,",
+    "girlTop": "bikini bra",
+    "girlBottom": "simple bikini panties,white bikini panties",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": "\"五等分の花嫁/中野四葉\""
+  },
   "ごちうさ制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
