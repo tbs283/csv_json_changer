@@ -4705,12 +4705,41 @@
       "seed_id": "229"
     },
     {
+      "title": "胸を抱いてる",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, medium close-up, upper torso, focus on upper body, from side,side view",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,narrowed eyes,shy, embarrassed, covering chest with arms,protective pose,hunched shoulders",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed_id": "230"
+    },
+    {
       "title": "スカートたくし上げ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "composition": "cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
@@ -4739,7 +4768,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "composition": "cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
@@ -4783,7 +4812,7 @@
         "girlUnder": "",
         "girlAction": "",
         "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
+        "clothesBottomStatus": ""
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
@@ -8692,9 +8721,9 @@
         "composition": "upper body, medium close-up, upper torso, focus on upper body, from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking at viewer,shy, embarrassed, covering chest with arms,protective pose,hunched shoulders",
+        "girlAction": "looking away, embarrassed, blushing, starting to remove jacket, partially removed jacket",
         "male": "",
-        "bgBase": "bedroom,simple room,no furniture,",
+        "bgBase": "indoor,room,simple room,no furniture,",
         "bgTop": "white wall,",
         "bgBottom": ""
       },
@@ -8710,123 +8739,7 @@
       "キャラヘッダフラグ": "2",
       "縦横比": "",
       "clothesFlg": "1",
-      "seed_id": "217"
-    },
-    {
-      "title": "胸を抱いてる",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "upper body, medium close-up, upper torso, focus on upper body, from front",
-        "play": "1 girl, solo,",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking away,narrowed eyes,shy, embarrassed, covering chest with arms,protective pose,hunched shoulders",
-        "male": "",
-        "bgBase": "bedroom,simple room,no furniture,",
-        "bgTop": "white wall,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "",
-      "clothesFlg": "1",
-      "seed_id": "229"
-    },
-    {
-      "title": "スカートたくし上げ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
-        "play": "1 girl, solo,",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
-        "male": "",
-        "bgBase": "bedroom,simple room,no furniture,",
-        "bgTop": "white wall,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "",
-      "clothesFlg": "7",
-      "seed_id": "218"
-    },
-    {
-      "title": "",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
-        "play": "1 girl, solo,",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
-        "male": "",
-        "bgBase": "bedroom,simple room,no furniture,",
-        "bgTop": "white wall,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "",
-      "clothesFlg": "7",
-      "seed_id": "219"
-    },
-    {
-      "title": "M字開脚",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
-        "r18": "",
-        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "blush,tears,(looking away | looking at viewer), sitting on the bed, m legs,spread legs,leaning back",
-        "male": "",
-        "bgBase": "bedroom,simple room,no furniture,",
-        "bgTop": "",
-        "bgBottom": "white sheets,white pillow,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "8",
-      "seed_id": "220"
+      "seed_id": "231"
     }
   ]
 ,
@@ -17573,12 +17486,41 @@
       "seed_id": "229"
     },
     {
+      "title": "胸を抱いてる",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, medium close-up, upper torso, focus on upper body, from side,side view",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,narrowed eyes,shy, embarrassed, covering chest with arms,protective pose,hunched shoulders",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed_id": "230"
+    },
+    {
       "title": "スカートたくし上げ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "composition": "cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
@@ -17607,7 +17549,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "composition": "cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
@@ -17651,7 +17593,7 @@
         "girlUnder": "",
         "girlAction": "",
         "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
+        "clothesBottomStatus": ""
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
@@ -18040,12 +17982,41 @@
       "seed_id": "229"
     },
     {
+      "title": "胸を抱いてる",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, medium close-up, upper torso, focus on upper body, from side,side view",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away,narrowed eyes,shy, embarrassed, covering chest with arms,protective pose,hunched shoulders",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "1",
+      "seed_id": "230"
+    },
+    {
       "title": "スカートたくし上げ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "composition": "cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
@@ -18074,7 +18045,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
         "r18": "",
-        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "composition": "cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
@@ -18118,7 +18089,7 @@
         "girlUnder": "",
         "girlAction": "",
         "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
+        "clothesBottomStatus": ""
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
