@@ -1,9 +1,21 @@
 ﻿{
-  "ブルマ": {
+  "ブルマ(赤)": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlTop": "white short-sleeved gym shirt with red collar and sleeve bands,",
     "girlBottom": "red gym bloomers with white stripes on sides,high-leg gym bloomers,white socks,",
+    "girlUnder": "shoes,",
+    "panties": "white panties,",
+    "bra": "white bra,",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "9",
+    "characterOnly": ""
+  },
+  "ブルマ(アオ)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "white short-sleeved gym shirt with blue collar and sleeve bands,",
+    "girlBottom": "blue gym bloomers with white stripes on sides,high-leg gym bloomers,white socks,",
     "girlUnder": "shoes,",
     "panties": "white panties,",
     "bra": "white bra,",
@@ -33,6 +45,30 @@
     "bra": "",
     "clothesTopStatus": "7",
     "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
+  "下着赤": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "red plunge Bra",
+    "girlBottom": "red thongs,lace garter belt,red thigh-high socks",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
+  "下着黒": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
     "characterOnly": ""
   },
   "浴衣": {
@@ -131,6 +167,18 @@
     "clothesBottomStatus": "0",
     "characterOnly": ""
   },
+  "ビキニメイド": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
   "彼シャツ": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -144,6 +192,66 @@
     "characterOnly": ""
   },
   "裸エプロン": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
+  "バニー": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
+  "チャイナ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
+  "チア": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
+  "ウエディングドレス": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
+  "ナース": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlTop": "",
