@@ -2,6 +2,7 @@
   "ブルマ(赤)": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white short-sleeved gym shirt with red collar and sleeve bands,",
     "girlBottom": "red gym bloomers with white stripes on sides,high-leg gym bloomers,white socks,",
     "girlUnder": "shoes,",
@@ -14,6 +15,7 @@
   "ブルマ(青)": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white short-sleeved gym shirt with blue collar and sleeve bands,",
     "girlBottom": "blue gym bloomers with white stripes on sides,high-leg gym bloomers,white socks,",
     "girlUnder": "shoes,",
@@ -26,6 +28,7 @@
   "猫ランジェリー": {
     "girlBaseClothes": "",
     "girlHead": "white cat ear,",
+    "girlOuter": "",
     "girlTop": "white cat lingerie,bra with cat hole,cat ears,red collar with bell,cat gloves,",
     "girlBottom": "white cat panties,cat tails,white socks,thigh-high socks",
     "girlUnder": "",
@@ -38,6 +41,7 @@
   "ネグリジェ(白)": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "lace negligee with white frilles,white negligee,",
     "girlBottom": "white thongs,",
     "girlUnder": "",
@@ -50,6 +54,7 @@
   "下着赤": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "red plunge Bra",
     "girlBottom": "red thongs,lace garter belt,red thigh-high socks",
     "girlUnder": "",
@@ -62,6 +67,7 @@
   "下着黒": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "black plunge Bra",
     "girlBottom": "black thongs,",
     "girlUnder": "",
@@ -74,6 +80,7 @@
   "浴衣": {
     "girlBaseClothes": "dusty mauve pink yukata,thin vertical stripes,uniform stripe pattern,narrow stripes,desaturated pink fabric,dark gray striped obi",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -86,6 +93,7 @@
   "スク水": {
     "girlBaseClothes": "school swimsuit, navy blue swimsuit",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "barefoot",
@@ -98,6 +106,7 @@
   "温泉": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "no accessory,less accessory,white bath towel wrapped around body, secure towel fit,wet body,",
     "girlBottom": "",
     "girlUnder": "",
@@ -110,6 +119,7 @@
   "マイクロビキニ(白)": {
     "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "bikini bra",
     "girlBottom": "simple bikini panties,white bikini panties",
     "girlUnder": "barefoot",
@@ -122,6 +132,7 @@
   "マイクロビキニ(金)": {
     "girlBaseClothes": "simple micro bikini,gold bikini,very small bikini,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "bikini bra",
     "girlBottom": "simple bikini panties,gold bikini panties",
     "girlUnder": "barefoot",
@@ -134,6 +145,7 @@
   "赤ちゃん": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "completely nude,floral white bib",
     "girlBottom": "nappy,white nappy,completely nude,",
     "girlUnder": "",
@@ -146,6 +158,7 @@
   "全裸": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "completely nude,",
     "girlBottom": "completely nude,",
     "girlUnder": "completely nude,",
@@ -158,6 +171,7 @@
   "メイド": {
     "girlBaseClothes": "identical black-and-white maid uniform, white frilled apron, waist apron tied at the back, consistent outfit design",
     "girlHead": "classic maid headdress",
+    "girlOuter": "",
     "girlTop": "white collar, white cuffs, puff sleeves",
     "girlBottom": "black long dress, white thigh-high socks",
     "girlUnder": "",
@@ -170,6 +184,7 @@
   "ビキニメイド": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -182,6 +197,7 @@
   "彼シャツ": {
     "girlBaseClothes": "oversized shirt, boyfriend shirt,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -194,6 +210,7 @@
   "裸エプロン": {
     "girlBaseClothes": "apron, nude, wearing only apron,white apron with frill,frilled white apron",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -206,6 +223,7 @@
   "バニー": {
     "girlBaseClothes": "black bunny girl, black bunny suit, lop ears",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -218,6 +236,7 @@
   "チャイナ": {
     "girlBaseClothes": "chinese dress,white dress,gold trim,chinese qipao,pure white qipao with soft pink sakura embroidery, elegant design, sleeveless, glossy fabric,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "high-cut leg chinese dress,long skirt",
     "girlUnder": "",
@@ -230,6 +249,7 @@
   "チア": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -242,6 +262,7 @@
   "ウエディングドレス": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -254,6 +275,7 @@
   "ナース": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
@@ -266,6 +288,7 @@
   "toloveる制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "yellow vest,white shirt,half sleeves,green tie,",
     "girlBottom": "green skirt,",
     "girlUnder": "black socks,",
@@ -278,6 +301,7 @@
   "クローム制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,green clothes,",
     "girlBottom": "green skirt,black belt,",
     "girlUnder": "black boots,",
@@ -290,6 +314,7 @@
   "ニセコイ制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,white tops,orange tie,long sleeves,",
     "girlBottom": "light blue skirt",
     "girlUnder": "white socks",
@@ -302,6 +327,7 @@
   "黒川あかね制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform, navy vest,white shirt with long sleeves,blue tie,",
     "girlBottom": "gray skirt",
     "girlUnder": "black socks",
@@ -314,6 +340,7 @@
   "魔法科高校の劣等生制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform, white tops,green outer,",
     "girlBottom": "white skirt",
     "girlUnder": "black boots, gray socks",
@@ -326,6 +353,7 @@
   "美遊制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,white tops,half sleeves,ribbon tie,",
     "girlBottom": "black skirt,black thigh-high socks",
     "girlUnder": "black thigh-high socks",
@@ -338,6 +366,7 @@
   "川井モナ制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,pink vest,white shirt",
     "girlBottom": "green checked skirt",
     "girlUnder": "green socks",
@@ -350,6 +379,7 @@
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,white shirts",
     "girlBottom": "green skirt,yellow cardigan around waist,",
     "girlUnder": "black high socks",
@@ -362,6 +392,7 @@
   "二乃制服": {
     "girlBaseClothes": "",
     "girlHead": "hair ribbon,bob hair",
+    "girlOuter": "",
     "girlTop": "school uniform,black cardigan,white shirts",
     "girlBottom": "green skirt,white thigh-high socks",
     "girlUnder": "white thigh-high socks",
@@ -374,6 +405,7 @@
   "三玖制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,blue cardigan,white shirts",
     "girlBottom": "green skirt,black tights,",
     "girlUnder": "black tights",
@@ -386,6 +418,7 @@
   "四葉制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,white shirts,yellow cardigan,robbon tie,",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
@@ -398,6 +431,7 @@
   "五月制服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,white shirts,red cardigan",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
@@ -410,6 +444,7 @@
   "二乃全裸": {
     "girlBaseClothes": "",
     "girlHead": "hair ribbon,bob hair",
+    "girlOuter": "",
     "girlTop": "completely nude,",
     "girlBottom": "completely nude,",
     "girlUnder": "completely nude,",
@@ -422,6 +457,7 @@
   "四葉マイクロビキニ": {
     "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
     "girlHead": "green hair ribbon,",
+    "girlOuter": "",
     "girlTop": "bikini bra",
     "girlBottom": "simple bikini panties,white bikini panties",
     "girlUnder": "barefoot",
@@ -434,6 +470,7 @@
   "ごちうさ制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,half sleeves,blue tie,",
     "girlBottom": "white skirt,",
     "girlUnder": "white socks,brown shoes,",
@@ -446,6 +483,7 @@
   "ごちうさ千夜着物": {
     "girlBaseClothes": "green kimono,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white apron,",
     "girlBottom": "",
     "girlUnder": "brown boots,",
@@ -458,6 +496,7 @@
   "ごちうさ_チノ_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "blue ribbon tie,blue vest,white shirt,",
     "girlBottom": "black skirt,",
     "girlUnder": "white socks,blue shoes",
@@ -470,6 +509,7 @@
   "ごちうさ_ココア_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "cherry blossom hair ornament",
+    "girlOuter": "",
     "girlTop": "red ribbon tie,pink vest,white shirt,",
     "girlBottom": "black skirt,black tights,",
     "girlUnder": "black boots,",
@@ -482,6 +522,7 @@
   "ごちうさ_リゼ_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "twintails",
+    "girlOuter": "",
     "girlTop": "purple ribbon tie,purple vest,white shirt,",
     "girlBottom": "black skirt,black tights,",
     "girlUnder": "black boots,",
@@ -494,6 +535,7 @@
   "ごちうさ_チヤ_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "white flower hair ornament",
+    "girlOuter": "",
     "girlTop": "green ribbon tie,light green vest,white shirt,",
     "girlBottom": "black skirt,black tights,",
     "girlUnder": "black boots,",
@@ -506,6 +548,7 @@
   "ごちうさ_シャロ_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "black hair ribbon,",
+    "girlOuter": "",
     "girlTop": "orange ribbon tie,yellow vest,white shirt,",
     "girlBottom": "black skirt,black tights,",
     "girlUnder": "black boots,",
@@ -518,6 +561,7 @@
   "ごちうさ_メグ_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "red ribbon tie,red vest,white shirt,",
     "girlBottom": "black skirt,",
     "girlUnder": "white socks,blue shoes",
@@ -530,6 +574,7 @@
   "ごちうさ_マヤ_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "low twintails,",
+    "girlOuter": "",
     "girlTop": "blue ribbon tie,light blue vest,white shirt,",
     "girlBottom": "black skirt,",
     "girlUnder": "white socks,blue shoes",
@@ -542,6 +587,7 @@
   "ごちうさ_青山_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "ponytail",
+    "girlOuter": "",
     "girlTop": "black ribbon tie,black vest,white shirt,",
     "girlBottom": "black skirt,black tights,",
     "girlUnder": "black boots,",
@@ -554,6 +600,7 @@
   "ごちうさ_モカ_ラビットハウス": {
     "girlBaseClothes": "waitress",
     "girlHead": "no tied hair",
+    "girlOuter": "",
     "girlTop": "red ribbon tie,pink vest,white shirt,",
     "girlBottom": "black skirt,black tights,",
     "girlUnder": "black boots,",
@@ -566,7 +613,8 @@
   "リーリヤ制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
-    "girlTop": "white blazer,white shirt",
+    "girlOuter": "white blazer:blazer",
+    "girlTop": "white shirt",
     "girlBottom": "navy skirt",
     "girlUnder": "socks",
     "panties": "white panties",
@@ -578,6 +626,7 @@
   "莉波制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,navy blazer,yellow vest,white shirts",
     "girlBottom": "blue skirt,black tights,",
     "girlUnder": "black tights,",
@@ -590,6 +639,7 @@
   "美鈴制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,nevy vest,white shirt",
     "girlBottom": "navy skirt",
     "girlUnder": "black socks",
@@ -602,6 +652,7 @@
   "咲季制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "pink blazer,white shirt,",
     "girlBottom": "blue and navy skirt",
     "girlUnder": "",
@@ -614,6 +665,7 @@
   "手毬制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "gray coat,dark green tops,",
     "girlBottom": "black skirt,",
     "girlUnder": "",
@@ -626,6 +678,7 @@
   "琴音制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "light green outer,yellow t-shirt,",
     "girlBottom": "blue skirt",
     "girlUnder": "",
@@ -638,6 +691,7 @@
   "千奈制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white tops,",
     "girlBottom": "blue skirt",
     "girlUnder": "",
@@ -650,6 +704,7 @@
   "清夏制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white shirt,tie,",
     "girlBottom": "blue skirt",
     "girlUnder": "",
@@ -662,6 +717,7 @@
   "広制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white outer,white tops",
     "girlBottom": "blue pants",
     "girlUnder": "",
@@ -674,6 +730,7 @@
   "佑芽制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "pink cardigan,white shirt",
     "girlBottom": "blue and navy skirt",
     "girlUnder": "",
@@ -686,6 +743,7 @@
   "星南制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white blazer,white shirt,black tie",
     "girlBottom": "blue and navy skirt,black tights",
     "girlUnder": "",
@@ -698,6 +756,7 @@
   "亜紗里私服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white striped t-shirt",
     "girlBottom": "light green pants",
     "girlUnder": "",
@@ -710,6 +769,7 @@
   "ダンツフレーム勝負服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "pink tops,black sleeves,",
     "girlBottom": "pink short pants,black tights,",
     "girlUnder": "black tights,shoes",
@@ -722,6 +782,7 @@
   "ライスシャワー勝負服": {
     "girlBaseClothes": "navy clothes,",
     "girlHead": "hat,",
+    "girlOuter": "",
     "girlTop": "navy one-piece dress,crimson sleeves,",
     "girlBottom": "tails,navy skirt,",
     "girlUnder": "thigh-high socks",
@@ -734,6 +795,7 @@
   "カレンブーケドール勝負服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white clothes,turtleneck,short sleeves,groves,with gold lines,",
     "girlBottom": "skirt with floral lining,tails,",
     "girlUnder": "white and black shoes",
@@ -746,6 +808,7 @@
   "シュヴァルグラン勝負服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white tops,A cloak with a starry sky pattern lining,",
     "girlBottom": "black pants",
     "girlUnder": "shoes",
@@ -758,6 +821,7 @@
   "デュランダル勝負服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white and yellow clothes,groves",
     "girlBottom": "white long pants",
     "girlUnder": "black boots",
@@ -770,6 +834,7 @@
   "ブエナビスタ勝負服": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "brown outer,brown tops,with red and white lines,brown tie,",
     "girlBottom": "brown skirt,brown right socks,",
     "girlUnder": "red and white shoes",
@@ -782,6 +847,7 @@
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white short-sleeved gym shirt with red collar,red track jacket,",
     "girlBottom": "red track pants,",
     "girlUnder": "white sneakers",
@@ -794,6 +860,7 @@
   "よう実坂柳制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "hat,",
+    "girlOuter": "",
     "girlTop": "school uniform,red blazer,white shirt,tie,",
     "girlBottom": "white skirt,garter belt,white thigh-high socks",
     "girlUnder": "white thigh-high socks,shoes",
@@ -806,6 +873,7 @@
   "よう実堀北制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "bob hair,",
+    "girlOuter": "",
     "girlTop": "school uniform,red blazer,white shirt,navy ribbon tie,",
     "girlBottom": "white skirt,thigh-high socks,",
     "girlUnder": "black shoes",
@@ -818,6 +886,7 @@
   "よう実軽井沢制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,red blazer,sky blue shirt,navy ribbon tie,",
     "girlBottom": "white skirt,",
     "girlUnder": "black socks,black shoes",
@@ -830,6 +899,7 @@
   "よう実櫛田制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,red blazer,white shirt,navy ribbon tie,",
     "girlBottom": "white skirt,",
     "girlUnder": "white socks,black shoes",
@@ -842,6 +912,7 @@
   "よう実ひより制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,red blazer,sky blue shirt,navy ribbon tie,",
     "girlBottom": "white skirt,gray tights",
     "girlUnder": "black shoes",
@@ -854,6 +925,7 @@
   "よう実一之瀬制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,red blazer,white shirt,navy ribbon tie,",
     "girlBottom": "white skirt,",
     "girlUnder": "black socks,black shoes",
@@ -866,6 +938,7 @@
   "よう実七瀬制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "school uniform,red blazer,white shirt,navy ribbon tie,",
     "girlBottom": "white skirt,",
     "girlUnder": "black socks,black shoes",
@@ -878,6 +951,7 @@
   "よう実ジャージ半袖": {
     "girlBaseClothes": "gym uniform, wet body,dirty clothes,",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white short-sleeved gym shirt with red collar,",
     "girlBottom": "red track pants,",
     "girlUnder": "white sneakers",
@@ -890,6 +964,7 @@
   "SAOユウキ": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "chest armor,black tops,purple sleeves,",
     "girlBottom": "purple skirt,black thigh-high socks,",
     "girlUnder": "black thigh-high socks,",
@@ -902,6 +977,7 @@
   "SAOアスナALO": {
     "girlBaseClothes": "white and blue clothes",
     "girlHead": "blue hair,",
+    "girlOuter": "",
     "girlTop": "",
     "girlBottom": "white and blue skirt,navy thigh high socks",
     "girlUnder": "navy thigh high socks",
@@ -914,6 +990,7 @@
   "鬼滅の刃カナヲ": {
     "girlBaseClothes": "",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "white cape,black tops,",
     "girlBottom": "black skirt,white belt",
     "girlUnder": "white boots",
@@ -926,6 +1003,7 @@
   "無職転生ロキシー": {
     "girlBaseClothes": "",
     "girlHead": "witch hat",
+    "girlOuter": "",
     "girlTop": "beige coat,black tops",
     "girlBottom": "white skirt,thigh-high boots",
     "girlUnder": "",
@@ -938,6 +1016,7 @@
   "無職転生エリス": {
     "girlBaseClothes": "",
     "girlHead": "hair band",
+    "girlOuter": "",
     "girlTop": "beige cape,white tops,large breast",
     "girlBottom": "black pants",
     "girlUnder": "brown shoes",
@@ -950,6 +1029,7 @@
   "ブルアカ水着ミヤコ": {
     "girlBaseClothes": "school swimsuit, navy blue swimsuit",
     "girlHead": "ponytail,",
+    "girlOuter": "",
     "girlTop": "white coller",
     "girlBottom": "",
     "girlUnder": "barefoot",
@@ -962,6 +1042,7 @@
   "ブルアカメイドアリス": {
     "girlBaseClothes": "identical black-and-white maid uniform, white frilled apron, waist apron tied at the back, consistent outfit design",
     "girlHead": "classic maid headdress",
+    "girlOuter": "",
     "girlTop": "white collar, white cuffs, puff sleeves",
     "girlBottom": "black long dress, white tights",
     "girlUnder": "",
@@ -974,6 +1055,7 @@
   "ブルアカシロコ制服": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
+    "girlOuter": "",
     "girlTop": "navy blazer,white shirt,sky blue tie,sky blue scarf",
     "girlBottom": "navy skirt",
     "girlUnder": "white socks",
