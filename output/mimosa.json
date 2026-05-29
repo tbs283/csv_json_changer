@@ -287,7 +287,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
@@ -2233,7 +2233,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "202"
     },
     {
@@ -2262,7 +2262,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "203"
     },
     {
@@ -2291,7 +2291,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "204"
     },
     {
@@ -2320,7 +2320,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "205"
     },
     {
@@ -2349,7 +2349,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "206"
     },
     {
@@ -2378,7 +2378,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "207"
     },
     {
@@ -2581,7 +2581,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
@@ -4962,7 +4962,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "17"
     },
     {
@@ -7024,7 +7024,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
@@ -8713,7 +8713,7 @@
 ,
   "ホテル": [
     {
-      "title": "胸を抱いてる",
+      "title": "上着を脱ぐ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
@@ -8721,7 +8721,7 @@
         "composition": "upper body, medium close-up, upper torso, focus on upper body, from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking away, embarrassed, blushing, starting to remove jacket, partially removed jacket,${girlTop},${girlOuter},",
+        "girlAction": "looking away, embarrassed, blushing, starting to remove ${girlOuter}, partially removed ${girlOuter},",
         "male": "",
         "bgBase": "indoor,room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8740,6 +8740,64 @@
       "縦横比": "",
       "clothesFlg": "1",
       "seed_id": "231"
+    },
+    {
+      "title": "トップスを脱ぐ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "upper body, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away, embarrassed, blushing, starting to remove ${girlTop}, partially removed ${girlTop},",
+        "male": "",
+        "bgBase": "indoor,room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "6",
+      "seed_id": "233"
+    },
+    {
+      "title": "ボトムスを脱ぐ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "cowboy shot, medium close-up, focus on lower body, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking away, embarrassed, blushing, removing ${girlBottom}, ${girlBottom} around thighs",
+        "male": "",
+        "bgBase": "indoor,room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "42",
+      "seed_id": "234"
     }
   ]
 ,
@@ -8770,7 +8828,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "202"
     },
     {
@@ -8799,7 +8857,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "203"
     },
     {
@@ -8828,7 +8886,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "204"
     },
     {
@@ -8857,7 +8915,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "205"
     },
     {
@@ -8886,7 +8944,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "206"
     },
     {
@@ -8915,7 +8973,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "207"
     },
     {
@@ -11412,7 +11470,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
@@ -15304,7 +15362,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "202"
     },
     {
@@ -15333,7 +15391,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "203"
     },
     {
@@ -15362,7 +15420,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "204"
     },
     {
@@ -15391,7 +15449,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "205"
     },
     {
@@ -15420,7 +15478,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "206"
     },
     {
@@ -15449,7 +15507,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "207"
     },
     {
@@ -17772,7 +17830,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "17"
     },
     {
@@ -20823,7 +20881,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
@@ -23233,7 +23291,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
@@ -25672,7 +25730,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
@@ -27940,7 +27998,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "42",
+      "clothesFlg": "46",
       "seed_id": "7"
     },
     {
