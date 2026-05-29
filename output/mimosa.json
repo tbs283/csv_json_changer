@@ -8694,8 +8694,8 @@
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking at viewer,shy, embarrassed, covering chest with arms,protective pose,hunched shoulders",
         "male": "",
-        "bgBase": "hotel room,simple room,no furniture,",
-        "bgTop": "striped wallpaper,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -8723,8 +8723,8 @@
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking away,narrowed eyes,shy, embarrassed, covering chest with arms,protective pose,hunched shoulders",
         "male": "",
-        "bgBase": "hotel room,simple room,no furniture,",
-        "bgTop": "striped wallpaper,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -8752,8 +8752,8 @@
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
         "male": "",
-        "bgBase": "hotel room,simple room,no furniture,",
-        "bgTop": "striped wallpaper,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -8781,8 +8781,8 @@
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
         "male": "",
-        "bgBase": "hotel room,simple room,no furniture,",
-        "bgTop": "striped wallpaper,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -8810,7 +8810,7 @@
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "blush,tears,(looking away | looking at viewer), sitting on the bed, m legs,spread legs,leaning back",
         "male": "",
-        "bgBase": "hotel room,simple room,no furniture,",
+        "bgBase": "bedroom,simple room,no furniture,",
         "bgTop": "",
         "bgBottom": "white sheets,white pillow,"
       },
