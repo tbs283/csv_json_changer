@@ -4713,7 +4713,7 @@
         "composition": "dutch-angle,cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking away, shy, embarrassed, looking away, lifting skirt, flustered, nervous, skirt lift",
+        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
         "male": "",
         "bgBase": "japanese style room,",
         "bgTop": "fusuma,",
@@ -4732,6 +4732,64 @@
       "縦横比": "",
       "clothesFlg": "7",
       "seed_id": "218"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "219"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the futon, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "220"
     },
     {
       "title": "痴漢(乳揉み、服の上から)",
@@ -8692,7 +8750,7 @@
         "composition": "dutch-angle,cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking away, shy, embarrassed, looking away, lifting skirt, flustered, nervous, skirt lift",
+        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "striped wallpaper,",
@@ -8711,6 +8769,64 @@
       "縦横比": "",
       "clothesFlg": "7",
       "seed_id": "218"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "striped wallpaper,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "219"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "220"
     }
   ]
 ,
@@ -17465,7 +17581,7 @@
         "composition": "dutch-angle,cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking away, shy, embarrassed, looking away, lifting skirt, flustered, nervous, skirt lift",
+        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
         "male": "",
         "bgBase": "bedroom,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -17484,6 +17600,64 @@
       "縦横比": "",
       "clothesFlg": "7",
       "seed_id": "218"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "219"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "220"
     },
     {
       "title": "M字開脚",
@@ -17874,7 +18048,7 @@
         "composition": "dutch-angle,cowboy shot, medium close-up,from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking away, shy, embarrassed, looking away, lifting skirt, flustered, nervous, skirt lift",
+        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
         "male": "",
         "bgBase": "bedroom,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -17893,6 +18067,64 @@
       "縦横比": "",
       "clothesFlg": "7",
       "seed_id": "218"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle,cowboy shot, medium close-up,from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "looking at viewer,embarrassed,sad,tears,blush,hidden own breast and crotch,",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "219"
+    },
+    {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel colors,depth of field",
+        "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "8",
+      "seed_id": "220"
     },
     {
       "title": "フェラ(見せつけ)",
