@@ -11,7 +11,7 @@
     "clothesBottomStatus": "9",
     "characterOnly": ""
   },
-  "ブルマ(アオ)": {
+  "ブルマ(青)": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlTop": "white short-sleeved gym shirt with blue collar and sleeve bands,",
@@ -47,6 +47,18 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
+  "ネグリジェ(白)2": {
+    "girlBaseClothes": "white satin slip",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "7",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
   "下着赤": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -55,20 +67,20 @@
     "girlUnder": "",
     "panties": "",
     "bra": "",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
     "characterOnly": ""
   },
   "下着黒": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlTop": "",
-    "girlBottom": "",
+    "girlTop": "black bralette",
+    "girlBottom": "black high-cut panties",
     "girlUnder": "",
     "panties": "",
     "bra": "",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
     "characterOnly": ""
   },
   "浴衣": {
@@ -216,10 +228,10 @@
     "characterOnly": ""
   },
   "チャイナ": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "chinese dress,white dress,gold trim,chinese qipao,pure white qipao with soft pink sakura embroidery, elegant design, sleeveless, glossy fabric,",
     "girlHead": "",
     "girlTop": "",
-    "girlBottom": "",
+    "girlBottom": "high-cut leg chinese dress,long skirt",
     "girlUnder": "",
     "panties": "",
     "bra": "",
