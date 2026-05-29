@@ -13,7 +13,7 @@
   },
   "猫ランジェリー": {
     "girlBaseClothes": "",
-    "girlHead": "",
+    "girlHead": "white cat ear,",
     "girlTop": "white cat lingerie,bra with cat hole,cat ears,red collar with bell,cat gloves,",
     "girlBottom": "white cat panties,cat tails,white socks,thigh-high socks",
     "girlUnder": "",
@@ -23,9 +23,9 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
-  "ネグリジェ": {
+  "ネグリジェ(白)": {
     "girlBaseClothes": "",
-    "girlHead": "white cat ear,",
+    "girlHead": "",
     "girlTop": "lace negligee with white frilles,white negligee,",
     "girlBottom": "white thongs,",
     "girlUnder": "",
@@ -71,11 +71,23 @@
     "clothesBottomStatus": "2",
     "characterOnly": ""
   },
-  "マイクロビキニ": {
+  "マイクロビキニ(白)": {
     "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
     "girlHead": "",
     "girlTop": "bikini bra",
     "girlBottom": "simple bikini panties,white bikini panties",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
+  "マイクロビキニ(白)": {
+    "girlBaseClothes": "simple micro bikini,gold bikini,very small bikini,",
+    "girlHead": "",
+    "girlTop": "bikini bra",
+    "girlBottom": "simple bikini panties,gold bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
     "bra": "",
@@ -117,6 +129,30 @@
     "bra": "white bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
+    "characterOnly": ""
+  },
+  "彼シャツ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
+  "裸エプロン": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
     "characterOnly": ""
   },
   "toloveる制服": {
