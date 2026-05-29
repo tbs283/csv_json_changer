@@ -47,18 +47,6 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
-  "ネグリジェ(白)2": {
-    "girlBaseClothes": "white satin slip",
-    "girlHead": "",
-    "girlTop": "",
-    "girlBottom": "",
-    "girlUnder": "",
-    "panties": "",
-    "bra": "",
-    "clothesTopStatus": "7",
-    "clothesBottomStatus": "1",
-    "characterOnly": ""
-  },
   "下着赤": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -74,8 +62,8 @@
   "下着黒": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlTop": "black bralette",
-    "girlBottom": "black high-cut panties",
+    "girlTop": "black plunge Bra",
+    "girlBottom": "black thongs,",
     "girlUnder": "",
     "panties": "",
     "bra": "",
@@ -192,19 +180,19 @@
     "characterOnly": ""
   },
   "彼シャツ": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "oversized shirt, boyfriend shirt,",
     "girlHead": "",
     "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
     "panties": "",
     "bra": "",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
     "characterOnly": ""
   },
   "裸エプロン": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "apron, nude, wearing only apron,white apron with frill,frilled white apron",
     "girlHead": "",
     "girlTop": "",
     "girlBottom": "",
@@ -216,7 +204,7 @@
     "characterOnly": ""
   },
   "バニー": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "black bunny girl, black bunny suit, lop ears",
     "girlHead": "",
     "girlTop": "",
     "girlBottom": "",
