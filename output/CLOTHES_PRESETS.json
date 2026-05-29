@@ -611,9 +611,9 @@
     "characterOnly": "\"ごちうさ/モカ\""
   },
   "リーリヤ制服": {
-    "girlBaseClothes": "school uniform,",
+    "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "white blazer:blazer",
+    "girlOuter": "school uniform,white blazer:blazer",
     "girlTop": "white shirt:shirt",
     "girlBottom": "navy skirt:skirt",
     "girlUnder": "socks",
