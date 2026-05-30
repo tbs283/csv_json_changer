@@ -8953,7 +8953,7 @@
         "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front,straight-on",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "embarrassed,sad,tears,blush,covering own nipples",
+        "girlAction": "embarrassed,sad,tears,blush,covering own nipples,completely nude,",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8964,7 +8964,7 @@
         "girlBottom": "",
         "girlUnder": "",
         "girlAction": "",
-        "clothesTopStatus": "open clothes",
+        "clothesTopStatus": "",
         "clothesBottomStatus": ""
       },
       "上下フラグ": "3",
