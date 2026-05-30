@@ -376,6 +376,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"めだかわ/川井モナ\""
   },
+  "椎名真昼制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "school uniform,navy blazer:blazer",
+    "girlTop": "white shirt, red ribbon tie:shirt",
+    "girlBottom": "brown skirt,black tights:skirt,",
+    "girlUnder": "black tights:tights",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -466,6 +479,19 @@
     "clothesTopStatus": "1",
     "clothesBottomStatus": "1",
     "characterOnly": "\"五等分の花嫁/中野四葉\""
+  },
+  "四葉制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "school uniform,white shirts,yellow cardigan,robbon tie,",
+    "girlBottom": "green skirt,",
+    "girlUnder": "white high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
   },
   "ごちうさ制服": {
     "girlBaseClothes": "school uniform,",
@@ -560,7 +586,7 @@
   },
   "ごちうさ_メグ_ラビットハウス": {
     "girlBaseClothes": "waitress",
-    "girlHead": "",
+    "girlHead": "cherry blossom hair ornament",
     "girlOuter": "",
     "girlTop": "red ribbon tie,red vest,white shirt,",
     "girlBottom": "black skirt,",
