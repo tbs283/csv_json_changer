@@ -383,8 +383,8 @@
     "girlTop": "white shirt, red ribbon tie:shirt",
     "girlBottom": "brown skirt,black tights:skirt,",
     "girlUnder": "black tights:tights",
-    "panties": "white panties",
-    "bra": "white bra",
+    "panties": "pink panties with floral lace trim",
+    "bra": "pink bra with floral lace trim",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
@@ -479,19 +479,6 @@
     "clothesTopStatus": "1",
     "clothesBottomStatus": "1",
     "characterOnly": "\"五等分の花嫁/中野四葉\""
-  },
-  "四葉制服": {
-    "girlBaseClothes": "",
-    "girlHead": "",
-    "girlOuter": "",
-    "girlTop": "school uniform,white shirts,yellow cardigan,robbon tie,",
-    "girlBottom": "green skirt,",
-    "girlUnder": "white high socks",
-    "panties": "white panties",
-    "bra": "white bra",
-    "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
-    "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
   },
   "ごちうさ制服": {
     "girlBaseClothes": "school uniform,",
