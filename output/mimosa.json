@@ -8866,7 +8866,7 @@
         "composition": "upper body, medium close-up, upper torso, focus on upper body, from behind,back shot",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "reaching behind back, hands behind back, unhooking bra, undoing bra clasp, removing bra, taking off bra, looking over shoulder arms behind back",
+        "girlAction": "embarrassed, blushing,  reaching behind back, hands behind back, unhooking bra, undoing bra clasp, removing bra, taking off bra, looking over shoulder arms behind back",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8892,10 +8892,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "",
-        "composition": "upper body, medium close-up, upper torso, focus on upper body, from front,straight-on",
+        "composition": "upper body, torso focus, cropped head, head out of frame, neck down, from shoulders to waist, body focus, from front",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "holding bra cup one hand holding bra removing bra strap slipping bra strap off shoulder pulling bra strap down one shoulder bare hand on chest adjusting bra",
+        "girlAction": "embarrassed, blushing,  holding bra cup, one hand holding bra, removing bra strap, slipping bra strap off shoulder, pulling bra strap down, one shoulder bare, hand on chest, adjusting bra,",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8912,8 +8912,66 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "9",
+      "clothesFlg": "8",
       "seed_id": "238"
+    },
+    {
+      "title": "ブラの肩紐を外す",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "upper body, torso focus, cropped head, head out of frame, neck down, from shoulders to waist, body focus, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,nipple",
+        "girlAction": "embarrassed, blushing,  holding bra cup, one hand holding bra, removing bra strap, slipping bra strap off shoulder, pulling bra strap down, one shoulder bare, hand on chest, adjusting bra,",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "8",
+      "seed_id": "239"
+    },
+    {
+      "title": "乳首隠し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front,straight-on",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "embarrassed,sad,tears,blush,covering own nipples",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "open clothes",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "128",
+      "seed_id": "240"
     }
   ]
 ,
