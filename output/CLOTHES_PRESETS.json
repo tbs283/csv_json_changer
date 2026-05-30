@@ -51,6 +51,19 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
+  "ネグリジェ(青)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "lace negligee with light blue frilles,light blue negligee,",
+    "girlBottom": "light blue thongs,",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "7",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
   "下着赤": {
     "girlBaseClothes": "",
     "girlHead": "",
