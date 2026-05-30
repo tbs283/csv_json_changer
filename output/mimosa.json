@@ -8779,7 +8779,7 @@
         "composition": "cowboy shot, medium close-up, focus on lower body, from front,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "looking down, leaning forward, embarrassed, blushing,  grabbing ${girlBottom}, removing ${girlBottom}, ${girlBottom} around thighs",
+        "girlAction": "leaning forward, embarrassed, blushing,  grabbing ${girlBottom}, removing ${girlBottom}, ${girlBottom} around thighs",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8808,7 +8808,7 @@
         "composition": "cowboy shot, medium close-up, focus on lower body, from front,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "bending forward, hands on socks, pulling down socks, one leg raised, removing socks with both hands",
+        "girlAction": "embarrassed, blushing,  bending forward, hands on socks, pulling down socks, one leg raised, removing socks with both hands",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8827,6 +8827,35 @@
       "縦横比": "",
       "clothesFlg": "104",
       "seed_id": "235"
+    },
+    {
+      "title": "靴下を脱ぐ②",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, medium close-up, focus on lower body, from side,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "embarrassed, blushing,  sitting on the bed,bending forward, hands on socks, pulling down socks, one leg raised, removing socks with both hands",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "104",
+      "seed_id": "236"
     }
   ]
 ,
