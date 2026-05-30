@@ -8808,7 +8808,7 @@
         "composition": "cowboy shot, medium close-up, focus on lower body, from front,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "embarrassed, blushing,  bending forward, hands on socks, pulling down socks, one leg raised, removing socks with both hands",
+        "girlAction": "embarrassed, blushing,  bending forward, hands on ${girlUnder}, pulling down ${girlUnder}, one leg raised, removing socks with both hands",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8837,7 +8837,7 @@
         "composition": "cowboy shot, medium close-up, focus on lower body, from side,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "embarrassed, blushing,  sitting on the bed,bending forward, hands on socks, pulling down socks, one leg raised, removing socks with both hands",
+        "girlAction": "embarrassed, blushing,  sitting on the bed,bending forward, hands on ${girlUnder}, pulling down ${girlUnder}, one leg raised, removing socks with both hands",
         "male": "",
         "bgBase": "hotel room,simple room,no furniture,",
         "bgTop": "white wall,",
@@ -8972,6 +8972,122 @@
       "縦横比": "",
       "clothesFlg": "128",
       "seed_id": "240"
+    },
+    {
+      "title": "パンティーを脱ぐ①",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "cowboy shot, medium close-up, focus on lower body, from front,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "leaning forward, embarrassed, blushing,  grabbing panties, removing panties, ${girlBottom} around thighs",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "32",
+      "seed_id": "241"
+    },
+    {
+      "title": "パンティーを脱ぐ②",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "cowboy shot, medium close-up, focus on lower body, from behind, add focus",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "leaning forward, embarrassed, blushing,  grabbing panties, removing panties, ${girlBottom} around thighs",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "32",
+      "seed_id": "242"
+    },
+    {
+      "title": "パンティーを脱ぐ③(股間)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "leaning forward, embarrassed, blushing,  grabbing panties, removing panties, ${girlBottom} around thighs",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "32",
+      "seed_id": "243"
+    },
+    {
+      "title": "全裸、体隠し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "full body shot,dutch-angle, medium close-up, from side,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "modesty pose, embarrassed, blushing,  standing, nude, covering crotch, covering breasts, looking away",
+        "male": "",
+        "bgBase": "hotel room,simple room,no furniture,",
+        "bgTop": "white wall,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "32",
+      "seed_id": "244"
     }
   ]
 ,
