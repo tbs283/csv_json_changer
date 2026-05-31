@@ -157,10 +157,10 @@
   },
   "ビキニ(緑)": {
     "girlBaseClothes": "",
-    "girlHead": "",
+    "girlHead": "green ribbon",
     "girlOuter": "",
     "girlTop": "green bikini bra with rebbon",
-    "girlBottom": "simple bikini panties,green bikini panties with rebbon",
+    "girlBottom": "green bikini panties with rebbon",
     "girlUnder": "barefoot",
     "panties": "",
     "bra": "",

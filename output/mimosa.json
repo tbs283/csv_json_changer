@@ -27185,94 +27185,68 @@
     }
   ]
 ,
+  "海(エロなし)": [
+    {
+      "title": "海",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, medium close-up, focus on upper body, from front,straight-on",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "playful smile, energetic expression, playing in the sea, water droplets, dynamic pose, wind-blown hair,",
+        "male": "",
+        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "228"
+    },
+    {
+      "title": "海(ビーチバレー)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, medium close-up, focus on upper body, from above",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "facing viewer,standing, hand raised toward the sun, looking up,squinting, sunlight through fingers, smile, wind-blown hair",
+        "male": "",
+        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "245"
+    }
+  ]
+,
   "海": [
-    {
-      "title": "迷子",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,walking,",
-        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
-        "male": "",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "23",
-      "seed_id": "144"
-    },
-    {
-      "title": "迷子",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,walking,",
-        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
-        "male": "",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "23",
-      "seed_id": "208"
-    },
-    {
-      "title": "迷子",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,walking,",
-        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
-        "male": "",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "23",
-      "seed_id": "209"
-    },
     {
       "title": "痴漢(立)(口抑え)",
       "base": {
@@ -27796,16 +27770,16 @@
       "seed_id": "35"
     },
     {
-      "title": "またがった状態でのパイズリ",
+      "title": "パイズリ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
         "composition": "from above,girl focus,face focus,",
-        "play": "1 girl,straddling paizuri",
-        "girl": "focus on girl, girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the sand,rising arm,",
-        "male": "penis,out of frame,completely nude man,pov crotch,pov,grabbing breast",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up",
         "bgBase": "beach,",
         "bgTop": "",
         "bgBottom": "bright sand"
@@ -27814,27 +27788,27 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "upward gaze, struggling, screaming,facing away,averting eyes, surprised, tears,sad,nipples, paizuri,",
+        "girlAction": "upward gaze, tears,sad,nipples,  paizuri,grabbing own breast,",
         "clothesTopStatus": "open clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "40"
+      "clothesFlg": "127",
+      "seed_id": "36"
     },
     {
-      "title": "またがった状態でのパイズリ(顔射)",
+      "title": "パイズリ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
         "composition": "from above,girl focus,face focus,",
-        "play": "1 girl,straddling paizuri",
-        "girl": "focus on girl, girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the sand,rising arm,",
-        "male": "penis,out of frame,completely nude man,pov crotch,pov,cum shot,grabbing breast",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up,cum shot",
         "bgBase": "beach,",
         "bgTop": "",
         "bgBottom": "bright sand"
@@ -27843,56 +27817,27 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "upward gaze, facial,bukkake, struggling, screaming,facing away,averting eyes, surprised, tears,sad,nipples, paizuri,",
+        "girlAction": "upward gaze, facial,bukkake, surprised, tears,sad,nipples,  paizuri,grabbing own breast,",
         "clothesTopStatus": "open clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "41"
+      "clothesFlg": "127",
+      "seed_id": "37"
     },
     {
-      "title": "またがった状態でのパイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from side,girl focus,face focus,",
-        "play": "1 girl,straddling paizuri",
-        "girl": "focus on girl, girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the sand,rising arm,",
-        "male": "penis,out of frame,completely nude man,cum shot,grabbing breast",
-        "bgBase": "beach,",
-        "bgTop": "",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upward gaze, facial,bukkake, struggling,facing away,closing eyes, surprised, tears,sad,nipples, paizuri,",
-        "clothesTopStatus": "open clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "42"
-    },
-    {
-      "title": "またがった状態でのパイズリ",
+      "title": "パイズリ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
         "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
         "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,cropped torso,nipples",
-        "girlAction": "looking at viewer,lying on back on the ,rising arm,",
-        "male": "",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up",
         "bgBase": "beach,",
         "bgTop": "",
         "bgBottom": "bright sand"
@@ -27901,7 +27846,65 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "upward gaze, facial,bukkake, struggling,facing away,closing eyes, surprised, tears,sad,nipples, paizuri,",
+        "girlAction": "upward gaze, tears,sad,nipples,  paizuri,grabbing own breast,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "38"
+    },
+    {
+      "title": "パイズリ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,sitting,nipples",
+        "girlAction": "",
+        "male": "penis,out of frame,cropped man's thigh,cropped man's legs,completely nude man,pov  crotch,pov legs,stand up,cum shot",
+        "bgBase": "beach,",
+        "bgTop": "",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "upward gaze, facial,bukkake, surprised, tears,sad,nipples,  paizuri,grabbing own breast,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "39"
+    },
+    {
+      "title": "乳首舐め",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking nipples,hugging girl,back shot,next to the girl",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint",
         "clothesTopStatus": "open clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -27909,7 +27912,181 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "15",
-      "seed_id": "43"
+      "seed_id": "23"
+    },
+    {
+      "title": "乳首しゃぶり",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sucking on the nipples,hugging girl,back shot,next to the girl",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "24"
+    },
+    {
+      "title": "腋舐め",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,looking own armspit",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,licking armpit,grabbing arms,back shot,next to the girl",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking own armspit,facing down, tears,blush,screaming,throw up one arm,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "25"
+    },
+    {
+      "title": "耳しゃぶり",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from side",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,sucking on the ear,hugging girl,back shot,next to the girl",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "26"
+    },
+    {
+      "title": "顔舐め",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, licking face,hugging girl,back shot,next to the girl",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "27"
+    },
+    {
+      "title": "ディープキス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,against another's body",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, french kiss,grabbing head,back shot,next to the girl,hugging girl",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "drool,tears,blush,against another's body,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "15",
+      "seed_id": "28"
+    },
+    {
+      "title": "クンニ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girl": "focus on girl, girl focus,main subject girl,spread legs,pussy, leaning back,m legs,feet out of frame",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "bgBase": "beach,",
+        "bgTop": "blue sky,",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "lying on back on the sand,tears,blush,screaming,",
+        "clothesTopStatus": "open clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "29"
     },
     {
       "title": "正常位",
@@ -28550,83 +28727,83 @@
       "seed_id": "85"
     },
     {
-      "title": "騎乗位(挿入前)",
+      "title": "対面駅弁(suspended congress)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,straight-on",
-        "play": "1 girl,cowgirl position,leaning forward,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "",
-        "male": "completely nude man,pov, lying on the sand,penis touching girl's pussy,imminent penetration,no hands",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
         "bgBase": "beach,",
         "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
+        "bgBottom": ""
       },
       "charaVariable": {
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs,Put own hands forward, Placing both hands on the another's body, nipples,breasts, looking own crotch,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
-        "clothesTopStatus": "open clothes,pull up bra,",
+        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt"
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "108"
+      "clothesFlg": "119",
+      "seed_id": "125"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
+      "title": "対面駅弁(suspended congress)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,straight-on",
-        "play": "1 girl,cowgirl position,leaning forward,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "",
-        "male": "completely nude man,pov, lying on the sand,penetrating,no hands",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
         "bgBase": "beach,",
         "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
+        "bgBottom": ""
       },
       "charaVariable": {
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs,Put own hands forward, Placing both hands on the another's body, screaming, nipples,breasts, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
-        "clothesTopStatus": "open clothes,pull up bra,",
+        "girlAction": "ass focus looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt"
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "109"
+      "clothesFlg": "119",
+      "seed_id": "126"
     },
     {
-      "title": "騎乗位(前かがみ側面)",
+      "title": "対面駅弁(suspended congress)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,side shot side view",
-        "play": "1 girl,cowgirl position,leaning forward,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair, lying on the sand,penetrating,",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,",
+        "play": "1 girl,suspended congress,",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,",
+        "girlAction": "hugging,m legs,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
         "bgBase": "beach,",
         "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
+        "bgBottom": ""
       },
       "charaVariable": {
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "leaning forward,m legs,Put own hands forward Placing both hands on the another's body, nipples,breasts, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,ohogao,",
+        "girlAction": "ass focus looking ahead,facing ahead, breast press, dripping semen,forsed orgasm,squirting, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
         "clothesTopStatus": "open clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -28634,152 +28811,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "127",
-      "seed_id": "110"
-    },
-    {
-      "title": "騎乗位(後ろ側面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,side shot side view",
-        "play": "1 girl,cowgirl position,leaning back,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "",
-        "male": "completely nude man,simple man,no face,no detail man,no hair, lying on the sand,penetrating,",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "m legs,Put own hands behind, Placing both hands on the another's body, nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,",
-        "clothesTopStatus": "open clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "111"
-    },
-    {
-      "title": "騎乗位(後ろ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,pussy focus,straight-on,",
-        "play": "1 girl,cowgirl position,leaning back,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "",
-        "male": "completely nude man,pov lying on the sand,penetrating,no hands",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "m legs,Put own hands behind Placing both hands on the another's body, nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,",
-        "clothesTopStatus": "open clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "112"
-    },
-    {
-      "title": "騎乗位(尻)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,",
-        "play": "1 girl,cowgirl position,leaning forward,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "Placing both hands on the another's body,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,  lying on the sand,penetrating,grabbing ass,",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "nipples,breasts, looking back,facing down,character focus, crying,tear,sad,heavy breath,",
-        "clothesTopStatus": "open clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "113"
-    },
-    {
-      "title": "騎乗位(尻)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,",
-        "play": "1 girl,cowgirl position,leaning forward,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "Placing both hands on the another's body,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair,  lying on the sand,penetrating,grabbing ass,",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "shoulder peek,screaming, leaning forward, nipples,breasts, looking back,facing down,character focus, crying,tear,sad,heavy breath,",
-        "clothesTopStatus": "open clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "114"
-    },
-    {
-      "title": "騎乗位",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,pussy focus,straight-on,",
-        "play": "1 girl,cowgirl position,leaning back,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,dripping semen,nipples",
-        "girlAction": "m legs,Put own hands behind Placing both hands on the another's body,",
-        "male": "completely nude man,pov lying on the sand,penis,",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": "bright sand"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "nipples,breasts, looking ahead,facing up,character focus, crying,tear,sad,heavy breath,tired",
-        "clothesTopStatus": "open clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "115"
+      "seed_id": "127"
     },
     {
       "title": "背面駅弁",
@@ -28896,93 +28928,6 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "132"
-    },
-    {
-      "title": "対面駅弁(suspended congress)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
-        "play": "1 girl,suspended congress,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,",
-        "girlAction": "m legs,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "119",
-      "seed_id": "125"
-    },
-    {
-      "title": "対面駅弁(suspended congress)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
-        "play": "1 girl,suspended congress,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,",
-        "girlAction": "m legs,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "ass focus looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "119",
-      "seed_id": "126"
-    },
-    {
-      "title": "対面駅弁(suspended congress)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,",
-        "play": "1 girl,suspended congress,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,",
-        "girlAction": "hugging,m legs,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "beach,",
-        "bgTop": "blue sky,",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "ass focus looking ahead,facing ahead, breast press, dripping semen,forsed orgasm,squirting, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesTopStatus": "open clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "127"
     },
     {
       "title": "正常位事後",
@@ -29215,67 +29160,6 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "139"
-    }
-  ]
-,
-  "海②": [
-    {
-      "title": "海",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "cowboy shot, medium close-up, focus on upper body, from front,straight-on",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "playful smile, energetic expression, playing in the sea, water droplets, dynamic pose, wind-blown hair,",
-        "male": "",
-        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
-        "bgTop": "",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "23",
-      "seed_id": "228"
-    },
-    {
-      "title": "海(ビーチバレー)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "cowboy shot, medium close-up, focus on upper body, from above",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "facing viewer,standing, hand raised toward the sun, looking up, sunlight through fingers, smile, wind-blown hair",
-        "male": "",
-        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
-        "bgTop": "",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "23",
-      "seed_id": "245"
     }
   ]
 ,
