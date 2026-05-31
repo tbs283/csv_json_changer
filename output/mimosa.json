@@ -29225,7 +29225,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "",
-        "composition": "cowboy shot, medium close-up, focus on upper body, from front",
+        "composition": "cowboy shot, medium close-up, focus on upper body, from front,straight-on",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,",
         "girlAction": "playful smile, energetic expression, playing in the sea, water droplets, dynamic pose, wind-blown hair,",
@@ -29245,8 +29245,37 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "23",
       "seed_id": "228"
+    },
+    {
+      "title": "海(ビーチバレー)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, medium close-up, focus on upper body, from front,straight-on",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "beach volleyball,digging,receiving ball, low stance,focused,sports action,",
+        "male": "",
+        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "245"
     }
   ]
 ,

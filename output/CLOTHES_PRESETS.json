@@ -155,6 +155,19 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
+  "ビキニ(緑)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "green bikini bra with rebbon",
+    "girlBottom": "simple bikini panties,green bikini panties with rebbon",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
   "赤ちゃん": {
     "girlBaseClothes": "",
     "girlHead": "",
