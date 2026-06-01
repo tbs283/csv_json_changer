@@ -325,12 +325,12 @@
     "characterOnly": "\"トラブル/モモ\",\"トラブル/ナナ\",\"トラブル/ララ\",\"トラブル/ヤミ\""
   },
   "クローム制服": {
-    "girlBaseClothes": "school uniform,",
+    "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "school uniform,green clothes,",
-    "girlBottom": "green skirt,black belt,",
-    "girlUnder": "black boots,",
+    "girlTop": "school uniform,green clothes:tops",
+    "girlBottom": "green skirt,black belt:skirt",
+    "girlUnder": "black boots,boots",
     "panties": "white panties,",
     "bra": "white bra,",
     "clothesTopStatus": "6",
