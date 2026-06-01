@@ -1103,5 +1103,57 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"Blue Archive/シロコ\""
+  },
+  "乾心寿制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "gray vest:vest",
+    "girlTop": "white sailor,blue collar,green ribbon tie:sailor",
+    "girlBottom": "navy skirt:skirt",
+    "girlUnder": "white socks",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"その着せ替え人形は恋をする/乾心寿\""
+  },
+  "乾紗寿叶制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "black vest:vest",
+    "girlTop": "white sailor,red collar,yellow ribbon tie:sailor",
+    "girlBottom": "red skirt,thigh-high socks:skirt",
+    "girlUnder": "black thigh-high socks",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"その着せ替え人形は恋をする/乾紗寿叶\""
+  },
+  "喜多川海夢制服(夏)": {
+    "girlBaseClothes": "",
+    "girlHead": "choker",
+    "girlOuter": "",
+    "girlTop": "white shirt, green tie:shirt",
+    "girlBottom": "light blue skirt:skirt",
+    "girlUnder": "black socks:socks",
+    "panties": "black panties",
+    "bra": "black bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"その着せ替え人形は恋をする/喜多川海夢\""
+  },
+  "喜多川海夢制服(冬)": {
+    "girlBaseClothes": "",
+    "girlHead": "choker",
+    "girlOuter": "navy blazer",
+    "girlTop": "black vest,white shirt, red tie:shirt",
+    "girlBottom": "light blue skirt:skirt",
+    "girlUnder": "black socks:socks",
+    "panties": "black panties",
+    "bra": "black bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"その着せ替え人形は恋をする/喜多川海夢\""
   }
 }
