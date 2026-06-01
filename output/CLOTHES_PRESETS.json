@@ -1113,8 +1113,8 @@
     "girlUnder": "white socks",
     "panties": "pink panties",
     "bra": "pink bra",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
     "characterOnly": "\"その着せ替え人形は恋をする/乾心寿\""
   },
   "乾紗寿叶制服": {
@@ -1126,8 +1126,8 @@
     "girlUnder": "black thigh-high socks",
     "panties": "pink panties",
     "bra": "pink bra",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
     "characterOnly": "\"その着せ替え人形は恋をする/乾紗寿叶\""
   },
   "喜多川海夢制服(夏)": {
@@ -1139,8 +1139,8 @@
     "girlUnder": "black socks:socks",
     "panties": "black panties",
     "bra": "black bra",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
     "characterOnly": "\"その着せ替え人形は恋をする/喜多川海夢\""
   },
   "喜多川海夢制服(冬)": {
@@ -1152,8 +1152,34 @@
     "girlUnder": "black socks:socks",
     "panties": "black panties",
     "bra": "black bra",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
     "characterOnly": "\"その着せ替え人形は恋をする/喜多川海夢\""
+  },
+  "マーシャ制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "gray blazer:blazer",
+    "girlTop": "black tops,green tie:tops",
+    "girlBottom": "black skirt, black thigh-high socks:skirt",
+    "girlUnder": "black thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ロシデレ/マーシャ\""
+  },
+  "アーリャ制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "gray blazer:blazer",
+    "girlTop": "black tops,red tie:tops",
+    "girlBottom": "black skirt, black thigh-high socks:skirt",
+    "girlUnder": "white thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ロシデレ/アーリャ\""
   }
 }
