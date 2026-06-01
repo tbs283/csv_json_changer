@@ -1216,12 +1216,12 @@
     "ロシデレ/アーリャ": {
         "prompt": "alisa mikhailovna kujou, tokidoki bosotto roshia-go de dereru tonari no alya-san, ",
         "tag": ["ロシデレ"],
-        "defaultClothes": ""
+        "defaultClothes": "アーリャ制服"
     },
     "ロシデレ/マーシャ": {
         "prompt": "maria mikhailovna kujou, tokidoki bosotto roshia-go de dereru tonari no alya-san, ",
         "tag": ["ロシデレ"],
-        "defaultClothes": ""
+        "defaultClothes": "マーシャ制服"
     },
     "俺ガイル/結衣": {
         "prompt": "yuigahama yui,yahari ore no seishun lovecome wa machigatteiru., ",
