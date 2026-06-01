@@ -2088,8 +2088,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "廃屋": [
     {
       "title": "三角座り(通常)",
@@ -4614,8 +4613,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "旅館": [
     {
       "title": "正座",
@@ -6734,8 +6732,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "旅館(睡姦)": [
     {
       "title": "睡眠↑",
@@ -8912,8 +8909,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "温泉": [
     {
       "title": "ノーマル",
@@ -11061,8 +11057,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "ホテル脱衣": [
     {
       "title": "上着を脱ぐ",
@@ -11441,8 +11436,7 @@
       "clothesFlg": "32",
       "seed_id": "244"
     }
-  ]
-,
+  ],
   "ホテル": [
     {
       "title": "またがった状態でのパイズリ",
@@ -12894,8 +12888,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "ホテル2": [
     {
       "title": "フェラ(見せつけ)",
@@ -13419,8 +13412,7 @@
       "clothesFlg": "127",
       "seed_id": "115"
     }
-  ]
-,
+  ],
   "ラブホ": [
     {
       "title": "",
@@ -15568,8 +15560,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "カフェ": [
     {
       "title": "",
@@ -16036,238 +16027,6 @@
       "seed_id": "12"
     },
     {
-      "title": "フェラ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from above,girl focus,face focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upward gaze,surprised, tears,sad,nipples, grabbing penis,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "246"
-    },
-    {
-      "title": "フェラ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from above,girl focus,face focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upward gaze, tears,sad,nipples, fellatio,grabbing penis,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "221"
-    },
-    {
-      "title": "フェラ後ろ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from above,girl focus,face focus,",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "",
-        "male": "penis,business man,black jacket,white shirt,black pants, siting on chair",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking ahead, tears,sad,nipples, fellatio,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "222"
-    },
-    {
-      "title": "フェラ射精",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upward gaze, tears,sad,nipples, fellatio,grabbing penis,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "223"
-    },
-    {
-      "title": "パイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upward gaze, tears,sad,nipples, paizuri,grabbing own breast,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "224"
-    },
-    {
-      "title": "パイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "closing eyes,upward gaze, tears,sad,nipples, paizuri,grabbing own breast,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "225"
-    },
-    {
-      "title": "パイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair,cum shot",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upward gaze, facial,bukkake, surprised, tears,sad,nipples, paizuri,grabbing own breast,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "226"
-    },
-    {
-      "title": "パイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair,cum shot",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "closing eyes,screaming, facial,bukkake, surprised, tears,sad,nipples, paizuri,grabbing own breast,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "227"
-    },
-    {
       "title": "立バック",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -16276,7 +16035,7 @@
         "composition": "from behind,back shot",
         "play": "girl,solo",
         "girl": "focus on girl, girl focus,main subject girl,nipples,leaning forward,",
-        "girlAction": "against  counter table, looking back, crying,terror,sad,tear,embarrassed,heavy breath",
+        "girlAction": "against  wall, looking back, crying,terror,sad,tear,embarrassed,heavy breath",
         "male": "",
         "bgBase": "cafeteria",
         "bgTop": "white wall",
@@ -16315,7 +16074,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "against  counter table, looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall, looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16344,7 +16103,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "against  counter table, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16373,7 +16132,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "against  counter table, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16402,7 +16161,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "against  counter table,leg up, looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "against  wall,leg up, looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16643,6 +16402,180 @@
       "縦横比": "3",
       "clothesFlg": "63",
       "seed_id": "79"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind,",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,screaming,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "80"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind,",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,screaming,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "81"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from side,side shot,side view",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind,",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the floor, The body is facing the floor, looking ahead,facing down,character focus, top-down bottom-up.,the head put on the floor, crying,tear,sad,heavy breath,screaming,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "82"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from above,dutch-angle",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind,",
+        "male": "business man,black pants,pov, sex from behind,grabbing ass,",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting, The chin is touching the floor, The body is facing the floor, looking ahead,facing down,character focus, top-down bottom-up.,the head put on the floor, crying,tear,sad,heavy breath,screaming,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "83"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "84"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on,upper body shot,face focus,dutch-angle",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "all fours,",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "85"
     },
     {
       "title": "寝バック",
@@ -16769,9 +16702,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,imminent penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16779,7 +16712,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, Throw up one's hands,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, Throw up one's hands,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16798,9 +16731,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,imminent penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16808,7 +16741,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, Throw up one's hands,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, Throw up one's hands,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16827,9 +16760,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16837,7 +16770,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, Throw up one's hands,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, Throw up one's hands,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16856,9 +16789,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16866,7 +16799,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, Throw up one's hands,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, Throw up one's hands,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16885,9 +16818,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16895,7 +16828,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, covering own eyes,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, covering own eyes,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16914,9 +16847,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16924,7 +16857,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, covering own eyes,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, covering own eyes,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16943,9 +16876,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16953,7 +16886,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, covering own mouth,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, covering own mouth,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -16972,9 +16905,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -16982,7 +16915,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, covering own mouth,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, covering own mouth,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17001,9 +16934,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from\\ above,",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "m legs,the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabing wrist,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17011,7 +16944,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, brests press by arms from the side,both arms is being pulled straight down., forsed orgasm,penetrated,",
+        "girlAction": "m legs, the head on the café table, lying on back on the café table, tears,blush,screaming, brests press by arms from the side,both arms is being pulled straight down., forsed orgasm,penetrated,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17030,9 +16963,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,feet out of frame",
         "play": "1 girl,missionary",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "legs together,legs up.closing legs,the head on the cafe round table,lying on back on the cafe round table,",
+        "girlAction": "legs together,legs up.closing legs,the head on the café table,lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17040,7 +16973,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "the head on the cafe round table, lying on back on the cafe round table, tears,blush,screaming, Throw up one's hands,",
+        "girlAction": "the head on the café table, lying on back on the café table, tears,blush,screaming, Throw up one's hands,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17059,9 +16992,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
         "play": "1 girl,mating press",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "v legs, the head on the cafe round table, lying on back on the cafe round table,",
+        "girlAction": "v legs, the head on the café table, lying on back on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17069,7 +17002,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "from between the legs, v legs, the head on the cafe round table, lying on back on the cafe round table, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "girlAction": "from between the legs, v legs, the head on the café table, lying on back on the café table, tears,terror,blush,screaming, looking another, Throw up one's hands,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17088,9 +17021,9 @@
         "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
         "play": "1 girl,mating press",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "the head on the cafe round table, lying on back on the cafe round table,",
+        "girlAction": "the head on the café table, lying on back on the café table,",
         "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17098,7 +17031,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "v legs, the head on the cafe round table, lying on back on the cafe round table, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "girlAction": "v legs, the head on the café table, lying on back on the café table, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17117,9 +17050,9 @@
         "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
         "play": "spooning,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "legs together, the head on the cafe round table, lying on side on the cafe round table,",
+        "girlAction": "legs together, the head on the café table, lying on side on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair, penetrating,grabbing ass,,kneeling",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17127,7 +17060,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing cafe round table, the head on the cafe round table, lying on side on the cafe round table, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing café table, the head on the café table, lying on side on the café table, tears,terror,blush,screaming, looking at viewer,facing viewer",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17146,9 +17079,9 @@
         "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
         "play": "spooning,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leg up, the head on the cafe round table, lying on side on the cafe round table,",
+        "girlAction": "leg up, the head on the café table, lying on side on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair, penetrating,grabbing leg,kneeling",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17156,7 +17089,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing cafe round table, the head on the cafe round table, lying on side on the cafe round table, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing café table, the head on the café table, lying on side on the café table, tears,terror,blush,screaming, looking at viewer,facing viewer",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17175,9 +17108,9 @@
         "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
         "play": "spooning,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leg up, the head on the cafe round table, lying on side on the cafe round table,",
+        "girlAction": "leg up, the head on the café table, lying on side on the café table,",
         "male": "business man,black pants,simple man,no face,no detail man,no hair, penetrating,grabbing leg,kneeling",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17185,7 +17118,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing cafe round table, the head on the cafe round table, lying on side on the cafe round table, tears,terror,blush,screaming, looking at another,facing another,",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing café table, the head on the café table, lying on side on the café table, tears,terror,blush,screaming, looking at another,facing another,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -17204,9 +17137,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
         "play": "spooning,after sex,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "the head on the cafe round table, lying on side on the cafe round table, looking away,facing down,both hands against cafe round table,",
+        "girlAction": "the head on the café table, lying on side on the café table, looking away,facing down,both hands against café table,",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,round table,woody table",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -17225,763 +17158,6 @@
       "seed_id": "107"
     },
     {
-      "title": "対面駅弁(suspended congress)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
-        "play": "1 girl,suspended congress,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,",
-        "girlAction": "m legs,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "119",
-      "seed_id": "125"
-    },
-    {
-      "title": "対面駅弁(suspended congress)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,ass focus,from behind,back shot",
-        "play": "1 girl,suspended congress,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,",
-        "girlAction": "m legs,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "ass focus looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "119",
-      "seed_id": "126"
-    },
-    {
-      "title": "対面駅弁(suspended congress)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,from side,",
-        "play": "1 girl,suspended congress,",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,",
-        "girlAction": "hugging,m legs,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "ass focus looking ahead,facing ahead, breast press, dripping semen,forsed orgasm,squirting, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "127"
-    },
-    {
-      "title": "背面座位(reverse upright straddle)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle",
-        "play": "1 girl,reverse upright straddle,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning back, natural body curve,sitting on the boy,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,bald head,no face,no detail man,no hair,imminent penetration,grabbing thigh,sitting on the chair",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "struggle, looking at viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,surprising, covering own mouth",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "119"
-    },
-    {
-      "title": "背面座位(reverse upright straddle)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle",
-        "play": "1 girl,reverse upright straddle,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning back, natural body curve,sitting on the boy,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,bald head,no face,no detail man,no hair,penetrating,hugging,sitting on the chair",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "struggle, looking at viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "120"
-    },
-    {
-      "title": "背面座位(reverse upright straddle)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle",
-        "play": "1 girl,reverse upright straddle,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning back, natural body curve,sitting on the boy,legs together,closing legs",
-        "male": "business man,black jacket,white shirt,black pants,simple man,bald head,no face,no detail man,no hair,penetrating,hugging,sitting on the chair",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "struggle, looking at viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "121"
-    },
-    {
-      "title": "正常位事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from above,pussy focus",
-        "play": "1 girl,after sex",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,dripped semen from pussy looking away,facing away, lying on back on the cafe round table, tired,drool",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "103"
-    },
-    {
-      "title": "事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from below",
-        "play": "1 girl, solo,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,feet out of frame,nipples",
-        "girlAction": "looking at viewer,facing viewer, leaning back,m legs,dripping semen,sitting on the cafe round table, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "133"
-    },
-    {
-      "title": "事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,from behind,facial,ass focus,",
-        "play": "1 girl, solo,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "Squinting,nipples,breasts, The chin is touching the floor, The body is facing the floor, top-down bottom-up.,the head put on the floor, looking back,facing back, leaning forward,all fours,dripping semen,grabbing floor, crying,terror,sad,tear,embarrassed,heavy breath",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "134"
-    },
-    {
-      "title": "事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,face between the legs,from below,feet out of frame,",
-        "play": "1 girl, solo,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "Squinting,nipples,breasts, The chin is touching the floor, The body is facing the floor, top-down bottom-up.,the head put on the floor, looking back,facing back, leaning forward,all fours,dripping semen, crying,terror,sad,tear,embarrassed,heavy breath",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "2",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "135"
-    },
-    {
-      "title": "事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,from behind,",
-        "play": "1 girl, solo,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "wariza,ass focus, Squinting, looking back,facing back, dripping semen, tired,terror,sad,tear,embarrassed,heavy breath,",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "136"
-    },
-    {
-      "title": "事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,from above,",
-        "play": "1 girl, solo,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "wariza,face focus, Squinting, upward gaze, dripping semen, tired,terror,sad,tear,embarrassed,heavy breath,",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "137"
-    },
-    {
-      "title": "事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from above,feet out of frame",
-        "play": "1 girl, solo,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "the head on the cafe round table, lying on back on the cafe round table, tired,heavy breath,tears,blush",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "138"
-    },
-    {
-      "title": "事後",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,full bosy shot,from above,feet out of frame",
-        "play": "1 girl, solo,after sex,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "facial,bukkake, the head on the cafe round table, lying on back on the cafe round table\", tired,heavy breath,tears,blush,m legs",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "139"
-    }
-  ]
-,
-  "カフェ追加": [
-    {
-      "title": "痴漢(立)(口抑え)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, covering girl's mouth from behind,stand up behind the girl,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "surprised,tears, looking back, covered mouth by the another, grabbing another's arm",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "7",
-      "seed_id": "1"
-    },
-    {
-      "title": "痴漢(立)(乳揉み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind over the clothes,stand up behind the girl,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upper body shot, surprised,tears, looking back, grabbing another's arm",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "7",
-      "seed_id": "2"
-    },
-    {
-      "title": "痴漢(立)(乳揉み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,stand up behind the girl,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upper body shot, surprised,tears, looking back, grabbing another's arm",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "3"
-    },
-    {
-      "title": "痴漢(立)(乳揉み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle, upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,stand up behind the girl,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "upper body shot, surprised,tears, looking back, grabbing another's arm",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "15",
-      "seed_id": "4"
-    },
-    {
-      "title": "痴漢(立)(乳太腿揉み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle, cowboy shot,medium close-up, from front,straight-on,",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "surprised,tears, looking back,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "5"
-    },
-    {
-      "title": "痴漢(立)(乳太腿揉み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle, cowboy shot, head out of frame, cropped head, body focus, legs visible, from neck down, standing",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "6"
-    },
-    {
-      "title": "痴漢(立)(太腿揉み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,touching girl's thigh,stand up behind the girl,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "48",
-      "seed_id": "7"
-    },
-    {
-      "title": "痴漢(立)(手マン)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, stand up behind the girl,fingering,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "squirting,forsed orgasm, grabbing another's arm, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "62",
-      "seed_id": "8"
-    },
-    {
-      "title": "痴漢(立)(手マン)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle, cowboy shot,medium close-up, from front",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,stand up behind the girl,fingering,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "leaning forward, squirting,forsed orgasm,screaming, upper body shot,surprised,tears, looking back, grabbing another's arm resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "9"
-    },
-    {
-      "title": "痴漢(立)(絶頂)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,stand up behind the girl,fingering,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": ",leaning forward, squirting,forsed orgasm,screaming, upper body shot,  surprised,tears, looking back, covering own mouth",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "10"
-    },
-    {
-      "title": "痴漢(立)(絶頂)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair, grabbing girl's breast from behind,stand up behind the girl,fingering,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": ",leaning forward, squirting,forsed orgasm,screaming, upper body shot,  surprised,tears, screaming",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "11"
-    },
-    {
-      "title": "痴漢(事後)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
-        "play": "1 girl, solo,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "12"
-    },
-    {
       "title": "フェラ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -17991,8 +17167,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
+        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18020,8 +17196,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
+        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18049,8 +17225,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl",
         "girlAction": "",
-        "male": "penis,business man,black jacket,white shirt,black pants, siting on chair",
-        "bgBase": "cafeteria",
+        "male": "penis,business man,black jacket,white shirt,black pants, siting on sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18078,8 +17254,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
+        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18107,8 +17283,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
+        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18136,8 +17312,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair",
-        "bgBase": "cafeteria",
+        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18165,8 +17341,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair,cum shot",
-        "bgBase": "cafeteria",
+        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on sofa,cum shot",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18194,8 +17370,8 @@
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
-        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on chair,cum shot",
-        "bgBase": "cafeteria",
+        "male": "penis,out of frame,business man,black jacket,white shirt,black pants,pov  crotch,pov legs,siting on sofa,cum shot",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18214,383 +17390,6 @@
       "seed_id": "227"
     },
     {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "from behind,back shot",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,leaning forward,",
-        "girlAction": "against  counter table, looking back, crying,terror,sad,tear,embarrassed,heavy breath",
-        "male": "",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "67"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from side,side view,side shot,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning forward,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "against  counter table, looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "68"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from side,side view,side shot,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning forward,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "against  counter table, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "69"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from behind,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing,grabbing waist,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "against  counter table, looking back,facing back, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "70"
-    },
-    {
-      "title": "立バック(足上げ)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from behind,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning forward,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing,grabbing leg,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "against  counter table,leg up, looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "71"
-    },
-    {
-      "title": "立バック(腕掴み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,straight-on,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning forward,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking back,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "72"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,straight-on,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning forward,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "73"
-    },
-    {
-      "title": "立バック(腕掴み横)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning forward,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing, grabbing wrist,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking ahead,facing ahead, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "74"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,straight-on,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "sex from behind,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing, grabbing breasts,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "75"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,straight-on,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "sex from behind,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing, grabbing breasts,",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking back,facing ahead, leaning forward,dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "76"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,straight-on,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing, hugging from behind",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking back,facing ahead, leaning forward,dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "77"
-    },
-    {
-      "title": "立バック",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,straight-on,",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,standing, hugging from behind",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "1",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "78"
-    },
-    {
-      "title": "立バック(胸部フォーカス)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle, upper body, torso focus, cropped head, head out of frame, neck down, from shoulders to waist, body focus, from front",
-        "play": "1 girl,sex from behind",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "business man,black jacket,white shirt,black pants,standing,hugging from behind",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "facing viewer,struggling,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "79"
-    },
-    {
       "title": "対面座位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -18600,8 +17399,8 @@
         "play": "1 girl,upright straddle,",
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "arching the upper body, leaning back, natural body curve,sitting on the boy,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair,penetrating,hugging,sitting on the chair",
-        "bgBase": "cafeteria",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair,penetrating,hugging,sitting on the sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18629,8 +17428,8 @@
         "play": "1 girl,upright straddle,",
         "girl": "focus on girl, girl focus,main subject girl,top of head,",
         "girlAction": "french kiss, arching the upper body, leaning back, natural body curve,sitting on the boy,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair,penetrating,grabbing ass,spread ass,sitting on the chair",
-        "bgBase": "cafeteria",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair,penetrating,grabbing ass,spread ass,sitting on the sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18658,8 +17457,8 @@
         "play": "1 girl,upright straddle,",
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "arching the upper body, leaning back, natural body curve,sitting on the boy,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair,penetrating,hugging,sitting on the chair",
-        "bgBase": "cafeteria",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,bald head,no hair,penetrating,hugging,sitting on the sofa",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18678,93 +17477,6 @@
       "seed_id": "118"
     },
     {
-      "title": "背面座位(reverse upright straddle)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle",
-        "play": "1 girl,reverse upright straddle,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning back, natural body curve,sitting on the boy,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,bald head,no face,no detail man,no hair,imminent penetration,grabbing thigh,sitting on the chair",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "struggle, looking at viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,surprising, covering own mouth",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "119"
-    },
-    {
-      "title": "背面座位(reverse upright straddle)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle",
-        "play": "1 girl,reverse upright straddle,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning back, natural body curve,sitting on the boy,",
-        "male": "business man,black jacket,white shirt,black pants,simple man,bald head,no face,no detail man,no hair,penetrating,hugging,sitting on the chair",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "struggle, looking at viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "120"
-    },
-    {
-      "title": "背面座位(reverse upright straddle)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle",
-        "play": "1 girl,reverse upright straddle,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "leaning back, natural body curve,sitting on the boy,legs together,closing legs",
-        "male": "business man,black jacket,white shirt,black pants,simple man,bald head,no face,no detail man,no hair,penetrating,hugging,sitting on the chair",
-        "bgBase": "cafeteria",
-        "bgTop": "white wall",
-        "bgBottom": "woody floor"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "struggle, looking at viewer, dripping semen,forsed orgasm,squirting,penetrated, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "55",
-      "seed_id": "121"
-    },
-    {
       "title": "正常位事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -18773,9 +17485,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from above,pussy focus",
         "play": "1 girl,after sex",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,dripped semen from pussy looking away,facing away, lying on back on the cafe round table, tired,drool",
+        "girlAction": "m legs,dripped semen from pussy looking away,facing away, lying on back on the floor, tired,drool",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18783,7 +17495,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "m legs, the head on the cafe round table, lying on back on the cafe round table, tears,blush",
+        "girlAction": "m legs, the head on the floor, lying on back on the floor, tears,blush",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
@@ -18802,9 +17514,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from below",
         "play": "1 girl, solo,after sex,",
         "girl": "focus on girl, girl focus,main subject girl,feet out of frame,nipples",
-        "girlAction": "looking at viewer,facing viewer, leaning back,m legs,dripping semen,sitting on the cafe round table, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
+        "girlAction": "looking at viewer,facing viewer, leaning back,m legs,dripping semen,sitting on the floor, crying,terror,sad,tear,embarrassed,heavy breath,screaming,",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18833,7 +17545,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "Squinting,nipples,breasts, The chin is touching the floor, The body is facing the floor, top-down bottom-up.,the head put on the floor, looking back,facing back, leaning forward,all fours,dripping semen,grabbing floor, crying,terror,sad,tear,embarrassed,heavy breath",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18862,7 +17574,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "Squinting,nipples,breasts, The chin is touching the floor, The body is facing the floor, top-down bottom-up.,the head put on the floor, looking back,facing back, leaning forward,all fours,dripping semen, crying,terror,sad,tear,embarrassed,heavy breath",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18891,7 +17603,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "wariza,ass focus, Squinting, looking back,facing back, dripping semen, tired,terror,sad,tear,embarrassed,heavy breath,",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18920,7 +17632,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "wariza,face focus, Squinting, upward gaze, dripping semen, tired,terror,sad,tear,embarrassed,heavy breath,",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "white wall",
         "bgBottom": "woody floor"
       },
@@ -18947,9 +17659,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from above,feet out of frame",
         "play": "1 girl, solo,after sex,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "the head on the cafe round table, lying on back on the cafe round table, tired,heavy breath,tears,blush",
+        "girlAction": "the head on the floor, lying on back on the floor, tired,heavy breath,tears,blush",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18976,9 +17688,9 @@
         "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,full bosy shot,from above,feet out of frame",
         "play": "1 girl, solo,after sex,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "facial,bukkake, the head on the cafe round table, lying on back on the cafe round table\", tired,heavy breath,tears,blush,m legs",
+        "girlAction": "facial,bukkake, the head on the floor, lying on back on the floor\", tired,heavy breath,tears,blush,m legs",
         "male": "",
-        "bgBase": "cafeteria",
+        "bgBase": "cafeteria,red diner-style ooth sofa, cushioned bench seat",
         "bgTop": "",
         "bgBottom": "woody floor"
       },
@@ -18996,8 +17708,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "ベッドルーム(睡姦)": [
     {
       "title": "睡眠↑",
@@ -21174,8 +19885,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "ベッドルーム": [
     {
       "title": "",
@@ -23323,8 +22033,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "援助交際①": [
     {
       "title": "胸を抱いてる",
@@ -23819,8 +22528,7 @@
       "clothesFlg": "127",
       "seed_id": "22"
     }
-  ]
-,
+  ],
   "援助交際②": [
     {
       "title": "胸を抱いてる",
@@ -26432,8 +25140,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "森": [
     {
       "title": "迷子",
@@ -28842,8 +27549,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "洞窟": [
     {
       "title": "迷子",
@@ -31281,8 +29987,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "海(エロなし)": [
     {
       "title": "海",
@@ -31342,8 +30047,7 @@
       "clothesFlg": "23",
       "seed_id": "245"
     }
-  ]
-,
+  ],
   "海": [
     {
       "title": "痴漢(立)(口抑え)",
@@ -33259,8 +31963,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "学校のプール": [
     {
       "title": "",
@@ -34596,8 +33299,7 @@
       "clothesFlg": "127",
       "seed_id": "127"
     }
-  ]
-,
+  ],
   "学校のプールサイド": [
     {
       "title": "バック",
@@ -35440,8 +34142,7 @@
       "clothesFlg": "127",
       "seed_id": "139"
     }
-  ]
-,
+  ],
   "触手": [
     {
       "title": "触手(上半身)(両手上げ)",
@@ -35907,8 +34608,7 @@
       "clothesFlg": "48",
       "seed_id": "181"
     }
-  ]
-,
+  ],
   "教室": [
 
   ]
