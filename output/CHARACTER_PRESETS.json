@@ -1572,5 +1572,20 @@
         "prompt": "miyu edelfelt, prisma illya, ",
         "tag": ["プリヤ"],
         "defaultClothes": "美遊制服"
+    },
+    "その着せ替え人形は恋をする/喜多川海夢": {
+        "prompt": "kitagawa marin, sono bisque doll wa koi wo suru, ",
+        "tag": ["その着せ替え人形は恋をする","着せ恋"],
+        "defaultClothes": "喜多川海夢制服(夏)"
+    },
+    "その着せ替え人形は恋をする/乾紗寿叶": {
+        "prompt": "inui sajuna, sono bisque doll wa koi wo suru, ",
+        "tag": ["その着せ替え人形は恋をする","着せ恋"],
+        "defaultClothes": ""
+    },
+    "その着せ替え人形は恋をする/乾心寿": {
+        "prompt": "inui shinju (anime), sono bisque doll wa koi wo suru, ",
+        "tag": ["その着せ替え人形は恋をする","着せ恋"],
+        "defaultClothes": "乾心寿制服"
     }
 }
