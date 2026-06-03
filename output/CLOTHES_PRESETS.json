@@ -1194,5 +1194,44 @@
     "clothesTopStatus": "6",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ロシデレ/アーリャ\""
+  },
+  "れな子制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt,red ribbon tie,gray cardigan around the waist:shirt",
+    "girlBottom": "gray checked skirt:skirt",
+    "girlUnder": "black socks",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"わたなれ/甘織れな子\""
+  },
+  "紫陽花制服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt,red ribbon tie:shirt",
+    "girlBottom": "gray checked skirt:skirt",
+    "girlUnder": "white socks",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"わたなれ/瀬名紫陽花\""
+  },
+  "香穂制服": {
+    "girlBaseClothes": "",
+    "girlHead": "yellow hair ribbon",
+    "girlOuter": "",
+    "girlTop": "white shirt,black inner,turtleneck:shirt",
+    "girlBottom": "gray checked skirt,black thigh-high socks:skirt",
+    "girlUnder": "black thigh-high socks",
+    "panties": "light blue panties",
+    "bra": "light blue bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"わたなれ/小柳香穂\""
   }
 }

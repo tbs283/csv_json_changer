@@ -1143,20 +1143,20 @@
         "tag": ["お隣の天使様にダメ人間にされてしまった件", "お隣の天使様", "天使様"],
         "defaultClothes": "椎名真昼制服"
     },
-    "私が恋人になれるわけないじゃん無理無理/甘織れな子": {
+    "わたなれ/甘織れな子": {
         "prompt": "amaori renako, watashi ga koibito ni nareru wake naijan murimuri!, ",
-        "tag": ["私が恋人になれるわけないじゃん無理無理"],
-        "defaultClothes": ""
+        "tag": ["私が恋人になれるわけないじゃん無理無理", "わたなれ"],
+        "defaultClothes": "れな子制服"
     },
-    "私が恋人になれるわけないじゃん無理無理/瀬名紫陽花": {
+    "わたなれ/瀬名紫陽花": {
         "prompt": "sena ajisai, watashi ga koibito ni nareru wake naijan murimuri!, ",
-        "tag": ["私が恋人になれるわけないじゃん無理無理"],
-        "defaultClothes": ""
+        "tag": ["私が恋人になれるわけないじゃん無理無理", "わたなれ"],
+        "defaultClothes": "紫陽花制服"
     },
-    "私が恋人になれるわけないじゃん無理無理/小柳果歩": {
+    "わたなれ/小柳香穂": {
         "prompt": "koyanagi kaho, watashi ga koibito ni nareru wake naijan murimuri!,",
-        "tag": ["私が恋人になれるわけないじゃん無理無理"],
-        "defaultClothes": ""
+        "tag": ["私が恋人になれるわけないじゃん無理無理", "わたなれ"],
+        "defaultClothes": "香穂制服"
     },
     "SAO/アスナ": {
         "prompt": "yuuki asuna (anime), sword art online,",
