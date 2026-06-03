@@ -119,7 +119,20 @@
   "温泉": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "",
+    "girlOuter": "no accessory,less accessory",
+    "girlTop": "white bath towel wrapped around body, secure towel fit,wet body",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": ""
+  },
+  "温泉(お団子頭)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "bun hair",
     "girlTop": "no accessory,less accessory,white bath towel wrapped around body, secure towel fit,wet body,",
     "girlBottom": "",
     "girlUnder": "",
