@@ -32882,7 +32882,7 @@
         "girlAction": "",
         "male": "{man}{man_up}black hair, grabbing girl's left shoulder",
         "bgBase": "school classroom interior,japanese classroom",
-        "bgTop": "black board",
+        "bgTop": "",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -32940,7 +32940,7 @@
         "girlAction": "",
         "male": "{man}{man_up} grabbing girl's left shoulder",
         "bgBase": "school classroom interior,japanese classroom",
-        "bgTop": "black board",
+        "bgTop": "",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -32998,7 +32998,7 @@
         "girlAction": "",
         "male": "{man}{man_up} grabbing girl's breast",
         "bgBase": "school classroom interior,japanese classroom",
-        "bgTop": "black board",
+        "bgTop": "",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -33056,7 +33056,7 @@
         "girlAction": "",
         "male": "{man}{man_up} grabbing girl's breast,touching girl's thigh",
         "bgBase": "school classroom interior,japanese classroom",
-        "bgTop": "black board",
+        "bgTop": "",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -33114,7 +33114,7 @@
         "girlAction": "",
         "male": "{man}{man_up}no face, grabbing girl's breast,licking girl's nipple",
         "bgBase": "school classroom interior,japanese classroom",
-        "bgTop": "black board",
+        "bgTop": "",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -33172,7 +33172,7 @@
         "girlAction": "",
         "male": "{man}{man_up}no face, grabbing girl's breast,licking girl's nipple,grabbing arm",
         "bgBase": "school classroom interior,japanese classroom",
-        "bgTop": "black board",
+        "bgTop": "",
         "bgBottom": ""
       },
       "charaVariable": {
@@ -33201,7 +33201,7 @@
         "girlAction": "",
         "male": "{man}{man_up}no face, nipples,licking pussy,grabbing thigh,back shot,in front of the girl",
         "bgBase": "school classroom interior,japanese classroom",
-        "bgTop": "",
+        "bgTop": "black board",
         "bgBottom": ""
       },
       "charaVariable": {
