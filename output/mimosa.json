@@ -33247,5 +33247,297 @@
       "clothesFlg": "95",
       "seed_id": "157"
     }
+  ],
+  "教室2": [
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,imminent penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "90"
+    },
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,imminent penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "91"
+    },
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "92"
+    },
+    {
+      "title": "正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "93"
+    },
+    {
+      "title": "正常位(目隠し)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, covering own eyes,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "94"
+    },
+    {
+      "title": "正常位(目隠し)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, covering own eyes,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "95"
+    },
+    {
+      "title": "正常位(口抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, covering own mouth,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "96"
+    },
+    {
+      "title": "正常位(口抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, covering own mouth,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "97"
+    },
+    {
+      "title": "正常位(腕掴み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from\\ above,",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabing wrist,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "m legs, the head on the desk, lying on back on the desk, tears,blush,screaming, brests press by arms from the side,both arms is being pulled straight down., forsed orgasm,penetrated,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "98"
+    },
+    {
+      "title": "足を閉じた正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,feet out of frame",
+        "play": "1 girl,missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together,legs up.closing legs,the head on the desk,lying on back on the desk,",
+        "male": "students,blue pants,simple man,no face,no detail man,no hair,pov penis,grabbing thigh,penetration,",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": "desk"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "the head on the desk, lying on back on the desk, tears,blush,screaming, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "99"
+    }
   ]
 }
