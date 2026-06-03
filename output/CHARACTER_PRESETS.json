@@ -1607,5 +1607,10 @@
         "prompt": "inui shinju (anime), sono bisque doll wa koi wo suru, ",
         "tag": ["その着せ替え人形は恋をする","着せ恋"],
         "defaultClothes": "乾心寿制服"
+    },
+    "テスト/": {
+        "prompt": "",
+        "tag": [""],
+        "defaultClothes": ""
     }
 }
