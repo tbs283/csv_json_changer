@@ -908,6 +908,26 @@
         "tag": ["ごちうさ"],
         "defaultClothes": "ごちうさ_モカ_ラビットハウス"
     },
+    "ぼざろ/ぼっちちゃん": {
+        "prompt": "",
+        "tag": ["ぼざろ", "ボッチザロック"],
+        "defaultClothes": ""
+    },
+    "ぼざろ/喜多ちゃん": {
+        "prompt": "",
+        "tag": ["ぼざろ", "ボッチザロック"],
+        "defaultClothes": ""
+    },
+    "ぼざろ/虹香ちゃん": {
+        "prompt": "",
+        "tag": ["ぼざろ", "ボッチザロック"],
+        "defaultClothes": ""
+    },
+    "ぼざろ/山田": {
+        "prompt": "",
+        "tag": ["ぼざろ", "ボッチザロック"],
+        "defaultClothes": ""
+    },
     "推しの子/あかね": {
         "prompt": "kurokawa akane (anime), oshi no ko,",
         "tag": ["推しの子"],
