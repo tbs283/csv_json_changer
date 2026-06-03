@@ -1,6 +1,93 @@
 ﻿{
   "廃墟": [
     {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "144"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "208"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "209"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -4239,6 +4326,35 @@
   ],
   "旅館": [
     {
+      "title": "正座",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up,full body shot,dutch-angle,from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, seiza,both hands on the knee, upward gaze,looking at veiwer,facing down,",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "87",
+      "seed_id": "143"
+    },
+    {
       "title": "胸を抱いてる",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -8360,6 +8476,93 @@
     }
   ],
   "温泉": [
+    {
+      "title": "ノーマル",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,close-up, dutch-angle,from side,face focus,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "sitting on bath edge,  feet near water surface, hands on the knee, leaning forward, sideways glance at viewer",
+        "male": "",
+        "bgBase": "outdoor,onsen, natural hot spring pool,surrounding autumn foliage,night",
+        "bgTop": "moon light,smooth stone bath edges,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "119",
+      "seed_id": "146"
+    },
+    {
+      "title": "ノーマル温泉",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up, upper body shot,",
+        "play": "girl,solo",
+        "girl": "girl, cropped torso",
+        "girlAction": "blush,curious expression,soaking in hot spring water,water level up to chest,",
+        "male": "",
+        "bgBase": "outdoor,onsen, natural hot spring pool,surrounding autumn foliage,night",
+        "bgTop": "moon light,smooth stone bath edges,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "7",
+      "seed_id": "147"
+    },
+    {
+      "title": "ノーマル温泉後ろ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "girl focus,focus on girl,main subject,portrait,close-up, upper body shot,from behind",
+        "play": "girl,solo",
+        "girl": "girl, cropped torso",
+        "girlAction": "blush,surprised,soaking in hot spring water,water level up to chest,leaning back,looking back",
+        "male": "",
+        "bgBase": "outdoor,onsen, natural hot spring pool,surrounding autumn foliage,night",
+        "bgTop": "moon light,smooth stone bath edges,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "1",
+      "clothesFlg": "7",
+      "seed_id": "148"
+    },
     {
       "title": "痴漢(立)(口抑え)",
       "base": {
@@ -14634,6 +14837,122 @@
     }
   ],
   "カフェ": [
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, holding a brown menu against her chest, looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "210"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from side",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, guiding customer to a seat with her hand, open palm gesture, welcoming pose,holding a brown menu,looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "211"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, portrait, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "smiling waitress girl, friendly expression, guiding customer to a seat with her hand, open palm gesture, welcoming pose,holding a brown menu,looking at viewer,standing, soft smile,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "212"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back, surprising,waitress girl, holding a brown menu against her chest, looking at viewer,standing,",
+        "male": "",
+        "bgBase": "cafeteria",
+        "bgTop": "white wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "213"
+    },
     {
       "title": "痴漢(立)(口抑え)",
       "base": {
@@ -23432,6 +23751,93 @@
   ],
   "森": [
     {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "144"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "208"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "misty night air,",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "209"
+    },
+    {
       "title": "痴漢(立)(口抑え)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -25608,6 +26014,93 @@
     }
   ],
   "洞窟": [
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "rock wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "144"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side,side veiw",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "tears,sad,embarrassed,hands on the chest scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "rock wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "208"
+    },
+    {
+      "title": "迷子",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from behind",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "looking back,surprising,tears,sad,embarrassed,hands on the chest, scanning surroundings, searching for someone, looking around cautiously",
+        "male": "",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "rock wall",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "209"
+    },
     {
       "title": "痴漢(立)(口抑え)",
       "base": {
@@ -27814,7 +28307,64 @@
     }
   ],
   "海(エロなし)": [
-
+    {
+      "title": "海",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, medium close-up, focus on upper body, from front,straight-on",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "playful smile, energetic expression, playing in the sea, water droplets, dynamic pose, wind-blown hair,",
+        "male": "",
+        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "228"
+    },
+    {
+      "title": "海(ビーチバレー)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, medium close-up, focus on upper body, from above",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "facing viewer,standing, hand raised toward the sun, looking up,squinting, sunlight through fingers, smile, wind-blown hair",
+        "male": "",
+        "bgBase": "beach, seaside, ocean waves, blue sky, sunny day,splashing water, wet skin,summer atmosphere, vibrant lighting, refreshing scene, cinematic composition,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "245"
+    }
   ],
   "海": [
     {
@@ -29733,6 +30283,93 @@
     }
   ],
   "学校のプール": [
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "girl playing in an outdoor pool, splashing water, cheerful smile, playful pose, lively expression",
+        "male": "",
+        "bgBase": "outdoor pool,wet skin, splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "214"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, medium close-up, upper torso, focus on upper body, from behind,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "looking ahead, girl playing in an outdoor pool, splashing water, cheerful smile,playful pose, lively expression",
+        "male": "",
+        "bgBase": "outdoor pool,wet skin, splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "215"
+    },
+    {
+      "title": "",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, medium close-up, upper torso, focus on upper body, from behind,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "looking back, surprising, splashing water,playful pose, lively expression",
+        "male": "",
+        "bgBase": "outdoor pool,wet skin, splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "216"
+    },
     {
       "title": "フェラ",
       "base": {
@@ -31680,7 +32317,470 @@
     }
   ],
   "触手": [
-
+    {
+      "title": "触手(上半身)(両手上げ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "surprised,blush,tears,sad,crying,sweatdrop,  arms together,rising both arms,looking at viewer,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the arms,over the clothes, hold up the girl,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "162"
+    },
+    {
+      "title": "触手(上半身)(胸巻き付き)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "surprised,blush,tears,sad,crying,sweatdrop,  arms together,rising both arms,looking own breast,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the arms,over the clothes,tentacles around the chest, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "163"
+    },
+    {
+      "title": "触手(上半身)(顔なめ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "surprised,blush,tears,sad,crying,sweatdrop,  arms together,rising both arms,looking away,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the arms,over the clothes,tentacles around the breasts,tentacles licking girl's face, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "164"
+    },
+    {
+      "title": "触手(上半身)(腋舐め)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "surprised,blush,tears,sad,crying,sweatdrop,  arms together,rising both arms,looking at own armpit,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the arms,over the clothes,tentacles around the breasts,tentacles licking girl's armpit, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "165"
+    },
+    {
+      "title": "触手(下半身)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle, upper body out of frame, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "sweatdrop, body suspended in midair,",
+        "male": "pink tentacles,tentacles around the waist,over the clothes,tentacles around the thigh, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "16",
+      "seed_id": "166"
+    },
+    {
+      "title": "触手(下半身)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle, upper body out of frame, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "sweatdrop, spread legs,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the waist,over the clothes,tentacles around the thigh, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "48",
+      "seed_id": "168"
+    },
+    {
+      "title": "触手(下半身)(パンツイン)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle, upper body out of frame, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "sweatdrop, body suspended in midair,",
+        "male": "pink tentacles,tentacles around the waist,over the clothes,tentacles around the thigh,tentacles in panties, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "48",
+      "seed_id": "169"
+    },
+    {
+      "title": "触手(下半身)(パンツイン)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle, upper body out of frame, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "sweatdrop, m legs,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the waist,over the clothes,tentacles around the thigh,tentacles in panties, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "48",
+      "seed_id": "170"
+    },
+    {
+      "title": "触手(顔)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "blush,tears,sad,crying,sweatdrop,  looking ahead,",
+        "male": "pink tentacles,tentacles around the girl,over the clothes,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "171"
+    },
+    {
+      "title": "触手(顔)(口)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "blush,tears,sad,crying,sweatdrop,  looking ahead,",
+        "male": "pink tentacles,tentacles around the girl,over the clothes,tentacles in mouth",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "172"
+    },
+    {
+      "title": "触手(顔)(顔舐め)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "blush,tears,sad,crying,sweatdrop,  looking ahead,nipples,",
+        "male": "pink tentacles,tentacles around the girl,over the clothes,licking face,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "176"
+    },
+    {
+      "title": "触手(顔)(乳首舐め)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "blush,tears,sad,crying,sweatdrop,  looking ahead,nipples,",
+        "male": "pink tentacles,tentacles around the girl,over the clothes,licking nipple,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "177"
+    },
+    {
+      "title": "触手(顔)(谷間)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "blush,tears,sad,crying,sweatdrop,  looking ahead,nipples,",
+        "male": "pink tentacles,tentacles around the girl,over the clothes,licking nipple,stucking in the cleavage",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "7",
+      "seed_id": "178"
+    },
+    {
+      "title": "触手(下半身)(パンツイン)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, upper body out of frame, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,pussy,",
+        "girlAction": "sweatdrop, m legs,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the waist,over the clothes,tentacles around the thigh,tentacles in panties, hold up the girl",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "48",
+      "seed_id": "179"
+    },
+    {
+      "title": "触手(下半身)(挿入)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle, upper body out of frame, lower body focus, legs focus, hip focus, thigh focus, cropped torso, from waist down, close-up, from front, thick thighs, thigh focus, upper legs, zettai ryouiki",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,pussy,",
+        "girlAction": "sweatdrop, m legs,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the waist,over the clothes,tentacles around the thigh,tentacles in panties, hold up the girl,penetration in the pussy,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "48",
+      "seed_id": "180"
+    },
+    {
+      "title": "触手(全身)(挿入)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,portrait,dutch-angle,from front,cowboy shot,straight-on,",
+        "play": "1 girl, solo,",
+        "girl": "focus on girl, girl focus,main subject girl,pussy,nipples,",
+        "girlAction": "sweatdrop, m legs,body suspended in midair,",
+        "male": "pink tentacles,tentacles around the waist,over the clothes,tentacles around the thigh,tentacles in panties, hold up the girl,penetration in the pussy,",
+        "bgBase": "dark forest, dense trees,  wet bark, silent and eerie atmosphere,in air,",
+        "bgTop": "misty night air,",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "torn clothes,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "48",
+      "seed_id": "181"
+    }
   ],
   "教室": [
     {
@@ -31776,6 +32876,35 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from above",
+        "play": "girl,solo",
+        "girl": "girl",
+        "girlAction": "",
+        "male": "{man}{man_up}bald head, grabbing girl's left shoulder",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "black board",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,terror,screaming,looking at someone, standing, facing someone at close distance, looking at viewer,another",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "247"
+    },
+    {
+      "title": "押し倒し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
         "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from side",
         "play": "girl,solo",
         "girl": "girl",
@@ -31798,6 +32927,35 @@
       "縦横比": "",
       "clothesFlg": "7",
       "seed_id": "152"
+    },
+    {
+      "title": "押し倒し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girl": "girl",
+        "girlAction": "",
+        "male": "{man}{man_up} grabbing girl's left shoulder",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "black board",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,terror,fear, lying on the desk, looking at someone, facing someone",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "248"
     },
     {
       "title": "押し倒し(乳揉み)",
@@ -31829,6 +32987,35 @@
       "seed_id": "153"
     },
     {
+      "title": "押し倒し(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girl": "girl",
+        "girlAction": "",
+        "male": "{man}{man_up} grabbing girl's breast",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "black board",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,terror,fear, lying on the desk, looking at someone, facing someone",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "249"
+    },
+    {
       "title": "押し倒し(乳揉み太腿)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -31856,6 +33043,35 @@
       "縦横比": "",
       "clothesFlg": "23",
       "seed_id": "154"
+    },
+    {
+      "title": "押し倒し(乳揉み太腿)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "cowboy shot, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girl": "girl",
+        "girlAction": "",
+        "male": "{man}{man_up} grabbing girl's breast,touching girl's thigh",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "black board",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,terror,fear, lying on the desk, looking at someone, facing someone",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "23",
+      "seed_id": "250"
     },
     {
       "title": "押し倒し(乳首)",
@@ -31892,6 +33108,35 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girl": "girl",
+        "girlAction": "",
+        "male": "{man}{man_up}no face, grabbing girl's breast,licking girl's nipple",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "black board",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,terror,fear, lying on the desk, looking at someone, facing someone",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "251"
+    },
+    {
+      "title": "押し倒し(乳首)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
         "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from side",
         "play": "girl,solo",
         "girl": "girl",
@@ -31916,6 +33161,64 @@
       "seed_id": "156"
     },
     {
+      "title": "押し倒し(乳首)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girl": "girl",
+        "girlAction": "",
+        "male": "{man}{man_up}no face, grabbing girl's breast,licking girl's nipple,grabbing arm",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "black board",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,terror,fear, lying on the desk, looking at someone, facing someone",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "252"
+    },
+    {
+      "title": "クンニ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "cowboy shot, portrait, medium close-up, crotch focus, from side",
+        "play": "1 girl,cunnilingus",
+        "girl": "focus on girl, girl focus,main subject girl,spread legs,pussy, leaning back,m legs,feet out of frame",
+        "girlAction": "",
+        "male": "{man}{man_up}no face, nipples,licking pussy,grabbing thigh,back shot,in front of the girl",
+        "bgBase": "school classroom interior,japanese classroom",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "lying on back on the desk,tears,blush,screaming, touching someone's head",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "95",
+      "seed_id": "253"
+    },
+    {
       "title": "クンニ",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -31934,7 +33237,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "lying on back on the desk,tears,blush,screaming,",
+        "girlAction": "lying on back on the desk,tears,blush,screaming, touching someone's head",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
