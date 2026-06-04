@@ -155,6 +155,19 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
+  "マイクロビキニ(白)": {
+    "girlBaseClothes": "simple micro bikini,black bikini,very small bikini,",
+    "girlHead": "",
+    "girlOuter": "two side up",
+    "girlTop": "bikini bra",
+    "girlBottom": "simple bikini panties,black bikini panties",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
   "マイクロビキニ(金)": {
     "girlBaseClothes": "simple micro bikini,gold bikini,very small bikini,",
     "girlHead": "",
