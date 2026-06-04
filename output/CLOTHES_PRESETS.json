@@ -924,7 +924,7 @@
   },
   "よう実坂柳制服": {
     "girlBaseClothes": "school uniform,",
-    "girlHead": "hat,",
+    "girlHead": "hat",
     "girlOuter": "",
     "girlTop": "school uniform,red blazer,white shirt,tie,",
     "girlBottom": "white skirt,garter belt,white thigh-high socks",
@@ -937,7 +937,7 @@
   },
   "よう実堀北制服": {
     "girlBaseClothes": "school uniform,",
-    "girlHead": "bob hair,",
+    "girlHead": "bob hair",
     "girlOuter": "",
     "girlTop": "school uniform,red blazer,white shirt,navy ribbon tie,",
     "girlBottom": "white skirt,thigh-high socks,",
@@ -1041,7 +1041,7 @@
   },
   "SAOアスナALO": {
     "girlBaseClothes": "white and blue clothes",
-    "girlHead": "blue hair,",
+    "girlHead": "blue hair",
     "girlOuter": "",
     "girlTop": "",
     "girlBottom": "white and blue skirt,navy thigh high socks",

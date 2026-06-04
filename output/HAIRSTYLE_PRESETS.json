@@ -4,7 +4,11 @@
     "characterOnly": ""
   },
   "ポニーテール": {
-    "prompt": "ponytail",
+    "prompt": "high ponytail",
+    "characterOnly": ""
+  },
+  "お団子頭(1つ)": {
+    "prompt": "single hair bun",
     "characterOnly": ""
   }
 }
