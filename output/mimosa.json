@@ -1,45 +1,190 @@
 ﻿{
   "旅館(睡姦)": [
     {
-      "title": "種付けプレス",
+      "title": "バック",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame,man pov",
-        "play": "1 girl,mating press",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "v legs, the head on the futon, lying on back on the futon,",
-        "male": "completely nude man,simple man,no face,no detail man,pov penetrating,grabing thigh from above,",
+        "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
         "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
+        "bgTop": "fusuma,",
         "bgBottom": "tatami, futon,"
       },
       "charaVariable": {
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "from between the legs, v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, hands on the ground, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,screaming,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "80"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, hands on the ground, looking at viewer,facing down,character focus, crying,tear,sad,heavy breath,screaming,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "81"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from side,side shot,side view",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, sex from behind,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting,nipples,breasts, The chin is touching the futon, The body is facing the futon, looking ahead,facing down,character focus, top-down bottom-up.,the head put on the futon, crying,tear,sad,heavy breath,screaming,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "82"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from above,dutch-angle",
+        "play": "1 girl,sex from behind",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, sex from behind,",
+        "male": "completely nude man,pov, sex from behind,grabbing ass,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "Squinting, The chin is touching the futon, The body is facing the futon, looking ahead,facing down,character focus, top-down bottom-up.,the head put on the futon, crying,tear,sad,heavy breath,screaming,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "100"
+      "clothesFlg": "63",
+      "seed_id": "83"
     },
     {
-      "title": "種付けプレス(頭の上から)",
+      "title": "バック",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
-        "play": "1 girl,mating press",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "the head on the futon, lying on back on the futon,",
-        "male": "completely nude man,simple man,no face,no detail man, penetrating,grabing thigh from above,cropped head,cropped upper body",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "84"
+    },
+    {
+      "title": "バック",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on,upper body shot,face focus,dutch-angle",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, sex from behind,grabbing waist,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "fusuma,",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "85"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
         "bgBase": "japanese style room,dark,simple room,no furniture,open space",
         "bgTop": "",
         "bgBottom": "tatami, futon,"
@@ -48,15 +193,102 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at viewer,facing viewer",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
-      "上下フラグ": "2",
+      "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "3",
+      "縦横比": "1",
       "clothesFlg": "127",
-      "seed_id": "101"
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the futon, lying on side on the futon, looking away,facing down,both hands against futon",
+        "male": "",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "睡眠↑",
@@ -1072,6 +1304,122 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "101"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the futon, lying on side on the futon, looking away,facing down,both hands against futon",
+        "male": "",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "バック",
@@ -2988,6 +3336,122 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "101"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "bedroom,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the bed, lying on side on the bed, looking away,facing down,both hands against bed",
+        "male": "",
+        "bgBase": "bedroom,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "バック",
@@ -8912,6 +9376,122 @@
       "seed_id": "99"
     },
     {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the floor, lying on side on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing floor, the head on the floor, lying on side on the floor, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the floor, lying on side on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing floor, the head on the floor, lying on side on the floor, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the floor, lying on side on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing floor, the head on the floor, lying on side on the floor, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the floor, lying on side on the floor, looking away,facing down,both hands against floor",
+        "male": "",
+        "bgBase": "woody room,dark,",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
+    },
+    {
       "title": "バック",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -11031,6 +11611,122 @@
       "seed_id": "101"
     },
     {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the futon, lying on side on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing futon, the head on the futon, lying on side on the futon, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the futon, lying on side on the futon, looking away,facing down,both hands against futon",
+        "male": "",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
+    },
+    {
       "title": "背面駅弁",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -12829,6 +13525,122 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "101"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the floor, lying on side on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgTop": "",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing floor, the head on the floor, lying on side on the floor, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the floor, lying on side on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgTop": "",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing floor, the head on the floor, lying on side on the floor, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the floor, lying on side on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgTop": "",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing floor, the head on the floor, lying on side on the floor, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the floor, lying on side on the floor, looking away,facing down,both hands against floor",
+        "male": "",
+        "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgTop": "",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "背面駅弁",
@@ -15184,6 +15996,122 @@
       "縦横比": "3",
       "clothesFlg": "63",
       "seed_id": "35"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "bedroom,bright room,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,bright room,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,bright room,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the bed, lying on side on the bed, looking away,facing down,both hands against bed",
+        "male": "",
+        "bgBase": "bedroom,bright room,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     }
   ],
   "ラブホ": [
@@ -16609,6 +17537,122 @@
       "seed_id": "99"
     },
     {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "pink sheets,pink pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "pink sheets,pink pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "pink sheets,pink pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the bed, lying on side on the bed, looking away,facing down,both hands against bed",
+        "male": "",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "pink sheets,pink pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
+    },
+    {
       "title": "正常位事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -17711,6 +18755,122 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "89"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the table, lying on side on the table,",
+        "male": "business man,black pants,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "cafeteria,wide table",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing table, the head on the table, lying on side on the table, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the table, lying on side on the table,",
+        "male": "business man,black pants,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "cafeteria,wide table",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing table, the head on the table, lying on side on the table, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the table, lying on side on the table,",
+        "male": "business man,black pants,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "cafeteria,wide table",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing table, the head on the table, lying on side on the table, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the table, lying on side on the table, looking away,facing down,both hands against table",
+        "male": "",
+        "bgBase": "cafeteria,wide table",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "立バック",
@@ -19859,6 +21019,122 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the bed, lying on side on the bed, looking away,facing down,both hands against bed",
+        "male": "",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "正常位事後",
@@ -22272,6 +23548,151 @@
       "seed_id": "99"
     },
     {
+      "title": "だいしゅきホールド(missionary position, hug, legs lock, kiss)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from side,feet out of frame",
+        "play": "missionary position, hug, legs lock, kiss",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "missionary position, hugging, legs lock, kiss",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "the head on the bed, lying on back on the bed, tears,terror,blush,screaming, looking another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "102"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the bed, lying on side on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing bed, the head on the bed, lying on side on the bed, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the bed, lying on side on the bed, looking away,facing down,both hands against bed",
+        "male": "",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
+    },
+    {
       "title": "背面座位(reverse upright straddle)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -24157,6 +25578,122 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "101"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the ground, lying on side on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing ground, the head on the ground, lying on side on the ground, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the ground, lying on side on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing ground, the head on the ground, lying on side on the ground, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the ground, lying on side on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing ground, the head on the ground, lying on side on the ground, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the ground, lying on side on the ground, looking away,facing down,both hands against ground",
+        "male": "",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "背面駅弁",
@@ -27905,6 +29442,122 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "101"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "legs together, the head on the sand, lying on side on the sand,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing ass",
+        "bgBase": "beach,",
+        "bgTop": "",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing sand, the head on the sand, lying on side on the sand, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the sand, lying on side on the sand,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "beach,",
+        "bgTop": "",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing sand, the head on the sand, lying on side on the sand, tears,terror,blush,screaming, looking at viewer,facing viewer",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "105"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
+        "play": "spooning,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leg up, the head on the sand, lying on side on the sand,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,man out of frame, penetrating,grabbing leg",
+        "bgBase": "beach,",
+        "bgTop": "",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing sand, the head on the sand, lying on side on the sand, tears,terror,blush,screaming, looking at another,facing another,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "106"
+    },
+    {
+      "title": "側位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,dutch-angle,from behind,ass focus,ass shot,back shot,",
+        "play": "spooning,after sex,",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "the head on the sand, lying on side on the sand, looking away,facing down,both hands against sand",
+        "male": "",
+        "bgBase": "beach,",
+        "bgTop": "",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "107"
     },
     {
       "title": "バック",
