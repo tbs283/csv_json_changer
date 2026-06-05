@@ -1746,12 +1746,12 @@
         "defaultHairStyle": ""
     },
     "ぼざろ/虹香ちゃん": {
-        "prompt": "",
+        "prompt": "ijichi nijika (anime), bocchi the rock!,",
         "tag": [
             "ぼざろ",
             "ボッチザロック"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "虹香制服",
         "defaultHairStyle": ""
     },
     "ぼざろ/山田": {
