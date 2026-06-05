@@ -1246,5 +1246,18 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"わたなれ/小柳香穂\""
+  },
+  "虹香制服": {
+    "girlBaseClothes": "",
+    "girlHead": "ahoge",
+    "girlOuter": "black vest:vest",
+    "girlTop": "white shirt:shirt",
+    "girlBottom": "blue skirt;skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ぼざろ/虹香ちゃん\""
   }
 }
