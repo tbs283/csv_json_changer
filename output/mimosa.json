@@ -1,277 +1,16 @@
 ﻿{
   "旅館(睡姦)": [
     {
-      "title": "正常位",
+      "title": "種付けプレス",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,man pov",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,imminent penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, Throw up one's hands",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "90"
-    },
-    {
-      "title": "正常位",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,imminent penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, Throw up one's hands",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "91"
-    },
-    {
-      "title": "正常位",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,man pov",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, Throw up one's hands",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "92"
-    },
-    {
-      "title": "正常位",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, Throw up one's hands",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "93"
-    },
-    {
-      "title": "正常位(目隠し)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,,man pov",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, covering own eyes",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "94"
-    },
-    {
-      "title": "正常位(目隠し)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, covering own eyes",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "95"
-    },
-    {
-      "title": "正常位(口抑え)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,,man pov",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, covering own mouth",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "96"
-    },
-    {
-      "title": "正常位(口抑え)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side shot, side view",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, covering own mouth",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "97"
-    },
-    {
-      "title": "正常位(腕掴み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "cowboy shot, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,,man pov",
-        "play": "1 girl,missionary",
-        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "m legs,the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabing wrist,penetration",
-        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
-        "bgTop": "",
-        "bgBottom": "tatami, futon,"
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,blush,screaming, brests press by arms from the side,both arms is being pulled straight down., forsed orgasm,penetrated",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "98"
-    },
-    {
-      "title": "足を閉じた正常位",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring",
-        "composition": "girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from front,feet out of frame",
-        "play": "1 girl,missionary",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "legs together,legs up.closing legs,the head on the futon,lying on back on the futon",
-        "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
+        "girlAction": "v legs, the head on the futon, lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
         "bgBase": "japanese style room,dark,simple room,no furniture,open space",
         "bgTop": "",
         "bgBottom": "tatami, futon,"
@@ -280,15 +19,44 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,blush,screaming, Throw up one's hands",
-        "clothesTopStatus": "opend clothes,pull up bra",
+        "girlAction": "from between the legs, v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": "pulled up skirt"
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "127",
-      "seed_id": "99"
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the futon, lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "睡眠↑",
@@ -1246,6 +1014,64 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the futon, lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the futon, lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "japanese style room,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "バック",
@@ -3104,6 +2930,64 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the bed, lying on back on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "bedroom,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the bed, lying on back on the bed, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the bed, lying on back on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "bedroom,dark,simple room,no furniture,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the bed, lying on back on the bed, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "バック",
@@ -5457,6 +5341,64 @@
       "seed_id": "99"
     },
     {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
+    },
+    {
       "title": "背面駅弁",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -7255,6 +7197,64 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgTop": "",
+        "bgBottom": "debris on the floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "背面駅弁",
@@ -10973,6 +10973,64 @@
       "seed_id": "99"
     },
     {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the futon, lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the futon, lying on back on the futon,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "japanese style room,",
+        "bgTop": "",
+        "bgBottom": "tatami, futon,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the futon, lying on back on the futon, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
+    },
+    {
       "title": "背面駅弁",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -12715,6 +12773,64 @@
       "seed_id": "99"
     },
     {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgTop": "",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgTop": "",
+        "bgBottom": "hot spring poolside,stone floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
+    },
+    {
       "title": "背面駅弁",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -14225,6 +14341,64 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the bed, lying on back on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "bedroom,bright room,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the bed, lying on back on the bed, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the bed, lying on back on the bed,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "bedroom,bright room,open space",
+        "bgTop": "",
+        "bgBottom": "white sheets,white pillow,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the bed, lying on back on the bed, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "バック",
@@ -17972,6 +18146,64 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the counter table, lying on back on the counter table,",
+        "male": "business man,black pants,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "cafeteria,counter table",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the counter table, lying on back on the counter table, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the counter table, lying on back on the counter table,",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "cafeteria,counter table",
+        "bgTop": "",
+        "bgBottom": "woody floor"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the counter table, lying on back on the counter table, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "フェラ",
@@ -23869,6 +24101,64 @@
       "seed_id": "99"
     },
     {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the ground, lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the ground, lying on back on the ground, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the ground, lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "dark forest,night,",
+        "bgTop": "",
+        "bgBottom": "overgrown underbrush, uneven forest floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the ground, lying on back on the ground, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
+    },
+    {
       "title": "背面駅弁",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -25843,6 +26133,64 @@
       "seed_id": "99"
     },
     {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the ground, lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the ground, lying on back on the ground, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the ground, lying on back on the ground,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "cave,dark,dungeon",
+        "bgTop": "",
+        "bgBottom": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the ground, lying on back on the ground, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
+    },
+    {
       "title": "立位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -27499,6 +27847,64 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the sand, lying on back on the sand,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "beach,",
+        "bgTop": "",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the sand, lying on back on the sand, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the sand, lying on back on the sand,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "beach,",
+        "bgTop": "",
+        "bgBottom": "bright sand"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the sand, lying on back on the sand, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "バック",
@@ -29678,6 +30084,64 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "99"
+    },
+    {
+      "title": "種付けプレス",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair,pov penetrating,grabing thigh from above,",
+        "bgBase": "outdoor, poolside,wet skin,",
+        "bgTop": "",
+        "bgBottom": "blue tile floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "from between the legs, v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, looking another, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "100"
+    },
+    {
+      "title": "種付けプレス(頭の上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring",
+        "composition": "crotch focus,viewed from top of head,head near camera,body extending away from viewer,girl focus,focus on girl,main subject,close-up,man partially visible,dutch-angle,feet out of frame",
+        "play": "1 girl,mating press",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "the head on the floor, lying on back on the floor,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,grabing thigh from above,",
+        "bgBase": "outdoor, poolside,wet skin,",
+        "bgTop": "",
+        "bgBottom": "blue tile floor,"
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "v legs, the head on the floor, lying on back on the floor, tears,terror,blush,screaming, (looking at viewer | looking up),(open eyes | closing eyes),facing up, Throw up one's hands,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "101"
     },
     {
       "title": "背面座位(reverse upright straddle)",
