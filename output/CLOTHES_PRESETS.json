@@ -118,8 +118,8 @@
   },
   "温泉": {
     "girlBaseClothes": "",
-    "girlHead": "",
-    "girlOuter": "no accessory,less accessory",
+    "girlHead": "no accessory,less accessory",
+    "girlOuter": "",
     "girlTop": "white bath towel wrapped around body, secure towel fit,wet body",
     "girlBottom": "",
     "girlUnder": "",
@@ -131,8 +131,8 @@
   },
   "温泉(お団子頭)": {
     "girlBaseClothes": "",
-    "girlHead": "",
-    "girlOuter": "hair accessory",
+    "girlHead": "hair accessory",
+    "girlOuter": "",
     "girlTop": "no accessory,less accessory,white bath towel wrapped around body, secure towel fit,wet body,",
     "girlBottom": "",
     "girlUnder": "",
@@ -145,7 +145,7 @@
   "マイクロビキニ(白)": {
     "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
     "girlHead": "",
-    "girlOuter": "two side up",
+    "girlOuter": "",
     "girlTop": "bikini bra",
     "girlBottom": "simple bikini panties,white bikini panties",
     "girlUnder": "barefoot",
@@ -158,7 +158,7 @@
   "マイクロビキニ(黒)": {
     "girlBaseClothes": "simple micro bikini,black bikini,very small bikini,",
     "girlHead": "",
-    "girlOuter": "two side up",
+    "girlOuter": "",
     "girlTop": "bikini bra",
     "girlBottom": "simple bikini panties,black bikini panties",
     "girlUnder": "barefoot",
