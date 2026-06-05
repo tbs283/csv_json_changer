@@ -258,7 +258,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -354,7 +354,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -412,10 +412,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete,",
         "bgTop": "",
@@ -425,7 +425,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -461,7 +461,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -490,7 +490,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -519,7 +519,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -548,7 +548,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -577,7 +577,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -606,7 +606,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -635,7 +635,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -664,7 +664,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -693,7 +693,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -722,7 +722,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -2203,7 +2203,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -2299,7 +2299,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -2357,10 +2357,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
         "bgTop": "",
@@ -2370,7 +2370,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -2406,7 +2406,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -2435,7 +2435,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -2464,7 +2464,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -2493,7 +2493,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -2522,7 +2522,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -2551,7 +2551,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -2580,7 +2580,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -2609,7 +2609,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -2638,7 +2638,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -2667,7 +2667,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -4351,7 +4351,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -4447,7 +4447,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -4505,10 +4505,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "woody room,dark,",
         "bgTop": "woody wall",
@@ -4518,7 +4518,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -4554,7 +4554,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -4583,7 +4583,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -4612,7 +4612,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -4641,7 +4641,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -4670,7 +4670,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -4699,7 +4699,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -4728,7 +4728,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "3",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "173"
     },
     {
@@ -4757,7 +4757,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "174"
     },
     {
@@ -4786,7 +4786,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "175"
     },
     {
@@ -6789,7 +6789,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -6818,7 +6818,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -6847,7 +6847,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -6876,7 +6876,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -6905,7 +6905,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -6934,7 +6934,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -6963,7 +6963,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -6992,7 +6992,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -7021,7 +7021,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -7050,7 +7050,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -8640,7 +8640,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "エラー 2023",
+        "girlAction": "sleeping,the head on the futon,lying on back on the futon,tears,blush,screaming,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -8792,7 +8792,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "57"
     },
     {
@@ -8966,7 +8966,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "63"
     },
     {
@@ -8995,7 +8995,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "64"
     },
     {
@@ -9024,7 +9024,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "65"
     },
     {
@@ -9053,7 +9053,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "66"
     },
     {
@@ -10039,7 +10039,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -10068,7 +10068,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -10097,7 +10097,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -10126,7 +10126,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -10155,7 +10155,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -10184,7 +10184,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -10679,7 +10679,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -10775,7 +10775,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -10833,10 +10833,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
         "bgTop": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
@@ -10846,7 +10846,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -10882,7 +10882,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "246"
     },
     {
@@ -10911,7 +10911,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "221"
     },
     {
@@ -10940,7 +10940,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "222"
     },
     {
@@ -10969,7 +10969,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "223"
     },
     {
@@ -10998,7 +10998,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "224"
     },
     {
@@ -11027,7 +11027,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "225"
     },
     {
@@ -11056,7 +11056,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "226"
     },
     {
@@ -11085,7 +11085,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "227"
     },
     {
@@ -13090,7 +13090,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -13186,7 +13186,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -13244,10 +13244,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "bedroom,bright room,open space",
         "bgTop": "white wall,",
@@ -13257,7 +13257,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -14281,7 +14281,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -14310,7 +14310,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -14339,7 +14339,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -14368,7 +14368,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -14397,7 +14397,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -14426,7 +14426,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -15008,7 +15008,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -15037,7 +15037,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -15066,7 +15066,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -15095,7 +15095,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -15124,7 +15124,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -15153,7 +15153,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -15182,7 +15182,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -15211,7 +15211,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -15240,7 +15240,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -15269,7 +15269,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -17069,7 +17069,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -17165,7 +17165,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -17223,10 +17223,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "cafeteria",
         "bgTop": "white wall",
@@ -17236,7 +17236,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -18403,7 +18403,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "246"
     },
     {
@@ -18432,7 +18432,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "221"
     },
     {
@@ -18461,7 +18461,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "222"
     },
     {
@@ -18490,7 +18490,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "223"
     },
     {
@@ -18519,7 +18519,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "224"
     },
     {
@@ -18548,7 +18548,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "225"
     },
     {
@@ -18577,7 +18577,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "226"
     },
     {
@@ -18606,7 +18606,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "227"
     },
     {
@@ -18949,7 +18949,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "エラー 2023",
+        "girlAction": "sleeping,the head on the bed,lying on back on the bed,tears,blush,screaming,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -19101,7 +19101,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "57"
     },
     {
@@ -19275,7 +19275,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "63"
     },
     {
@@ -19304,7 +19304,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "64"
     },
     {
@@ -19333,7 +19333,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "65"
     },
     {
@@ -19362,7 +19362,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "66"
     },
     {
@@ -20348,7 +20348,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -20377,7 +20377,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -20406,7 +20406,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -20435,7 +20435,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -20464,7 +20464,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -20493,7 +20493,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -20959,7 +20959,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -20988,7 +20988,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -21017,7 +21017,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -21046,7 +21046,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -21075,7 +21075,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -21104,7 +21104,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -21133,7 +21133,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -21162,7 +21162,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -21191,7 +21191,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -21220,7 +21220,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -23428,7 +23428,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -23457,7 +23457,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -23486,7 +23486,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -23515,7 +23515,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -23544,7 +23544,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -23573,7 +23573,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -23602,7 +23602,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "3",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "173"
     },
     {
@@ -23631,7 +23631,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "174"
     },
     {
@@ -23660,7 +23660,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "175"
     },
     {
@@ -23689,7 +23689,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -23718,7 +23718,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -23747,7 +23747,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -23776,7 +23776,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -25953,7 +25953,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -26049,7 +26049,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -26107,10 +26107,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "dark forest,night,",
         "bgTop": "misty night air,",
@@ -26120,7 +26120,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -26156,7 +26156,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -26185,7 +26185,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -26214,7 +26214,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -26243,7 +26243,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -26272,7 +26272,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -26301,7 +26301,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -26330,7 +26330,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "3",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "173"
     },
     {
@@ -26359,7 +26359,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "174"
     },
     {
@@ -26388,7 +26388,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "175"
     },
     {
@@ -26417,7 +26417,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -26446,7 +26446,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -26475,7 +26475,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -26504,7 +26504,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -28217,7 +28217,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -28313,7 +28313,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -28371,10 +28371,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "cave,dark,dungeon",
         "bgTop": "rock wall",
@@ -28384,7 +28384,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -28420,7 +28420,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -28449,7 +28449,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -28478,7 +28478,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -28507,7 +28507,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -28536,7 +28536,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -28565,7 +28565,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -28594,7 +28594,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "3",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "173"
     },
     {
@@ -28623,7 +28623,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "174"
     },
     {
@@ -28652,7 +28652,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "175"
     },
     {
@@ -28681,7 +28681,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -28710,7 +28710,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -28739,7 +28739,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -28768,7 +28768,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -30483,7 +30483,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -30579,7 +30579,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -30637,10 +30637,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "beach,",
         "bgTop": "blue sky,",
@@ -30650,7 +30650,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
@@ -30686,7 +30686,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "30"
     },
     {
@@ -30715,7 +30715,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "31"
     },
     {
@@ -30744,7 +30744,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "32"
     },
     {
@@ -30773,7 +30773,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "33"
     },
     {
@@ -30802,7 +30802,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "34"
     },
     {
@@ -30831,7 +30831,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "35"
     },
     {
@@ -30860,7 +30860,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "36"
     },
     {
@@ -30889,7 +30889,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "37"
     },
     {
@@ -30918,7 +30918,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "38"
     },
     {
@@ -30947,7 +30947,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "39"
     },
     {
@@ -32341,7 +32341,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "246"
     },
     {
@@ -32370,7 +32370,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "221"
     },
     {
@@ -32399,7 +32399,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "222"
     },
     {
@@ -32428,7 +32428,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "223"
     },
     {
@@ -32457,7 +32457,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "224"
     },
     {
@@ -32486,7 +32486,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "225"
     },
     {
@@ -32515,7 +32515,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "226"
     },
     {
@@ -32544,7 +32544,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "55",
+      "clothesFlg": "63",
       "seed_id": "227"
     },
     {
@@ -32718,7 +32718,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
-      "clothesFlg": "63",
+      "clothesFlg": "62",
       "seed_id": "6"
     },
     {
@@ -32814,7 +32814,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,from side ,side shot, side view,cowboy shot,",
+        "composition": "dutch-angle,from front,cowboy shot,",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,covering own mouoth",
         "girlAction": "",
@@ -32872,10 +32872,10 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring",
-        "composition": "dutch-angle,face focus,from above,cowboy shot,",
+        "composition": "dutch-angle,from above,cowboy shot,",
         "play": "1 girl, solo,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,",
-        "girlAction": "",
+        "girlAction": "wariza",
         "male": "",
         "bgBase": "outdoor pool,wet skin, splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest,",
         "bgTop": "",
@@ -32885,7 +32885,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "wariza, Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "Squinting, looking up,facing front,hands on the knee, tired,sad,tear,embarrassed,heavy breath,",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
       },
