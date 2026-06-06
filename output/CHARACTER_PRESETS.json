@@ -7,7 +7,8 @@
             "通常衣装"
         ],
         "defaultClothes": "ライスシャワー勝負服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ハロライス": {
         "prompt": "rice shower (make up vampire!) (umamusume), umamusume, ear, tails,short girl,",
@@ -16,7 +17,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/豊食祭ライス": {
         "prompt": "rice shower (yummy dreamy fairy) (umamusume), umamusume, ear, tails,short girl,",
@@ -25,7 +27,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/嫁ライス": {
         "prompt": "rice shower (longed-for scenery) (umamusume),  umamusume, ear, tails,the short girl,",
@@ -34,7 +37,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ブエナビスタ": {
         "prompt": "buena vista (umamusume), umamusume, ear, tails,",
@@ -43,7 +47,8 @@
             "通常衣装"
         ],
         "defaultClothes": "ブエナビスタ勝負服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/メジロアルダン": {
         "prompt": "mejiro ardan (umamusume), umamusume, ear, tails,",
@@ -52,7 +57,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/男装アルダン": {
         "prompt": "mejiro ardan (neige emeraude) (umamusume), umamusume, ear, tails,",
@@ -60,7 +66,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/サトノダイヤモンド": {
         "prompt": "satono diamond (umamusume), umamusume, ear, tails,",
@@ -69,7 +76,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/正月ダイヤ": {
         "prompt": "satono diamond (floral star prosperous green) (umamusume), umamusume, ear, tails,",
@@ -77,7 +85,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/騎士ダイヤ": {
         "prompt": "satono diamond (chevalier bleu) (umamusume), umamusume, ear, tails,",
@@ -85,7 +94,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ダンツフレーム": {
         "prompt": "dantsu flame (umamusume),umamusume,tail,",
@@ -94,7 +104,8 @@
             "通常衣装"
         ],
         "defaultClothes": "ダンツフレーム勝負服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/エイシンフラッシュ": {
         "prompt": "eishin flash (umamusume),umamusume,tail,horse tail,ear,",
@@ -103,7 +114,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/チョコフラッシュ": {
         "prompt": "eishin flash (reines plaetschern) (umamusume),umamusume,tail,",
@@ -111,7 +123,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/水着フラッシュ": {
         "prompt": "eishin flash (collect chocolatier) (umamusume),umamusume,tail,",
@@ -119,7 +132,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/サイレンススズカ": {
         "prompt": "silence suzuka (umamusume), umamusume, ear, tails,",
@@ -128,7 +142,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/水着スズカ": {
         "prompt": "silence suzuka (emerald on the waves) (umamusume), umamusume, ear, tails,",
@@ -136,7 +151,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ヤマニンゼファー": {
         "prompt": "yamanin zephyr (umamusume), skirt,umamusume,tail,",
@@ -145,7 +161,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/チョコゼファー": {
         "prompt": "yamanin zephyr (sugary wind) (umamusume), skirt,umamusume,tail,",
@@ -153,7 +170,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/カレンチャン": {
         "prompt": "curren chan (umamusume), {{tail}},umamusume,",
@@ -162,7 +180,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/嫁カレン": {
         "prompt": "curren chan (sakutsuki ma cherie) (umamusume),",
@@ -170,7 +189,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ホッコータルマエ": {
         "prompt": "hokko tarumae (umamusume), umamusume, ear, tails,",
@@ -179,7 +199,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/水着タルマエ": {
         "prompt": "hokko tarumae (pastel marine locadol) (umamusume), umamusume, ear, tails,",
@@ -187,7 +208,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/アーモンドアイ": {
         "prompt": "almond eye (umamusume), tail,umamusume,",
@@ -196,7 +218,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/カレンブーケドール": {
         "prompt": "curren bouquetd'or (umamusume), umamusume,",
@@ -205,7 +228,8 @@
             "通常衣装"
         ],
         "defaultClothes": "カレンブーケドール勝負服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/グランアレグリア": {
         "prompt": "gran alegria (umamusume), umamusume, ear, tails,",
@@ -214,7 +238,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/メジロドーベル": {
         "prompt": "mejiro dober (umamusume), umamusume, ear, tails,",
@@ -223,7 +248,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/夏ドーベル": {
         "prompt": "mejiro dober (vacation safir) (umamusume), umamusume, ear, tails,",
@@ -231,7 +257,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/マヤノトップガン": {
         "prompt": "mayano top gun (umamusume), umamusume, ear, tails,",
@@ -241,7 +268,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/嫁マヤ": {
         "prompt": "mayano top gun (sunlight bouquet) (umamusume), umamusume, ear, tails,",
@@ -250,7 +278,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ハロマヤ": {
         "prompt": "mayano top gun (formation: party) (umamusume), umamusume, ear, tails,",
@@ -259,7 +288,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/メジロマックイーン": {
         "prompt": "mejiro mcqueen (umamusume), umamusume, ear, tails,",
@@ -268,7 +298,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/マックイーンエンドオブスカイ": {
         "prompt": "mejiro mcqueen (end of sky) (umamusume), umamusume,ear, tails,",
@@ -276,7 +307,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/水マック": {
         "prompt": "mejiro mcqueen (ripple fairlady) (umamusume), umamusume,ear, tails,",
@@ -284,7 +316,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/阪神マック": {
         "prompt": "mejiro mcqueen (let's go! yes!?) (umamusume), umamusume,ear, tails,",
@@ -292,7 +325,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ドレスマック": {
         "prompt": "mejiro mcqueen (heart exposed to the night breeze) (umamusume), umamusume,ear, tails,",
@@ -300,7 +334,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ブライト": {
         "prompt": "mejiro bright (umamusume), umamusume,ear, tails,",
@@ -309,7 +344,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/クロノジェネシス": {
         "prompt": "chrono genesis (umamusume), umamusume,ear, tails,",
@@ -318,7 +354,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/シーザリオ": {
         "prompt": "cesario (umamusume), umamusume,ear, tails,",
@@ -327,7 +364,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/サクラローレル": {
         "prompt": "sakura laurel (umamusume), umamusume,ear, tails,",
@@ -336,7 +374,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/サクラチヨノオー": {
         "prompt": "sakura chiyono o (umamusume), umamusume,ear, tails,",
@@ -345,7 +384,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ダンスチヨ": {
         "prompt": "sakura chiyono o (fleur enneigee) (umamusume), umamusume,ear, tails,",
@@ -353,7 +393,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/キタサンブラック": {
         "prompt": "kitasan black (umamusume), umamusume, ear, tails,",
@@ -362,7 +403,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/白キタ": {
         "prompt": "kitasan black (jubilant star auspicious crane) (umamusume), umamusume,ear, tails,",
@@ -370,7 +412,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/赤キタ": {
         "prompt": "kitasan black (final bloom) (umamusume), umamusume,ear, tails,",
@@ -378,7 +421,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/コパノリッキー": {
         "prompt": "copano rickey (umamusume), umamusume,ear, tails,",
@@ -387,7 +431,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ヴィブロス": {
         "prompt": "vivlos (umamusume), umamusume,ear, tails,",
@@ -396,7 +441,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ルビー": {
         "prompt": "daiichi ruby (umamusume),umamusume, ear, tails,",
@@ -406,7 +452,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ダンスルビー": {
         "prompt": "daiichi ruby (flowing blue) (umamusume),umamusume, ear, tails,",
@@ -415,7 +462,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/フラワー": {
         "prompt": "nishino flower (umamusume),umamusume, ear, tails,",
@@ -425,7 +473,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/嫁フラワー": {
         "prompt": "nishino flower (sweet juneberry) (umamusume),umamusume, ear, tails,",
@@ -434,7 +483,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ウインバリアシオン": {
         "prompt": "win variation (umamusume), umamusume,ear, tails,",
@@ -443,7 +493,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ナリタトップロード": {
         "prompt": "narita top road (umamusume), umamusume,ear, tails,",
@@ -452,7 +503,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/サトノクラウン": {
         "prompt": "satono crown (umamusume), umamusume,ear, tails,",
@@ -461,7 +513,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/スティルインラブ": {
         "prompt": "still in love (umamusume), umamusume,ear, tails,",
@@ -470,7 +523,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ブルボン": {
         "prompt": "mihono bourbon (umamusume), umamusume,ear, tails,",
@@ -479,7 +533,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/チョコブルボン": {
         "prompt": "mihono bourbon (code:glassage) (umamusume), umamusume,ear, tails,",
@@ -487,7 +542,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/クラフト": {
         "prompt": "rhein kraft (umamusume), umamusume, umamusume,ear, tails,",
@@ -496,7 +552,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/デュランダル": {
         "prompt": "durandal (umamusume), umamusume,ear, tails,",
@@ -505,7 +562,8 @@
             "通常衣装"
         ],
         "defaultClothes": "デュランダル勝負服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/シュヴァルグラン": {
         "prompt": "cheval grand (umamusume),umamusume,ear, tails,",
@@ -514,7 +572,8 @@
             "通常衣装"
         ],
         "defaultClothes": "シュヴァルグラン勝負服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/スペシャルウィーク": {
         "prompt": "special week (umamusume), umamusume, ear, tails,",
@@ -523,7 +582,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/デアリングタクト": {
         "prompt": "daring tact (umamusume), umamusume,ear, tails,",
@@ -532,7 +592,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/グラスワンダー": {
         "prompt": "grass wonder (umamusume), umamusume,ear, tails,",
@@ -541,7 +602,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ヒーラーグラス": {
         "prompt": "grass wonder (saint jade healer) (umamusume),  umamusume,ear, tails,",
@@ -549,7 +611,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/武士グラス": {
         "prompt": "grass wonder (honor of the blue flame) (umamusume),  umamusume,ear, tails,",
@@ -557,7 +620,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/マンハッタンカフェ": {
         "prompt": "manhattan cafe (umamusume), umamusume,ear, tails,",
@@ -566,7 +630,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/猫カフェ": {
         "prompt": "manhattan cafe (verdant night) (umamusume),  umamusume,ear, tails,",
@@ -574,7 +639,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/黒水カフェ": {
         "prompt": "manhattan cafe (the bubbles that i see with you) (umamusume),  umamusume,ear, tails,",
@@ -582,7 +648,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/白水カフェ": {
         "prompt": "manhattan cafe (tobasuze hot summer!) (umamusume),umamusume,ear, tails,",
@@ -590,7 +657,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/フィンモーション": {
         "prompt": "fine motion (umamusume), umamusume,ear, tails,",
@@ -599,7 +667,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/嫁ファイン": {
         "prompt": "fine motion (titania) (umamusume), umamusume,ear, tails,",
@@ -607,7 +676,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ハロウィンファイン": {
         "prompt": "fine motion (hello my clover) (umamusume),  umamusume,ear, tails,",
@@ -615,7 +685,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/アドマイアベガ": {
         "prompt": "admire vega (umamusume), umamusume,ear, tails,",
@@ -624,7 +695,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/クリスマスアヤベ": {
         "prompt": "admire vega (glacialis vega) (umamusume), umamusume,ear, tails,",
@@ -632,7 +704,8 @@
             "ウマ娘"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ゼンノロブロイ": {
         "prompt": "zenno rob roy (umamusume), umamusume,ear, tails,",
@@ -642,7 +715,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/秋ロブロイ": {
         "prompt": "zenno rob roy (inlaid stories) (umamusume),  umamusume,ear, tails,",
@@ -651,7 +725,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ハルウララ": {
         "prompt": "haru urara (umamusume), umamusume,ear, tails,",
@@ -661,7 +736,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/正月ウララ": {
         "prompt": "haru urara (first urara saku sakura) (umamusume),  umamusume,ear, tails,",
@@ -670,7 +746,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/ジェンティルドンナ": {
         "prompt": "gentildonna (umamusume), umamusume,ear, tails,",
@@ -679,7 +756,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/スイープトウショウ": {
         "prompt": "sweep tosho (umamusume), umamusume,ear, tails,",
@@ -689,7 +767,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/嫁スイープ": {
         "prompt": "sweep tosho (realize rune) (umamusume), umamusume,ear, tails,",
@@ -698,7 +777,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/スーパークリーク": {
         "prompt": "super creek (umamusume), umamusume,ear, tails,",
@@ -707,7 +787,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "ウマ娘/トーカイテイオー": {
         "prompt": "tokai teio (umamusume), umamusume, ear, tails,",
@@ -716,7 +797,8 @@
             "通常衣装"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "umamusume"
     },
     "学マス/リーリヤ": {
         "prompt": "katsuragi lilja, gakuen idolmaster,",
@@ -725,7 +807,8 @@
             "制服"
         ],
         "defaultClothes": "リーリヤ制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/莉波": {
         "prompt": "himesaki rinami, gakuen idolmaster,",
@@ -734,7 +817,8 @@
             "制服"
         ],
         "defaultClothes": "莉波制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/佑芽": {
         "prompt": "hanami ume, gakuen idolmaster,",
@@ -743,7 +827,8 @@
             "制服"
         ],
         "defaultClothes": "佑芽制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/美鈴": {
         "prompt": "hataya misuzu, gakuen idolmaster,",
@@ -752,7 +837,8 @@
             "制服"
         ],
         "defaultClothes": "美鈴制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/清夏": {
         "prompt": "shiun sumika, gakuen idolmaster,",
@@ -761,7 +847,8 @@
             "制服"
         ],
         "defaultClothes": "清夏制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/咲季": {
         "prompt": "hanami saki, gakuen idolmaster,",
@@ -770,7 +857,8 @@
             "制服"
         ],
         "defaultClothes": "咲季制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/手毬": {
         "prompt": "tsukimura temari, gakuen idolmaster,",
@@ -779,7 +867,8 @@
             "制服"
         ],
         "defaultClothes": "手毬制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/琴音": {
         "prompt": "fujita kotone, gakuen idolmaster,",
@@ -788,7 +877,8 @@
             "制服"
         ],
         "defaultClothes": "琴音制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/千奈": {
         "prompt": "kuramoto china, gakuen idolmaster,",
@@ -797,7 +887,8 @@
             "制服"
         ],
         "defaultClothes": "千奈制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/広": {
         "prompt": "shinosawa hiro, gakuen idolmaster,",
@@ -806,7 +897,8 @@
             "制服"
         ],
         "defaultClothes": "広制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/星南": {
         "prompt": "juo sena, gakuen idolmaster,",
@@ -815,7 +907,8 @@
             "制服"
         ],
         "defaultClothes": "星南制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "学マス/亜紗里": {
         "prompt": "neo asari, gakuen idolmaster,",
@@ -823,7 +916,8 @@
             "学マス"
         ],
         "defaultClothes": "亜紗里私服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gakuen idolmaster"
     },
     "Blue Archive/ミカ": {
         "prompt": "mika (blue archive),wing,halo,",
@@ -834,7 +928,8 @@
             "ティーパーティー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ナギサ": {
         "prompt": "nagisa (blue archive),halo,",
@@ -845,7 +940,8 @@
             "ティーパーティー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/セイア": {
         "prompt": "seia (blue archive),halo,",
@@ -856,7 +952,8 @@
             "ティーパーティー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒフミ": {
         "prompt": "hifumi (blue archive),halo,",
@@ -867,7 +964,8 @@
             "補習授業部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒフミ(水着)": {
         "prompt": "hifumi (swimsuit) (blue archive),halo,",
@@ -878,7 +976,8 @@
             "補習授業部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/コハル": {
         "prompt": "koharu (blue archive),halo,",
@@ -889,7 +988,8 @@
             "補習授業部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/コハル(水着)": {
         "prompt": "koharu (swimsuit) (blue archive),halo,",
@@ -900,7 +1000,8 @@
             "補習授業部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/アイリ": {
         "prompt": "airi (blue archive),halo,",
@@ -911,7 +1012,8 @@
             "放課後スイーツ部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/アイリ(バンド)": {
         "prompt": "airi (band) (blue archive),halo,",
@@ -922,7 +1024,8 @@
             "放課後スイーツ部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/カズサ": {
         "prompt": "kazusa (blue archive),halo,",
@@ -933,7 +1036,8 @@
             "放課後スイーツ部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/カズサ(バンド)": {
         "prompt": "kazusa (band) (blue archive),halo,",
@@ -944,7 +1048,8 @@
             "放課後スイーツ部"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/セリナ": {
         "prompt": "serina (blue archive),halo,",
@@ -955,7 +1060,8 @@
             "救護騎士団"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/セリナ(クリスマス)": {
         "prompt": "serina (christmas) (blue archive),halo,",
@@ -966,7 +1072,8 @@
             "救護騎士団"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/セリナ(看護師)": {
         "prompt": "serina (nurse) (blue archive),halo,",
@@ -977,7 +1084,8 @@
             "救護騎士団"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/マリー": {
         "prompt": "mari (blue archive),halo,cat ear,",
@@ -988,7 +1096,8 @@
             "シスターフッド"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/マリー(体操服)": {
         "prompt": "mari (track) (blue archive),halo,cat ear,",
@@ -999,7 +1108,8 @@
             "シスターフッド"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/マリー(アイドル)": {
         "prompt": "mari (idol) (blue archive),halo,cat ear,",
@@ -1010,7 +1120,8 @@
             "シスターフッド"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/サクラコ": {
         "prompt": "sakurako (blue archive),halo,",
@@ -1021,7 +1132,8 @@
             "シスターフッド"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/サクラコ(アイドル)": {
         "prompt": "sakurako (idol) (blue archive),halo,",
@@ -1032,7 +1144,8 @@
             "シスターフッド"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒナタ": {
         "prompt": "hinata (blue archive),halo,",
@@ -1043,7 +1156,8 @@
             "シスターフッド"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒナタ(水着)": {
         "prompt": "hinata (swimsuit) (blue archive),halo,",
@@ -1054,7 +1168,8 @@
             "シスターフッド"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ユウカ": {
         "prompt": "yuuka (blue archive),halo,",
@@ -1065,7 +1180,8 @@
             "セミナー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ユウカ(パジャマ)": {
         "prompt": "yuuka (pajamas) (blue archive),halo,",
@@ -1076,7 +1192,8 @@
             "セミナー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ユウカ(体操服)": {
         "prompt": "yuuka (track) (blue archive),halo,",
@@ -1087,7 +1204,8 @@
             "セミナー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ノア": {
         "prompt": "noa (blue archive),halo,",
@@ -1098,7 +1216,8 @@
             "セミナー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ノア(パジャマ)": {
         "prompt": "noa (pajamas) (blue archive),halo,",
@@ -1109,7 +1228,8 @@
             "セミナー"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/アリス": {
         "prompt": "arisu (blue archive),halo,",
@@ -1121,7 +1241,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/アリス(メイド)": {
         "prompt": "arisu (maid) (blue archive),halo,",
@@ -1133,7 +1254,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ユズ": {
         "prompt": "yuzu (blue archive),halo,",
@@ -1145,7 +1267,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ユズ(メイド)": {
         "prompt": "yuzu (maid) (blue archive),halo,",
@@ -1157,7 +1280,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/モモイ": {
         "prompt": "momoi (blue archive),halo,",
@@ -1169,7 +1293,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/モモイ(メイド)": {
         "prompt": "momoi (maid) (blue archive),halo,",
@@ -1181,7 +1306,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ミドリ": {
         "prompt": "midori (blue archive),halo,",
@@ -1193,7 +1319,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ミドリ(メイド)": {
         "prompt": "midori (maid) (blue archive),halo,",
@@ -1205,7 +1332,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ケイ": {
         "prompt": "kei (blue archive),halo,",
@@ -1217,7 +1345,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒナ": {
         "prompt": "hina (blue archive),halo,",
@@ -1229,7 +1358,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒナ(ドレス)": {
         "prompt": "hina (dress) (blue archive), halo,",
@@ -1241,7 +1371,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒナ(パジャマ)": {
         "prompt": "hina (pajamas) (blue archive), halo,",
@@ -1253,7 +1384,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ヒナ(水着)": {
         "prompt": "hina (swimsuit) (blue archive), halo,",
@@ -1265,7 +1397,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/イロハ": {
         "prompt": "iroha (blue archive), hat,halo,",
@@ -1276,7 +1409,8 @@
             "パンデモニウムソサイエティ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/イブキ": {
         "prompt": "ibuki (blue archive), loli,halo,",
@@ -1288,7 +1422,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/イブキ(ドレス)": {
         "prompt": "ibuki (dress) (blue archive),halo,",
@@ -1300,7 +1435,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/シロコ": {
         "prompt": "shiroko (blue archive),halo,",
@@ -1310,7 +1446,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/シロコ(サイクリング)": {
         "prompt": "shiroko (cycling) (blue archive),halo,",
@@ -1320,7 +1457,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/シロコ(水着)": {
         "prompt": "shiroko (swimsuit) (blue archive), halo,",
@@ -1330,7 +1468,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/シロコ(幼女)": {
         "prompt": "shiroko (young) (blue archive), halo,loli",
@@ -1341,7 +1480,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ホシノ": {
         "prompt": "hoshino (blue archive), halo,",
@@ -1352,7 +1492,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ホシノ(水着)": {
         "prompt": "hoshino (swimsuit) (blue archive),halo,",
@@ -1363,7 +1504,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ホシノ(一年生)": {
         "prompt": "hoshino (first year) (blue archive), halo,",
@@ -1374,7 +1516,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/セリカ": {
         "prompt": "serika (blue archive), halo,",
@@ -1384,7 +1527,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/セリカ(新年)": {
         "prompt": "serika (new year) (blue archive), halo,",
@@ -1394,7 +1538,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/セリカ(水着)": {
         "prompt": "serika (swimsuit) (blue archive), halo,",
@@ -1404,7 +1549,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ノノミ": {
         "prompt": "nonomi (blue archive), halo,",
@@ -1414,7 +1560,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ノノミ(水着)": {
         "prompt": "nonomi (swimsuit) (blue archive), halo,",
@@ -1424,7 +1571,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/アヤネ": {
         "prompt": "ayane (blue archive), halo,",
@@ -1434,7 +1582,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/アヤネ(水着)": {
         "prompt": "ayane (swimsuit) (blue archive), halo,",
@@ -1444,7 +1593,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/シロコ*テラー": {
         "prompt": "shiroko terror (blue archive), halo,",
@@ -1454,7 +1604,8 @@
             "アビドス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/チセ": {
         "prompt": "chise (blue archive),halo,",
@@ -1464,7 +1615,8 @@
             "百鬼夜行"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/チセ(水着)": {
         "prompt": "chise (swimsuit) (blue archive), halo,",
@@ -1474,7 +1626,8 @@
             "百鬼夜行"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ミモリ": {
         "prompt": "mimori (blue archive), halo,",
@@ -1484,7 +1637,8 @@
             "百鬼夜行"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ミモリ(水着)": {
         "prompt": "mimori (swimsuit) (blue archive), halo,",
@@ -1494,7 +1648,8 @@
             "百鬼夜行"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/イズナ": {
         "prompt": "izuna (blue archive), tail,halo,",
@@ -1504,7 +1659,8 @@
             "百鬼夜行"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/イズナ(水着)": {
         "prompt": "izuna (swimsuit) (blue archive), tail,halo,",
@@ -1514,7 +1670,8 @@
             "百鬼夜行"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/キサキ": {
         "prompt": "kisaki (blue archive),halo,",
@@ -1524,7 +1681,8 @@
             "山海経"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ミヤコ": {
         "prompt": "miyako (blue archive),halo,",
@@ -1534,7 +1692,8 @@
             "SRT"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ミヤコ(水着)": {
         "prompt": "miyako (swimsuit) (blue archive), halo,",
@@ -1544,7 +1703,8 @@
             "SRT"
         ],
         "defaultClothes": "ブルアカ水着ミヤコ",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "Blue Archive/ニコ": {
         "prompt": "niko (blue archive), fox ears,halo,",
@@ -1554,7 +1714,8 @@
             "SRT"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "blue archive"
     },
     "よう実/一之瀬": {
         "prompt": "ichinose honami (youjitsu), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -1562,7 +1723,8 @@
             "よう実"
         ],
         "defaultClothes": "よう実一之瀬制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
     "よう実/七瀬": {
         "prompt": "nanase tsubasa, youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -1570,7 +1732,8 @@
             "よう実"
         ],
         "defaultClothes": "よう実七瀬制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
     "よう実/ひより": {
         "prompt": "shiina hiyori, youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -1578,7 +1741,8 @@
             "よう実"
         ],
         "defaultClothes": "よう実ひより制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
     "よう実/堀北": {
         "prompt": "horikita suzune (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -1586,7 +1750,8 @@
             "よう実"
         ],
         "defaultClothes": "よう実堀北制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
     "よう実/櫛田": {
         "prompt": "kushida kikyou (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -1594,7 +1759,8 @@
             "よう実"
         ],
         "defaultClothes": "よう実櫛田制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
     "よう実/軽井沢": {
         "prompt": "karuizawa kei (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -1602,7 +1768,8 @@
             "よう実"
         ],
         "defaultClothes": "よう実軽井沢制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
     "よう実/坂柳": {
         "prompt": "sakayanagi arisu (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
@@ -1610,7 +1777,8 @@
             "よう実"
         ],
         "defaultClothes": "よう実坂柳制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
     "五等分の花嫁/中野一花": {
         "prompt": "nakano ichika (anime), go-toubun no hanayome, ",
@@ -1618,7 +1786,8 @@
             "五等分の花嫁"
         ],
         "defaultClothes": "一花制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "go-toubun no hanayome"
     },
     "五等分の花嫁/中野二乃": {
         "prompt": "nakano nino (anime), go-toubun no hanayome, ",
@@ -1626,7 +1795,8 @@
             "五等分の花嫁"
         ],
         "defaultClothes": "二乃制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "go-toubun no hanayome"
     },
     "五等分の花嫁/中野三玖": {
         "prompt": "nakano miku (anime), go-toubun no hanayome, ",
@@ -1634,7 +1804,8 @@
             "五等分の花嫁"
         ],
         "defaultClothes": "三玖制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "go-toubun no hanayome"
     },
     "五等分の花嫁/中野四葉": {
         "prompt": "nakano yotsuba (anime), go-toubun no hanayome, ",
@@ -1642,7 +1813,8 @@
             "五等分の花嫁"
         ],
         "defaultClothes": "四葉制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "go-toubun no hanayome"
     },
     "五等分の花嫁/中野五月": {
         "prompt": "nakano itsuki (anime), go-toubun no hanayome, ",
@@ -1650,7 +1822,8 @@
             "五等分の花嫁"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "go-toubun no hanayome"
     },
     "ごちうさ/千夜": {
         "prompt": "ujimatsu chiya (anime), gochuumon wa usagi desu ka?,",
@@ -1658,7 +1831,8 @@
             "ごちうさ"
         ],
         "defaultClothes": "ごちうさ_チヤ_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/ココア": {
         "prompt": "hoto cocoa, gochuumon wa usagi desu ka?,",
@@ -1666,7 +1840,8 @@
             "ごちうさ"
         ],
         "defaultClothes": "ごちうさ_ココア_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/チノ": {
         "prompt": "kafu chino (anime), gochuumon wa usagi desu ka?,",
@@ -1675,7 +1850,8 @@
             "ロリ"
         ],
         "defaultClothes": "ごちうさ_チノ_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/リゼ": {
         "prompt": "tedeza rize (anime), gochuumon wa usagi desu ka?,",
@@ -1683,7 +1859,8 @@
             "ごちうさ"
         ],
         "defaultClothes": "ごちうさ_リゼ_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/シャロ": {
         "prompt": "kirima sharo (anime), gochuumon wa usagi desu ka?,",
@@ -1691,7 +1868,8 @@
             "ごちうさ"
         ],
         "defaultClothes": "ごちうさ_シャロ_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/メグ": {
         "prompt": "natsu megumi, gochuumon wa usagi desu ka?,",
@@ -1700,7 +1878,8 @@
             "ロリ"
         ],
         "defaultClothes": "ごちうさ_メグ_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/マヤ": {
         "prompt": "jouga maya (anime), gochuumon wa usagi desu ka?,",
@@ -1709,7 +1888,8 @@
             "ロリ"
         ],
         "defaultClothes": "ごちうさ_マヤ_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/青山": {
         "prompt": "aoyama blue mountain, gochuumon wa usagi desu ka?,",
@@ -1717,7 +1897,8 @@
             "ごちうさ"
         ],
         "defaultClothes": "ごちうさ_青山_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ごちうさ/モカ": {
         "prompt": "hoto mocha,gochuumon wa usagi desu ka?,",
@@ -1725,7 +1906,8 @@
             "ごちうさ"
         ],
         "defaultClothes": "ごちうさ_モカ_ラビットハウス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "gochuumon wa usagi desu ka?"
     },
     "ぼざろ/ぼっちちゃん": {
         "prompt": "",
@@ -1734,7 +1916,8 @@
             "ボッチザロック"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "bocchi the rock!"
     },
     "ぼざろ/喜多ちゃん": {
         "prompt": "",
@@ -1743,7 +1926,8 @@
             "ボッチザロック"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "bocchi the rock!"
     },
     "ぼざろ/虹香ちゃん": {
         "prompt": "ijichi nijika (anime), bocchi the rock!,",
@@ -1752,7 +1936,8 @@
             "ボッチザロック"
         ],
         "defaultClothes": "虹香制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "bocchi the rock!"
     },
     "ぼざろ/山田": {
         "prompt": "",
@@ -1761,7 +1946,8 @@
             "ボッチザロック"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "bocchi the rock!"
     },
     "推しの子/あかね": {
         "prompt": "kurokawa akane (anime), oshi no ko,",
@@ -1769,7 +1955,8 @@
             "推しの子"
         ],
         "defaultClothes": "黒川あかね制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "oshi no ko"
     },
     "推しの子/ルビー": {
         "prompt": "hoshino ruby (anime), oshi no ko,",
@@ -1777,7 +1964,8 @@
             "推しの子"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "oshi no ko"
     },
     "推しの子/かな": {
         "prompt": "arima kana (anime), oshi no ko,",
@@ -1785,7 +1973,8 @@
             "推しの子"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "oshi no ko"
     },
     "推しの子/みなみ": {
         "prompt": "kotobuki minami (anime), oshi no ko,",
@@ -1793,7 +1982,8 @@
             "推しの子"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "oshi no ko"
     },
     "推しの子/アイ": {
         "prompt": "hoshino ai (oshi no ko), oshi no ko,",
@@ -1801,7 +1991,8 @@
             "推しの子"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "oshi no ko"
     },
     "推しの子/雪": {
         "prompt": "sumi yuki (anime),  oshi no ko,",
@@ -1809,7 +2000,8 @@
             "推しの子"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "oshi no ko"
     },
     "マギ/ヤムライハ": {
         "prompt": "yamraiha, magi the labyrinth of magic,",
@@ -1817,7 +2009,8 @@
             "マギ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "magi the labyrinth of magic"
     },
     "ゼンゼロ/ビビアン": {
         "prompt": "vivian (zenless zone zero),zenless zone zero,",
@@ -1825,7 +2018,8 @@
             "ゼンゼロ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "zenless zone zero"
     },
     "リゼロ/レム": {
         "prompt": "rem (re:zero), re:zero kara hajimeru isekai seikatsu,",
@@ -1833,7 +2027,8 @@
             "リゼロ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "re:zero kara hajimeru isekai seikatsu"
     },
     "リゼロ/カーミラ": {
         "prompt": "carmilla (re:zero), re:zero kara hajimeru isekai seikatsu,",
@@ -1841,7 +2036,8 @@
             "リゼロ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "re:zero kara hajimeru isekai seikatsu"
     },
     "リゼロ/クルシュ": {
         "prompt": "crusch karsten, re:zero kara hajimeru isekai seikatsu,",
@@ -1849,7 +2045,8 @@
             "リゼロ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "re:zero kara hajimeru isekai seikatsu"
     },
     "リゼロ/テレシア": {
         "prompt": "theresia van astrea, re:zero kara hajimeru isekai seikatsu,",
@@ -1857,7 +2054,8 @@
             "リゼロ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "re:zero kara hajimeru isekai seikatsu"
     },
     "リゼロ/エミリア": {
         "prompt": "emilia (anime),  re:zero kara hajimeru isekai seikatsu,",
@@ -1865,7 +2063,8 @@
             "リゼロ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "re:zero kara hajimeru isekai seikatsu"
     },
     "リゼロ/ペトラ": {
         "prompt": "petra leyte, re:zero kara hajimeru isekai seikatsu,loli,",
@@ -1874,7 +2073,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "re:zero kara hajimeru isekai seikatsu"
     },
     "無職転生/シルフィ": {
         "prompt": "sylphiette (mushoku tensei),mushoku tensei,short hair,white hair,",
@@ -1882,7 +2082,8 @@
             "無職転生"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/シルフィ(ロングヘア)": {
         "prompt": "sylphiette (mushoku tensei), mushoku tensei,long hair,",
@@ -1890,7 +2091,8 @@
             "無職転生"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/ロリシルフィ": {
         "prompt": "sylphiette (mushoku tensei), mushoku tensei,loli,green hair,",
@@ -1899,7 +2101,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/ロキシー": {
         "prompt": "roxy migurdia, mushoku tensei,",
@@ -1908,7 +2111,8 @@
             "ロリ"
         ],
         "defaultClothes": "無職転生ロキシー",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/エリス": {
         "prompt": "eris greyrat,mushoku tensei,",
@@ -1916,7 +2120,8 @@
             "無職転生"
         ],
         "defaultClothes": "無職転生エリス",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/エリス(ロリ)": {
         "prompt": "eris greyrat,mushoku tensei,loli",
@@ -1925,7 +2130,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/七星静": {
         "prompt": "nanahoshi shizuka,  mushoku tensei,",
@@ -1933,7 +2139,8 @@
             "無職転生"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/ノルン": {
         "prompt": "norn greyrat, mushoku tensei, mushoku tensei,",
@@ -1942,7 +2149,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/ノルン(ロリ)": {
         "prompt": "norn greyrat, mushoku tensei, mushoku tensei,",
@@ -1951,7 +2159,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/アイシャ": {
         "prompt": "aisha greyrat,mushoku tensei,",
@@ -1960,7 +2169,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/アイシャ(ロリ)": {
         "prompt": "aisha greyrat,mushoku tensei,loli",
@@ -1969,7 +2179,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/プルセナ": {
         "prompt": "pursena adoldia,mushoku tensei,",
@@ -1977,7 +2188,8 @@
             "無職転生"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "無職転生/ゼニス": {
         "prompt": "zenith greyrat,mushoku tensei,",
@@ -1985,7 +2197,8 @@
             "無職転生"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
     },
     "ダンまち/レフィーヤ": {
         "prompt": "viridis lefiya,dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
@@ -1993,7 +2206,8 @@
             "ダンまち"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "ダンまち/ヘスティア": {
         "prompt": "hestia (anime), dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
@@ -2001,7 +2215,8 @@
             "ダンまち"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "ダンまち/アイズ": {
         "prompt": "aiz wallenstein,dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
@@ -2009,7 +2224,8 @@
             "ダンまち"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "ダンまち/春姫": {
         "prompt": "sanjouno haruhime,dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
@@ -2017,7 +2233,8 @@
             "ダンまち"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "ダンまち/リュー": {
         "prompt": "ryu lion, dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
@@ -2025,7 +2242,8 @@
             "ダンまち"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "ダンまち/シル": {
         "prompt": "syr flover, dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
@@ -2033,7 +2251,8 @@
             "ダンまち"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "ダンまち/リリ": {
         "prompt": "arde liliruca, dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
@@ -2041,7 +2260,8 @@
             "ダンまち"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "劣等生/司波深雪": {
         "prompt": "shiba miyuki (anime), mahouka koukou no rettousei,",
@@ -2049,7 +2269,8 @@
             "劣等生"
         ],
         "defaultClothes": "魔法科高校の劣等生制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mahouka koukou no rettousei"
     },
     "劣等生/光井ほのか": {
         "prompt": "mitsui honoka (anime), mahouka koukou no rettousei,",
@@ -2057,7 +2278,8 @@
             "劣等生"
         ],
         "defaultClothes": "魔法科高校の劣等生制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mahouka koukou no rettousei"
     },
     "劣等生/七草真由美": {
         "prompt": "saegusa mayumi (anime), mahouka koukou no rettousei,",
@@ -2065,7 +2287,8 @@
             "劣等生"
         ],
         "defaultClothes": "魔法科高校の劣等生制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mahouka koukou no rettousei"
     },
     "劣等生/北山雫": {
         "prompt": "kitayama shizuku (anime), mahouka koukou no rettousei,",
@@ -2073,7 +2296,8 @@
             "劣等生"
         ],
         "defaultClothes": "魔法科高校の劣等生制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mahouka koukou no rettousei"
     },
     "劣等生/桜井水波": {
         "prompt": "sakurai minami (anime), mahouka koukou no rettousei,",
@@ -2081,7 +2305,8 @@
             "劣等生"
         ],
         "defaultClothes": "魔法科高校の劣等生制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mahouka koukou no rettousei"
     },
     "劣等生/柴田美月": {
         "prompt": "shibata mizuki (anime), mahouka koukou no rettousei,",
@@ -2089,7 +2314,8 @@
             "劣等生"
         ],
         "defaultClothes": "魔法科高校の劣等生制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "mahouka koukou no rettousei"
     },
     "転生王女と天才令嬢の魔法革命/ユフィリア": {
         "prompt": "euphyllia magenta, tensei oujo to tensai reijou no mahou kakumei,",
@@ -2098,7 +2324,8 @@
             "転天"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tensei oujo to tensai reijou no mahou kakumei"
     },
     "転生王女と天才令嬢の魔法革命/アニスフィア": {
         "prompt": "anisphia Wynn Palettia,tensei oujo to tensai reijou no mahou kakumei, ",
@@ -2107,7 +2334,8 @@
             "転天"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tensei oujo to tensai reijou no mahou kakumei"
     },
     "お隣の天使様にダメ人間にされてしまった件/椎名真昼": {
         "prompt": "shiina mahiru (otonari no tenshi-sama), otonari no tenshi-sama ni itsu no mani ka dame ningen ni sarete ita ken,",
@@ -2117,7 +2345,8 @@
             "天使様"
         ],
         "defaultClothes": "椎名真昼制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "otonari no tenshi-sama ni itsu no ma ni ka dame ningen ni sareteita ken"
     },
     "わたなれ/甘織れな子": {
         "prompt": "amaori renako, watashi ga koibito ni nareru wake naijan murimuri!, ",
@@ -2126,7 +2355,8 @@
             "わたなれ"
         ],
         "defaultClothes": "れな子制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "watashi ga koibito ni nareru wake naijan, muri muri! (muri janakatta!?)"
     },
     "わたなれ/瀬名紫陽花": {
         "prompt": "sena ajisai, watashi ga koibito ni nareru wake naijan murimuri!, ",
@@ -2135,7 +2365,8 @@
             "わたなれ"
         ],
         "defaultClothes": "紫陽花制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "watashi ga koibito ni nareru wake naijan, muri muri! (muri janakatta!?)"
     },
     "わたなれ/小柳香穂": {
         "prompt": "koyanagi kaho, watashi ga koibito ni nareru wake naijan murimuri!,",
@@ -2144,7 +2375,8 @@
             "わたなれ"
         ],
         "defaultClothes": "香穂制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "watashi ga koibito ni nareru wake naijan, muri muri! (muri janakatta!?)"
     },
     "SAO/アスナ": {
         "prompt": "yuuki asuna (anime), sword art online,",
@@ -2152,7 +2384,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/アスナ(ALO)": {
         "prompt": "asuna (sao-alo), sword art online,",
@@ -2160,7 +2393,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/直葉": {
         "prompt": "kirigaya suguha (anime),sword art online,",
@@ -2168,7 +2402,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/リーファ": {
         "prompt": "leafa (sao),sword art online,",
@@ -2176,7 +2411,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/リーファ(テラリア)": {
         "prompt": "leafa (terraria) (sao), sword art online,",
@@ -2184,7 +2420,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/シノン": {
         "prompt": "sinon (sao),sword art online,",
@@ -2192,7 +2429,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/シノン(ALO)": {
         "prompt": "sinon (sao-alo),sword art online,",
@@ -2200,7 +2438,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/シリカ": {
         "prompt": "silica (sao),sword art online,",
@@ -2209,7 +2448,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/シリカ(ALO)": {
         "prompt": "silica (sao-alo),sword art online,",
@@ -2218,7 +2458,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/ユウキ": {
         "prompt": "yuuki (sao),sword art online,",
@@ -2226,7 +2467,8 @@
             "SAO"
         ],
         "defaultClothes": "SAOユウキ",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/ロニエ": {
         "prompt": "arabel ronie,sword art online,",
@@ -2234,7 +2476,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/アリス": {
         "prompt": "alice zuberg,sword art online,",
@@ -2242,7 +2485,8 @@
             "SAO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "SAO/アリス(ロリ)": {
         "prompt": "alice zuberg,sword art online,loli,",
@@ -2251,7 +2495,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sword art online"
     },
     "ストブラ/姫柊雪菜": {
         "prompt": "himeragi yukina (anime),strike the blood, ",
@@ -2259,7 +2504,8 @@
             "ストブラ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "strike the blood"
     },
     "ひげをそる/さゆ": {
         "prompt": "ogiwara sayu (anime), hige wo soru. soshite joshikousei wo hirou., ",
@@ -2267,7 +2513,8 @@
             "ひげをそる"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "hige wo soru. soshite joshikousei wo hirou."
     },
     "ロシデレ/アーリャ": {
         "prompt": "alisa mikhailovna kujou, tokidoki bosotto roshia-go de dereru tonari no alya-san, ",
@@ -2275,7 +2522,8 @@
             "ロシデレ"
         ],
         "defaultClothes": "アーリャ制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tokidoki bosotto roshia-go de dereru tonari no alya-san"
     },
     "ロシデレ/マーシャ": {
         "prompt": "maria mikhailovna kujou, tokidoki bosotto roshia-go de dereru tonari no alya-san, ",
@@ -2283,7 +2531,8 @@
             "ロシデレ"
         ],
         "defaultClothes": "マーシャ制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tokidoki bosotto roshia-go de dereru tonari no alya-san"
     },
     "俺ガイル/結衣": {
         "prompt": "yuigahama yui,yahari ore no seishun lovecome wa machigatteiru., ",
@@ -2291,7 +2540,8 @@
             "俺ガイル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/がはまま": {
         "prompt": "yuigahama yui's mother,yahari ore no seishun lovecome wa machigatteiru., ",
@@ -2299,7 +2549,8 @@
             "俺ガイル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/雪乃": {
         "prompt": "yukinoshita yukino, yahari ore no seishun lovecome wa machigatteiru., ",
@@ -2307,7 +2558,8 @@
             "俺ガイル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/いろはす": {
         "prompt": "isshiki iroha, yahari ore no seishun lovecome wa machigatteiru., ",
@@ -2315,7 +2567,8 @@
             "俺ガイル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/小町": {
         "prompt": "hikigaya komachi (anime), yahari ore no seishun lovecome wa machigatteiru., ",
@@ -2323,7 +2576,8 @@
             "俺ガイル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/川上": {
         "prompt": "kawasaki saki (anime), yahari ore no seishun lovecome wa machigatteiru., ",
@@ -2331,7 +2585,8 @@
             "俺ガイル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "転スラ/シュナ": {
         "prompt": "shuna (tensei shitara slime datta ken), tensei shitara slime datta ken",
@@ -2339,7 +2594,8 @@
             "転スラ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tensei shitara slime datta ken"
     },
     "転スラ/クロエ": {
         "prompt": "chloe aubert, ,tensei shitara slime datta ken, loli,",
@@ -2348,7 +2604,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tensei shitara slime datta ken"
     },
     "盾の勇者の成り上がり/ラフタリア": {
         "prompt": "raphtalia (anime), tate no yuusha no nariagari,",
@@ -2356,7 +2613,8 @@
             "盾の勇者の成り上がり"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tate no yuusha no nariagari"
     },
     "盾の勇者の成り上がり/ラフタリア（ロリ）": {
         "prompt": "raphtalia (anime), tate no yuusha no nariagari,loli,",
@@ -2365,7 +2623,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "tate no yuusha no nariagari"
     },
     "とある/五和": {
         "prompt": "itsuwa (anime), toaru majutsu no index,toaru majutsu no index, ",
@@ -2373,7 +2632,8 @@
             "とある"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "toaru majutsu no index"
     },
     "とある/美琴": {
         "prompt": "misaka mikoto (anime), toaru kagaku no railgun,",
@@ -2381,7 +2641,8 @@
             "とある"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "toaru kagaku no railgun"
     },
     "とある/食蜂操祈": {
         "prompt": "shokuhou misaki (anime), toaru kagaku no railgun,",
@@ -2389,7 +2650,8 @@
             "とある"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "toaru kagaku no railgun"
     },
     "とある/佐天涙子": {
         "prompt": "saten ruiko (anime), toaru kagaku no railgun,",
@@ -2397,7 +2659,8 @@
             "とある"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": ""
     },
     "とある/初春飾利": {
         "prompt": "uiharu kazari (anime), toaru kagaku no railgun,",
@@ -2405,7 +2668,8 @@
             "とある"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": ""
     },
     "冴えない彼女の育てかた/いずみ": {
         "prompt": "hashima izumi,saenai heroine no sodatekata, ",
@@ -2413,7 +2677,8 @@
             "冴えない彼女の育てかた"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "saenai heroine no sodatekata"
     },
     "冴えない彼女の育てかた/えりり": {
         "prompt": "sawamura spencer eriri,saenai heroine no sodatekata, ",
@@ -2421,7 +2686,8 @@
             "冴えない彼女の育てかた"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "saenai heroine no sodatekata"
     },
     "冴えない彼女の育てかた/詩羽": {
         "prompt": "kasumigaoka utaha (anime),saenai heroine no sodatekata, ",
@@ -2429,7 +2695,8 @@
             "冴えない彼女の育てかた"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "saenai heroine no sodatekata"
     },
     "冴えない彼女の育てかた/加藤": {
         "prompt": "katou megumi (anime),saenai heroine no sodatekata, ",
@@ -2437,7 +2704,8 @@
             "冴えない彼女の育てかた"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "saenai heroine no sodatekata"
     },
     "トラブル/モモ": {
         "prompt": "momo velia deviluke, to love-ru darkness,tail",
@@ -2445,7 +2713,8 @@
             "トラブル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
     },
     "トラブル/ナナ": {
         "prompt": "nana asta deviluke, to love-ru darkness,tail",
@@ -2453,7 +2722,8 @@
             "トラブル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
     },
     "トラブル/ララ": {
         "prompt": "lala satalin deviluke, to love-ru darkness,tail",
@@ -2461,7 +2731,8 @@
             "トラブル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
     },
     "トラブル/ヤミ": {
         "prompt": "konjiki no yami (anime), to love-ru darkness,",
@@ -2469,7 +2740,8 @@
             "トラブル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
     },
     "トラブル/美柑": {
         "prompt": "yuuki mikan (anime), to love-ru darkness,",
@@ -2477,7 +2749,8 @@
             "トラブル"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
     },
     "リボーン/クローム": {
         "prompt": "dokuro chrome (anime), kateikyoushi hitman reborn!,",
@@ -2485,7 +2758,8 @@
             "リボーン"
         ],
         "defaultClothes": "クローム制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kateikyoushi hitman reborn!"
     },
     "BLEACH/織姫": {
         "prompt": "inoue orihime (anime),bleach,hair accessory,hair behind ear,",
@@ -2493,7 +2767,8 @@
             "BLEACH"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "bleach"
     },
     "BLEACH/乱菊": {
         "prompt": "matsumoto rangiku (anime),bleach,",
@@ -2501,7 +2776,8 @@
             "BLEACH"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "bleach"
     },
     "BLEACH/雛森桃": {
         "prompt": "hinamori momo (anime), bomb hair,bleach,",
@@ -2509,7 +2785,8 @@
             "BLEACH"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "bleach"
     },
     "NARUTO/日向ヒナタ": {
         "prompt": "hyuuga hinata,naruto shippuuden, long hair,",
@@ -2517,7 +2794,8 @@
             "NARUTO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "naruto shippuuden"
     },
     "NARUTO/日向ヒナタ(ロリ)": {
         "prompt": "hyuuga hinata, naruto, short hair,loli,",
@@ -2526,7 +2804,8 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "naruto shippuuden"
     },
     "NARUTO/春野サクラ": {
         "prompt": "haruno sakura,naruto shippuuden,",
@@ -2534,7 +2813,8 @@
             "NARUTO"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "naruto shippuuden"
     },
     "鬼滅の刃/栗花落カナヲ": {
         "prompt": "tsuyuri kanao,kimetsu no yaiba, ",
@@ -2542,7 +2822,8 @@
             "鬼滅の刃"
         ],
         "defaultClothes": "鬼滅の刃カナヲ",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kimetsu no yaiba"
     },
     "鬼滅の刃/胡蝶忍": {
         "prompt": "kochou shinobu,kimetsu no yaiba, ",
@@ -2550,7 +2831,8 @@
             "鬼滅の刃"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kimetsu no yaiba"
     },
     "鬼滅の刃/甘露寺蜜璃": {
         "prompt": "kanroji mitsuri,kimetsu no yaiba, ",
@@ -2558,7 +2840,8 @@
             "鬼滅の刃"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kimetsu no yaiba"
     },
     "鬼滅の刃/ねずこ": {
         "prompt": "kamado nezuko,kimetsu no yaiba, ",
@@ -2566,7 +2849,8 @@
             "鬼滅の刃"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kimetsu no yaiba"
     },
     "ニセコイ/小野寺小咲": {
         "prompt": "onodera kosaki (anime),nisekoi,",
@@ -2574,7 +2858,8 @@
             "ニセコイ"
         ],
         "defaultClothes": "ニセコイ制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "nisekoi"
     },
     "ニセコイ/まりか": {
         "prompt": "tachibana marika (anime),nisekoi,",
@@ -2582,7 +2867,8 @@
             "ニセコイ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "nisekoi"
     },
     "ニセコイ/千棘": {
         "prompt": "kirisaki chitoge (anime),nisekoi,",
@@ -2590,7 +2876,8 @@
             "ニセコイ"
         ],
         "defaultClothes": "ニセコイ制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "nisekoi"
     },
     "ニセコイ/小野寺春": {
         "prompt": "onodera haru (anime),nisekoi,",
@@ -2598,7 +2885,8 @@
             "ニセコイ"
         ],
         "defaultClothes": "ニセコイ制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "nisekoi"
     },
     "かの借り/水原": {
         "prompt": "mizuhara chizuru, kanojo okarishimasu, ",
@@ -2606,7 +2894,8 @@
             "かの借り"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kanojo okarishimasu"
     },
     "かの借り/麻実": {
         "prompt": "nanami mami (anime), kanojo okarishimasu, ",
@@ -2614,7 +2903,8 @@
             "かの借り"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kanojo okarishimasu"
     },
     "かの借り/墨": {
         "prompt": "sakurasawa sumi (anime), kanojo okarishimasu, ",
@@ -2622,7 +2912,8 @@
             "かの借り"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kanojo okarishimasu"
     },
     "かの借り/るか": {
         "prompt": "sarashina ruka (anime), kanojo okarishimasu, ",
@@ -2630,7 +2921,8 @@
             "かの借り"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kanojo okarishimasu"
     },
     "炎々の消防隊/アイリス": {
         "prompt": "iris (en'en no shouboutai), en'en no shouboutai,",
@@ -2638,7 +2930,8 @@
             "炎々の消防隊"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "en'en no shouboutai"
     },
     "炎々の消防隊/マキ": {
         "prompt": "oze maki (anime), en'en no shouboutai,",
@@ -2646,7 +2939,8 @@
             "炎々の消防隊"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "en'en no shouboutai"
     },
     "炎々の消防隊/環": {
         "prompt": "kotatsu tamaki (anime), en'en no shouboutai,",
@@ -2654,7 +2948,8 @@
             "炎々の消防隊"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "en'en no shouboutai"
     },
     "寄宿学校のジュリエット/ペルシア": {
         "prompt": "juliet persia, kishuku gakkou no juliet,",
@@ -2662,7 +2957,8 @@
             "寄宿学校のジュリエット"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kishuku gakkou no juliet"
     },
     "寄宿学校のジュリエット/はすき": {
         "prompt": "komai hasuki, kishuku gakkou no juliet,",
@@ -2670,7 +2966,8 @@
             "寄宿学校のジュリエット"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kishuku gakkou no juliet"
     },
     "FAIRYTAIL/ルーシー": {
         "prompt": "heartfilia lucy (anime),fairy tail,",
@@ -2678,7 +2975,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "FAIRYTAIL/ウェンディ": {
         "prompt": "wendy marvell,fairy tail,",
@@ -2686,7 +2984,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "FAIRYTAIL/シェリア": {
         "prompt": "blendy chelia,fairy tail,",
@@ -2694,7 +2993,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "FAIRYTAIL/エルザ": {
         "prompt": "erza scarlet,fairy tail,",
@@ -2702,7 +3002,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "FAIRYTAIL/レヴィ": {
         "prompt": "mcgarden levy,fairy tail,",
@@ -2710,7 +3011,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "FAIRYTAIL/リサーナ": {
         "prompt": "lisanna strauss,fairy tail,",
@@ -2718,7 +3020,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "FAIRYTAIL/ミラジェーン": {
         "prompt": "strauss mirajane,fairy tail,",
@@ -2726,7 +3029,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "FAIRYTAIL/メイビス": {
         "prompt": "vermillion mavis,fairy tail,",
@@ -2734,7 +3038,8 @@
             "FAIRYTAIL"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "fairy tail"
     },
     "カッコウの許嫁/エリカ": {
         "prompt": "amano erika (anime),kakkou no iinazuke, ",
@@ -2742,7 +3047,8 @@
             "カッコウの許嫁"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kakkou no iinazuke"
     },
     "カッコウの許嫁/ひろ": {
         "prompt": "segawa hiro (anime),kakkou no iinazuke, ",
@@ -2750,7 +3056,8 @@
             "カッコウの許嫁"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kakkou no iinazuke"
     },
     "カッコウの許嫁/幸": {
         "prompt": "umino sachi (anime),kakkou no iinazuke, ",
@@ -2758,7 +3065,8 @@
             "カッコウの許嫁"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kakkou no iinazuke"
     },
     "女神のカフェテラス/白菊": {
         "prompt": "ono shiragiku (anime),megami no cafe terrace, ",
@@ -2766,7 +3074,8 @@
             "女神のカフェテラス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "megami no cafe terrace"
     },
     "女神のカフェテラス/りほ": {
         "prompt": "tsukishima riho (anime),megami no cafe terrace, ",
@@ -2774,7 +3083,8 @@
             "女神のカフェテラス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "megami no cafe terrace"
     },
     "女神のカフェテラス/秋水": {
         "prompt": "tsuruga ami (anime),megami no cafe terrace, ",
@@ -2782,7 +3092,8 @@
             "女神のカフェテラス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "megami no cafe terrace"
     },
     "女神のカフェテラス/あかね": {
         "prompt": "hououji akane (anime),megami no cafe terrace, ",
@@ -2790,7 +3101,8 @@
             "女神のカフェテラス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "megami no cafe terrace"
     },
     "女神のカフェテラス/おうか": {
         "prompt": "makuzawa ouka (anime),megami no cafe terrace, ",
@@ -2798,7 +3110,8 @@
             "女神のカフェテラス"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "megami no cafe terrace"
     },
     "めだかわ/川井モナ": {
         "prompt": "kawai mona (anime), kuroiwa medaka ni watashi no kawaii ga tsuujinai, ",
@@ -2806,7 +3119,8 @@
             "めだかわ"
         ],
         "defaultClothes": "川井モナ制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kuroiwa medaka ni watashi no kawaii ga todomari sugite tsurai"
     },
     "めだかわ/湘南": {
         "prompt": "shounan asahi (anime),kuroiwa medaka ni watashi no kawaii ga tsuujinai, ",
@@ -2814,7 +3128,8 @@
             "めだかわ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kuroiwa medaka ni watashi no kawaii ga todomari sugite tsurai"
     },
     "めだかわ/春野": {
         "prompt": "haruno tsubomi (anime),kuroiwa medaka ni watashi no kawaii ga tsuujinai, ",
@@ -2822,7 +3137,8 @@
             "めだかわ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kuroiwa medaka ni watashi no kawaii ga todomari sugite tsurai"
     },
     "めだかわ/難波朋": {
         "prompt": "nanba tomo (anime),kuroiwa medaka ni watashi no kawaii ga tsuujinai, ",
@@ -2830,7 +3146,8 @@
             "めだかわ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kuroiwa medaka ni watashi no kawaii ga todomari sugite tsurai"
     },
     "めだかわ/白浜": {
         "prompt": "shirahama minami (anime),kuroiwa medaka ni watashi no kawaii ga tsuujinai, ",
@@ -2838,7 +3155,8 @@
             "めだかわ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "kuroiwa medaka ni watashi no kawaii ga todomari sugite tsurai"
     },
     "プリヤ/美遊": {
         "prompt": "miyu edelfelt, prisma illya, ",
@@ -2846,7 +3164,8 @@
             "プリヤ"
         ],
         "defaultClothes": "美遊制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "prisma illya"
     },
     "その着せ替え人形は恋をする/喜多川海夢": {
         "prompt": "kitagawa marin, sono bisque doll wa koi wo suru, ",
@@ -2855,7 +3174,8 @@
             "着せ恋"
         ],
         "defaultClothes": "喜多川海夢制服(夏)",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sono bisque doll wa koi wo suru"
     },
     "その着せ替え人形は恋をする/乾紗寿叶": {
         "prompt": "inui sajuna, sono bisque doll wa koi wo suru, ",
@@ -2864,7 +3184,8 @@
             "着せ恋"
         ],
         "defaultClothes": "乾紗寿叶制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sono bisque doll wa koi wo suru"
     },
     "その着せ替え人形は恋をする/乾心寿": {
         "prompt": "inui shinju (anime), sono bisque doll wa koi wo suru, ",
@@ -2873,7 +3194,8 @@
             "着せ恋"
         ],
         "defaultClothes": "乾心寿制服",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": "sono bisque doll wa koi wo suru"
     },
     "テスト/": {
         "prompt": "",
@@ -2881,6 +3203,7 @@
             ""
         ],
         "defaultClothes": "",
-        "defaultHairStyle": ""
+        "defaultHairStyle": "",
+        "title": ""
     }
 }
