@@ -2589,11 +2589,11 @@
         "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "転スラ/シュナ": {
-        "prompt": "shuna (tensei shitara slime datta ken), tensei shitara slime datta ken",
+        "prompt": "shuna (tensei shitara slime datta ken), tensei shitara slime datta ken,",
         "tag": [
             "転スラ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "シュナ着物",
         "defaultHairStyle": "",
         "title": "tensei shitara slime datta ken"
     },
