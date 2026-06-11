@@ -441,6 +441,45 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
   },
+  "高坂麗奈:ユーフォ": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "brown tops,red tie:tops",
+    "girlBottom": "brown skirt, black thigh-high socks:skirt",
+    "girlUnder": "black thigh-high socks:thigh-high socks",
+    "panties": "white panties, light blue ribbon, white floral lace trim, simple panties",
+    "bra": "white bra, light blue ribbon, white floral lace trim, simple bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ユーフォ/高坂 麗奈\""
+  },
+  "黒江真由:ユーフォ": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "brown tops,red tie:tops",
+    "girlBottom": "brown skirt, black tights:skirt",
+    "girlUnder": "black tights:tights",
+    "panties": "white panties, light blue ribbon, white floral lace trim, simple panties",
+    "bra": "white bra, light blue ribbon, white floral lace trim, simple bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ユーフォ/黒江 真由\""
+  },
+  "義井沙里:ユーフォ": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "brown tops,blue tie:tops",
+    "girlBottom": "brown skirt:skirt",
+    "girlUnder": "white socks:socks",
+    "panties": "white panties, light blue ribbon, white floral lace trim, simple panties",
+    "bra": "white bra, light blue ribbon, white floral lace trim, simple bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ユーフォ/義井 沙里\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -1285,5 +1324,18 @@
     "clothesTopStatus": "7",
     "clothesBottomStatus": "0",
     "characterOnly": "\"リゼロ/レム\""
+  },
+  "シュナ着物": {
+    "girlBaseClothes": "japanese style clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white kimono:kimono",
+    "girlBottom": "red hakama:hakama",
+    "girlUnder": "tabi:tabi",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "10",
+    "characterOnly": "\"転スラ/シュナ\""
   }
 }
