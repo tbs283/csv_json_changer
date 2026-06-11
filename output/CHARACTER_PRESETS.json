@@ -3206,7 +3206,376 @@
         "defaultHairStyle": "",
         "title": "sousou no frieren"
     },
-    "テスト/": {
+    "ユーフォ/高坂 麗奈": {
+        "prompt": "kousaka reina (anime), hibike! euphonium, ",
+        "tag": [
+            "響け！ユーフォニアム"
+        ],
+        "defaultClothes": "高坂麗奈:ユーフォ",
+        "defaultHairStyle": "",
+        "title": "hibike! euphonium"
+    },
+    "ユーフォ/黒江 真由": {
+        "prompt": "kuroe mayu, hibike! euphonium, ",
+        "tag": [
+            "響け！ユーフォニアム"
+        ],
+        "defaultClothes": "黒江真由:ユーフォ",
+        "defaultHairStyle": "",
+        "title": "hibike! euphonium"
+    },
+    "ユーフォ/義井 沙里": {
+        "prompt": "yoshii sari, hibike! euphonium, ",
+        "tag": [
+            "響け！ユーフォニアム"
+        ],
+        "defaultClothes": "義井沙里:ユーフォ",
+        "defaultHairStyle": "",
+        "title": "hibike! euphonium"
+    },
+    "陰実/アルファ": {
+        "prompt": "alpha (kage no jitsuryokusha ni naritakute!), kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/ベータ": {
+        "prompt": "beta (kage no jitsuryokusha ni naritakute!),  kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/ガンマ": {
+        "prompt": "gamma (kage no jitsuryokusha ni naritakute!), kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/デルタ": {
+        "prompt": "delta (kage no jitsuryokusha ni naritakute!), kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/イプシロン": {
+        "prompt": "epsilon (kage no jitsuryokusha ni naritakute!), kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/ゼータ": {
+        "prompt": "zeta (kage no jitsuryokusha ni naritakute!), kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/イータ": {
+        "prompt": "eta (kage no jitsuryokusha ni naritakute!), kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/アレクシア": {
+        "prompt": "alexia midgar, kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/ローズ": {
+        "prompt": "rose oriana, kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "陰実/シェリー": {
+        "prompt": "sherry barnett,kage no jitsuryokusha ni naritakute!, ",
+        "tag": [
+            "陰の実力者になりたくて!", "陰実"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kage no jitsuryokusha ni naritakute!"
+    },
+    "転生したら剣でした/フラン": {
+        "prompt": "fran (anime), tensei shitara ken deshita,",
+        "tag": [
+            "転生したら剣でした"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tensei shitara ken deshita"
+    },
+    "ラス為/プライド": {
+        "prompt": "pride royal ivy, higeki no genkyou tonaru saikyou gedou last boss joou wa tami no tame ni tsukushimasu,",
+        "tag": [
+            "ラス為", "悲劇の元凶となる最強外道ラスボス女王は民のために尽くします"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "higeki no genkyou tonaru saikyou gedou last boss joou wa tami no tame ni tsukushimasu"
+    },
+    "ラス為/ティアラ": {
+        "prompt": "tiara royal ivy, higeki no genkyou tonaru saikyou gedou last boss joou wa tami no tame ni tsukushimasu,",
+        "tag": [
+            "ラス為", "悲劇の元凶となる最強外道ラスボス女王は民のために尽くします"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "higeki no genkyou tonaru saikyou gedou last boss joou wa tami no tame ni tsukushimasu"
+    },
+    "ゴブスレ/女神官": {
+        "prompt": "priestess (goblin slayer!),goblin slayer,",
+        "tag": [
+            "ゴブリンスレイヤー", "ゴブスレ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "goblin slayer"
+    },
+    "ゴブスレ/牛飼い娘": {
+        "prompt": "cow girl (goblin slayer!),goblin slayer,",
+        "tag": [
+            "ゴブリンスレイヤー", "ゴブスレ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "goblin slayer"
+    },
+    "ゴブスレ/ハイエルフ射手": {
+        "prompt": "high elf archer (goblin slayer!), goblin slayer, goblin slayer,",
+        "tag": [
+            "ゴブリンスレイヤー", "ゴブスレ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "goblin slayer"
+    },
+    "防振り/メイプル": {
+        "prompt": "maple (bofuri), itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu,",
+        "tag": [
+            "防振り", "痛いのは嫌なので防御力に極振りしたいと思います"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu"
+    },
+    "防振り/サリー": {
+        "prompt": "sally (anime), itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu,",
+        "tag": [
+            "防振り", "痛いのは嫌なので防御力に極振りしたいと思います"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu"
+    },
+    "防振り/カスミ": {
+        "prompt": "kasumi (itai no), itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu,",
+        "tag": [
+            "防振り", "痛いのは嫌なので防御力に極振りしたいと思います"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu"
+    },
+    "防振り/イズ": {
+        "prompt": "iz (bofuri), itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu,",
+        "tag": [
+            "防振り", "痛いのは嫌なので防御力に極振りしたいと思います"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu"
+    },
+    "真の仲間/リット": {
+        "prompt": "rit (shin no nakama), shin no nakama janai to yuusha no party wo oidasareta no de henkyou de slow life suru koto ni shimashita,",
+        "tag": [
+            "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "shin no nakama janai to yuusha no party wo oidasareta no de henkyou de slow life suru koto ni shimashita"
+    },
+    "真の仲間/ルーティ": {
+        "prompt": "ragnason ruti, shin no nakama janai to yuusha no party wo oidasareta no de henkyou de slow life suru koto ni shimashita, ",
+        "tag": [
+            "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "shin no nakama janai to yuusha no party wo oidasareta no de henkyou de slow life suru koto ni shimashita"
+    },
+    "真の仲間/ヤランドララ": {
+        "prompt": "yarandrala (anime), shin no nakama janai to yuusha no party wo oidasareta no de henkyou de slow life suru koto ni shimashita, ",
+        "tag": [
+            "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "shin no nakama janai to yuusha no party wo oidasareta no de henkyou de slow life suru koto ni shimashita"
+    },
+    "暗殺貴族/ディア": {
+        "prompt": "dia (ansatsu kizoku), sekai saikou no ansatsusha isekai kizoku ni tensei suru,",
+        "tag": [
+            "世界最高の暗殺者、異世界貴族に転生する", "暗殺貴族"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "sekai saikou no ansatsusha isekai kizoku ni tensei suru,"
+    },
+    "暗殺貴族/タルト": {
+        "prompt": "tarte (ansatsu kizoku), sekai saikou no ansatsusha isekai kizoku ni tensei suru,",
+        "tag": [
+            "世界最高の暗殺者、異世界貴族に転生する", "暗殺貴族"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "sekai saikou no ansatsusha isekai kizoku ni tensei suru,"
+    },
+    "暗殺貴族/マーハ": {
+        "prompt": "maha (ansatsu kizoku), sekai saikou no ansatsusha isekai kizoku ni tensei suru,",
+        "tag": [
+            "世界最高の暗殺者、異世界貴族に転生する", "暗殺貴族"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "sekai saikou no ansatsusha isekai kizoku ni tensei suru,"
+    },
+    "たんもし/シエスタ": {
+        "prompt": "siesta (tantei wa mou shindeiru), tantei wa mou shindeiru,",
+        "tag": [
+            "探偵はもう死んでいる", "たんもし"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tantei wa mou shindeiru"
+    },
+    "たんもし/夏凪渚": {
+        "prompt": "natsunagi nagisa, tantei wa mou shindeiru,",
+        "tag": [
+            "探偵はもう死んでいる", "たんもし"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tantei wa mou shindeiru"
+    },
+    "たんもし/斎川唯": {
+        "prompt": "saikawa yui (anime), tantei wa mou shindeiru,",
+        "tag": [
+            "探偵はもう死んでいる", "たんもし"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tantei wa mou shindeiru"
+    },
+    "たんもし/シャーロット": {
+        "prompt": "arisaka anderson charlotte, tantei wa mou shindeiru, tantei wa mou shindeiru,",
+        "tag": [
+            "探偵はもう死んでいる", "たんもし"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tantei wa mou shindeiru"
+    },
+    "ぼくたちのリメイク/志野亜貴": {
+        "prompt": "shino aki (anime), bokutachi no remake,",
+        "tag": [
+            "ぼくたちのリメイク"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "bokutachi no remake"
+    },
+    "ぼくたちのリメイク/小暮奈々子": {
+        "prompt": "kogure nanako (anime), bokutachi no remake,",
+        "tag": [
+            "ぼくたちのリメイク"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "bokutachi no remake"
+    },
+    "ぼくたちのリメイク/河瀬川英子": {
+        "prompt": "kawasegawa eiko (anime), bokutachi no remake,",
+        "tag": [
+            "ぼくたちのリメイク"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "bokutachi no remake"
+    },
+    "天使の3P!/五島潤": {
+        "prompt": "gotou jun (anime), tenshi no 3p!,",
+        "tag": [
+            "天使の3P!"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tenshi no 3p!"
+    },
+    "天使の3P!/紅葉谷希美": {
+        "prompt": "momijidani nozomi (anime), tenshi no 3p!,",
+        "tag": [
+            "天使の3P!"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tenshi no 3p!"
+    },
+    "天使の3P!/金城そら": {
+        "prompt": "kaneshiro sora (anime), tenshi no 3p!,",
+        "tag": [
+            "天使の3P!"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tenshi no 3p!"
+    },
+    "天使の3P!/貫井くるみ": {
+        "prompt": "nukui kurumi (anime), tenshi no 3p!,",
+        "tag": [
+            "天使の3P!"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tenshi no 3p!"
+    },
+    "天使の3P!/鳥海桜花": {
+        "prompt": "toriumi sakura (anime), tenshi no 3p!,",
+        "tag": [
+            "天使の3P!"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "tenshi no 3p!"
+    },
+    "/": {
         "prompt": "",
         "tag": [
             ""
