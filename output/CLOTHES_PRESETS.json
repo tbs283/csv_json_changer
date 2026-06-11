@@ -1331,10 +1331,10 @@
     "girlOuter": "",
     "girlTop": "white kimono:kimono",
     "girlBottom": "red hakama:hakama",
-    "girlUnder": "thigh-high socks,tabi:tabi",
+    "girlUnder": "tabi:tabi",
     "panties": "",
     "bra": "",
-    "clothesTopStatus": "0",
+    "clothesTopStatus": "8",
     "clothesBottomStatus": "10",
     "characterOnly": "\"転スラ/シュナ\""
   }
