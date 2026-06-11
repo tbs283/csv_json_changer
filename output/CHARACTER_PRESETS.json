@@ -3197,6 +3197,15 @@
         "defaultHairStyle": "",
         "title": "sono bisque doll wa koi wo suru"
     },
+    "葬送のフリーレン/フェルン": {
+        "prompt": "fern (sousou no frieren), sousou no frieren,",
+        "tag": [
+            "葬送のフリーレン", "フリーレン"
+        ],
+        "defaultClothes": "フェルン",
+        "defaultHairStyle": "",
+        "title": "sousou no frieren"
+    },
     "テスト/": {
         "prompt": "",
         "tag": [

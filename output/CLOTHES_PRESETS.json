@@ -1252,12 +1252,25 @@
     "girlHead": "ahoge",
     "girlOuter": "black vest:vest",
     "girlTop": "white shirt:shirt",
-    "girlBottom": "blue skirt;skirt",
+    "girlBottom": "blue skirt:skirt",
     "girlUnder": "white socks",
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ぼざろ/虹香ちゃん\""
+  },
+  "フェルン": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "black coat:vest",
+    "girlTop": "white one-piece dress:tops",
+    "girlBottom": "blue skirt:skirt",
+    "girlUnder": "black boots:boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"葬送のフリーレン/フェルン\""
   }
 }
