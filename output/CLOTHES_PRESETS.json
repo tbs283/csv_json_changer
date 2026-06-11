@@ -1272,5 +1272,18 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"葬送のフリーレン/フェルン\""
+  },
+  "レム": {
+    "girlBaseClothes": "maid",
+    "girlHead": "head dress",
+    "girlOuter": "",
+    "girlTop": "maid tops:tops",
+    "girlBottom": "black skirt,white apron, white thigh-high socks:one-piece skirt",
+    "girlUnder": "white thigh-high socks:socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "7",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"リゼロ/レム\""
   }
 }
