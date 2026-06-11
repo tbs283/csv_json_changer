@@ -1,7 +1,7 @@
 ﻿{
   "ツーサイドアップ": {
     "prompt": "two side up",
-    "characterOnly": ""
+    "characterOnly": "レム"
   },
   "ポニーテール": {
     "prompt": "high ponytail",
@@ -9,6 +9,10 @@
   },
   "お団子頭(1つ)": {
     "prompt": "single hair bun",
+    "characterOnly": ""
+  },
+  "レム": {
+    "prompt": "head dress",
     "characterOnly": ""
   }
 }
