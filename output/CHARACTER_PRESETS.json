@@ -1780,6 +1780,15 @@
         "defaultHairStyle": "",
         "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
     },
+    "よう実/佐倉": {
+        "prompt": "sakura airi (anime), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
+        "tag": [
+            "よう実"
+        ],
+        "defaultClothes": "よう実佐倉制服",
+        "defaultHairStyle": "",
+        "title": "youkoso jitsuryoku shijou shugi no kyoushitsu e"
+    },
     "五等分の花嫁/中野一花": {
         "prompt": "nakano ichika (anime), go-toubun no hanayome, ",
         "tag": [

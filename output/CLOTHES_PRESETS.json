@@ -1052,6 +1052,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"よう実/七瀬\""
   },
+  "よう実佐倉制服": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "two side up,white ribbon",
+    "girlOuter": "red blazer:blazer",
+    "girlTop": "white shirt,tie:shirt",
+    "girlBottom": "white skirt,black thigh-high socks",
+    "girlUnder": "black thigh-high socks,shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"よう実/佐倉\""
+  },
   "よう実ジャージ半袖": {
     "girlBaseClothes": "gym uniform, wet body,dirty clothes,",
     "girlHead": "",
@@ -1064,6 +1077,19 @@
     "clothesTopStatus": "6",
     "clothesBottomStatus": "4",
     "characterOnly": "\"よう実/一之瀬\",\"よう実/七瀬\",\"よう実/ひより\",\"よう実/堀北\",\"よう実/櫛田\",\"よう実/軽井沢\",\"よう実/坂柳\""
+  },
+  "よう実佐倉メイド": {
+    "girlBaseClothes": "identical black-and-white maid uniform, white frilled apron, waist apron tied at the back, consistent outfit design",
+    "girlHead": "two side up,white ribbon",
+    "girlOuter": "",
+    "girlTop": "white collar, white cuffs, puff sleeves",
+    "girlBottom": "black long dress, white thigh-high socks",
+    "girlUnder": "black shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"よう実/佐倉\""
   },
   "SAOユウキ": {
     "girlBaseClothes": "",
