@@ -11,6 +11,14 @@
     "prompt": "single hair bun",
     "characterOnly": ""
   },
+  "ボブヘア": {
+    "prompt": "bob hair",
+    "characterOnly": ""
+  },
+  "ロングヘア": {
+    "prompt": "long hair",
+    "characterOnly": ""
+  },
   "レム": {
     "prompt": "head dress",
     "characterOnly": ""
