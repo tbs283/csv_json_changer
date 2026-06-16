@@ -208,14 +208,14 @@
     "characterOnly": ""
   },
   "全裸": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "completely nude",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "completely nude,",
-    "girlBottom": "completely nude,",
-    "girlUnder": "completely nude,",
-    "panties": "completely nude,",
-    "bra": "completely nude,",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
     "clothesTopStatus": "2",
     "clothesBottomStatus": "2",
     "characterOnly": ""

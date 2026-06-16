@@ -3584,6 +3584,213 @@
         "defaultHairStyle": "",
         "title": "tenshi no 3p!"
     },
+    "かぐや様/かぐや": {
+        "prompt": "shinomiya kaguya (anime), kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~, ",
+        "tag": [
+            "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~"
+    },
+    "かぐや様/藤原千花": {
+        "prompt": "fujiwara chika (anime), kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~,",
+        "tag": [
+            "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~"
+    },
+    "かぐや様/伊井野ミコ": {
+        "prompt": "iino miko (anime), kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~,",
+        "tag": [
+            "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~"
+    },
+    "かぐや様/早坂愛": {
+        "prompt": "hayasaka ai (anime), kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~,",
+        "tag": [
+            "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~"
+    },
+    "かぐや様/白金圭": {
+        "prompt": "shirogane kei (anime), kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~,",
+        "tag": [
+            "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~"
+    },
+    "ラブライブ!/高坂穂乃果": {
+        "prompt": "kosaka honoka, love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/絢瀬絵里": {
+        "prompt": "ayase eri (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/南ことり": {
+        "prompt": "minami kotori (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/園田海未": {
+        "prompt": "sonoda umi (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/星空凛": {
+        "prompt": "hoshizora rin (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/西木野真姫": {
+        "prompt": "nishikino maki (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/東條希": {
+        "prompt": "toujou nozomi (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/小泉花陽": {
+        "prompt": "koizumi hanayo (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/": {
+        "prompt": "yazawa niko (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ！サンシャイン！！/高海千歌": {
+        "prompt": "takami chika (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/桜内梨子": {
+        "prompt": "sakurauchi riko (anime),love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/松浦果南": {
+        "prompt": "matsuura kanan (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/黒澤ダイヤ": {
+        "prompt": "kurosawa dia (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/渡辺曜": {
+        "prompt": "watanabe you (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/津島善子": {
+        "prompt": "tsushima yoshiko (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/国木田花丸": {
+        "prompt": "kunikida hanamaru (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/小原鞠莉": {
+        "prompt": "ohara mari (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
+    "ラブライブ！サンシャイン！！/黒澤ルビィ": {
+        "prompt": "kurosawa ruby (anime), love live! sunshine!!,",
+        "tag": [
+            "ラブライブ！サンシャイン！！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live! sunshine!!"
+    },
     "/": {
         "prompt": "",
         "tag": [
