@@ -38658,6 +38658,67 @@
     }
   ],
   "花畑": [
-
+    {
+      "title": "しゃがんで花を見ている",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "squatting, admiring flowers, looking down at a flower, gentle smile, hands near knees",
+        "male": "",
+        "bgBase": "night, flower garden",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "255"
+    }
+  ],
+  "公園デート": [
+    {
+      "title": "しゃがんで花を見ている",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,walking,",
+        "girlAction": "squatting, admiring flowers, looking down at a flower, gentle smile, hands near knees",
+        "male": "",
+        "bgBase": "park",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "255"
+    }
   ]
 }
