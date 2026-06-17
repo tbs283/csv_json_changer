@@ -241,6 +241,16 @@
         "defaultHairStyle": "",
         "title": "umamusume"
     },
+    "ウマ娘/ヴィルシーナ": {
+        "prompt": "verxina (umamusume),  umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume"
+    },
     "ウマ娘/メジロドーベル": {
         "prompt": "mejiro dober (umamusume), umamusume, ear, tails,",
         "tag": [
