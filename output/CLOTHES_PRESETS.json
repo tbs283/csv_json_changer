@@ -273,7 +273,7 @@
     "characterOnly": ""
   },
   "黒バニー": {
-    "girlBaseClothes": "playboy bunny, bunny ears, black leotard, strapless leotard, detached collar, wrist cuffs, black pantyhose, high heels, rabbit tail, bowtie",
+    "girlBaseClothes": "playboy bunny",
     "girlHead": "bunny ears, fake animal ears",
     "girlOuter": "",
     "girlTop": "black leotard, strapless leotard, detached collar, bowtie",
@@ -299,7 +299,7 @@
     "characterOnly": ""
   },
   "チア": {
-    "girlBaseClothes": "cheerleader, crop top, midriff, pleated skirt, colorful, pom poms, bare shoulders, sleeveless, thighhighs",
+    "girlBaseClothes": "cheerleader",
     "girlHead": "hair ribbon",
     "girlOuter": "",
     "girlTop": "crop top, sleeveless shirt, bare shoulders, midriff",
@@ -325,7 +325,7 @@
     "characterOnly": ""
   },
   "ナース": {
-    "girlBaseClothes": "nurse, nurse cap, white nurse uniform, miniskirt, white stockings, stethoscope, cross symbol",
+    "girlBaseClothes": "nurse",
     "girlHead": "nurse cap, white headwear",
     "girlOuter": "white coat, open coat",
     "girlTop": "white nurse uniform, short sleeves, zip front",
@@ -338,7 +338,7 @@
     "characterOnly": ""
   },
   "婦警": {
-    "girlBaseClothes": "police uniform, police hat, police badge, dark blue jacket, miniskirt, black pantyhose, black belt, handcuffs",
+    "girlBaseClothes": "police uniform",
     "girlHead": "police hat, peaked cap",
     "girlOuter": "dark blue jacket, police jacket",
     "girlTop": "white dress shirt, black necktie",
@@ -351,7 +351,7 @@
     "characterOnly": ""
   },
   "白衣メイド": {
-    "girlBaseClothes": "maid, maid headdress, maid apron, black dress, white apron, frills, wrist cuffs, thighhighs",
+    "girlBaseClothes": "maid",
     "girlHead": "maid headdress, frilled headwear",
     "girlOuter": "",
     "girlTop": "black maid dress, frilled collar, short sleeves",
@@ -364,7 +364,7 @@
     "characterOnly": ""
   },
   "セーラー水着": {
-    "girlBaseClothes": "school swimsuit, competition swimsuit, navy blue swimsuit, one-piece swimsuit",
+    "girlBaseClothes": "competition swimsuit",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "navy blue one-piece swimsuit, covered navel",
@@ -377,7 +377,7 @@
     "characterOnly": ""
   },
   "和風巫女": {
-    "girlBaseClothes": "miko, shrine maiden, red hakama, white haori, white kimono top, red skirt, ofuda, tabi socks",
+    "girlBaseClothes": "miko, shrine maiden",
     "girlHead": "hair ribbon, red hair ribbon",
     "girlOuter": "white haori, wide sleeves",
     "girlTop": "white kimono top, white haori",
