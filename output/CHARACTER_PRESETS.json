@@ -3701,8 +3701,17 @@
         "defaultHairStyle": "",
         "title": "love live!"
     },
-    "ラブライブ!/": {
+    "ラブライブ!/矢澤にこ": {
         "prompt": "yazawa niko (anime), love live!,",
+        "tag": [
+            "ラブライブ！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "love live!"
+    },
+    "ラブライブ!/絢瀬亜里沙": {
+        "prompt": "ayase arisa (anime), love live!,",
         "tag": [
             "ラブライブ！"
         ],
