@@ -7447,6 +7447,36 @@
       "seed_id": "89"
     },
     {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete,",
+        "bgWall": "",
+        "bgGround": "debris on the floor,",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
+    },
+    {
       "title": "正常位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -9457,6 +9487,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "89"
+    },
+    {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete,",
+        "bgWall": "",
+        "bgGround": "debris on the floor,",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
     },
     {
       "title": "正常位",
@@ -13993,6 +14053,36 @@
       "seed_id": "89"
     },
     {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "japanese style room,dark,dark room, simple room",
+        "bgWall": "fusuma,",
+        "bgGround": "tatami, futon,",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
+    },
+    {
       "title": "正常位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -16063,6 +16153,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "89"
+    },
+    {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgGround": "hot spring poolside,stone floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
     },
     {
       "title": "正常位",
@@ -19009,6 +19129,36 @@
       "seed_id": "89"
     },
     {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "bedroom,night,dark,open space",
+        "bgWall": "white wall,",
+        "bgGround": "white sheets,white pillow,",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
+    },
+    {
       "title": "背面座位(reverse upright straddle)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -20509,6 +20659,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "89"
+    },
+    {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "pink room,simple room,no furniture,",
+        "bgWall": "pink wall,",
+        "bgGround": "pink sheets,pink pillow,",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
     },
     {
       "title": "正常位",
@@ -22431,6 +22611,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "89"
+    },
+    {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "cafeteria",
+        "bgWall": "white wall",
+        "bgGround": "woody floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
     },
     {
       "title": "側位",
@@ -24563,6 +24773,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "89"
+    },
+    {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "bedroom,night,simple room,no furniture,",
+        "bgWall": "white wall,",
+        "bgGround": "white sheets,white pillow,",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
     },
     {
       "title": "正常位",
@@ -27237,6 +27477,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "89"
+    },
+    {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "bedroom,simple room,no furniture,",
+        "bgWall": "white wall,",
+        "bgGround": "white sheets,white pillow,",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
     },
     {
       "title": "正常位",
@@ -38669,7 +38939,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing wrist,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38699,7 +38969,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing wrist,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38729,7 +38999,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
         "male": "completely nude man,simple man,no detail man penetrating,standing, grabbing wrist,out of frame,cropped head",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38759,7 +39029,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
         "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38789,7 +39059,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
         "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38819,7 +39089,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, hugging from behind",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38849,7 +39119,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, hugging from behind",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38879,7 +39149,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,standing,hugging from behind",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38909,7 +39179,7 @@
         "girl": "focus on girl, girl focus,main subject girl,breast,leaning forward,",
         "girlAction": "against  rock, looking back, crying,terror,sad,tear,embarrassed,heavy breath",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38939,7 +39209,7 @@
         "girl": "focus on girl, girl focus,main subject girl,breast",
         "girlAction": "leaning forward,against  rock",
         "male": "completely nude man,simple man,cropped torso,cropped head, standing,grabbing waist,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38969,7 +39239,7 @@
         "girl": "focus on girl, girl focus,main subject girl,breast",
         "girlAction": "leaning forward,against  rock",
         "male": "completely nude man,simple man,cropped torso,cropped head, standing,grabbing waist,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -38999,7 +39269,7 @@
         "girl": "focus on girl, girl focus,main subject girl,breast",
         "girlAction": "against  rock",
         "male": "completely nude man,simple man,cropped torso,cropped head, penetrating,standing,grabbing waist,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39029,7 +39299,7 @@
         "girl": "focus on girl, girl focus,main subject girl,breast",
         "girlAction": "leaning forward,against  rock,leg up,facing viewer",
         "male": "completely nude man,simple man,cropped torso,cropped head, penetrating,standing,grabbing leg,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39059,7 +39329,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39089,7 +39359,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39119,7 +39389,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing ass,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39149,7 +39419,7 @@
         "girl": "focus on girl, girl focus,main subject girl",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
         "male": "completely nude man, sex from behind,grabbing ass,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39179,7 +39449,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,all fours,",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39209,7 +39479,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "all fours,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, sex from behind,grabbing waist,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39239,7 +39509,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39269,7 +39539,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39299,7 +39569,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39329,7 +39599,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
         "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39349,6 +39619,36 @@
       "seed_id": "89"
     },
     {
+      "title": "寝バック(鼻水)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "play": "1 girl,prone bone,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing shoulder",
+        "bgBase": "night, flower garden, grass field,outdoors",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast press, Squinting, looking ahead,facing down, crying,tears,snot,drool,sad,heavy breath,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "256"
+    },
+    {
       "title": "正常位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -39359,7 +39659,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,imminent penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39389,7 +39689,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,imminent penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39419,7 +39719,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39449,7 +39749,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39479,7 +39779,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39509,7 +39809,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39539,7 +39839,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39569,7 +39869,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39599,7 +39899,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabing wrist,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39629,7 +39929,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "legs together,legs up.closing legs,the head on the ground,lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39659,7 +39959,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "v legs, the head on the ground, lying on back on the ground",
         "male": "completely nude man,simple man,no face,no detail man,pov penetrating,grabing thigh from above,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39689,7 +39989,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "the head on the ground, lying on back on the ground",
         "male": "completely nude man,simple man,no detail man, penetrating,grabing thigh from above,cropped head",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39719,7 +40019,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "missionary position, hugging, legs lock, kiss",
         "male": "completely nude man,simple man,no face,no detail man,no hair, penetrating,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39749,7 +40049,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "legs together, the head on the ground, lying on side on the ground",
         "male": "completely nude man,simple man,no detail man,man out of frame, penetrating,grabbing ass,cropped head",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39779,7 +40079,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leg up, the head on the ground, lying on side on the ground",
         "male": "completely nude man,simple man,no detail man,man out of frame, penetrating,grabbing leg,cropped head",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39809,7 +40109,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leg up, the head on the ground, lying on side on the ground",
         "male": "completely nude man,simple man,no detail man,man out of frame, penetrating,grabbing leg,cropped head",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39839,7 +40139,7 @@
         "girl": "focus on girl, girl focus,main subject girl",
         "girlAction": "trembling, the head on the ground, lying on side on the ground, looking away,facing down,both hands against ground",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39869,7 +40169,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "leaning forward,sitting,both hands on another person's body,arms supporting body",
         "male": "completely nude man,pov, lying on the ground,penis touching girl's pussy,imminent penetration",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39899,7 +40199,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "leaning forward,sitting,both hands on another person's body,arms supporting body",
         "male": "completely nude man, lying on the ground,penetrating",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39929,7 +40229,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,sitting,both hands on another person's body,arms supporting body",
         "male": "completely nude man,simple man,no face,no detail man, lying on the ground,penetrating,cropped head,cropped upper body",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39959,7 +40259,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "leaning back,sitting,both hands on another's body behind,arms supporting body,chest out",
         "male": "completely nude man,simple man,no detail man, lying on the ground, penetrating,cropped head,cropped upper body",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -39989,7 +40289,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "leaning back,sitting,both hands on another's body behind,arms supporting body,chest out",
         "male": "completely nude man,pov lying on the ground,penetrating",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40019,7 +40319,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "leaning forward,sitting,both hands on another person's body,arms supporting body",
         "male": "completely nude man,simple man,no detail man,bald head,no face lying on the ground,penetrating,grabbing ass",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40049,7 +40349,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "leaning forward,sitting,both hands on another person's body,arms supporting body",
         "male": "completely nude man,simple man,no detail man,bald head,no face lying on the ground,penetrating,grabbing ass",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40079,7 +40379,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,dripping semen,nipples",
         "girlAction": "leaning back,sitting,both hands on another's body behind,arms supporting body,chest out",
         "male": "completely nude man, lying on the ground,penis",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40109,7 +40409,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "arching the upper body, leaning back, natural body curve,sitting on the boy,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair,penetrating,hugging,sitting on the ground",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40139,7 +40439,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,",
         "girlAction": "french kiss, arching the upper body, leaning back, natural body curve,sitting on the boy,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair,penetrating,grabbing ass,spread ass,sitting on the ground",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40169,7 +40469,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "arching the upper body, leaning back, natural body curve,sitting on the boy,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair,penetrating,hugging,sitting on the ground",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40199,7 +40499,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning back, natural body curve,sitting on the boy, m legs",
         "male": "completely nude man,simple man,bald head,no face,no detail man,no hair,imminent penetration,grabbing thigh,sitting on the ground",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40229,7 +40529,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning back, natural body curve,sitting on the boy, m legs",
         "male": "completely nude man,simple man,bald head,no face,no detail man,no hair,penetrating,hugging,sitting on the ground",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40259,7 +40559,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning back, natural body curve,sitting on the boy,legs together,closing legs",
         "male": "completely nude man,simple man,bald head,no face,no detail man,no hair,penetrating,hugging,sitting on the ground",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40289,7 +40589,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "stand up,one leg up,hugging,standing on one leg",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,grabbing leg",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40319,7 +40619,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "stand up,one leg up,leaning back on the  rock,standing on one leg",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,grabbing leg",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40349,7 +40649,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "standing position,face-to-face, hugging,stand up,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40379,7 +40679,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nippels",
         "girlAction": "looking at viewer,facing viewer,leaning back,m legs,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,grabbing girl's legs,stand up,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40409,7 +40709,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nippels",
         "girlAction": "looking at viewer,facing viewer,leaning back,v legs,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,grabbing girl's legs,stand up,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40439,7 +40739,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,nippels",
         "girlAction": "looking at viewer,facing viewer,leaning back,v legs,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40469,7 +40769,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "looking at viewer,facing viewer,leaning back,m legs,dripping semen,forsed  orgasm,squirting, crying,terror,sad,tear,embarrassed,heavy breath,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, holding up girl from behind,grabbing girl's legs,stand up",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40499,7 +40799,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,",
         "girlAction": "m legs,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40529,7 +40829,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,",
         "girlAction": "m legs,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40559,7 +40859,7 @@
         "girl": "focus on girl, girl focus,main subject girl,top of head,",
         "girlAction": "hugging,m legs,",
         "male": "completely nude man,simple man,no face,no detail man,bald head,no hair, penetrating,holding up girl,stand up,",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40589,7 +40889,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
         "girlAction": "m legs,dripped semen from pussy looking away,facing away, lying on back on the ground, tired,drool",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40619,7 +40919,7 @@
         "girl": "focus on girl, girl focus,main subject girl,feet out of frame,nipples",
         "girlAction": "looking at viewer,facing viewer, leaning back,m legs,dripping semen,sitting on the ground",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40649,7 +40949,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "Squinting,nipples,breasts, The chin is touching the ground, The body is facing the ground, top-down bottom-up.,the head put on the ground, looking back,facing back, leaning forward,all fours,dripping semen,hands on the ground",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40679,7 +40979,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "Squinting,nipples,breasts, The chin is touching the ground, The body is facing the ground, top-down bottom-up.,the head put on the ground, looking back,facing back, leaning forward,all fours,dripping semen",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40709,7 +41009,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "wariza,ass focus, Squinting, looking back,facing back, dripping semen",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40739,7 +41039,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "wariza,face focus, Squinting, upward gaze, dripping semen",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40769,7 +41069,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "the head on the ground, lying on back on the ground",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
@@ -40799,7 +41099,7 @@
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "facial,bukkake, the head on the ground, lying on back on the ground, m legs",
         "male": "",
-        "bgBase": "night, flower garden, park outdoors",
+        "bgBase": "night, flower garden, grass field,outdoors",
         "bgWall": "",
         "bgGround": "",
         "bgFloor": ""
