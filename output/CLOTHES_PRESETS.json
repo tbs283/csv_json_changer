@@ -532,6 +532,32 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ユーフォ/義井 沙里\""
   },
+  "姫柊雪菜:制服": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white tops,blue tie,blue coller:tops",
+    "girlBottom": "blue checked skirt:skirt",
+    "girlUnder": "black socks:socks",
+    "panties": "light blue panties",
+    "bra": "light blue bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ストブラ/姫柊雪菜\""
+  },
+  "陰実:黒服": {
+    "girlBaseClothes": "black clothes with gold lines",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "9",
+    "clothesBottomStatus": "6",
+    "characterOnly": "\"陰実/アルファ\",\"陰実/ベータ\",\"陰実/ガンマ\"\"陰実/デルタ\",\"陰実/イプシロン\",\"陰実/ゼータ\",\"陰実/イータ\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
