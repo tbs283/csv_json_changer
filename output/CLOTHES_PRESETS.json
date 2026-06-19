@@ -260,10 +260,10 @@
     "characterOnly": ""
   },
   "裸エプロン": {
-    "girlBaseClothes": "naked apron, apron, no bra, no panties, bare back, backless outfit",
+    "girlBaseClothes": "white frilled apron, apron, no bra, no panties, bare back, backless outfit",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "apron",
+    "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
     "panties": "",
