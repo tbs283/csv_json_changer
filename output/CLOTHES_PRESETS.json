@@ -558,6 +558,32 @@
     "clothesBottomStatus": "6",
     "characterOnly": "\"陰実/アルファ\",\"陰実/ベータ\",\"陰実/ガンマ\"\"陰実/デルタ\",\"陰実/イプシロン\",\"陰実/ゼータ\",\"陰実/イータ\""
   },
+  "冴カノ:加藤": {
+    "girlBaseClothes": "white one-piece dress",
+    "girlHead": "white hat",
+    "girlOuter": "red cardigan:cardigan",
+    "girlTop": "white frilled tops:tops",
+    "girlBottom": "white skirt, white thigh-high socks:skirt",
+    "girlUnder": "white thigh-high socks:socks",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"冴えない彼女の育てかた/加藤\""
+  },
+  "金色の闇": {
+    "girlBaseClothes": "black gothic outfit,black leather costume",
+    "girlHead": "black hair clips",
+    "girlOuter": "",
+    "girlTop": "black leather bodysuit,star-shaped cutout chest:tops",
+    "girlBottom": "black leather skirt, thigh belts:skirt",
+    "girlUnder": "black knee-high boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "5",
+    "clothesBottomStatus": "1",
+    "characterOnly": "\"トラブル/ヤミ\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",

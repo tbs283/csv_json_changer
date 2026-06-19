@@ -2524,7 +2524,7 @@
         ],
         "defaultClothes": "姫柊雪菜:制服",
         "defaultHairStyle": "",
-        "title": "strike the blood"
+        "title": "go-toubun no hanayome illustration"
     },
     "ひげをそる/さゆ": {
         "prompt": "ogiwara sayu (anime), hige wo soru. soshite joshikousei wo hirou., ",
@@ -2722,7 +2722,7 @@
         "tag": [
             "冴えない彼女の育てかた"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "冴カノ:加藤",
         "defaultHairStyle": "",
         "title": "saenai heroine no sodatekata"
     },
@@ -2733,7 +2733,7 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "to love-ru darkness"
+        "title": "go-toubun no hanayome illustration"
     },
     "トラブル/ナナ": {
         "prompt": "nana asta deviluke, to love-ru darkness,tail",
@@ -2742,7 +2742,7 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "to love-ru darkness"
+        "title": "go-toubun no hanayome illustration"
     },
     "トラブル/ララ": {
         "prompt": "lala satalin deviluke, to love-ru darkness,tail",
@@ -2751,15 +2751,15 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "to love-ru darkness"
+        "title": "go-toubun no hanayome illustration"
     },
     "トラブル/ヤミ": {
         "prompt": "konjiki no yami (anime), to love-ru darkness,",
         "tag": [
             "トラブル"
         ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultClothes": "金色の闇",
+        "defaultHairStyle": "ツーサイドアップ",
         "title": "to love-ru darkness"
     },
     "トラブル/美柑": {
@@ -2769,7 +2769,7 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "to love-ru darkness"
+        "title": "go-toubun no hanayome illustration"
     },
     "リボーン/クローム": {
         "prompt": "dokuro chrome (anime), kateikyoushi hitman reborn!,",
