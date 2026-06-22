@@ -3810,6 +3810,141 @@
         "defaultHairStyle": "",
         "title": "love live! sunshine!!"
     },
+    "ハチナイ/有原翼": {
+        "prompt": "arihara tsubasa (anime), hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/小鳥遊柚": {
+        "prompt": "takanashi yuzu, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/野崎夕姫": {
+        "prompt": "nozaki yuuki (anime), hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/宇喜多茜": {
+        "prompt": "ukita akane (anime), hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/直江太結": {
+        "prompt": "naoe tayu, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/近藤咲": {
+        "prompt": "kondou saki, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/柊琴葉": {
+        "prompt": "hiiragi kotoha, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/椎名ゆかり": {
+        "prompt": "shiina yukari (hachigatsu no cinderella nine), hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/草刈ルナ": {
+        "prompt": "kusakari runa, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/條島もも": {
+        "prompt": "joujima momo, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/水原碧澄": {
+        "prompt": "mizuhara asumi, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/琴宮千寿": {
+        "prompt": "kotomiya chitose, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/塚原雫": {
+        "prompt": "tsukahara shizuku,hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/倉敷舞子": {
+        "prompt": "kurashiki maiko (anime),  hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
+    "ハチナイ/神宮寺小也加": {
+        "prompt": "jinguji sayaka, hachigatsu no cinderella nine",
+        "tag": [
+            "ハチナイ", "八月のシンデレラナイン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hachigatsu no cinderella nine"
+    },
     "/": {
         "prompt": "",
         "tag": [
