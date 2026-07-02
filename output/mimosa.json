@@ -1,4 +1,36 @@
 ﻿{
+  "test": [
+    {
+      "title": "羞恥(がに股)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "focus on girl, girl focus,main subject girl,nipples",
+        "play": "girl,solo",
+        "girl": "cowboy shot,girl focus,focus on girl,main subject,close-up,from front,straight-on, dutch-angle",
+        "girlAction": "looking at veiwer,facing viewer,spread legs, both hands behind head,elbows pointing outward to the sides",
+        "male": "",
+        "bgBase": "blurred background, night, flower garden, outdoors",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking at viewer,facing viewer, dripping semen,forsed orgasm,squirting, crying,terror,sad,tear,embarrassed,heavy breath",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "261"
+    }
+  ],
   "ベッドルーム(睡姦)(改善版)": [
     {
       "title": "睡眠↑",
