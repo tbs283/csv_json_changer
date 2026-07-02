@@ -3945,6 +3945,15 @@
         "defaultHairStyle": "",
         "title": "hachigatsu no cinderella nine"
     },
+    "イナイレ/": {
+        "prompt": "kudou fuyuka, inazuma eleven",
+        "tag": [
+            "イナイレ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "inazuma eleven"
+    },
     "/": {
         "prompt": "",
         "tag": [
