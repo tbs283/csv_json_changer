@@ -3945,7 +3945,7 @@
         "defaultHairStyle": "",
         "title": "hachigatsu no cinderella nine"
     },
-    "イナイレ/": {
+    "イナイレ/久遠冬花": {
         "prompt": "kudou fuyuka, inazuma eleven",
         "tag": [
             "イナイレ"
@@ -3953,6 +3953,51 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "inazuma eleven"
+    },
+    "イナイレ/木野秋": {
+        "prompt": "kino aki,inazuma eleven",
+        "tag": [
+            "イナイレ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "inazuma eleven"
+    },
+    "イナイレ/音無春奈": {
+        "prompt": "otonashi haruna,inazuma eleven",
+        "tag": [
+            "イナイレ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "inazuma eleven"
+    },
+    "イナイレ/雷門夏美": {
+        "prompt": "raimon natsumi, inazuma eleven",
+        "tag": [
+            "イナイレ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "inazuma eleven"
+    },
+    "ライザのアトリエ/ライザ": {
+        "prompt": "reisalin stout, atelier ryza 1",
+        "tag": [
+            "ライザのアトリエ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "atelier ryza"
+    },
+    "ライザのアトリエ/クラウディア": {
+        "prompt": "klaudia valentz, atelier ryza 1",
+        "tag": [
+            "ライザのアトリエ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "atelier ryza"
     },
     "/": {
         "prompt": "",
