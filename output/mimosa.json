@@ -59,6 +59,36 @@
       "縦横比": "",
       "clothesFlg": "55",
       "seed_id": "264"
+    },
+    {
+      "title": "スカートたくし上げ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front",
+        "play": "1 girl, solo,",
+        "girl": "dutch-anglefocus on girl, girl focus,main subject girl,from below,pantie focus",
+        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
+        "male": "",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "23",
+      "seed_id": "265"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
