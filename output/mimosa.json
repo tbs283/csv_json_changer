@@ -31,77 +31,17 @@
       "seed_id": "261"
     },
     {
-      "title": "スカートたくし上げ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "cowboy shot, medium close-up,from front",
-        "play": "1 girl, solo,",
-        "girl": "dutch-anglefocus on girl, girl focus,main subject girl,from below,pantie focus",
-        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
-        "male": "",
-        "bgBase": "blurred background, pink room,bare room,minimalist",
-        "bgWall": "pink wall",
-        "bgGround": "",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "",
-      "clothesFlg": "55",
-      "seed_id": "264"
-    },
-    {
-      "title": "スカートたくし上げ(エロ)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "cowboy shot, medium close-up,from front",
-        "play": "1 girl, solo,",
-        "girl": "dutch-anglefocus on girl, girl focus,main subject girl,from below,pussy focus",
-        "girlAction": "looking away, shy, embarrassed, (looking away | looking at viewer), lifting skirt, flustered, nervous, skirt lift",
-        "male": "",
-        "bgBase": "blurred background, pink room,bare room,minimalist",
-        "bgWall": "pink wall",
-        "bgGround": "",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "",
-      "clothesFlg": "23",
-      "seed_id": "265"
-    },
-    {
       "title": "M字開脚",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front, leg out of frame",
         "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,",
+        "girl": "dutch-angle, focus on girl, girl focus,main subject girl,from below,pussy focus",
         "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
         "male": "",
-        "bgBase": "pink room,bare room,minimalist",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
         "bgWall": "",
         "bgGround": "pink sheets,pink pillow",
         "bgFloor": ""
@@ -114,7 +54,7 @@
         "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt"
       },
-      "上下フラグ": "",
+      "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "23",
