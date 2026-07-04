@@ -31,15 +31,15 @@
       "seed_id": "261"
     },
     {
-      "title": "騎乗位(両手を頭の後ろに)",
+      "title": "騎乗位(正面/両手を頭の後ろに)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "girl fills frame,girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible,man pov",
+        "composition": "girl fills frame, girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible,man pov,dutch-angle",
         "play": "1 girl,cowgirl position",
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "looking at veiwer,facing viewer,spread legs, both hands behind head,elbows pointing outward to the sides, m legs",
+        "girlAction": "leaning forward, looking at veiwer,facing viewer,spread legs, both hands behind head,elbows pointing outward to the sides, m legs",
         "male": "completely nude man, lying on the bed,penetrating",
         "bgBase": "blurred background, pink room,bare room,minimalist",
         "bgWall": "pink wall",
@@ -59,6 +59,36 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "262"
+    },
+    {
+      "title": "騎乗位(斜め前両手を頭の後ろに)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dynamic diagonal composition, girl fills frame, girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visibl",
+        "play": "1 girl,cowgirl position",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "looking at veiwer,facing viewer,spread legs, both hands behind head,elbows pointing outward to the sides, m legs",
+        "male": "completely nude man, lying on the bed,penetrating, out of frame",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "leaning forward, breast sway, nipples,breasts, looking at viewer, both hands behind head,elbows pointing outward to the sides,  crying,tear,sad,heavy breath,ohogao",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "263"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
@@ -1478,7 +1508,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -3580,7 +3610,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -5532,7 +5562,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -7034,7 +7064,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -7424,7 +7454,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -9438,7 +9468,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -9828,7 +9858,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -12380,7 +12410,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -14002,7 +14032,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -14392,7 +14422,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -16104,7 +16134,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -16494,7 +16524,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -19468,7 +19498,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -21235,7 +21265,7 @@
       "seed_id": "43"
     },
     {
-      "title": "立バック",
+      "title": "立バック(挿入待機)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -21265,7 +21295,7 @@
       "seed_id": "67"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -21295,7 +21325,7 @@
       "seed_id": "68"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -21325,7 +21355,7 @@
       "seed_id": "69"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/後ろ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -21450,7 +21480,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -21840,7 +21870,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -24062,7 +24092,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -24297,7 +24327,7 @@
       "seed_id": "107"
     },
     {
-      "title": "立バック",
+      "title": "立バック(挿入待機)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -24327,7 +24357,7 @@
       "seed_id": "67"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -24357,7 +24387,7 @@
       "seed_id": "68"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -24387,7 +24417,7 @@
       "seed_id": "69"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/後ろ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -25834,7 +25864,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -26224,7 +26254,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -28538,7 +28568,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -28928,7 +28958,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -31060,7 +31090,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -33612,7 +33642,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -37698,7 +37728,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -40311,7 +40341,7 @@
   ],
   "教室2": [
     {
-      "title": "立バック",
+      "title": "立バック(挿入待機)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -40341,7 +40371,7 @@
       "seed_id": "67"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -40371,7 +40401,7 @@
       "seed_id": "68"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -40401,7 +40431,7 @@
       "seed_id": "69"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/後ろ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -40528,7 +40558,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from side,side vediw,side shot,",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "leaning forward,",
@@ -40703,7 +40733,7 @@
       "seed_id": "79"
     },
     {
-      "title": "立バック",
+      "title": "立バック(挿入待機)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -40733,7 +40763,7 @@
       "seed_id": "67"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -40763,7 +40793,7 @@
       "seed_id": "68"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/横/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -40793,7 +40823,7 @@
       "seed_id": "69"
     },
     {
-      "title": "立バック",
+      "title": "立バック(壁/後ろ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -41068,7 +41098,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up,  head shot, face only, cropped face, upper body, focus on face, from front,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,straight-on, extreme close-up, head shot, face only, cropped face, upper body, focus on face, from front,",
         "play": "1 girl,prone bone,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
