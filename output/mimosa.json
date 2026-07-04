@@ -246,7 +246,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, sex from behind",
@@ -269,6 +269,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "正常位事後",
@@ -1928,7 +1958,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, sex from behind",
@@ -1951,6 +1981,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, bedroom, night, dark",
+        "bgWall": "white wall, closed curtain",
+        "bgGround": "white bed sheets, white pillow,wooden bed frame",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "立バック(腕掴み)",
@@ -4120,7 +4180,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, sex from behind",
@@ -4143,6 +4203,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, japanese style room,dark,bare room,minimalist,open space",
+        "bgWall": "fusuma",
+        "bgGround": "tatami, futon",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "立バック(腕掴み)",
@@ -6162,7 +6252,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, sex from behind",
@@ -6185,6 +6275,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, bedroom,dark,bare room,minimalist,open space",
+        "bgWall": "white wall",
+        "bgGround": "white sheets,white pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "立バック(腕掴み)",
@@ -8174,7 +8294,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind",
@@ -8197,6 +8317,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -10456,7 +10606,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind",
@@ -10479,6 +10629,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -13608,7 +13788,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, sex from behind",
@@ -13631,6 +13811,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, japanese style room,dark",
+        "bgWall": "woody wall",
+        "bgGround": "tatami",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "立バック(腕掴み)",
@@ -15770,7 +15980,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the futon,The body is facing the futon,top-down bottom-up.,the head put on the futon, sex from behind",
@@ -15793,6 +16003,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, japanese style room,dark,dark room, simple room",
+        "bgWall": "fusuma",
+        "bgGround": "tatami, futon",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -17962,7 +18202,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind",
@@ -17985,6 +18225,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgGround": "hot spring poolside,stone floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -21116,7 +21386,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, sex from behind",
@@ -21139,6 +21409,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, bedroom,night,dark,open space",
+        "bgWall": "white wall",
+        "bgGround": "white sheets,white pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -23578,7 +23878,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, sex from behind",
@@ -23601,6 +23901,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -25950,7 +26280,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind",
@@ -25973,6 +26303,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "business man,black jacket,white shirt,black pants,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, cafeteria",
+        "bgWall": "white wall",
+        "bgGround": "woody floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -28232,7 +28592,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, sex from behind",
@@ -28255,6 +28615,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, bedroom,night,bare room,minimalist",
+        "bgWall": "white wall",
+        "bgGround": "white sheets,white pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -31086,7 +31476,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, sex from behind",
@@ -31109,6 +31499,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, bedroom,bare room,minimalist",
+        "bgWall": "white wall",
+        "bgGround": "white sheets,white pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
@@ -33758,7 +34178,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
@@ -33781,6 +34201,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, dark forest,night",
+        "bgWall": "misty night air",
+        "bgGround": "overgrown underbrush, uneven forest floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "正常位",
@@ -36460,7 +36910,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
@@ -36483,6 +36933,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, cave,dark,dungeon",
+        "bgWall": "rock wall",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "正常位",
@@ -39074,7 +39554,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand, sex from behind",
@@ -39097,6 +39577,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, beach",
+        "bgWall": "blue sky",
+        "bgGround": "bright sand",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "対面駅弁(suspended congress)",
@@ -41028,7 +41538,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, sex from behind",
@@ -41051,6 +41561,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, outdoor, poolside,wet skin",
+        "bgWall": "white wall",
+        "bgGround": "blue tile floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "正常位",
@@ -43796,7 +44336,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, from behind, from above, dutch-angle,girl focus,focus on girl,main subject,close-up,boy partially visible",
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
@@ -43819,6 +44359,36 @@
       "縦横比": "1",
       "clothesFlg": "127",
       "seed_id": "269"
+    },
+    {
+      "title": "バック(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,from side,character focus,",
+        "play": "1 girl,doggystyle,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "leaning forward,all fours,",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,grabbing waist,cropped head, hold up girl's legs",
+        "bgBase": "blurred background, night, flower garden, outdoors",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "screaming,nipples, Squinting, looking down,facing below, crying,tear,sad,heavy breath,",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "1",
+      "clothesFlg": "127",
+      "seed_id": "270"
     },
     {
       "title": "寝バック",
