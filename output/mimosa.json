@@ -1,6 +1,36 @@
 ﻿{
   "test": [
     {
+      "title": "ダブル手コキ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl between the men,2 men,cooperative handjob",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up in front of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, grabbing two penises",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "272"
+    },
+    {
       "title": "フェラ(見せつけ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -179,36 +209,6 @@
       "縦横比": "3",
       "clothesFlg": "63",
       "seed_id": "35"
-    },
-    {
-      "title": "ダブル手コキ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
-        "play": "1 girl between the men,2 men,cooperative handjob",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "2mans around the girl,two penis,completely nude man, penis,stand up in front of the girl",
-        "bgBase": "pink room,bare room,minimalist",
-        "bgWall": "",
-        "bgGround": "pink sheets,pink pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,sad,nipples, wariza, grabbing penises",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "272"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
