@@ -3999,6 +3999,33 @@
         "defaultHairStyle": "",
         "title": "atelier ryza"
     },
+    "異世界おじさん/翠": {
+        "prompt": "sui (isekai ojisan), isekai ojisan",
+        "tag": [
+            "異世界おじさん"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "isekai ojisan"
+    },
+    "異世界おじさん/メイベル": {
+        "prompt": "rayveil mabel, isekai ojisan",
+        "tag": [
+            "異世界おじさん"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "isekai ojisan"
+    },
+    "異世界おじさん/アリシア": {
+        "prompt": "edelsia alicia, isekai ojisan",
+        "tag": [
+            "異世界おじさん"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "isekai ojisan"
+    },
     "/": {
         "prompt": "",
         "tag": [
