@@ -1,6 +1,66 @@
 ﻿{
   "test": [
     {
+      "title": "M字開脚",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "",
+        "composition": "dutch-angle, cowboy shot,leg out of frame, lower body focus, from front,",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "119",
+      "seed_id": "145"
+    },
+    {
+      "title": "M字開脚(エロ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front, leg out of frame",
+        "play": "girl,solo",
+        "girl": "dutch-angle, focus on girl, girl focus,main subject girl,from below,pussy focus",
+        "girlAction": "blush,tears, sitting on the bed, m legs,spread legs,leaning back",
+        "male": "",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "266"
+    },
+    {
       "title": "乱交/串刺し(横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -40,7 +100,7 @@
         "play": "1 girl,2men,sex from behind,spitroast,orgy",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "fellatio,leaning forward",
-        "male": "completely nude man,simple man,cropped torso,cropped head, penetrating,standing, grabbing waist,",
+        "male": "completely nude man,simple man,cropped torso,cropped head, penetrating,standing, grabbing head",
         "bgBase": "blurred background, pink room,bare room,minimalist",
         "bgWall": "pink wall",
         "bgGround": "",
