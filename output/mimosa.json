@@ -1,96 +1,6 @@
 ﻿{
   "test": [
     {
-      "title": "M字開脚",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "",
-        "composition": "dutch-angle, cowboy shot,leg out of frame,straight-on, lower body focus, from front,",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,",
-        "girlAction": "sitting on the bed, m legs,spread legs,leaning back",
-        "male": "",
-        "bgBase": "pink room,bare room,minimalist",
-        "bgWall": "",
-        "bgGround": "pink sheets,pink pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "blush,tears",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "119",
-      "seed_id": "145"
-    },
-    {
-      "title": "M字開脚(エロ)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "cowboy shot, medium close-up,from front,straight-on, leg out of frame",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,from below,pussy focus",
-        "girlAction": "sitting on the bed, m legs,spread legs,leaning back",
-        "male": "",
-        "bgBase": "blurred background, pink room,bare room,minimalist",
-        "bgWall": "",
-        "bgGround": "pink sheets,pink pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "blush,tears",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "23",
-      "seed_id": "266"
-    },
-    {
-      "title": "M字開脚(エロ)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "cowboy shot, medium close-up,from front,straight-on, leg out of frame",
-        "play": "girl,solo",
-        "girl": "focus on girl, girl focus,main subject girl,from below,pussy focus",
-        "girlAction": "sitting on the bed, m legs,spread legs,leaning back,grabbing own legs",
-        "male": "",
-        "bgBase": "blurred background, pink room,bare room,minimalist",
-        "bgWall": "",
-        "bgGround": "pink sheets,pink pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "blush,tears",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "23",
-      "seed_id": "286"
-    },
-    {
       "title": "乱交/串刺し(横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -149,6 +59,36 @@
       "縦横比": "3",
       "clothesFlg": "63",
       "seed_id": "285"
+    },
+    {
+      "title": "乱交/正常位(腕抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, {{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,man pov",
+        "play": "1 girl between the men,{two men, one above the girl and one below}, missionary",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the bed,lying on back on the bed",
+        "male": "2men,completely nude man,simple man,no face,no detail man,pov penis,grabbing thigh,imminent penetration, holding down girl's arms",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,screaming, holded doewn one's hands",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "288"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
@@ -12133,6 +12073,36 @@
       "seed_id": "286"
     },
     {
+      "title": "M字開脚(エロくぱあ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front,straight-on, leg out of frame",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,from below,pussy focus",
+        "girlAction": "sitting on the futon, m legs,spread legs,leaning back,grabbing pussy",
+        "male": "",
+        "bgBase": "blurred background, japanese style room,dark",
+        "bgWall": "",
+        "bgGround": "tatami",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "blush,tears",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "287"
+    },
+    {
       "title": "",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -19851,6 +19821,36 @@
       "seed_id": "286"
     },
     {
+      "title": "M字開脚(エロくぱあ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front,straight-on, leg out of frame",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,from below,pussy focus",
+        "girlAction": "sitting on the bed, m legs,spread legs,leaning back,grabbing pussy",
+        "male": "",
+        "bgBase": "blurred background, bedroom,night,dark,open space",
+        "bgWall": "",
+        "bgGround": "white sheets,white pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "blush,tears",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "287"
+    },
+    {
       "title": "フェラ(見せつけ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -23211,6 +23211,36 @@
       "縦横比": "3",
       "clothesFlg": "23",
       "seed_id": "286"
+    },
+    {
+      "title": "M字開脚(エロくぱあ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front,straight-on, leg out of frame",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,from below,pussy focus",
+        "girlAction": "sitting on the bed, m legs,spread legs,leaning back,grabbing pussy",
+        "male": "",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "blush,tears",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "287"
     },
     {
       "title": "フェラ(見せつけ)",
@@ -28227,6 +28257,36 @@
       "seed_id": "286"
     },
     {
+      "title": "M字開脚(エロくぱあ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front,straight-on, leg out of frame",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,from below,pussy focus",
+        "girlAction": "sitting on the bed, m legs,spread legs,leaning back,grabbing pussy",
+        "male": "",
+        "bgBase": "blurred background, bedroom,night,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "white sheets,white pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "blush,tears",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "287"
+    },
+    {
       "title": "フェラ(見せつけ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -30597,6 +30657,36 @@
       "縦横比": "3",
       "clothesFlg": "23",
       "seed_id": "286"
+    },
+    {
+      "title": "M字開脚(エロくぱあ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, medium close-up,from front,straight-on, leg out of frame",
+        "play": "girl,solo",
+        "girl": "focus on girl, girl focus,main subject girl,from below,pussy focus",
+        "girlAction": "sitting on the bed, m legs,spread legs,leaning back,grabbing pussy",
+        "male": "",
+        "bgBase": "blurred background, bedroom,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "white sheets,white pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "blush,tears",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "23",
+      "seed_id": "287"
     },
     {
       "title": "痴漢(乳揉み、服の上から)",
