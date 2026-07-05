@@ -29,6 +29,36 @@
       "縦横比": "3",
       "clothesFlg": "63",
       "seed_id": "284"
+    },
+    {
+      "title": "乱交/串刺し(後ろ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}}, girl focus,focus on girl,main subject,close-up,boy partially visible,from behind,ass focus",
+        "play": "1 girl,2men,sex from behind,spitroast,orgy",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "fellatio,leaning forward",
+        "male": "completely nude man,simple man,cropped torso,cropped head, penetrating,standing, grabbing waist,",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "looking ahead,facing ahead, fellatio,dripping semen,forsed orgasm,squirting,penetrated, crying,sad,tears,embarrassed,heavy breath",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "1",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "285"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
@@ -1563,7 +1593,7 @@
       "seed_id": "271"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -1593,7 +1623,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -1653,7 +1683,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -1662,7 +1692,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, bedroom, night, dark",
         "bgWall": "white wall, closed curtain",
         "bgGround": "",
@@ -1683,7 +1713,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -1713,7 +1743,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -1743,7 +1773,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -3845,7 +3875,7 @@
       "seed_id": "271"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -3875,7 +3905,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -3935,7 +3965,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -3944,7 +3974,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, japanese style room,dark,bare room,minimalist,open space",
         "bgWall": "fusuma",
         "bgGround": "",
@@ -3965,7 +3995,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -3995,7 +4025,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -4025,7 +4055,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -5977,7 +6007,7 @@
       "seed_id": "271"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -6007,7 +6037,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -6067,7 +6097,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -6076,7 +6106,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, bedroom,dark,bare room,minimalist,open space",
         "bgWall": "white wall",
         "bgGround": "",
@@ -6097,7 +6127,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -6127,7 +6157,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -6157,7 +6187,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -7479,7 +7509,7 @@
       "seed_id": "39"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -7509,7 +7539,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -7569,7 +7599,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -7578,7 +7608,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
         "bgWall": "",
         "bgGround": "",
@@ -7599,7 +7629,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -7629,7 +7659,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -7659,7 +7689,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -9701,7 +9731,7 @@
       "seed_id": "39"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -9731,7 +9761,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -9791,7 +9821,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -9800,7 +9830,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete",
         "bgWall": "",
         "bgGround": "",
@@ -9821,7 +9851,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -9851,7 +9881,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -9881,7 +9911,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -13693,7 +13723,7 @@
       "seed_id": "271"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -13723,7 +13753,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -13783,7 +13813,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -13792,7 +13822,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, japanese style room,dark",
         "bgWall": "woody wall",
         "bgGround": "",
@@ -13813,7 +13843,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -13843,7 +13873,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -13873,7 +13903,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -15345,7 +15375,7 @@
       "seed_id": "22"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -15375,7 +15405,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -15435,7 +15465,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -15444,7 +15474,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, japanese style room,dark,dark room, simple room",
         "bgWall": "fusuma",
         "bgGround": "",
@@ -15465,7 +15495,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -15495,7 +15525,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -15525,7 +15555,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -17627,7 +17657,7 @@
       "seed_id": "227"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -17657,7 +17687,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -17717,7 +17747,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -17726,7 +17756,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
         "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
         "bgGround": "",
@@ -17747,7 +17777,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -17777,7 +17807,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -17807,7 +17837,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -19971,7 +20001,7 @@
       "seed_id": "43"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -20001,7 +20031,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -20061,7 +20091,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -20070,7 +20100,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, bedroom,night,dark,open space",
         "bgWall": "white wall",
         "bgGround": "",
@@ -20091,7 +20121,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -20121,7 +20151,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -20151,7 +20181,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -23573,7 +23603,7 @@
       "seed_id": "71"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -23603,7 +23633,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -23663,7 +23693,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -23672,7 +23702,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, pink room,bare room,minimalist",
         "bgWall": "pink wall",
         "bgGround": "",
@@ -23693,7 +23723,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -23723,7 +23753,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -23753,7 +23783,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -28407,7 +28437,7 @@
       "seed_id": "43"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -28437,7 +28467,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -28497,7 +28527,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -28506,7 +28536,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, bedroom,night,bare room,minimalist",
         "bgWall": "white wall",
         "bgGround": "",
@@ -28527,7 +28557,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -28557,7 +28587,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -28587,7 +28617,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -31351,7 +31381,7 @@
       "seed_id": "29"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -31381,7 +31411,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -31441,7 +31471,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -31450,7 +31480,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, bedroom,bare room,minimalist",
         "bgWall": "white wall",
         "bgGround": "",
@@ -31471,7 +31501,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -31501,7 +31531,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -31531,7 +31561,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34113,7 +34143,7 @@
       "seed_id": "39"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34143,7 +34173,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34203,7 +34233,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34212,7 +34242,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, dark forest,night",
         "bgWall": "misty night air",
         "bgGround": "",
@@ -34233,7 +34263,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34263,7 +34293,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34293,7 +34323,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -36905,7 +36935,7 @@
       "seed_id": "29"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -36935,7 +36965,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -36995,7 +37025,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -37004,7 +37034,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, cave,dark,dungeon",
         "bgWall": "rock wall",
         "bgGround": "",
@@ -37025,7 +37055,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -37055,7 +37085,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -37085,7 +37115,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -41351,7 +41381,7 @@
       "seed_id": "12"
     },
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -41381,7 +41411,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -41441,7 +41471,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -41450,7 +41480,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, outdoor pool,wet skin, splashing water,water drops,body submerged in water, partially underwater, soaking in the pool, water covering the body up to the chest",
         "bgWall": "",
         "bgGround": "",
@@ -41471,7 +41501,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -41501,7 +41531,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -41531,7 +41561,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -44361,7 +44391,7 @@
   ],
   "花畑": [
     {
-      "title": "立バック(腕掴み)",
+      "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -44391,7 +44421,7 @@
       "seed_id": "72"
     },
     {
-      "title": "立バック",
+      "title": "立バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -44451,7 +44481,7 @@
       "seed_id": "74"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -44460,7 +44490,7 @@
         "play": "1 girl,sex from behind",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "sex from behind,",
-        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,,stand up",
+        "male": "completely nude man,simple man,no face,no detail man,bald head, penetrating,standing, grabbing breasts,stand up",
         "bgBase": "blurred background, night, flower garden, outdoors",
         "bgWall": "",
         "bgGround": "",
@@ -44481,7 +44511,7 @@
       "seed_id": "75"
     },
     {
-      "title": "立バック",
+      "title": "立バック(乳揉み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -44511,7 +44541,7 @@
       "seed_id": "76"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -44541,7 +44571,7 @@
       "seed_id": "77"
     },
     {
-      "title": "立バック",
+      "title": "立バック(ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
