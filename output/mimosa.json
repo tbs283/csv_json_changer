@@ -241,7 +241,7 @@
       "seed_id": "292"
     },
     {
-      "title": "乱交/騎乗位(手コキ/挿入直前)",
+      "title": "乱交/騎乗位(手コキ/後ろ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -250,7 +250,7 @@
         "play": "1 girl between the men,3 men on either side of the girl,cooperative handjob",
         "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
         "girlAction": "leaning back,sitting,grabbing two penises,arms supporting body,chest out",
-        "male": "3 men,completely nude man, {pov,lying on the bed,penetrating}, {stand up either side of the girl}",
+        "male": "3 men,completely nude man, {pov,lying on the bed,grabbing thigh,penetrating}, {stand up either side of the girl}",
         "bgBase": "blurred background, pink room,bare room,minimalist",
         "bgWall": "pink wall",
         "bgGround": "pink sheets,pink pillow",
@@ -269,6 +269,36 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "294"
+    },
+    {
+      "title": "乱交/騎乗位(手コキ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,cowboy shot,focus on girl,main subject,close-up,man partially visible,pussy focus,man pov",
+        "play": "1 girl between the men,3 men on either side of the girl,cooperative handjob",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "sitting,wariza,grabbing two penises",
+        "male": "3 men,completely nude man, {pov,lying on the bed,grabbing thigh,penetrating}, {stand up either side of the girl}",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "breast sway,  nipples,breasts, looking at vewer,facing up, crying,tear,sad,heavy breath",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "295"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
