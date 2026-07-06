@@ -209,6 +209,36 @@
       "縦横比": "3",
       "clothesFlg": "63",
       "seed_id": "291"
+    },
+    {
+      "title": "乱交/正常位(腕掴み/フェラ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, {{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,,man pov",
+        "play": "1 girl,2 men, missionary,orgy,gangbang,handjob,spitroast",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "{fellatio},m legs,the head on the bed,lying on back on the bed",
+        "male": "2men,two penis,completely nude man,simple man,no face,no detail man, {pov penis,grabbing thigh,penetration}, {kneeling next to the girl,grabbing girls arm}",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush, brests press by arms from the side,both arms is being pulled straight down., forsed orgasm,penetrated",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "292"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
