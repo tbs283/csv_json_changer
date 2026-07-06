@@ -1,6 +1,366 @@
 ﻿{
   "test": [
     {
+      "title": "ダブル手コキ(上半身)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative handjob",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, grabbing two penises",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "272"
+    },
+    {
+      "title": "ダブル手コキ(前から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, girl focus,focus on girl,main subject,close-up,from front",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative handjob",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, grabbing two penises",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "273"
+    },
+    {
+      "title": "ダブル手コキ(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, girl focus,focus on girl,main subject,close-up,from below",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative handjob",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, grabbing two penises",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "274"
+    },
+    {
+      "title": "ダブル手コキ(M字)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, girl focus,focus on girl,main subject,close-up,from front, straight-on",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative handjob",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "m legs, leaning back, grabbing two penises by both hands,handjob",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, m legs, leaning back, grabbing two penises by both hands",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "275"
+    },
+    {
+      "title": "ダブルフェラ(上半身)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "276"
+    },
+    {
+      "title": "ダブルフェラ(前から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, girl focus,focus on girl,main subject,close-up,from front",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "277"
+    },
+    {
+      "title": "ダブルフェラ(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, girl focus,focus on girl,main subject,close-up,from below",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "278"
+    },
+    {
+      "title": "ダブルフェラ(下から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, back shot, girl focus,focus on girl,main subject,close-up,from behind",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza,facing ahead",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,sad,nipples, wariza, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "279"
+    },
+    {
+      "title": "ダブルフェラ(上半身/射精)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl,cum shot,bukkake",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,tears,sad,nipples, wariza,dripping semen, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "280"
+    },
+    {
+      "title": "ダブルフェラ(前から/射精)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, girl focus,focus on girl,main subject,close-up,from front",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl,cum shot,bukkake",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,tears,sad,nipples, wariza,dripping semen, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "281"
+    },
+    {
+      "title": "ダブルフェラ(下から/射精)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, girl focus,focus on girl,main subject,close-up,from below",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl,cum shot,bukkake",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,tears,sad,nipples, wariza,dripping semen, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "282"
+    },
+    {
+      "title": "ダブルフェラ(下から/射精)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "dutch-angle, back shot, girl focus,focus on girl,main subject,close-up,from behind",
+        "play": "1 girl between the men,2 men on either side of the girl,cooperative fellatio",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "wariza,facing ahead",
+        "male": "2men around the girl,two penis,completely nude man, penis,stand up either side of the girl,cum shot,bukkake",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "surprised,tears,sad,nipples, wariza,dripping semen, fellatio, grabbing penis",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "283"
+    },
+    {
       "title": "乱交/串刺し(横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -599,6 +959,36 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "305"
+    },
+    {
+      "title": "乱交/駅弁(二穴/挿入直前)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible,pussy focus,from front,feet out of frame",
+        "play": "1 girl,2 men front and behind the girl,standing man in front of the girl and standing man behind the girls,reverse suspended congress and anal sex from behind,orgy,gangbang",
+        "girl": "focus on girl, girl focus,main subject girl",
+        "girlAction": "looking at viewer,facing viewer,leaning back,m legs",
+        "male": "2 men,completely nude man,simple man,no face,no detail man,no hair,out of frame, cropped head, {penetrating,holding up girl,stand up,anal sex}, {back shot,sex from front, imminent penetration}",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "{being sandwiched from front and back by two men},penetrated into pussy and anal, looking ahead,facing ahead, dripping semen,forsed orgasm,squirting, screaming,tears,terror,blush",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "306"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
