@@ -61,7 +61,7 @@
       "seed_id": "285"
     },
     {
-      "title": "乱交/正常位(腕抑え)",
+      "title": "乱交/正常位(腕抑え/挿入直前)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
@@ -69,7 +69,7 @@
         "composition": "cowboy shot, {{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,man pov",
         "play": "1 girl between the men,{two men, one above the girl and one below}, missionary,orgy,gangbang",
         "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
-        "girlAction": "{holded doewn one's hands,throw up both arms,both arms together},m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the bed,lying on back on the bed",
+        "girlAction": "{holded doewn one's hands,both arms raised above head,both arms together},m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the bed,lying on back on the bed",
         "male": "2men,completely nude man,simple man,no face,no detail man, {pov penis,grabbing thigh,imminent penetration}, {holding down girl's arms}",
         "bgBase": "pink room,bare room,minimalist",
         "bgWall": "",
@@ -89,6 +89,66 @@
       "縦横比": "3",
       "clothesFlg": "63",
       "seed_id": "288"
+    },
+    {
+      "title": "乱交/正常位(腕抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, {{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,man pov",
+        "play": "1 girl between the men,{two men, one above the girl and one below}, missionary,orgy,gangbang",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "{holded doewn one's hands,both arms raised above head,both arms together},m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the bed,lying on back on the bed",
+        "male": "2men,completely nude man,simple man,no face,no detail man, {pov penis,grabbing thigh,penetration}, {holding down girl's arms}",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,surprised,drool,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "289"
+    },
+    {
+      "title": "乱交/正常位(手コキ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "cowboy shot, {{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,main subject,close-up,boy partially visible,dutch-angle,from above,man pov",
+        "play": "1 girl between the men,{two men, one above the girl and one below}, missionary,orgy,gangbang,handjob",
+        "girl": "focus on girl, girl focus,main subject girl,nipples,cowboy shot",
+        "girlAction": "{holded doewn one's hands,both arms raised above head,both arms together},m legs,(looking at viewer | looking away),(open eyes | closing eyes),the head on the bed,lying on back on the bed",
+        "male": "2men,two penis,completely nude man,simple man,no face,no detail man, {pov penis,grabbing thigh,penetration}, {kneeling next to the girl,grabbing girls arm}",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,blush,surprised,drool,screaming",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "290"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
