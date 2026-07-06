@@ -509,6 +509,36 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "302"
+    },
+    {
+      "title": "乱交/騎乗位(二穴/横/射精)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,dutch-angle,from side,side shot, side view",
+        "play": "1 girl,2 men below and behind the girl,lying  man below the  girl and kneeling man behind the girls,cowgirl position and anal sex from behind,orgy,gangbang,spitroast",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "fellatio,leaning forward,sitting,both hands on another person's body,arms supporting body",
+        "male": "2 men below and behind the girl,lying  man below the  girl and kneeling man behind the girls,completely nude man,cum shot,bukkake, {pov, lying on the bed,penetrating}, {upper body, anal sex,sex from behind,croppled head,grabbing breast from behind, anal sex}",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "{being sandwiched from front and back by two men},penetrated into pussy and anal,breast sway, dripping semen, screaming, nipples,breasts, looking at viewer,facing down, crying,tear,sad,heavy breath,ohogao",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "303"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
