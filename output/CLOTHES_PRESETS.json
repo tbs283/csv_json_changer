@@ -1078,6 +1078,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ウマ娘/騎士ダイヤ\""
   },
+  "嫁カレン": {
+    "girlBaseClothes": "black dress",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "black dress, black glove:dress",
+    "girlBottom": "black skirt with big ribbon:skirt",
+    "girlUnder": "high heels:high heels",
+    "panties": "black panties",
+    "bra": "black bra",
+    "clothesTopStatus": "7",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/嫁カレン\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
