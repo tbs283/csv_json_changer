@@ -1065,6 +1065,19 @@
     "clothesBottomStatus": "8",
     "characterOnly": "\"ウマ娘/男装アルダン\""
   },
+  "騎士ダイヤ": {
+    "girlBaseClothes": "",
+    "girlHead": "blue hat",
+    "girlOuter": "",
+    "girlTop": "blue and white tops,ribbon tie:tops",
+    "girlBottom": "white skirt,brown belt,sword:skirt",
+    "girlUnder": "blue boots:boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/騎士ダイヤ\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
