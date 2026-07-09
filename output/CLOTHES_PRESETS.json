@@ -1052,6 +1052,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ウマ娘/ブエナビスタ\""
   },
+  "男装アルダン": {
+    "girlBaseClothes": "white tailcoat",
+    "girlHead": "bimb hair",
+    "girlOuter": "white jacket:jacket",
+    "girlTop": "white shirt,green tie:shirt",
+    "girlBottom": "white pants,white long boots:white pants",
+    "girlUnder": "white boots:boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "8",
+    "characterOnly": "\"ウマ娘/男装アルダン\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
