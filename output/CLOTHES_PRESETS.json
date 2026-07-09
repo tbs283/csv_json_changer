@@ -1091,6 +1091,58 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ウマ娘/嫁カレン\""
   },
+  "チョコゼファー": {
+    "girlBaseClothes": "",
+    "girlHead": "beide hat",
+    "girlOuter": "",
+    "girlTop": "beige tops:tops",
+    "girlBottom": "white skirt:skirt",
+    "girlUnder": "brown thigh high socks,beige pumps:socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/チョコゼファー\""
+  },
+  "水着スズカ": {
+    "girlBaseClothes": "bikini",
+    "girlHead": "bomb hair",
+    "girlOuter": "",
+    "girlTop": "green bikini",
+    "girlBottom": "green paleo:paleo",
+    "girlUnder": "flip flops",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": "\"ウマ娘/水着スズカ\""
+  },
+  "フラッシュ勝負服": {
+    "girlBaseClothes": "dirndl",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "black and white tops,black and white sleeves:tops",
+    "girlBottom": "red skirt,black thigh high socks:skirt",
+    "girlUnder": "black thigh high socks,blue shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "7",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/エイシンフラッシュ\""
+  },
+  "水着タルマエ": {
+    "girlBaseClothes": "",
+    "girlHead": "hat,sidetail",
+    "girlOuter": "",
+    "girlTop": "pink tops",
+    "girlBottom": "beige overalls",
+    "girlUnder": "pink flip flops",
+    "panties": "white panties",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/水着タルマエ\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",

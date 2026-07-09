@@ -113,7 +113,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "フラッシュ勝負服",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -150,7 +150,7 @@
         "tag": [
             "ウマ娘"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "水着スズカ",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -169,7 +169,7 @@
         "tag": [
             "ウマ娘"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "チョコゼファー",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -207,7 +207,7 @@
         "tag": [
             "ウマ娘"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "水着タルマエ",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
