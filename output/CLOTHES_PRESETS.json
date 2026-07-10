@@ -1262,16 +1262,29 @@
   },
   "デアリングタクト勝負服": {
     "girlBaseClothes": "",
-    "girlHead": "white ribbon",
+    "girlHead": "white and sky blue ribbon",
     "girlOuter": "whtie outer",
     "girlTop": "white tops,light blue tie,black gloves",
-    "girlBottom": "white skirt,black tights",
+    "girlBottom": "white and sky blue skirt,brown belt,black tights",
     "girlUnder": "black tights,white boots",
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "6",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ウマ娘/デアリングタクト\""
+  },
+  "ニシノフラワー勝負服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "yellow tops with purple lines,ribbon tie,no sleeves tops,white arm bands",
+    "girlBottom": "purple and yellow skirt",
+    "girlUnder": "thigh belts, yellow boots",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/フラワー\""
   },
   "よう実ジャージ": {
     "girlBaseClothes": "",
