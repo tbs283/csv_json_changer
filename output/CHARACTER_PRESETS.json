@@ -16,7 +16,7 @@
             "ウマ娘",
             "ロリ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ハロライス",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -36,7 +36,7 @@
             "ウマ娘",
             "ロリ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "嫁ライス",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -56,7 +56,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "メジロアルダン勝負服",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -75,7 +75,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "サトノダイヤモンド勝負服",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
