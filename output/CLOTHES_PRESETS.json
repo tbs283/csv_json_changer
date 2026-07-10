@@ -1260,6 +1260,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ウマ娘/サトノダイヤモンド\""
   },
+  "デアリングタクト勝負服": {
+    "girlBaseClothes": "",
+    "girlHead": "white ribbon",
+    "girlOuter": "whtie outer",
+    "girlTop": "white tops,light blue tie,black gloves",
+    "girlBottom": "white skirt,black tights",
+    "girlUnder": "black tights,white boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/デアリングタクト\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
