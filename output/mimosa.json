@@ -1,7 +1,7 @@
 ﻿{
   "test": [
     {
-      "title": "騎乗位(前かがみ正面)",
+      "title": "背面騎乗位(仰向け/乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -33,7 +33,7 @@
       "seed_id": "310"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
+      "title": "背面騎乗位(仰向け/ハグ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -65,7 +65,7 @@
       "seed_id": "311"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
+      "title": "背面騎乗位(仰向け/乳揉み/足)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -97,7 +97,7 @@
       "seed_id": "312"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
+      "title": "背面騎乗位(仰向け/ハグ/足)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -127,6 +127,38 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "313"
+    },
+    {
+      "title": "背面騎乗位(仰向け/足掴み/足)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition,pussy focus,top-down view, from above,cowboy shot,girl fills frame}}},girl focus,focus on girl,girl focus,focus on girl,main subject,close-up,man partially visible",
+        "play": "1 girl,reverse cowgirl position,lying on top of each other",
+        "girl": "main subject girl",
+        "girlAction": "girl is supine position on top of male,m legs",
+        "male": "completely nude man,normal man,no face,bald head,simple man, lying on the bed,holding girl's legs,penetrating",
+        "male_c": "",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "soles,throwing up own arms,throwing up legs,m legs, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "314"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
