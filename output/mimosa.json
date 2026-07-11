@@ -1,6 +1,37 @@
 ﻿{
   "test": [
-
+    {
+      "title": "騎乗位(前かがみ正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
+        "play": "1 girl,cowgirl position",
+        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
+        "girlAction": "lying on the man,m legs",
+        "male": "completely nude man,normal man, lying on the bed,grabbing girl's legs,penetrating",
+        "male_c": "",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt"
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "127",
+      "seed_id": "310"
+    }
   ],
   "ベッドルーム(睡姦)(改善版)": [
     {
@@ -12108,38 +12139,6 @@
       "seed_id": "263"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the floor,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,desolate environment,  dusty atmosphere, overgrown plants,  cracked concrete",
-        "bgWall": "",
-        "bgGround": "debris on the floor",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
-    },
-    {
       "title": "立位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -15340,38 +15339,6 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "263"
-    },
-    {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the futon,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, japanese style room,dark",
-        "bgWall": "woody wall",
-        "bgGround": "tatami",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
     },
     {
       "title": "正常位事後",
@@ -23254,38 +23221,6 @@
       "seed_id": "263"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the bed,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, bedroom,night,dark,open space",
-        "bgWall": "white wall",
-        "bgGround": "white sheets,white pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
-    },
-    {
       "title": "背面座位(reverse upright straddle)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -27030,38 +26965,6 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "263"
-    },
-    {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the bed,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, pink room,bare room,minimalist",
-        "bgWall": "pink wall",
-        "bgGround": "pink sheets,pink pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
     },
     {
       "title": "背面駅弁(M字)",
@@ -32220,38 +32123,6 @@
       "seed_id": "263"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the bed,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, bedroom,night,bare room,minimalist",
-        "bgWall": "white wall",
-        "bgGround": "white sheets,white pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
-    },
-    {
       "title": "正常位事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -35488,38 +35359,6 @@
       "seed_id": "263"
     },
     {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the bed,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, bedroom,bare room,minimalist",
-        "bgWall": "white wall",
-        "bgGround": "white sheets,white pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
-    },
-    {
       "title": "背面座位(reverse upright straddle)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -38336,38 +38175,6 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "263"
-    },
-    {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the ground,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, dark forest,night",
-        "bgWall": "misty night air",
-        "bgGround": "overgrown underbrush, uneven forest floor",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
     },
     {
       "title": "背面駅弁(M字)",
@@ -49650,38 +49457,6 @@
       "縦横比": "3",
       "clothesFlg": "127",
       "seed_id": "263"
-    },
-    {
-      "title": "騎乗位(前かがみ正面)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "{{{dynamic diagonal composition, girl fills frame,from above}}},girl focus,focus on girl,girl focus,cowboy shot,focus on girl,main subject,close-up,man partially visible",
-        "play": "1 girl,cowgirl position",
-        "girl": "focus on girl, girl focus,main subject girl,top of head,nipples",
-        "girlAction": "lying on the man,m legs",
-        "male": "completely nude man, lying on the ground,grabbing girl's legs,penetrating",
-        "male_c": "",
-        "bgBase": "blurred background, night, flower garden, outdoors",
-        "bgWall": "",
-        "bgGround": "",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "throwing up own arms, nipples,breasts, looking at viewer,facing up, tears,heavy breath",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt"
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "127",
-      "seed_id": "310"
     },
     {
       "title": "対面座位",
