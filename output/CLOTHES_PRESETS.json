@@ -1507,6 +1507,19 @@
     "clothesBottomStatus": "4",
     "characterOnly": "\"無職転生/エリス\""
   },
+  "無色転生ノルン制服": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "white blazer,black vest",
+    "girlTop": "white shirt",
+    "girlBottom": "red skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "no bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"無職転生/ノルン\""
+  },
   "ブルアカ水着ミヤコ": {
     "girlBaseClothes": "school swimsuit, navy blue swimsuit",
     "girlHead": "ponytail,",
