@@ -1299,6 +1299,19 @@
     "clothesBottomStatus": "8",
     "characterOnly": "\"ウマ娘/ナリタトップロード\""
   },
+  "ダイイチルビー勝負服": {
+    "girlBaseClothes": "purple dress",
+    "girlHead": "red ribbon",
+    "girlOuter": "",
+    "girlTop": "white coller,red tie,long sleeves",
+    "girlBottom": "skirt with white frills,white tights",
+    "girlUnder": "white tights",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "3",
+    "characterOnly": "\"ウマ娘/ルビー\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
