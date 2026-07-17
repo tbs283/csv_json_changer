@@ -2126,6 +2126,33 @@
         "defaultHairStyle": "",
         "title": "re:zero kara hajimeru isekai seikatsu"
     },
+    "スパイ教室/リリー": {
+        "prompt": "lily (spy kyoushitsu), spy kyoushitsu,",
+        "tag": [
+            "スパイ教室"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "spy kyoushitsu"
+    },
+    "スパイ教室/グレーテ": {
+        "prompt": "grete(spy kyoushitsu), spy kyoushitsu,",
+        "tag": [
+            "スパイ教室"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "spy kyoushitsu"
+    },
+    "スパイ教室/エルナ": {
+        "prompt": "erna (spy kyoushitsu), spy kyoushitsu,",
+        "tag": [
+            "スパイ教室"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "spy kyoushitsu"
+    },
     "無職転生/シルフィ": {
         "prompt": "sylphiette (mushoku tensei),mushoku tensei,short hair,white hair,",
         "tag": [
