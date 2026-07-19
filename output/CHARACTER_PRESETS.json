@@ -44,6 +44,17 @@
         "pubicHair": "pubic hair",
         "title": "umamusume"
     },
+    "ウマ娘/Boc'sライス": {
+        "prompt": "rice shower (boc'z) (umamusume), umamusume, ear, tails,the short girl,",
+        "tag": [
+            "ウマ娘",
+            "ロリ"
+        ],
+        "defaultClothes": "Boc'sライス",
+        "defaultHairStyle": "",
+        "pubicHair": "pubic hair",
+        "title": "umamusume"
+    },
     "ウマ娘/ブエナビスタ": {
         "prompt": "buena vista (umamusume), umamusume, ear, tails,",
         "tag": [
@@ -233,6 +244,16 @@
         "pubicHair": "pubic hair",
         "title": "umamusume"
     },
+    "ウマ娘/Boc'sタルマエ": {
+        "prompt": "hokko tarumae (boc'z) (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘"
+        ],
+        "defaultClothes": "Boc'sタルマエ",
+        "defaultHairStyle": "",
+        "pubicHair": "pubic hair",
+        "title": "umamusume"
+    },
     "ウマ娘/アーモンドアイ": {
         "prompt": "almond eye (umamusume), tail,umamusume,",
         "tag": [
@@ -333,7 +354,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "メジロマックイーン勝負服",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -840,6 +861,36 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "umamusume"
+    },
+    "ウマ娘/ライトハロー": {
+        "prompt": "light hello (umamusume),  umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume"
+    },
+    "ウマ娘/都留岐涼花": {
+        "prompt": "tsurugi ryoka",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume style"
+    },
+    "ウマ娘/ベルノライト": {
+        "prompt": "berno light (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "ウマ娘制服",
+        "defaultHairStyle": "",
+        "title": "umamusume style"
     },
     "学マス/リーリヤ": {
         "prompt": "katsuragi lilja, gakuen idolmaster,",
