@@ -363,7 +363,7 @@
         "tag": [
             "ウマ娘"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "マックイーンエンドオブスカイ ",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -868,7 +868,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ウマ娘/ライトハロー",
         "defaultHairStyle": "",
         "title": "umamusume"
     },
@@ -878,7 +878,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ウマ娘/都留岐涼花",
         "defaultHairStyle": "",
         "title": "umamusume style"
     },

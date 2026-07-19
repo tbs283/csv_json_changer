@@ -778,7 +778,7 @@
         "play": "1 girl,doggystyle,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,leg up",
         "girlAction": "leaning forward,all fours,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,hugging legs,cropped head",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,holding legs,cropped head",
         "male_c": "",
         "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
         "bgWall": "",
@@ -3457,12 +3457,12 @@
       "seed_id": "30"
     },
     {
-      "title": "フェラ(掴み)",
+      "title": "フェラ(手コキ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -3489,12 +3489,12 @@
       "seed_id": "31"
     },
     {
-      "title": "フェラ(フェラ)",
+      "title": "フェラ(前)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -3509,7 +3509,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
+        "girlAction": "tears,nipples, fellatio,wariza, grabbing penis by both hands,",
         "girlExpression": "泣き顔",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
@@ -3521,44 +3521,12 @@
       "seed_id": "32"
     },
     {
-      "title": "フェラ(フェラ上から)",
+      "title": "フェラ(前/上目遣い)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from above",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
-        "male_c": "",
-        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
-        "bgWall": "",
-        "bgGround": "debris on the floor",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
-        "girlExpression": "泣き顔",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "33"
-    },
-    {
-      "title": "フェラ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -3573,7 +3541,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, fellatio,wariza, grabbing penis by both hands,",
         "girlExpression": "泣き顔",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
@@ -3582,15 +3550,47 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "63",
-      "seed_id": "34"
+      "seed_id": "320"
     },
     {
-      "title": "フェラ",
+      "title": "フェラ(玉舐め/前/上目遣い)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man, penis,stand up in front of the girl,grabbing head",
+        "male_c": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, wariza, licking testicles, wariza, grabbing penis",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "322"
+    },
+    {
+      "title": "フェラ(上)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -3605,7 +3605,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
+        "girlAction": "tears,nipples, fellatio,wariza, grabbing penis by both hands,",
         "girlExpression": "泣き顔",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
@@ -3614,7 +3614,71 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "63",
-      "seed_id": "35"
+      "seed_id": "33"
+    },
+    {
+      "title": "フェラ(上/上目遣い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
+        "male_c": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, fellatio,wariza, grabbing penis by both hands",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "321"
+    },
+    {
+      "title": "フェラ(玉舐め/上/上目遣い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
+        "male_c": "",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, wariza, licking testicles, wariza, grabbing penis",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "323"
     },
     {
       "title": "パイズリ",
@@ -5324,7 +5388,7 @@
         "play": "1 girl,doggystyle,",
         "girl": "focus on girl, girl focus,main subject girl,nipples,leg up",
         "girlAction": "leaning forward,all fours,",
-        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,hugging legs,cropped head",
+        "male": "completely nude man,simple man,no face,no detail man,no hair, sex from behind,holding legs,cropped head",
         "male_c": "",
         "bgBase": "blurred background, pink room,bare room,minimalist",
         "bgWall": "pink wall",
@@ -8003,12 +8067,12 @@
       "seed_id": "30"
     },
     {
-      "title": "フェラ(掴み)",
+      "title": "フェラ(手コキ)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -8035,12 +8099,12 @@
       "seed_id": "31"
     },
     {
-      "title": "フェラ(フェラ)",
+      "title": "フェラ(前)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "dutch-angle,upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -8055,7 +8119,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
+        "girlAction": "tears,nipples, fellatio,wariza, grabbing penis by both hands,",
         "girlExpression": "泣き顔",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
@@ -8067,44 +8131,12 @@
       "seed_id": "32"
     },
     {
-      "title": "フェラ(フェラ上から)",
+      "title": "フェラ(前/上目遣い)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from above",
-        "play": "1 girl,",
-        "girl": "focus on girl, girl focus,main subject girl,nipples",
-        "girlAction": "",
-        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
-        "male_c": "",
-        "bgBase": "pink room,bare room,minimalist",
-        "bgWall": "",
-        "bgGround": "pink sheets,pink pillow",
-        "bgFloor": ""
-      },
-      "charaVariable": {
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
-        "girlExpression": "泣き顔",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "3",
-      "clothesFlg": "63",
-      "seed_id": "33"
-    },
-    {
-      "title": "フェラ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "r18": "nsfw,mosaic censoring,",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -8119,7 +8151,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, fellatio,wariza, grabbing penis by both hands,",
         "girlExpression": "泣き顔",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
@@ -8128,15 +8160,47 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "63",
-      "seed_id": "34"
+      "seed_id": "320"
     },
     {
-      "title": "フェラ",
+      "title": "フェラ(玉舐め/前/上目遣い)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "r18": "nsfw,mosaic censoring,",
-        "composition": "extreme close-up, portrait, head shot, face only, cropped face, upper body, focus on face, from front",
+        "composition": "dutch-angle,upper body,from chest up,portrait,medium close-up,upper torso,focus on upper body,from front",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man, penis,stand up in front of the girl,grabbing head",
+        "male_c": "",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, wariza, licking testicles, wariza, grabbing penis",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "322"
+    },
+    {
+      "title": "フェラ(上)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
         "play": "1 girl,",
         "girl": "focus on girl, girl focus,main subject girl,nipples",
         "girlAction": "",
@@ -8151,7 +8215,7 @@
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": "",
-        "girlAction": "tears,nipples, fellatio, wariza, grabbing penis by both hands,",
+        "girlAction": "tears,nipples, fellatio,wariza, grabbing penis by both hands,",
         "girlExpression": "泣き顔",
         "clothesTopStatus": "opend clothes,pull up bra,",
         "clothesBottomStatus": ""
@@ -8160,7 +8224,71 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "3",
       "clothesFlg": "63",
-      "seed_id": "35"
+      "seed_id": "33"
+    },
+    {
+      "title": "フェラ(上/上目遣い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
+        "male_c": "",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, fellatio,wariza, grabbing penis by both hands",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "321"
+    },
+    {
+      "title": "フェラ(玉舐め/上/上目遣い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "r18": "nsfw,mosaic censoring,",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
+        "play": "1 girl,",
+        "girl": "focus on girl, girl focus,main subject girl,nipples",
+        "girlAction": "",
+        "male": "completely nude man,pov crotch,simple man,no face,no detail man,no hair, penis,stand up in front of the girl,",
+        "male_c": "",
+        "bgBase": "pink room,bare room,minimalist",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": ""
+      },
+      "charaVariable": {
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": "",
+        "girlAction": "tears,nipples, upward gaze,looking at viewer, wariza, licking testicles, wariza, grabbing penis",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "3",
+      "clothesFlg": "63",
+      "seed_id": "323"
     },
     {
       "title": "パイズリ",
