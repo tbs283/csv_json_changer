@@ -1481,6 +1481,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": ""
   },
+  "ハルウララ勝負服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "long sleeves outer",
+    "girlTop": "white shirt,groves",
+    "girlBottom": "pink bloomers",
+    "girlUnder": "white socks,white shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "9",
+    "characterOnly": "\"ウマ娘/ハルウララ\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
