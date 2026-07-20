@@ -852,26 +852,6 @@
         "defaultHairStyle": "",
         "title": "umamusume illustration"
     },
-    "ウマ娘/": {
-        "prompt": " umamusume, ear, tails,",
-        "tag": [
-            "ウマ娘",
-            "通常衣装"
-        ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
-        "title": "umamusume illustration"
-    },
-    "ウマ娘/": {
-        "prompt": " umamusume, ear, tails,",
-        "tag": [
-            "ウマ娘",
-            "通常衣装"
-        ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
-        "title": "umamusume illustration"
-    },
     "ウマ娘/ゴールドシチー": {
         "prompt": "gold city (umamusume), umamusume, ear, tails,",
         "tag": [
