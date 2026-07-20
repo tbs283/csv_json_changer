@@ -852,6 +852,106 @@
         "defaultHairStyle": "",
         "title": "umamusume illustration"
     },
+    "ウマ娘/": {
+        "prompt": " umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/": {
+        "prompt": " umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/ゴールドシチー": {
+        "prompt": "gold city (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/ヴェニュスパーク": {
+        "prompt": "venus paques (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/フサイチパンドラ": {
+        "prompt": "fusaichi pandora (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/ラヴズオンリーユー": {
+        "prompt": "loves only you (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/ノースフライト": {
+        "prompt": "north flight (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/ナイスネイチャ": {
+        "prompt": "nice nature (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/チアネイチャ": {
+        "prompt": "nice nature (run&win) (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
+    "ウマ娘/アグネスデジタル": {
+        "prompt": "agnes digital (umamusume), umamusume, ear, tails,",
+        "tag": [
+            "ウマ娘",
+            "通常衣装"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "umamusume illustration"
+    },
     "ウマ娘/トーカイテイオー": {
         "prompt": "tokai teio (umamusume), umamusume, ear, tails,",
         "tag": [
