@@ -7,7 +7,7 @@
             "通常衣装"
         ],
         "defaultClothes": "ライスシャワー勝負服",
-        "defaultHairStyle": "",
+        "defaultHairStyle": "ライスシャワー",
         "pubicHair": "pubic hair",
         "title": "umamusume illustration"
     },
@@ -440,7 +440,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "サクラチヨノオー勝負服",
         "defaultHairStyle": "",
         "title": "umamusume illustration"
     },
@@ -459,7 +459,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "キタサンブラック勝負服",
         "defaultHairStyle": "",
         "title": "umamusume illustration"
     },
@@ -497,8 +497,8 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultClothes": "ヴィブロス勝負服",
+        "defaultHairStyle": "ヴィブロス",
         "pubicHair": "pubic hair",  
         "title": "umamusume illustration"
     },
@@ -554,7 +554,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ウィンバリアシオン勝負服",
         "defaultHairStyle": "",
         "title": "umamusume illustration"
     },
@@ -584,7 +584,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "スティルインラブ勝負服",
         "defaultHairStyle": "",
         "title": "umamusume illustration"
     },
@@ -691,7 +691,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "マンハッタンカフェ勝負服",
         "defaultHairStyle": "",
         "title": "umamusume illustration"
     },
@@ -829,7 +829,7 @@
             "ロリ"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultHairStyle": "魔女帽子",
         "title": "umamusume illustration"
     },
     "ウマ娘/嫁スイープ": {
