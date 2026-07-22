@@ -1624,6 +1624,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ウマ娘/スティルインラブ\""
   },
+  "水マック": {
+    "girlBaseClothes": "swimsuit",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "see-through tops",
+    "girlBottom": "light green bikini panties",
+    "girlUnder": "flip flops",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ウマ娘/水マック\""
+  },
   "よう実ジャージ": {
     "girlBaseClothes": "",
     "girlHead": "",
