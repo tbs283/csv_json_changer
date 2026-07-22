@@ -2072,6 +2072,78 @@
         "defaultHairStyle": "",
         "title": "blue archive"
     },
+    "ポケモン/セレナ": {
+        "prompt": "serena (pokemon)",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "セレナロング",
+        "title": "pokemon"
+    },
+    "ポケモン/セレナ(アニメ)": {
+        "prompt": "serena (pokemon)",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "セレナショート",
+        "title": "pokemon (anime)"
+    },
+    "ポケモン/リーリエ": {
+        "prompt": "lillie (pokemon),",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "リーリエ帽子",
+        "title": "pokemon"
+    },
+    "ポケモン/ユウリ": {
+        "prompt": "gloria (pokemon),",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "pokemon"
+    },
+    "ポケモン/トウコ": {
+        "prompt": "hilda (pokemon),",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "pokemon"
+    },
+    "ポケモン/メイ": {
+        "prompt": "rosa (pokemon),",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "pokemon"
+    },
+    "ポケモン/カイ": {
+        "prompt": "irida (pokemon)",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "pokemon"
+    },
+    "ポケモン/エリカ": {
+        "prompt": "erika (pokemon),",
+        "tag": [
+            "ポケモン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "pokemon"
+    },
     "よう実/一之瀬": {
         "prompt": "ichinose honami (youjitsu), youkoso jitsuryoku shijou shugi no kyoushitsu e,",
         "tag": [
