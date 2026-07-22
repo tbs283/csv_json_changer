@@ -3,5 +3,6 @@
   "2": { "title": "away", "prompt": "looking away" },
   "3": { "title": "back", "prompt": "looking back" },
   "4": { "title": "ちら見", "prompt": "glance" },
-  "5": { "title": "視線を逸らす", "prompt": "looking away,averting eyes" }
+  "5": { "title": "視線を逸らす", "prompt": "looking away,averting eyes" },
+  "6": { "title": "ahead", "prompt": "looking ahead" }
 }
