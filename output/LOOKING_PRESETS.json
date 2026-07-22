@@ -1,4 +1,7 @@
 {
   "1": { "title": "viewer", "prompt": "looking at viewer" },
-  "2": { "title": "away", "prompt": "looking away" }
+  "2": { "title": "away", "prompt": "looking away" },
+  "3": { "title": "back", "prompt": "looking back" },
+  "4": { "title": "ちら見", "prompt": "glance" },
+  "5": { "title": "視線を逸らす", "prompt": "looking away,averting eyes" }
 }
