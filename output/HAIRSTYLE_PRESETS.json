@@ -19,6 +19,10 @@
     "prompt": "long hair",
     "characterOnly": ""
   },
+  "ポニーテール": {
+    "prompt": "ponytail",
+    "characterOnly": ""
+  },
   "レム": {
     "prompt": "head dress",
     "characterOnly": "\"リゼロ/レム\""
@@ -34,5 +38,17 @@
   "ヴィブロス": {
     "prompt": "hat,twintails,hair ribbon",
     "characterOnly": "\"ウマ娘/ヴィブロス\""
+  },
+  "セレナロング": {
+    "prompt": "pink hat,black tops,long hair",
+    "characterOnly": "\"ポケモン/セレナ\""
+  },
+  "セレナショート": {
+    "prompt": "pink hat,bob hair",
+    "characterOnly": "\"ポケモン/セレナ(アニメ)\""
+  },
+  "リーリエ帽子": {
+    "prompt": "white hat",
+    "characterOnly": "\"ポケモン/リーリエ\""
   }
 }
