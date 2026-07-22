@@ -22,5 +22,17 @@
   "レム": {
     "prompt": "head dress",
     "characterOnly": "\"リゼロ/レム\""
+  },
+  "ライスシャワー": {
+    "prompt": "hat with blue rose",
+    "characterOnly": "\"ウマ娘/ライスシャワー\""
+  },
+  "魔女帽子": {
+    "prompt": "witch hat",
+    "characterOnly": ""
+  },
+  "ヴィブロス": {
+    "prompt": "hat,twintails,hair ribbon",
+    "characterOnly": "\"ウマ娘/ヴィブロス\""
   }
 }
