@@ -639,7 +639,7 @@
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "",
+    "girlOuter": "black jacket",
     "girlTop": "school uniform,white shirts",
     "girlBottom": "green skirt,yellow cardigan around waist,",
     "girlUnder": "black high socks",
@@ -652,7 +652,7 @@
   "二乃制服": {
     "girlBaseClothes": "",
     "girlHead": "hair ribbon,bob hair",
-    "girlOuter": "",
+    "girlOuter": "black jacket",
     "girlTop": "school uniform,black cardigan,white shirts",
     "girlBottom": "green skirt,white thigh-high socks",
     "girlUnder": "white thigh-high socks",
@@ -665,7 +665,7 @@
   "三玖制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "",
+    "girlOuter": "black jacket",
     "girlTop": "school uniform,blue cardigan,white shirts",
     "girlBottom": "green skirt,black tights,",
     "girlUnder": "black tights",
@@ -678,7 +678,7 @@
   "四葉制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "",
+    "girlOuter": "black jacket",
     "girlTop": "school uniform,white shirts,yellow cardigan,robbon tie,",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
@@ -691,7 +691,7 @@
   "五月制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "",
+    "girlOuter": "black jacket",
     "girlTop": "school uniform,white shirts,red cardigan",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
