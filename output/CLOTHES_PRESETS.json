@@ -1106,7 +1106,7 @@
   },
   "男装アルダン": {
     "girlBaseClothes": "white tailcoat",
-    "girlHead": "bimb hair",
+    "girlHead": "bomb hair",
     "girlOuter": "white jacket:jacket",
     "girlTop": "white shirt,green tie:shirt",
     "girlBottom": "white pants,white long boots:white pants",
@@ -1114,7 +1114,7 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "8",
+    "clothesBottomStatus": "4",
     "characterOnly": "\"ウマ娘/男装アルダン\""
   },
   "騎士ダイヤ": {
