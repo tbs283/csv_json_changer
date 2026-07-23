@@ -1521,7 +1521,7 @@
     "characterOnly": "\"ウマ娘/都留岐涼花\""
   },
   "ウマ娘制服": {
-    "girlBaseClothes": "purple school uniform",
+    "girlBaseClothes": "tracen school uniform",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "white ribbon tie,long sleeves",
@@ -1636,6 +1636,58 @@
     "clothesTopStatus": "6",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ウマ娘/水マック\""
+  },
+  "UMA summer": {
+    "girlBaseClothes": "uma summer (umamusume)",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt",
+    "girlBottom": "denim pants",
+    "girlUnder": "white sneakers",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "4",
+    "characterOnly": ""
+  },
+  "Gaze on me!": {
+    "girlBaseClothes": "gaze on me! outfit (umamusume)",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt,blue inner",
+    "girlBottom": "blue short pants",
+    "girlUnder": "flip flops",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "4",
+    "characterOnly": ""
+  },
+  "トレセン音頭": {
+    "girlBaseClothes": "tracen ondo outfit (umamusume),blue kimono,",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "yellow obi",
+    "girlUnder": "geta",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "2",
+    "characterOnly": ""
+  },
+  "トレセンスク水": {
+    "girlBaseClothes": "tracen swimsuit,",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "5",
+    "clothesBottomStatus": "4",
+    "characterOnly": ""
   },
   "よう実ジャージ": {
     "girlBaseClothes": "",
