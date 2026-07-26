@@ -1,4 +1,41 @@
 ﻿{
+  "TEST": [
+    {
+      "title": "2人乱交/ダブルパイズリ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "girl": "A perspective looking up at the girls,Two girls facing each other.",
+        "composition": "cowboy shot, girl fills frame,close-up,boy partially visible,from below,man pov",
+        "play": "2 girl,tribadism",
+        "girlAction": "leaning back",
+        "male": "lying on back on the bed",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": "3"
+      },
+      "charaVariable": {
+        "girlAction": "tears",
+        "girlAction_c2": "test",
+        "girlAction_c3": "test",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "333"
+    }
+  ],
   "廃墟": [
     {
       "title": "立バック(腕掴み/振り向き)",
@@ -5354,41 +5391,6 @@
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "332"
-    },
-    {
-      "title": "2人乱交/ダブルパイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "girl": "A perspective looking up at the girls,Two girls facing each other.",
-        "composition": "cowboy shot, girl fills frame,close-up,boy partially visible,from below,man pov",
-        "play": "2 girl,tribadism",
-        "girlAction": "leaning back",
-        "male": "completely nude man,faceless man,lying on back on the bed",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
-        "bgWall": "",
-        "bgGround": "debris on the floor",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": "3"
-      },
-      "charaVariable": {
-        "girlAction": "tears",
-        "girlAction_c2": "test",
-        "girlAction_c3": "test",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "333"
     }
   ],
   "ラブホ": [
@@ -10746,41 +10748,6 @@
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "332"
-    },
-    {
-      "title": "2人乱交/ダブルパイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "girl": "A perspective looking up at the girls,Two girls facing each other.",
-        "composition": "cowboy shot, girl fills frame,close-up,boy partially visible,from below,man pov",
-        "play": "2 girl,tribadism",
-        "girlAction": "leaning back",
-        "male": "completely nude man,faceless man,lying on back on the bed",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "",
-        "bgWall": "",
-        "bgGround": "pink sheets,pink pillow",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": "3"
-      },
-      "charaVariable": {
-        "girlAction": "tears",
-        "girlAction_c2": "test",
-        "girlAction_c3": "test",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "333"
     }
   ],
   "海": [
@@ -16138,41 +16105,6 @@
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "332"
-    },
-    {
-      "title": "2人乱交/ダブルパイズリ",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "girl": "A perspective looking up at the girls,Two girls facing each other.",
-        "composition": "cowboy shot, girl fills frame,close-up,boy partially visible,from below,man pov",
-        "play": "2 girl,tribadism",
-        "girlAction": "leaning back",
-        "male": "completely nude man,faceless man,lying on back on the bed",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "beach",
-        "bgWall": "",
-        "bgGround": "bright sand",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": "3"
-      },
-      "charaVariable": {
-        "girlAction": "tears",
-        "girlAction_c2": "test",
-        "girlAction_c3": "test",
-        "girlExpression": "無理矢理(泣き)",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "333"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
