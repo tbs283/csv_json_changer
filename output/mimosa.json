@@ -5529,6 +5529,41 @@
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "333"
+    },
+    {
+      "title": "大の字拘束",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "ankle cuffs, wrist cuffs, shibari, rope",
+        "composition": "from abovw, full body shot",
+        "play": "1 girl",
+        "girlAction": "spread eagle, arms up, legs spread, restrained, bound, rope bondage, tied up, tied to wall, spread arms",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "0",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "338"
     }
   ],
   "ラブホ": [
@@ -11061,6 +11096,41 @@
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "333"
+    },
+    {
+      "title": "大の字拘束",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "ankle cuffs, wrist cuffs, shibari, rope",
+        "composition": "from abovw, full body shot",
+        "play": "1 girl",
+        "girlAction": "spread eagle, arms up, legs spread, restrained, bound, rope bondage, tied up, tied to wall, spread arms",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "0",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "338"
     }
   ],
   "海": [
@@ -16593,6 +16663,41 @@
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "333"
+    },
+    {
+      "title": "大の字拘束",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "ankle cuffs, wrist cuffs, shibari, rope",
+        "composition": "from abovw, full body shot",
+        "play": "1 girl",
+        "girlAction": "spread eagle, arms up, legs spread, restrained, bound, rope bondage, tied up, tied to wall, spread arms",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "beach",
+        "bgWall": "",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "0",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "338"
     }
   ],
   "ベッドルーム(睡姦)(改善版)": [
