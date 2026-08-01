@@ -6,7 +6,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain",
-        "composition": "from above, (straight-on | dutch-angle, diagonal framing), top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
+        "composition": "from above, straight-on, top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
         "play": "1 girl",
         "girlAction": "spread eagle, arms up, tied to floor, spread arms",
         "male": "",
@@ -34,6 +34,41 @@
       "縦横比": "",
       "clothesFlg": "15",
       "seed_id": "338"
+    },
+    {
+      "title": "大の字拘束(上半身/斜め)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain",
+        "composition": "from above, dutch-angle, diagonal framing, top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
+        "play": "1 girl",
+        "girlAction": "spread eagle, arms up, tied to floor, spread arms",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "0",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "339"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
@@ -5573,7 +5608,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain",
-        "composition": "from above, (straight-on | dutch-angle, diagonal framing), top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
+        "composition": "from above, straight-on, top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
         "play": "1 girl",
         "girlAction": "spread eagle, arms up, tied to sheets, spread arms",
         "male": "",
@@ -5601,6 +5636,41 @@
       "縦横比": "",
       "clothesFlg": "15",
       "seed_id": "338"
+    },
+    {
+      "title": "大の字拘束(上半身/斜め)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain",
+        "composition": "from above, dutch-angle, diagonal framing, top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
+        "play": "1 girl",
+        "girlAction": "spread eagle, arms up, tied to sheets, spread arms",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "0",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "339"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
@@ -11140,7 +11210,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain",
-        "composition": "from above, (straight-on | dutch-angle, diagonal framing), top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
+        "composition": "from above, straight-on, top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
         "play": "1 girl",
         "girlAction": "spread eagle, arms up, tied to sand, spread arms",
         "male": "",
@@ -11168,6 +11238,41 @@
       "縦横比": "",
       "clothesFlg": "15",
       "seed_id": "338"
+    },
+    {
+      "title": "大の字拘束(上半身/斜め)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain",
+        "composition": "from above, dutch-angle, diagonal framing, top-down view, cropped, dutch-angle, upper body shot, close-up, lower body out of frame",
+        "play": "1 girl",
+        "girlAction": "spread eagle, arms up, tied to sand, spread arms",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "beach",
+        "bgWall": "",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "0",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "339"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
