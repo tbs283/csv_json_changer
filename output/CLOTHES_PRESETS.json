@@ -2299,5 +2299,18 @@
     "clothesTopStatus": "4",
     "clothesBottomStatus": "3",
     "characterOnly": "\"Blue Archive/ニコ\""
+  },
+  "ペルシア制服": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "black ribbon",
+    "girlOuter": "white blazer",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "black skirt, garter belt, white thigh-high socks",
+    "girlUnder": "garter belt, white thigh-high socks, black shoes",
+    "panties": "white socks",
+    "bra": "whtie bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"寄宿学校のジュリエット/ペルシア\""
   }
 }
