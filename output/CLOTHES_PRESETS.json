@@ -2312,5 +2312,18 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"寄宿学校のジュリエット/ペルシア\""
+  },
+  "炎炎の消防隊/アイリス": {
+    "girlBaseClothes": "nun costume",
+    "girlHead": "black and white veil",
+    "girlOuter": "",
+    "girlTop": "white coller, black tops",
+    "girlBottom": "black and white skirt, white thigh-high socks",
+    "girlUnder": "",
+    "panties": "white socks",
+    "bra": "whtie bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"炎々の消防隊/アイリス\""
   }
 }
