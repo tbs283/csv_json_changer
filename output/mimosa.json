@@ -141,6 +141,41 @@
       "seed_id": "341"
     },
     {
+      "title": "拘束/騎乗位(両手拘束)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "tied wrists, bound wrists, chains, chain bondage, wrist cuffs, shackles, suspended, hanging from ceiling, restrained, captive,nipples",
+        "composition": "girl fills frame,cowboy shot,close-up,man partially visible,pussy focus,man pov",
+        "play": "1 girl, cowgirl position",
+        "girlAction": "arms up, arms above head, wrists together, sitting on the man",
+        "male": "completely nude man,faceless man,pov,lying on the floor,grabbing thigh,penetrating",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "nipples,breasts,tears,heavy breath",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "342"
+    },
+    {
       "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -5813,6 +5848,41 @@
       "seed_id": "341"
     },
     {
+      "title": "拘束/騎乗位(両手拘束)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "tied wrists, bound wrists, chains, chain bondage, wrist cuffs, shackles, suspended, hanging from ceiling, restrained, captive,nipples",
+        "composition": "girl fills frame,cowboy shot,close-up,man partially visible,pussy focus,man pov",
+        "play": "1 girl, cowgirl position",
+        "girlAction": "arms up, arms above head, wrists together, sitting on the man",
+        "male": "completely nude man,faceless man,pov,lying on the sheets,grabbing thigh,penetrating",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background",
+        "bgWall": "pink wall,bare room",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "nipples,breasts,tears,heavy breath",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "342"
+    },
+    {
       "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -11483,6 +11553,41 @@
       "縦横比": "",
       "clothesFlg": "127",
       "seed_id": "341"
+    },
+    {
+      "title": "拘束/騎乗位(両手拘束)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "tied wrists, bound wrists, chains, chain bondage, wrist cuffs, shackles, suspended, hanging from ceiling, restrained, captive,nipples",
+        "composition": "girl fills frame,cowboy shot,close-up,man partially visible,pussy focus,man pov",
+        "play": "1 girl, cowgirl position",
+        "girlAction": "arms up, arms above head, wrists together, sitting on the man",
+        "male": "completely nude man,faceless man,pov,lying on the sand,grabbing thigh,penetrating",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, beach",
+        "bgWall": "blue sky",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "nipples,breasts,tears,heavy breath",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "342"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
