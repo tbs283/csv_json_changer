@@ -71,6 +71,41 @@
       "seed_id": "339"
     },
     {
+      "title": "拘束/正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain,nipples,cowboy shot",
+        "composition": "cowboy shot, dynamic diagonal composition, girl fills frame,close-up,boy partially visible,dutch-angle,from above,man pov",
+        "play": "1 girl between the men,{two men, one above the girl and one below}, missionary,orgy,gangbang",
+        "girlAction": "{spread eagle, arms up, tied to floor, spread arms},the head on the floor,lying on back on the floor",
+        "male": "2men,completely nude man,faceless man, {pov penis,grabbing thigh,penetration}, {holding down girl's arms from above}",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "340"
+    },
+    {
       "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -5673,6 +5708,41 @@
       "seed_id": "339"
     },
     {
+      "title": "拘束/正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain,nipples,cowboy shot",
+        "composition": "cowboy shot, dynamic diagonal composition, girl fills frame,close-up,boy partially visible,dutch-angle,from above,man pov",
+        "play": "1 girl between the men,{two men, one above the girl and one below}, missionary,orgy,gangbang",
+        "girlAction": "{spread eagle, arms up, tied to sheets, spread arms},the head on the sheets,lying on back on the sheets",
+        "male": "2men,completely nude man,faceless man, {pov penis,grabbing thigh,penetration}, {holding down girl's arms from above}",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "340"
+    },
+    {
       "title": "立バック(腕掴み/振り向き)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -11273,6 +11343,41 @@
       "縦横比": "",
       "clothesFlg": "15",
       "seed_id": "339"
+    },
+    {
+      "title": "拘束/正常位",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain,nipples,cowboy shot",
+        "composition": "cowboy shot, dynamic diagonal composition, girl fills frame,close-up,boy partially visible,dutch-angle,from above,man pov",
+        "play": "1 girl between the men,{two men, one above the girl and one below}, missionary,orgy,gangbang",
+        "girlAction": "{spread eagle, arms up, tied to sand, spread arms},the head on the sand,lying on back on the sand",
+        "male": "2men,completely nude man,faceless man, {pov penis,grabbing thigh,penetration}, {holding down girl's arms from above}",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "beach",
+        "bgWall": "",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "340"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
