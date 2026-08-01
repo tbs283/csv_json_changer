@@ -1,4 +1,14 @@
 {
- "1": { "title": "test", "prompt": "testPrompt" } ,
- "2": { "title": "test2", "prompt": "testPrompt" }
+ "1": { "title": "腫れた頬", "prompt": "swollen cheeks" } ,
+ "2": { "title": "傷だらけの肌", "prompt": "wounded skin" },
+ "3": { "title": "泥まみれの体", "prompt": "mud-covered body" },
+ "4": { "title": "不潔な体", "prompt": "filthy body" },
+ "5": { "title": "ぼさぼさの髪", "prompt": "disheveled hair" },
+ "6": { "title": "みすぼらしい服", "prompt": "shabby clothes" },
+ "7": { "title": "ボロボロの服", "prompt": "tattered clothes" },
+ "8": { "title": "汚い体", "prompt": "dirty body" },
+ "9": { "title": "穴だらけの服", "prompt": "clothes full of holes" },
+ "10": { "title": "破れた袖", "prompt": "torn sleeves" },
+ "11": { "title": "解れた布地", "prompt": "frayed fabric" },
+ "12": { "title": "ほどけた髪", "prompt": "unruly hair" }
 }
