@@ -448,7 +448,7 @@
             "ウマ娘",
             "通常衣装"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ウマ娘/ブライト",
         "defaultHairStyle": "",
         "largeBreastFlg": 1,
         "pubicHair": "pubic hair",
@@ -4469,6 +4469,24 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "isekai ojisan"
+    },
+    "魔法少女リリカルなのは/なのは": {
+        "prompt": "takamachi nanoha, mahou shoujo lyrical nanoha",
+        "tag": [
+            "魔法少女リリカルなのは"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "mahou shoujo lyrical nanoha"
+    },
+    "魔法少女リリカルなのは/フェイト": {
+        "prompt": "fate testarossa, mahou shoujo lyrical nanoha",
+        "tag": [
+            "魔法少女リリカルなのは"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "mahou shoujo lyrical nanoha"
     },
     "/": {
         "prompt": "",
