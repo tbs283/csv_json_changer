@@ -2663,6 +2663,24 @@
         "defaultHairStyle": "",
         "title": "mushoku tensei"
     },
+    "無職転生/リーリャ": {
+        "prompt": "lillia greyrat,mushoku tensei,",
+        "tag": [
+            "無職転生"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "mushoku tensei"
+    },
+    "わたしの幸せな結婚/斎森美世": {
+        "prompt": "saimori miyo (anime), watashi no shiawase na kekkon",
+        "tag": [
+            "わたしの幸せな結婚"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "watashi no shiawase na kekkon"
+    },
     "ダンまち/レフィーヤ": {
         "prompt": "viridis lefiya,dungeon ni deai wo motomeru no wa machigatteiru darou ka, ",
         "tag": [
@@ -4496,6 +4514,15 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "mahou shoujo lyrical nanoha"
+    },
+    "白聖女と黒牧師/セシリア": {
+        "prompt": "cecilia (shiro seijo to kuro bokushi), shiro seijo to kuro bokushi",
+        "tag": [
+            "白聖女と黒牧師"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "shiro seijo to kuro bokushi"
     },
     "/": {
         "prompt": "",
