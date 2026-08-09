@@ -112,6 +112,43 @@
       "seed_id": "340"
     },
     {
+      "title": "拘束/正常位(正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain,nipples,cowboy shot",
+        "composition": "straight-on,cowboy shot, girl fills frame,close-up,boy partially visible,from above,man pov",
+        "play": "1 girl, missionary",
+        "girlLooking": "1,5",
+        "girlAction": "{spread eagle, arms up, tied to floor, spread arms},the head on the floor,lying on back on the floor",
+        "male": "men,completely nude man,faceless man,pov penis,grabbing thigh,penetration,",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "341"
+    },
+    {
       "title": "拘束/正常位(両足)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -146,7 +183,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "341"
+      "seed_id": "342"
     },
     {
       "title": "拘束/騎乗位(両手拘束)",
@@ -183,7 +220,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "342"
+      "seed_id": "343"
     },
     {
       "title": "拘束/立ちバック(両手拘束)",
@@ -220,7 +257,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "343"
+      "seed_id": "344"
     },
     {
       "title": "拘束/バック(両手拘束)",
@@ -257,7 +294,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "344"
+      "seed_id": "345"
     },
     {
       "title": "拘束/駅弁(両手両足拘束)",
@@ -294,7 +331,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "345"
+      "seed_id": "346"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
@@ -6256,6 +6293,43 @@
       "seed_id": "340"
     },
     {
+      "title": "拘束/正常位(正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain,nipples,cowboy shot",
+        "composition": "straight-on,cowboy shot, girl fills frame,close-up,boy partially visible,from above,man pov",
+        "play": "1 girl, missionary",
+        "girlLooking": "1,5",
+        "girlAction": "{spread eagle, arms up, tied to sheets, spread arms},the head on the sheets,lying on back on the sheets",
+        "male": "men,completely nude man,faceless man,pov penis,grabbing thigh,penetration,",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "341"
+    },
+    {
       "title": "拘束/正常位(両足)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -6290,7 +6364,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "341"
+      "seed_id": "342"
     },
     {
       "title": "拘束/騎乗位(両手拘束)",
@@ -6327,7 +6401,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "342"
+      "seed_id": "343"
     },
     {
       "title": "拘束/立ちバック(両手拘束)",
@@ -6364,7 +6438,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "343"
+      "seed_id": "344"
     },
     {
       "title": "拘束/バック(両手拘束)",
@@ -6401,7 +6475,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "344"
+      "seed_id": "345"
     },
     {
       "title": "拘束/駅弁(両手両足拘束)",
@@ -6438,7 +6512,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "345"
+      "seed_id": "346"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
@@ -12400,6 +12474,43 @@
       "seed_id": "340"
     },
     {
+      "title": "拘束/正常位(正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "restrained, bound, chain bondage, tied up, wrist cuffs, shibari, chain,nipples,cowboy shot",
+        "composition": "straight-on,cowboy shot, girl fills frame,close-up,boy partially visible,from above,man pov",
+        "play": "1 girl, missionary",
+        "girlLooking": "1,5",
+        "girlAction": "{spread eagle, arms up, tied to sand, spread arms},the head on the sand,lying on back on the sand",
+        "male": "men,completely nude man,faceless man,pov penis,grabbing thigh,penetration,",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "beach",
+        "bgWall": "",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggling, tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(泣き)",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "341"
+    },
+    {
       "title": "拘束/正常位(両足)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -12434,7 +12545,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "341"
+      "seed_id": "342"
     },
     {
       "title": "拘束/騎乗位(両手拘束)",
@@ -12471,7 +12582,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "342"
+      "seed_id": "343"
     },
     {
       "title": "拘束/立ちバック(両手拘束)",
@@ -12508,7 +12619,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "343"
+      "seed_id": "344"
     },
     {
       "title": "拘束/バック(両手拘束)",
@@ -12545,7 +12656,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": "344"
+      "seed_id": "345"
     },
     {
       "title": "拘束/駅弁(両手両足拘束)",
@@ -12582,7 +12693,7 @@
       "キャラヘッダフラグ": "",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "345"
+      "seed_id": "346"
     },
     {
       "title": "立バック(腕掴み/振り向き)",
