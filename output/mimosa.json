@@ -835,7 +835,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -872,7 +872,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -909,7 +909,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -932,11 +932,11 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "1",
         "girl": "nipples",
-        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,boy partially visible",
+        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,man pov",
         "play": "1 girl",
         "girlLooking": "",
         "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor",
-        "male": "completely nude man,faceless man,spread own ass,grabbing own ass",
+        "male": "boy's arm,spread own ass,grabbing own ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
         "bgWall": "",
@@ -946,7 +946,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -983,7 +983,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -1020,7 +1020,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "Squinting,nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -1035,6 +1035,43 @@
       "縦横比": "",
       "clothesFlg": "127",
       "seed_id": "80"
+    },
+    {
+      "title": "バック(尻上げ/正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "dynamic diagonal composition, girl fills frame,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girlLooking": "",
+        "girlAction": "facing up, kneeling",
+        "male": "completely nude man,faceless man,no hair, sex from behind,grabbing girl's arms",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": ""
     },
     {
       "title": "バック(尻上げ/正面/斜め)",
@@ -7201,7 +7238,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sheets,The body is facing the sheets,top-down bottom-up.,the head put on the sheets, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -7238,7 +7275,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sheets,The body is facing the sheets,top-down bottom-up.,the head put on the sheets, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -7275,7 +7312,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sheets,The body is facing the sheets,top-down bottom-up.,the head put on the sheets, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -7298,11 +7335,11 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "1",
         "girl": "nipples",
-        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,boy partially visible",
+        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,man pov",
         "play": "1 girl",
         "girlLooking": "",
         "girlAction": "The chin is touching the sheets,The body is facing the sheets,top-down bottom-up.,the head put on the sheets",
-        "male": "completely nude man,faceless man,spread own ass,grabbing own ass",
+        "male": "boy's arm,spread own ass,grabbing own ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink wall,bare room",
@@ -7312,7 +7349,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sheets,The body is facing the sheets,top-down bottom-up.,the head put on the sheets, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -7349,7 +7386,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sheets,The body is facing the sheets,top-down bottom-up.,the head put on the sheets, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -7386,7 +7423,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "Squinting,nipples,breasts, The chin is touching the sheets,The body is facing the sheets,top-down bottom-up.,the head put on the sheets, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -7401,6 +7438,43 @@
       "縦横比": "",
       "clothesFlg": "127",
       "seed_id": "80"
+    },
+    {
+      "title": "バック(尻上げ/正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "dynamic diagonal composition, girl fills frame,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girlLooking": "",
+        "girlAction": "facing up, kneeling",
+        "male": "completely nude man,faceless man,no hair, sex from behind,grabbing girl's arms",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background",
+        "bgWall": "pink wall,bare room",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": ""
     },
     {
       "title": "バック(尻上げ/正面/斜め)",
@@ -13567,7 +13641,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -13604,7 +13678,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -13641,7 +13715,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -13664,11 +13738,11 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "1",
         "girl": "nipples",
-        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,boy partially visible",
+        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,man pov",
         "play": "1 girl",
         "girlLooking": "",
         "girlAction": "The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand",
-        "male": "completely nude man,faceless man,spread own ass,grabbing own ass",
+        "male": "boy's arm,spread own ass,grabbing own ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, beach",
         "bgWall": "blue sky",
@@ -13678,7 +13752,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -13715,7 +13789,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -13752,7 +13826,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "Squinting,nipples,breasts, The chin is touching the sand,The body is facing the sand,top-down bottom-up.,the head put on the sand, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -13767,6 +13841,43 @@
       "縦横比": "",
       "clothesFlg": "127",
       "seed_id": "80"
+    },
+    {
+      "title": "バック(尻上げ/正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "dynamic diagonal composition, girl fills frame,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girlLooking": "",
+        "girlAction": "facing up, kneeling",
+        "male": "completely nude man,faceless man,no hair, sex from behind,grabbing girl's arms",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, beach",
+        "bgWall": "blue sky",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": ""
     },
     {
       "title": "バック(尻上げ/正面/斜め)",
@@ -20491,7 +20602,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -20528,7 +20639,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -20565,7 +20676,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -20588,11 +20699,11 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "1",
         "girl": "nipples",
-        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,boy partially visible",
+        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,man pov",
         "play": "1 girl",
         "girlLooking": "",
         "girlAction": "The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed",
-        "male": "completely nude man,faceless man,spread own ass,grabbing own ass",
+        "male": "boy's arm,spread own ass,grabbing own ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, pink room,bare room,minimalist",
         "bgWall": "pink wall",
@@ -20602,7 +20713,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -20639,7 +20750,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -20676,7 +20787,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "Squinting,nipples,breasts, The chin is touching the bed,The body is facing the bed,top-down bottom-up.,the head put on the bed, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -20691,6 +20802,43 @@
       "縦横比": "",
       "clothesFlg": "127",
       "seed_id": "80"
+    },
+    {
+      "title": "バック(尻上げ/正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "dynamic diagonal composition, girl fills frame,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girlLooking": "",
+        "girlAction": "facing up, kneeling",
+        "male": "completely nude man,faceless man,no hair, sex from behind,grabbing girl's arms",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, pink room,bare room,minimalist",
+        "bgWall": "pink wall",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": ""
     },
     {
       "title": "バック(尻上げ/正面/斜め)",
@@ -24008,7 +24156,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -24045,7 +24193,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -24082,7 +24230,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -24105,11 +24253,11 @@
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "1",
         "girl": "nipples",
-        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,boy partially visible",
+        "composition": "dynamic diagonal composition, girl fills frame, from behind, from above, dutch-angle,close-up,man pov",
         "play": "1 girl",
         "girlLooking": "",
         "girlAction": "The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor",
-        "male": "completely nude man,faceless man,spread own ass,grabbing own ass",
+        "male": "boy's arm,spread own ass,grabbing own ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
         "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
@@ -24119,7 +24267,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -24156,7 +24304,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "nipples,breasts, hands on the ground, looking back,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -24193,7 +24341,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "Squinting,nipples,breasts, The chin is touching the floor,The body is facing the floor,top-down bottom-up.,the head put on the floor, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, looking at viewer,facing down,character focus, tears,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -24208,6 +24356,43 @@
       "縦横比": "",
       "clothesFlg": "127",
       "seed_id": "80"
+    },
+    {
+      "title": "バック(尻上げ/正面)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "dynamic diagonal composition, girl fills frame,close-up,boy partially visible,from front",
+        "play": "1 girl,sex from behind",
+        "girlLooking": "",
+        "girlAction": "facing up, kneeling",
+        "male": "completely nude man,faceless man,no hair, sex from behind,grabbing girl's arms",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgGround": "hot spring poolside,stone floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "Squinting,nipples,breasts, hands on the ground, tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": ""
     },
     {
       "title": "バック(尻上げ/正面/斜め)",
