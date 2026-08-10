@@ -3020,8 +3020,10 @@
         "tag": [
             "俺ガイル"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "俺ガイル/結衣",
         "defaultHairStyle": "",
+        "largeBreastFlg": 1,
+        "pubicHair": "pubic hair",
         "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/がはまま": {
@@ -3029,8 +3031,10 @@
         "tag": [
             "俺ガイル"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "俺ガイル/がはまま",
         "defaultHairStyle": "",
+        "largeBreastFlg": 1,
+        "pubicHair": "pubic hair",
         "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/雪乃": {
@@ -3038,8 +3042,10 @@
         "tag": [
             "俺ガイル"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "俺ガイル/雪乃",
         "defaultHairStyle": "",
+        "largeBreastFlg": 0,
+        "pubicHair": "pubic hair",
         "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/いろはす": {
@@ -3047,8 +3053,10 @@
         "tag": [
             "俺ガイル"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "俺ガイル/いろはす",
         "defaultHairStyle": "",
+        "largeBreastFlg": 1,
+        "pubicHair": "pubic hair",
         "title": "yahari ore no seishun lovecome wa machigatteiru."
     },
     "俺ガイル/小町": {
