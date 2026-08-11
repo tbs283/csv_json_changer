@@ -636,6 +636,19 @@
     "clothesBottomStatus": "1",
     "characterOnly": "\"トラブル/ヤミ\""
   },
+  "ひげをそる/沙優": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "black jacket,beige vest",
+    "girlTop": "white shirt",
+    "girlBottom": "checked skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ひげをそる/沙優\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -1962,7 +1975,7 @@
     "clothesBottomStatus": "4",
     "characterOnly": "\"SAO/直葉\""
   },
-  "SAO/直葉": {
+  "SAO/直葉制服": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
     "girlOuter": "",

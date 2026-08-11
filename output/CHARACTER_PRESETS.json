@@ -2988,12 +2988,12 @@
         "defaultHairStyle": "",
         "title": "go-toubun no hanayome illustration"
     },
-    "ひげをそる/さゆ": {
+    "ひげをそる/沙優": {
         "prompt": "ogiwara sayu (anime), hige wo soru. soshite joshikousei wo hirou., ",
         "tag": [
             "ひげをそる"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ひげをそる/沙優",
         "defaultHairStyle": "",
         "title": "hige wo soru. soshite joshikousei wo hirou."
     },
