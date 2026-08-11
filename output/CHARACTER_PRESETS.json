@@ -3260,13 +3260,13 @@
         "title": "bleach: jigoku-hen"
     },
     "BLEACH/織姫(千年決戦編)": {
-        "prompt": "inoue orihime (anime),bleach,hair accessory,",
+        "prompt": "inoue orihime (anime),bleach: sennen kessen-hen, hair accessory,",
         "tag": [
             "BLEACH"
         ],
         "defaultClothes": "BLEACH/織姫(千年決戦編)",
         "defaultHairStyle": "",
-        "title": "bleach"
+        "title": "bleach: sennen kessen-hen"
     },
     "BLEACH/乱菊": {
         "prompt": "matsumoto rangiku (anime),bleach,",
