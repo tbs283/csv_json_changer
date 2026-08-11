@@ -2711,8 +2711,8 @@
     "girlBottom": "white long skirt",
     "girlUnder": "white boots",
     "panties": "white panties",
-    "bra": "no bra",
-    "clothesTopStatus": "0",
+    "bra": "",
+    "clothesTopStatus": "9",
     "clothesBottomStatus": "0",
     "characterOnly": "\"BLEACH/織姫(千年決戦編)\""
   }
