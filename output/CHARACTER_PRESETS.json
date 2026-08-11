@@ -4548,13 +4548,13 @@
         "title": "shiro seijo to kuro bokushi"
     },
     "結界師/時音": {
-        "prompt": "",
+        "prompt": "yukimura tokine, kekkaishi",
         "tag": [
             ""
         ],
         "defaultClothes": "結界師/時音",
         "defaultHairStyle": "",
-        "title": ""
+        "title": "kekkaishi"
     },
     "/": {
         "prompt": "",
