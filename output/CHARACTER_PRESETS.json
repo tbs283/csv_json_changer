@@ -2864,7 +2864,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/アスナ",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2873,7 +2873,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/アスナ(ALO)",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2882,7 +2882,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/直葉",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2891,7 +2891,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/リーファ",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2909,7 +2909,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/シノン",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2918,7 +2918,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/シノン(ALO)",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2928,7 +2928,7 @@
             "SAO",
             "ロリ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/シリカ",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2938,7 +2938,7 @@
             "SAO",
             "ロリ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/シリカ(ALO)",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2956,7 +2956,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/ロニエ",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2965,7 +2965,7 @@
         "tag": [
             "SAO"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/アリス",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
@@ -2975,7 +2975,7 @@
             "SAO",
             "ロリ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "SAO/アリス(ロリ)",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
