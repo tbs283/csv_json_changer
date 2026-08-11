@@ -2715,5 +2715,31 @@
     "clothesTopStatus": "9",
     "clothesBottomStatus": "12",
     "characterOnly": "\"BLEACH/織姫(千年決戦編)\""
+  },
+  "NARUTO/日向ヒナタ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "purple jersey",
+    "girlTop": "chainmail",
+    "girlBottom": "blue pants",
+    "girlUnder": "sandals",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "4",
+    "characterOnly": "NARUTO/日向ヒナタ"
+  },
+  "NARUTO/日向ヒナタ(鎖帷子)": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "chainmail",
+    "girlBottom": "",
+    "girlUnder": "sandals",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": "NARUTO/日向ヒナタ"
   }
 }
