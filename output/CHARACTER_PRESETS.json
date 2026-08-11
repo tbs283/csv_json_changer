@@ -3257,6 +3257,8 @@
         ],
         "defaultClothes": "BLEACH/織姫制服(夏)",
         "defaultHairStyle": "",
+        "largeBreastFlg": 1,
+        "pubicHair": "pubic hair",
         "title": "bleach: jigoku-hen"
     },
     "BLEACH/織姫(千年決戦編)": {
@@ -3266,6 +3268,8 @@
         ],
         "defaultClothes": "BLEACH/織姫(千年決戦編)",
         "defaultHairStyle": "",
+        "largeBreastFlg": 1,
+        "pubicHair": "pubic hair",
         "title": "bleach: sennen kessen-hen"
     },
     "BLEACH/乱菊": {
@@ -3275,6 +3279,8 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
+        "largeBreastFlg": 1,
+        "pubicHair": "pubic hair",
         "title": "bleach"
     },
     "BLEACH/雛森桃": {
