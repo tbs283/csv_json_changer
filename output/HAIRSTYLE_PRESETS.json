@@ -50,5 +50,9 @@
   "リーリエ帽子": {
     "prompt": "white hat",
     "characterOnly": "\"ポケモン/リーリエ\""
+  },
+  "サドネ": {
+    "prompt": "red ribbon,gold line along the edge of the ribbon,ahoge",
+    "characterOnly": "\"バトルガールハイスクール/サドネ\""
   }
 }

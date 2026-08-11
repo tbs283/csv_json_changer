@@ -3196,6 +3196,15 @@
         "defaultHairStyle": "",
         "title": "saenai heroine no sodatekata"
     },
+    "涼宮ハルヒの憂鬱/朝比奈みくる": {
+        "prompt": "asahina mikuru, suzumiya haruhi no yuuutsu,",
+        "tag": [
+            "涼宮ハルヒの憂鬱"
+        ],
+        "defaultClothes": "メイド",
+        "defaultHairStyle": "ツーサイドアップ",
+        "title": "suzumiya haruhi no yuuutsu"
+    },
     "トラブル/モモ": {
         "prompt": "momo velia deviluke, to love-ru darkness,tail",
         "tag": [
@@ -3343,7 +3352,7 @@
         "tag": [
             "鬼滅の刃"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "鬼滅の刃/甘露寺蜜璃",
         "defaultHairStyle": "",
         "title": "kimetsu no yaiba"
     },
@@ -4438,6 +4447,42 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "hachigatsu no cinderella nine"
+    },
+    "バトルガールハイスクール/くるみ": {
+        "prompt": "tokiwa kurumi (battle girl high school)",
+        "tag": [
+            "バトルガールハイスクール", "バトガ"
+        ],
+        "defaultClothes": "バトルガールハイスクール/高等部制服",
+        "defaultHairStyle": "",
+        "title": "battle girl high school"
+    },
+    "バトルガールハイスクール/しほ": {
+        "prompt": "kunieda shiho  (battle girl high school)",
+        "tag": [
+            "バトルガールハイスクール", "バトガ"
+        ],
+        "defaultClothes": "バトルガールハイスクール/高等部制服",
+        "defaultHairStyle": "",
+        "title": "battle girl high school"
+    },
+    "バトルガールハイスクール/心美": {
+        "prompt": "asahina kokomi (battle girl high school)",
+        "tag": [
+            "バトルガールハイスクール", "バトガ"
+        ],
+        "defaultClothes": "バトルガールハイスクール/中等部制服",
+        "defaultHairStyle": "",
+        "title": "battle girl high school"
+    },
+    "バトルガールハイスクール/サドネ": {
+        "prompt": "sadone (battle girl high school),empty eyes,",
+        "tag": [
+            "バトルガールハイスクール", "バトガ"
+        ],
+        "defaultClothes": "バトルガールハイスクール/中等部制服",
+        "defaultHairStyle": "バトルガールハイスクール/サドネ",
+        "title": "battle girl high school"
     },
     "イナイレ/久遠冬花": {
         "prompt": "kudou fuyuka, inazuma eleven",

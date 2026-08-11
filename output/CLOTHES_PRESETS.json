@@ -2780,5 +2780,31 @@
     "clothesTopStatus": "2",
     "clothesBottomStatus": "2",
     "characterOnly": "NARUTO/日向ヒナタ"
+  },
+  "バトルガールハイスクール/高等部制服": {
+    "girlBaseClothes": "white sailor uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "navy collar,navy  cuff of the sleeve,navy hem",
+    "girlBottom": "navy pleated skirt,white line at the hem of the skirt",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"バトルガールハイスクール/くるみ\",\"バトルガールハイスクール/しほ\""
+  },
+  "バトルガールハイスクール/中等部制服": {
+    "girlBaseClothes": "white sailor uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "double-breasted,Indigo collar,Indigo  cuff of the sleeve,navy hem",
+    "girlBottom": "Indigo pleated skirt,white line at the hem of the skirt",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"バトルガールハイスクール/心美\",\"バトルガールハイスクール/サドネ\""
   }
 }
