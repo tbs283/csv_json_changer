@@ -3410,6 +3410,15 @@
         "defaultHairStyle": "",
         "title": "nisekoi"
     },
+    "いちご100%/東城綾": {
+        "prompt": "toujou aya (anime), ichigo 100 percent,",
+        "tag": [
+            "いちご100%"
+        ],
+        "defaultClothes": "セーラー服白",
+        "defaultHairStyle": "",
+        "title": "ichigo 100 percent"
+    },
     "かの借り/水原": {
         "prompt": "mizuhara chizuru, kanojo okarishimasu, ",
         "tag": [

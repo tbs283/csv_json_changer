@@ -441,6 +441,32 @@
     "clothesBottomStatus": "3",
     "characterOnly": ""
   },
+  "セーラー服白": {
+    "girlBaseClothes": "white sailor uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "red ribbon,half sleeves",
+    "girlBottom": "navy blue skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": ""
+  },
+  "セーラー服紺": {
+    "girlBaseClothes": "navy sailor uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "red ribbon,long sleeves",
+    "girlBottom": "navy blue skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": ""
+  },
   "toloveる制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
