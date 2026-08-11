@@ -3255,16 +3255,16 @@
         "tag": [
             "BLEACH"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "BLEACH/織姫制服(夏)",
         "defaultHairStyle": "",
         "title": "bleach: jigoku-hen"
     },
-    "BLEACH/織姫(新)": {
+    "BLEACH/織姫(千年決戦編)": {
         "prompt": "inoue orihime (anime),bleach,hair accessory,",
         "tag": [
             "BLEACH"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "BLEACH/織姫(千年決戦編)",
         "defaultHairStyle": "",
         "title": "bleach"
     },
