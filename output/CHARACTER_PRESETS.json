@@ -3251,7 +3251,16 @@
         "title": "kateikyoushi hitman reborn!"
     },
     "BLEACH/織姫": {
-        "prompt": "inoue orihime (anime),bleach,hair accessory,hair behind ear,",
+        "prompt": "inoue orihime (bleach: jigoku-hen),bleach,",
+        "tag": [
+            "BLEACH"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "bleach: jigoku-hen"
+    },
+    "BLEACH/織姫(新)": {
+        "prompt": "inoue orihime (anime),bleach,hair accessory,",
         "tag": [
             "BLEACH"
         ],

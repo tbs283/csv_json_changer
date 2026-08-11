@@ -2676,5 +2676,44 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"俺ガイル/いろはす\""
+  },
+  "BLEACH/織姫制服(夏)": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "hair behind ear",
+    "girlOuter": "beige vest",
+    "girlTop": "white shirt,ribbon tie",
+    "girlBottom": "gray skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"BLEACH/織姫\",\"BLEACH/織姫(千年決戦編)\""
+  },
+  "BLEACH/織姫制服(冬)": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "hair behind ear",
+    "girlOuter": "gray jacket",
+    "girlTop": "white shirt,ribbon tie",
+    "girlBottom": "gray skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"BLEACH/織姫\",\"BLEACH/織姫(千年決戦編)\""
+  },
+  "BLEACH/織姫(千年決戦編)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white short tops",
+    "girlBottom": "white long skirt",
+    "girlUnder": "white boots",
+    "panties": "white panties",
+    "bra": "no bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"BLEACH/織姫(千年決戦編)\""
   }
 }
