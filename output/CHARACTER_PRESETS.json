@@ -3325,7 +3325,7 @@
         "tag": [
             "鬼滅の刃"
         ],
-        "defaultClothes": "鬼滅の刃カナヲ",
+        "defaultClothes": "鬼滅の刃/栗花落カナヲ",
         "defaultHairStyle": "",
         "title": "kimetsu no yaiba"
     },
@@ -3334,7 +3334,7 @@
         "tag": [
             "鬼滅の刃"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "鬼滅の刃/胡蝶忍",
         "defaultHairStyle": "",
         "title": "kimetsu no yaiba"
     },
@@ -4546,6 +4546,15 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "shiro seijo to kuro bokushi"
+    },
+    "結界師/時音": {
+        "prompt": "",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "結界師/時音",
+        "defaultHairStyle": "",
+        "title": ""
     },
     "/": {
         "prompt": "",

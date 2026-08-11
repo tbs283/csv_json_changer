@@ -649,6 +649,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ひげをそる/沙優\""
   },
+  "結界師/時音": {
+    "girlBaseClothes": "white japanese style clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "white pants",
+    "girlUnder": "geta",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"結界師/時音\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -2105,7 +2118,7 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"SAO/アリス(ロリ)\""
   },
-  "鬼滅の刃カナヲ": {
+  "鬼滅の刃/栗花落カナヲ": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "",
@@ -2117,6 +2130,32 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"鬼滅の刃/栗花落カナヲ\""
+  },
+  "鬼滅の刃/胡蝶忍": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white cape,black tops,",
+    "girlBottom": "black pants,white belt",
+    "girlUnder": "white boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"鬼滅の刃/胡蝶忍\""
+  },
+  "鬼滅の刃/甘露寺蜜璃": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white cape,black tops,",
+    "girlBottom": "black skirt,white belt,green thigh-high socks",
+    "girlUnder": "green thigh-high socks",
+    "panties": "white panties",
+    "bra": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"鬼滅の刃/甘露寺蜜璃\""
   },
   "無職転生ロキシー": {
     "girlBaseClothes": "",
