@@ -688,6 +688,19 @@
     "clothesBottomStatus": "4",
     "characterOnly": "\"結界師/時音\""
   },
+  "俺の妹がこんなに可愛いわけがない/新垣あやせ制服": {
+    "girlBaseClothes": "white sailor uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "red tie,half sleeves",
+    "girlBottom": "gray skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"俺の妹がこんなに可愛いわけがない/新垣あやせ\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",

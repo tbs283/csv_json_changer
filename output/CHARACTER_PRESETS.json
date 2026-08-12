@@ -3205,6 +3205,15 @@
         "defaultHairStyle": "ツーサイドアップ",
         "title": "suzumiya haruhi no yuuutsu"
     },
+    "俺の妹がこんなに可愛いわけがない/新垣あやせ": {
+        "prompt": "aragaki ayase (anime), ore no imouto ga konna ni kawaii wake ga nai,",
+        "tag": [
+            "俺の妹がこんなに可愛いわけがない"
+        ],
+        "defaultClothes": "俺の妹がこんなに可愛いわけがない/新垣あやせ制服",
+        "defaultHairStyle": "",
+        "title": "ore no imouto ga konna ni kawaii wake ga nai"
+    },
     "トラブル/モモ": {
         "prompt": "momo velia deviluke, to love-ru darkness,tail",
         "tag": [
