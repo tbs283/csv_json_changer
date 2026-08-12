@@ -4646,6 +4646,24 @@
         "defaultHairStyle": "",
         "title": "kekkaishi"
     },
+    "ラブプラス/高嶺愛花": {
+        "prompt": "takane manaka, love plus,",
+        "tag": [
+            "ラブプラス"
+        ],
+        "defaultClothes": "ラブプラス/高嶺愛花制服",
+        "defaultHairStyle": "",
+        "title": "love plus"
+    },
+    "ラブプラス/姉ヶ崎寧々": {
+        "prompt": "anegasaki nene, love plus,",
+        "tag": [
+            "ラブプラス"
+        ],
+        "defaultClothes": "ラブプラス/姉ヶ崎寧々制服",
+        "defaultHairStyle": "",
+        "title": "love plus"
+    },
     "/": {
         "prompt": "",
         "tag": [

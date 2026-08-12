@@ -712,7 +712,7 @@
     "bra": "white bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
-    "characterOnly": ""
+    "characterOnly": "\"いちご100%/西野つかさ\",\"いちご100%/南戸唯\""
   },
   "いちご100%/東城綾(三つ編み)": {
     "girlBaseClothes": "school uniform",
@@ -726,6 +726,45 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"いちご100%/東城綾\""
+  },
+  "ラブプラス/高嶺愛花制服": {
+    "girlBaseClothes": "navy school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white ribbon tie",
+    "girlBottom": "skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ラブプラス/高嶺愛花\""
+  },
+  "ラブプラス/姉ヶ崎寧々制服": {
+    "girlBaseClothes": "navy school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white ribbon tie",
+    "girlBottom": "skirt,black tights",
+    "girlUnder": "black tights",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ラブプラス/姉ヶ崎寧々\""
+  },
+  "ラブプラス/夏制服": {
+    "girlBaseClothes": "white school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "half sleeves,ribbon tie",
+    "girlBottom": "skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ラブプラス/高嶺愛花\",\"ラブプラス/姉ヶ崎寧々\""
   },
   "一花制服": {
     "girlBaseClothes": "",
