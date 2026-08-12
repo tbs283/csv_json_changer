@@ -3433,7 +3433,7 @@
         "tag": [
             "いちご100%"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "いちご100%/西野つかさ",
         "defaultHairStyle": "",
         "title": "ichigo 100 percent"
     },
@@ -3442,16 +3442,16 @@
         "tag": [
             "いちご100%"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "セーラー服白",
         "defaultHairStyle": "",
         "title": "ichigo 100 percent"
     },
     "いちご100%/南戸唯": {
-        "prompt": "ichigo 100 percent,",
+        "prompt": "minamito yui (anime), ichigo 100 percent,",
         "tag": [
             "いちご100%"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "いちご100%/西野つかさ",
         "defaultHairStyle": "",
         "title": "ichigo 100 percent"
     },
