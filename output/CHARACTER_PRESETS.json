@@ -3428,6 +3428,33 @@
         "defaultHairStyle": "",
         "title": "ichigo 100 percent"
     },
+    "いちご100%/西野つかさ": {
+        "prompt": "nishino tsukasa (anime), ichigo 100 percent,",
+        "tag": [
+            "いちご100%"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "ichigo 100 percent"
+    },
+    "いちご100%/北大路さつき": {
+        "prompt": "kitaouji satsuki, ichigo 100 percent,",
+        "tag": [
+            "いちご100%"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "ichigo 100 percent"
+    },
+    "いちご100%/南戸唯": {
+        "prompt": "ichigo 100 percent,",
+        "tag": [
+            "いちご100%"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "ichigo 100 percent"
+    },
     "かの借り/水原": {
         "prompt": "mizuhara chizuru, kanojo okarishimasu, ",
         "tag": [
