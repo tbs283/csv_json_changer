@@ -701,6 +701,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"俺の妹がこんなに可愛いわけがない/新垣あやせ\""
   },
+  "いちご100%/西野つかさ": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt,yellow vest,ribbon tie",
+    "girlBottom": "checked skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
