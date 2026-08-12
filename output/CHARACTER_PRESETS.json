@@ -1,6 +1,6 @@
 {
     "ウマ娘/ライスシャワー": {
-        "prompt": "rice shower (umamusume), umamusume,short girl,ear, tails,",
+        "prompt": "rice shower (umamusume), umamusume,short girl,",
         "tag": [
             "ウマ娘",
             "ロリ",
@@ -13,7 +13,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ハロライス": {
-        "prompt": "rice shower (make up vampire!) (umamusume), umamusume, ear, tails,short girl,",
+        "prompt": "rice shower (make up vampire!) (umamusume), umamusume, short girl,",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -25,7 +25,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/豊食祭ライス": {
-        "prompt": "rice shower (yummy dreamy fairy) (umamusume), umamusume, ear, tails,short girl,",
+        "prompt": "rice shower (yummy dreamy fairy) (umamusume), umamusume, short girl,",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -37,7 +37,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/嫁ライス": {
-        "prompt": "rice shower (longed-for scenery) (umamusume),  umamusume, ear, tails,the short girl,",
+        "prompt": "rice shower (longed-for scenery) (umamusume),  umamusume, the short girl,",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -49,7 +49,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/Boc'sライス": {
-        "prompt": "rice shower (boc'z) (umamusume), umamusume, ear, tails,the short girl,",
+        "prompt": "rice shower (boc'z) (umamusume), umamusume, the short girl,",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -61,7 +61,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ブエナビスタ": {
-        "prompt": "buena vista (umamusume), umamusume, ear, tails,",
+        "prompt": "buena vista (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -73,7 +73,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/メジロアルダン": {
-        "prompt": "mejiro ardan (umamusume), umamusume, ear, tails,",
+        "prompt": "mejiro ardan (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -85,7 +85,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/男装アルダン": {
-        "prompt": "mejiro ardan (neige emeraude) (umamusume), umamusume, ear, tails,",
+        "prompt": "mejiro ardan (neige emeraude) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘"
         ],
@@ -96,7 +96,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/サトノダイヤモンド": {
-        "prompt": "satono diamond (umamusume), umamusume, ear, tails,",
+        "prompt": "satono diamond (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -108,7 +108,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/正月ダイヤ": {
-        "prompt": "satono diamond (floral star prosperous green) (umamusume), umamusume, ear, tails,",
+        "prompt": "satono diamond (floral star prosperous green) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘"
         ],
@@ -119,7 +119,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/騎士ダイヤ": {
-        "prompt": "satono diamond (chevalier bleu) (umamusume), umamusume, ear, tails,",
+        "prompt": "satono diamond (chevalier bleu) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘"
         ],
@@ -142,7 +142,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/エイシンフラッシュ": {
-        "prompt": "eishin flash (umamusume),umamusume,tail,horse tail,ear,",
+        "prompt": "eishin flash (umamusume),umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -176,7 +176,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/サイレンススズカ": {
-        "prompt": "silence suzuka (umamusume), umamusume, ear, tails,",
+        "prompt": "silence suzuka (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -188,7 +188,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/水着スズカ": {
-        "prompt": "silence suzuka (emerald on the waves) (umamusume), umamusume, ear, tails,",
+        "prompt": "silence suzuka (emerald on the waves) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘"
         ],
@@ -245,7 +245,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ホッコータルマエ": {
-        "prompt": "hokko tarumae (umamusume), umamusume, ear, tails,",
+        "prompt": "hokko tarumae (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -257,7 +257,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/水着タルマエ": {
-        "prompt": "hokko tarumae (pastel marine locadol) (umamusume), umamusume, ear, tails,",
+        "prompt": "hokko tarumae (pastel marine locadol) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘"
         ],
@@ -268,7 +268,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/Boc'sタルマエ": {
-        "prompt": "hokko tarumae (boc'z) (umamusume), umamusume, ear, tails,",
+        "prompt": "hokko tarumae (boc'z) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘"
         ],
@@ -303,7 +303,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/グランアレグリア": {
-        "prompt": "gran alegria (umamusume), umamusume, ear, tails,",
+        "prompt": "gran alegria (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -315,7 +315,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ヴィルシーナ": {
-        "prompt": "verxina (umamusume),  umamusume, ear, tails,",
+        "prompt": "verxina (umamusume),  umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -327,7 +327,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/メジロドーベル": {
-        "prompt": "mejiro dober (umamusume), umamusume, ear, tails,",
+        "prompt": "mejiro dober (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -339,7 +339,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/夏ドーベル": {
-        "prompt": "mejiro dober (vacation safir) (umamusume), umamusume, ear, tails,",
+        "prompt": "mejiro dober (vacation safir) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘"
         ],
@@ -350,7 +350,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/マヤノトップガン": {
-        "prompt": "mayano top gun (umamusume), umamusume, ear, tails,",
+        "prompt": "mayano top gun (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "ロリ",
@@ -363,7 +363,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/嫁マヤ": {
-        "prompt": "mayano top gun (sunlight bouquet) (umamusume), umamusume, ear, tails,",
+        "prompt": "mayano top gun (sunlight bouquet) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -375,7 +375,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ハロマヤ": {
-        "prompt": "mayano top gun (formation: party) (umamusume), umamusume, ear, tails,",
+        "prompt": "mayano top gun (formation: party) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -387,7 +387,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/メジロマックイーン": {
-        "prompt": "mejiro mcqueen (umamusume), umamusume, ear, tails,",
+        "prompt": "mejiro mcqueen (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -399,7 +399,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/マックイーンエンドオブスカイ": {
-        "prompt": "mejiro mcqueen (end of sky) (umamusume), umamusume,ear, tails,",
+        "prompt": "mejiro mcqueen (end of sky) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -410,7 +410,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/水マック": {
-        "prompt": "mejiro mcqueen (ripple fairlady) (umamusume), umamusume,ear, tails,",
+        "prompt": "mejiro mcqueen (ripple fairlady) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -421,7 +421,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/阪神マック": {
-        "prompt": "mejiro mcqueen (let's go! yes!?) (umamusume), umamusume,ear, tails,",
+        "prompt": "mejiro mcqueen (let's go! yes!?) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -432,7 +432,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ドレスマック": {
-        "prompt": "mejiro mcqueen (heart exposed to the night breeze) (umamusume), umamusume,ear, tails,",
+        "prompt": "mejiro mcqueen (heart exposed to the night breeze) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -443,7 +443,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ブライト": {
-        "prompt": "mejiro bright (umamusume), umamusume,ear, tails,",
+        "prompt": "mejiro bright (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -455,7 +455,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/クロノジェネシス": {
-        "prompt": "chrono genesis (umamusume), umamusume,ear, tails,",
+        "prompt": "chrono genesis (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -467,7 +467,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/シーザリオ": {
-        "prompt": "cesario (umamusume), umamusume,ear, tails,",
+        "prompt": "cesario (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -479,7 +479,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/サクラローレル": {
-        "prompt": "sakura laurel (umamusume), umamusume,ear, tails,",
+        "prompt": "sakura laurel (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -491,7 +491,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/サクラチヨノオー": {
-        "prompt": "sakura chiyono o (umamusume), umamusume,ear, tails,",
+        "prompt": "sakura chiyono o (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -503,7 +503,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ダンスチヨ": {
-        "prompt": "sakura chiyono o (fleur enneigee) (umamusume), umamusume,ear, tails,",
+        "prompt": "sakura chiyono o (fleur enneigee) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -514,7 +514,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/キタサンブラック": {
-        "prompt": "kitasan black (umamusume), umamusume, ear, tails,",
+        "prompt": "kitasan black (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -526,7 +526,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/白キタ": {
-        "prompt": "kitasan black (jubilant star auspicious crane) (umamusume), umamusume,ear, tails,",
+        "prompt": "kitasan black (jubilant star auspicious crane) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -537,7 +537,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/赤キタ": {
-        "prompt": "kitasan black (final bloom) (umamusume), umamusume,ear, tails,",
+        "prompt": "kitasan black (final bloom) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -548,7 +548,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/コパノリッキー": {
-        "prompt": "copano rickey (umamusume), umamusume,ear, tails,",
+        "prompt": "copano rickey (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -560,7 +560,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ヴィブロス": {
-        "prompt": "vivlos (umamusume), umamusume,ear, tails,",
+        "prompt": "vivlos (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -572,7 +572,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ルビー": {
-        "prompt": "daiichi ruby (umamusume),umamusume, ear, tails,",
+        "prompt": "daiichi ruby (umamusume),umamusume, ",
         "tag": [
             "ウマ娘",
             "ロリ",
@@ -585,7 +585,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ダンスルビー": {
-        "prompt": "daiichi ruby (flowing blue) (umamusume),umamusume, ear, tails,",
+        "prompt": "daiichi ruby (flowing blue) (umamusume),umamusume, ",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -597,7 +597,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/フラワー": {
-        "prompt": "nishino flower (umamusume),umamusume, ear, tails,",
+        "prompt": "nishino flower (umamusume),umamusume, ",
         "tag": [
             "ウマ娘",
             "ロリ",
@@ -610,7 +610,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/嫁フラワー": {
-        "prompt": "nishino flower (sweet juneberry) (umamusume),umamusume, ear, tails,",
+        "prompt": "nishino flower (sweet juneberry) (umamusume),umamusume, ",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -622,7 +622,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ウインバリアシオン": {
-        "prompt": "win variation (umamusume), umamusume,ear, tails,",
+        "prompt": "win variation (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -634,7 +634,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ナリタトップロード": {
-        "prompt": "narita top road (umamusume), umamusume,ear, tails,",
+        "prompt": "narita top road (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -646,7 +646,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/サトノクラウン": {
-        "prompt": "satono crown (umamusume), umamusume,ear, tails,",
+        "prompt": "satono crown (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -658,7 +658,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/スティルインラブ": {
-        "prompt": "still in love (umamusume), umamusume,ear, tails,",
+        "prompt": "still in love (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -670,7 +670,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ブルボン": {
-        "prompt": "mihono bourbon (umamusume), umamusume,ear, tails,",
+        "prompt": "mihono bourbon (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -682,7 +682,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/チョコブルボン": {
-        "prompt": "mihono bourbon (code:glassage) (umamusume), umamusume,ear, tails,",
+        "prompt": "mihono bourbon (code:glassage) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -693,7 +693,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/クラフト": {
-        "prompt": "rhein kraft (umamusume), umamusume, umamusume,ear, tails,",
+        "prompt": "rhein kraft (umamusume), umamusume, umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -705,7 +705,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/デュランダル": {
-        "prompt": "durandal (umamusume), umamusume,ear, tails,",
+        "prompt": "durandal (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -717,7 +717,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/シュヴァルグラン": {
-        "prompt": "cheval grand (umamusume),umamusume,ear, tails,",
+        "prompt": "cheval grand (umamusume),umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -729,7 +729,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/スペシャルウィーク": {
-        "prompt": "special week (umamusume), umamusume, ear, tails,",
+        "prompt": "special week (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -741,7 +741,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/デアリングタクト": {
-        "prompt": "daring tact (umamusume), umamusume,ear, tails,",
+        "prompt": "daring tact (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -753,7 +753,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/グラスワンダー": {
-        "prompt": "grass wonder (umamusume), umamusume,ear, tails,",
+        "prompt": "grass wonder (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -765,7 +765,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ヒーラーグラス": {
-        "prompt": "grass wonder (saint jade healer) (umamusume),  umamusume,ear, tails,",
+        "prompt": "grass wonder (saint jade healer) (umamusume),  umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -776,7 +776,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/武士グラス": {
-        "prompt": "grass wonder (honor of the blue flame) (umamusume),  umamusume,ear, tails,",
+        "prompt": "grass wonder (honor of the blue flame) (umamusume),  umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -787,7 +787,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/マンハッタンカフェ": {
-        "prompt": "manhattan cafe (umamusume), umamusume,ear, tails,",
+        "prompt": "manhattan cafe (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -799,7 +799,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/猫カフェ": {
-        "prompt": "manhattan cafe (verdant night) (umamusume),  umamusume,ear, tails,",
+        "prompt": "manhattan cafe (verdant night) (umamusume),  umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -810,7 +810,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/黒水カフェ": {
-        "prompt": "manhattan cafe (the bubbles that i see with you) (umamusume),  umamusume,ear, tails,",
+        "prompt": "manhattan cafe (the bubbles that i see with you) (umamusume),  umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -821,7 +821,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/白水カフェ": {
-        "prompt": "manhattan cafe (tobasuze hot summer!) (umamusume),umamusume,ear, tails,",
+        "prompt": "manhattan cafe (tobasuze hot summer!) (umamusume),umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -832,7 +832,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/フィンモーション": {
-        "prompt": "fine motion (umamusume), umamusume,ear, tails,",
+        "prompt": "fine motion (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -844,7 +844,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/嫁ファイン": {
-        "prompt": "fine motion (titania) (umamusume), umamusume,ear, tails,",
+        "prompt": "fine motion (titania) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -855,7 +855,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ハロウィンファイン": {
-        "prompt": "fine motion (hello my clover) (umamusume),  umamusume,ear, tails,",
+        "prompt": "fine motion (hello my clover) (umamusume),  umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -866,7 +866,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/アドマイアベガ": {
-        "prompt": "admire vega (umamusume), umamusume,ear, tails,",
+        "prompt": "admire vega (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -878,7 +878,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/クリスマスアヤベ": {
-        "prompt": "admire vega (glacialis vega) (umamusume), umamusume,ear, tails,",
+        "prompt": "admire vega (glacialis vega) (umamusume), umamusume,",
         "tag": [
             "ウマ娘"
         ],
@@ -889,7 +889,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ゼンノロブロイ": {
-        "prompt": "zenno rob roy (umamusume), umamusume,ear, tails,",
+        "prompt": "zenno rob roy (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装",
@@ -902,7 +902,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/秋ロブロイ": {
-        "prompt": "zenno rob roy (inlaid stories) (umamusume),  umamusume,ear, tails,",
+        "prompt": "zenno rob roy (inlaid stories) (umamusume),  umamusume,",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -914,7 +914,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ハルウララ": {
-        "prompt": "haru urara (umamusume), umamusume,ear, tails,",
+        "prompt": "haru urara (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装",
@@ -927,7 +927,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/正月ウララ": {
-        "prompt": "haru urara (first urara saku sakura) (umamusume),  umamusume,ear, tails,",
+        "prompt": "haru urara (first urara saku sakura) (umamusume),  umamusume,",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -939,7 +939,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ジェンティルドンナ": {
-        "prompt": "gentildonna (umamusume), umamusume,ear, tails,",
+        "prompt": "gentildonna (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -951,7 +951,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/スイープトウショウ": {
-        "prompt": "sweep tosho (umamusume), umamusume,ear, tails,",
+        "prompt": "sweep tosho (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装",
@@ -964,7 +964,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/嫁スイープ": {
-        "prompt": "sweep tosho (realize rune) (umamusume), umamusume,ear, tails,",
+        "prompt": "sweep tosho (realize rune) (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "ロリ"
@@ -976,7 +976,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/スーパークリーク": {
-        "prompt": "super creek (umamusume), umamusume,ear, tails,",
+        "prompt": "super creek (umamusume), umamusume,",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -988,7 +988,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ゴールドシチー": {
-        "prompt": "gold city (umamusume), umamusume, ear, tails,",
+        "prompt": "gold city (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1000,7 +1000,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ヴェニュスパーク": {
-        "prompt": "venus paques (umamusume), umamusume, ear, tails,",
+        "prompt": "venus paques (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1012,7 +1012,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/フサイチパンドラ": {
-        "prompt": "fusaichi pandora (umamusume), umamusume, ear, tails,",
+        "prompt": "fusaichi pandora (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1024,7 +1024,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ラヴズオンリーユー": {
-        "prompt": "loves only you (umamusume), umamusume, ear, tails,",
+        "prompt": "loves only you (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1036,7 +1036,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ノースフライト": {
-        "prompt": "north flight (umamusume), umamusume, ear, tails,",
+        "prompt": "north flight (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1048,7 +1048,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ナイスネイチャ": {
-        "prompt": "nice nature (umamusume), umamusume, ear, tails,",
+        "prompt": "nice nature (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1060,7 +1060,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/チアネイチャ": {
-        "prompt": "nice nature (run&win) (umamusume), umamusume, ear, tails,",
+        "prompt": "nice nature (run&win) (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1072,7 +1072,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/アグネスデジタル": {
-        "prompt": "agnes digital (umamusume), umamusume, ear, tails,",
+        "prompt": "agnes digital (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1084,7 +1084,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/トーカイテイオー": {
-        "prompt": "tokai teio (umamusume), umamusume, ear, tails,",
+        "prompt": "tokai teio (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1096,7 +1096,7 @@
         "title": "umamusume illustration"
     },
     "ウマ娘/ライトハロー": {
-        "prompt": "light hello (umamusume),  umamusume, ear, tails,",
+        "prompt": "light hello (umamusume),  umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
@@ -1120,7 +1120,7 @@
         "title": "umamusume style"
     },
     "ウマ娘/ベルノライト": {
-        "prompt": "berno light (umamusume), umamusume, ear, tails,",
+        "prompt": "berno light (umamusume), umamusume, ",
         "tag": [
             "ウマ娘",
             "通常衣装"
