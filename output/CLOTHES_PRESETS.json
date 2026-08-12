@@ -710,9 +710,22 @@
     "girlUnder": "white socks",
     "panties": "white panties",
     "bra": "white bra",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
     "characterOnly": ""
+  },
+  "いちご100%/東城綾(三つ編み)": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "braid hair,glasses",
+    "girlOuter": "",
+    "girlTop": "black blazer, white shirtred ribbon tie",
+    "girlBottom": "navy skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties printed strawberry",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"いちご100%/東城綾\""
   },
   "一花制服": {
     "girlBaseClothes": "",
