@@ -2462,8 +2462,27 @@
         "tag": [
             "リゼロ"
         ],
-        "defaultClothes": "レム",
+        "defaultClothes": "リゼロ/レム",
         "defaultHairStyle": "レム",
+        "title": "re:zero kara hajimeru isekai seikatsu"
+    },
+    "リゼロ/エミリア": {
+        "prompt": "emilia (anime), re:zero kara hajimeru isekai seikatsu,",
+        "tag": [
+            "リゼロ"
+        ],
+        "defaultClothes": "リゼロ/エミリア",
+        "defaultHairStyle": "",
+        "title": "re:zero kara hajimeru isekai seikatsu"
+    },
+    "リゼロ/ペトラ": {
+        "prompt": "petra leyte, re:zero kara hajimeru isekai seikatsu,loli,",
+        "tag": [
+            "リゼロ",
+            "ロリ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
         "title": "re:zero kara hajimeru isekai seikatsu"
     },
     "リゼロ/カーミラ": {
@@ -2471,7 +2490,7 @@
         "tag": [
             "リゼロ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "リゼロ/カーミラ",
         "defaultHairStyle": "",
         "title": "re:zero kara hajimeru isekai seikatsu"
     },
@@ -2488,25 +2507,6 @@
         "prompt": "theresia van astrea, re:zero kara hajimeru isekai seikatsu,",
         "tag": [
             "リゼロ"
-        ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
-        "title": "re:zero kara hajimeru isekai seikatsu"
-    },
-    "リゼロ/エミリア": {
-        "prompt": "emilia (anime),  re:zero kara hajimeru isekai seikatsu,",
-        "tag": [
-            "リゼロ"
-        ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
-        "title": "re:zero kara hajimeru isekai seikatsu"
-    },
-    "リゼロ/ペトラ": {
-        "prompt": "petra leyte, re:zero kara hajimeru isekai seikatsu,loli,",
-        "tag": [
-            "リゼロ",
-            "ロリ"
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",

@@ -750,7 +750,7 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"ラブプラス/姉ヶ崎寧々\""
   },
   "ラブプラス/夏制服": {
@@ -2482,7 +2482,7 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"葬送のフリーレン/フェルン\""
   },
-  "レム": {
+  "リゼロ/レム": {
     "girlBaseClothes": "maid",
     "girlHead": "",
     "girlOuter": "",
@@ -2494,6 +2494,32 @@
     "clothesTopStatus": "7",
     "clothesBottomStatus": "0",
     "characterOnly": "\"リゼロ/レム\""
+  },
+  "リゼロ/カーミラ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "white hooded coat",
+    "girlTop": "green scarf",
+    "girlBottom": "pink skirt",
+    "girlUnder": "boots",
+    "panties": "white panties",
+    "bra": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"リゼロ/カーミラ\""
+  },
+  "リゼロ/エミリア": {
+    "girlBaseClothes": "white clothes with purple accents",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white collar, white sleeves",
+    "girlBottom": "white thigh-high boots",
+    "girlUnder": "thigh-high boots",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"リゼロ/エミリア\""
   },
   "シュナ着物": {
     "girlBaseClothes": "japanese style clothes",
