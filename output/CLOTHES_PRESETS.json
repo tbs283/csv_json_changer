@@ -2508,6 +2508,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"リゼロ/カーミラ\""
   },
+  "リゼロ/カーミラ(マフラーのみ)": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "green scarf",
+    "girlBottom": "",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": "\"リゼロ/カーミラ\""
+  },
   "リゼロ/エミリア": {
     "girlBaseClothes": "white clothes with purple accents",
     "girlHead": "flower hair ornament",

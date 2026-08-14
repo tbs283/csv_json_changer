@@ -2466,6 +2466,15 @@
         "defaultHairStyle": "レム",
         "title": "re:zero kara hajimeru isekai seikatsu"
     },
+    "リゼロ/ラム": {
+        "prompt": "ram (re:zero), re:zero kara hajimeru isekai seikatsu,",
+        "tag": [
+            "リゼロ"
+        ],
+        "defaultClothes": "リゼロ/レム",
+        "defaultHairStyle": "レム",
+        "title": "re:zero kara hajimeru isekai seikatsu"
+    },
     "リゼロ/エミリア": {
         "prompt": "emilia (anime), re:zero kara hajimeru isekai seikatsu,",
         "tag": [
