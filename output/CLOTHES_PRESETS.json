@@ -467,6 +467,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": ""
   },
+  "白いワンピース": {
+    "girlBaseClothes": "white one-piece dress",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
   "toloveる制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
