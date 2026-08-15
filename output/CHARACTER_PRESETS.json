@@ -3743,6 +3743,24 @@
         "defaultHairStyle": "",
         "title": "prisma illya"
     },
+    "田中くんはいつもけだるげ/白石さん": {
+        "prompt": "shiraishi (tanakeda), tanaka-kun wa itsumo kedaruge, ",
+        "tag": [
+            "田中くんはいつもけだるげ", "たなけだ"
+        ],
+        "defaultClothes": "田中くんはいつもけだるげ/白石さん",
+        "defaultHairStyle": "",
+        "title": "tanaka-kun wa itsumo kedaruge"
+    },
+    "田中くんはいつもけだるげ/宮野": {
+        "prompt": "miyano (tanakeda), tanaka-kun wa itsumo kedaruge, ",
+        "tag": [
+            "田中くんはいつもけだるげ", "たなけだ"
+        ],
+        "defaultClothes": "田中くんはいつもけだるげ/宮野",
+        "defaultHairStyle": "",
+        "title": "tanaka-kun wa itsumo kedaruge"
+    },
     "その着せ替え人形は恋をする/喜多川海夢": {
         "prompt": "kitagawa marin, sono bisque doll wa koi wo suru, ",
         "tag": [

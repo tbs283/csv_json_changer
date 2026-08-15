@@ -779,6 +779,45 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ラブプラス/高嶺愛花\",\"ラブプラス/姉ヶ崎寧々\""
   },
+  "田中くんはいつもけだるげ/白石さん": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "brown cardigan",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "green skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"田中くんはいつもけだるげ/白石さん\""
+  },
+  "田中くんはいつもけだるげ/白石さん(眼鏡)": {
+    "girlBaseClothes": "",
+    "girlHead": "glasses",
+    "girlOuter": "brown cardigan",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "green skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"田中くんはいつもけだるげ/白石さん\""
+  },
+  "田中くんはいつもけだるげ/宮野": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "beige cardigan",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "green skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"田中くんはいつもけだるげ/宮野\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
