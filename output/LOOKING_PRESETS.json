@@ -5,5 +5,8 @@
   "4": { "title": "ちら見", "prompt": "glance" },
   "5": { "title": "視線を逸らす", "prompt": "looking away,averting eyes" },
   "6": { "title": "ahead", "prompt": "looking ahead" },
+  "7": { "title": "上目遣い", "prompt": "upward gaze,looking at viewer" },
+  "8": { "title": "相手", "prompt": "looking another" },
+  "9": { "title": "見下ろし", "prompt": "looking down" },
   "100": { "title": "無し", "prompt": "" }
 }
