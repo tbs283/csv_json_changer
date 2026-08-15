@@ -3971,6 +3971,24 @@
         "defaultHairStyle": "ゴブスレ/剣の乙女",
         "title": "goblin slayer"
     },
+    "骸骨騎士様/アリアン": {
+        "prompt": "ariane glenys maple, gaikotsu kishi-sama tadaima isekai e o dekake-chuu,",
+        "tag": [
+            "骸骨騎士様"
+        ],
+        "defaultClothes": "骸骨騎士様/アリアン",
+        "defaultHairStyle": "骸骨騎士様/アリアン",
+        "title": "gaikotsu kishi-sama tadaima isekai e o dekake-chuu"
+    },
+    "骸骨騎士様/チヨメ": {
+        "prompt": "chiyome (gaikotsu kishi-sama tadaima isekai e o dekake-chuu),",
+        "tag": [
+            "骸骨騎士様"
+        ],
+        "defaultClothes": "骸骨騎士様/チヨメ",
+        "defaultHairStyle": "骸骨騎士様/チヨメ",
+        "title": "gaikotsu kishi-sama tadaima isekai e o dekake-chuu"
+    },
     "防振り/メイプル": {
         "prompt": "maple (bofuri), itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu,",
         "tag": [

@@ -3261,5 +3261,18 @@
     "clothesTopStatus": "7",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ゴブスレ/剣の乙女\""
+  },
+  "骸骨騎士様/アリアン": {
+    "girlBaseClothes": "scarlet and black clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "coller, sleeves",
+    "girlBottom": "purple skirt,thigh-high socks",
+    "girlUnder": "thigh-high socks",
+    "panties": "white panties",
+    "bra": "",
+    "clothesTopStatus": "7",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"骸骨騎士様/アリアン\""
   }
 }
