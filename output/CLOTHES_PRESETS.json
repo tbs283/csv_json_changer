@@ -3274,5 +3274,83 @@
     "clothesTopStatus": "7",
     "clothesBottomStatus": "0",
     "characterOnly": "\"骸骨騎士様/アリアン\""
+  },
+  "骸骨騎士様/チヨメ": {
+    "girlBaseClothes": "blue clothes,armor",
+    "girlHead": "forehead",
+    "girlOuter": "",
+    "girlTop": "crimson scarf,crimson obi",
+    "girlBottom": "pants",
+    "girlUnder": "boots",
+    "panties": "fundoshi",
+    "bra": "sarashi",
+    "clothesTopStatus": "3",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"骸骨騎士様/チヨメ\""
+  },
+  "灰と幻想のグリムガル/メリイ": {
+    "girlBaseClothes": "white clothes with blue lines",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "groves",
+    "girlBottom": "white skirt,black tights",
+    "girlUnder": "black tights, boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "3",
+    "characterOnly": "\"灰と幻想のグリムガル/メリイ\""
+  },
+  "灰と幻想のグリムガル/ユメ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "cremson cape",
+    "girlTop": "white tops,groves",
+    "girlBottom": "black pants,thigh-high socks",
+    "girlUnder": "pink thigh-high socks,boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"灰と幻想のグリムガル/ユメ\""
+  },
+  "灰と幻想のグリムガル/シホル": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "cape",
+    "girlTop": "black tops,long groves",
+    "girlBottom": "pink pants",
+    "girlUnder": "black long boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"灰と幻想のグリムガル/シホル\""
+  },
+  "灰と幻想のグリムガル/シホル(帽子あり)": {
+    "girlBaseClothes": "witch hat",
+    "girlHead": "",
+    "girlOuter": "cape",
+    "girlTop": "black tops,long groves",
+    "girlBottom": "pink pants",
+    "girlUnder": "black long boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"灰と幻想のグリムガル/シホル\""
+  },
+  "灰と幻想のグリムガル/シホル(マントのみ)": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "",
+    "girlOuter": "cape",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "black long boots",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"灰と幻想のグリムガル/シホル\""
   }
 }

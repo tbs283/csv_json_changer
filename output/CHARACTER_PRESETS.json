@@ -3989,6 +3989,33 @@
         "defaultHairStyle": "骸骨騎士様/チヨメ",
         "title": "gaikotsu kishi-sama tadaima isekai e o dekake-chuu"
     },
+    "灰と幻想のグリムガル/メリイ": {
+        "prompt": "merry (grimgar),hai to gensou no grimgar, ",
+        "tag": [
+            "灰と幻想のグリムガル"
+        ],
+        "defaultClothes": "灰と幻想のグリムガル/メリイ",
+        "defaultHairStyle": "",
+        "title": "hai to gensou no grimgar"
+    },
+    "灰と幻想のグリムガル/ユメ": {
+        "prompt": "yume (grimgar), hai to gensou no grimgar, ",
+        "tag": [
+            "灰と幻想のグリムガル"
+        ],
+        "defaultClothes": "灰と幻想のグリムガル/ユメ",
+        "defaultHairStyle": "",
+        "title": "hai to gensou no grimgar"
+    },
+    "灰と幻想のグリムガル/シホル": {
+        "prompt": "shihoru (grimgar), hai to gensou no grimgar, ",
+        "tag": [
+            "灰と幻想のグリムガル"
+        ],
+        "defaultClothes": "灰と幻想のグリムガル/シホル",
+        "defaultHairStyle": "",
+        "title": "hai to gensou no grimgar"
+    },
     "防振り/メイプル": {
         "prompt": "maple (bofuri), itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu,",
         "tag": [
