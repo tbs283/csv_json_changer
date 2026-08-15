@@ -54,5 +54,13 @@
   "サドネ": {
     "prompt": "red ribbon,gold line along the edge of the ribbon,ahoge",
     "characterOnly": "\"バトルガールハイスクール/サドネ\""
+  },
+  "ゴブスレ/女神官": {
+    "prompt": "white hat",
+    "characterOnly": "\"ゴブスレ/女神官\""
+  },
+  "ゴブスレ/剣の乙女": {
+    "prompt": "white veil",
+    "characterOnly": "\"ゴブスレ/剣の乙女\""
   }
 }

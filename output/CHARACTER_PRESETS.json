@@ -3931,8 +3931,8 @@
         "tag": [
             "ゴブリンスレイヤー", "ゴブスレ"
         ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultClothes": "ゴブスレ/女神官",
+        "defaultHairStyle": "ゴブスレ/女神官",
         "title": "goblin slayer"
     },
     "ゴブスレ/牛飼い娘": {
@@ -3940,17 +3940,35 @@
         "tag": [
             "ゴブリンスレイヤー", "ゴブスレ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ゴブスレ/牛飼い娘",
+        "defaultHairStyle": "",
+        "title": "goblin slayer"
+    },
+    "ゴブスレ/受付嬢": {
+        "prompt": "guild girl (goblin slayer!), goblin slayer,",
+        "tag": [
+            "ゴブリンスレイヤー", "ゴブスレ"
+        ],
+        "defaultClothes": "ゴブスレ/受付嬢",
         "defaultHairStyle": "",
         "title": "goblin slayer"
     },
     "ゴブスレ/ハイエルフ射手": {
-        "prompt": "high elf archer (goblin slayer!), goblin slayer, goblin slayer,",
+        "prompt": "high elf archer (goblin slayer!), goblin slayer,",
         "tag": [
             "ゴブリンスレイヤー", "ゴブスレ"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ゴブスレ/ハイエルフ射手",
         "defaultHairStyle": "",
+        "title": "goblin slayer"
+    },
+    "ゴブスレ/剣の乙女": {
+        "prompt": "sword maiden, goblin slayer,",
+        "tag": [
+            "ゴブリンスレイヤー", "ゴブスレ"
+        ],
+        "defaultClothes": "ゴブスレ/剣の乙女",
+        "defaultHairStyle": "ゴブスレ/剣の乙女",
         "title": "goblin slayer"
     },
     "防振り/メイプル": {
