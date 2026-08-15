@@ -75,6 +75,43 @@
       "seed_id": "159"
     },
     {
+      "title": "疲労困憊(四つん這い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "main subject girl",
+        "composition": "dutch-angle,close-up, portrait, full body shot, ass focus, from behind",
+        "play": "girl,solo",
+        "girlLooking": "",
+        "girlAction": "all fours,leaning forward, one hand on wall, leaning against wall, body weight supported by arm, slouched posture, head lowered, exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "87",
+      "seed_id": ""
+    },
+    {
       "title": "疲労困憊(尻)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -41046,6 +41083,43 @@
       "seed_id": "159"
     },
     {
+      "title": "疲労困憊(四つん這い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "main subject girl",
+        "composition": "dutch-angle,close-up, portrait, full body shot, ass focus, from behind",
+        "play": "girl,solo",
+        "girlLooking": "",
+        "girlAction": "all fours,leaning forward, one hand on rock, leaning against rock, body weight supported by arm, slouched posture, head lowered, exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background, cave,dark,dungeon",
+        "bgWall": "rock wall",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "87",
+      "seed_id": ""
+    },
+    {
       "title": "疲労困憊(尻)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -48004,6 +48078,43 @@
       "seed_id": "159"
     },
     {
+      "title": "疲労困憊(四つん這い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "main subject girl",
+        "composition": "dutch-angle,close-up, portrait, full body shot, ass focus, from behind",
+        "play": "girl,solo",
+        "girlLooking": "",
+        "girlAction": "all fours,leaning forward, one hand on tree, leaning against tree, body weight supported by arm, slouched posture, head lowered, exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background, dark forest,night",
+        "bgWall": "misty night air",
+        "bgGround": "overgrown underbrush, uneven forest floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "87",
+      "seed_id": ""
+    },
+    {
       "title": "疲労困憊(尻)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -54960,6 +55071,43 @@
       "縦横比": "",
       "clothesFlg": "87",
       "seed_id": "159"
+    },
+    {
+      "title": "疲労困憊(四つん這い)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "main subject girl",
+        "composition": "dutch-angle,close-up, portrait, full body shot, ass focus, from behind",
+        "play": "girl,solo",
+        "girlLooking": "",
+        "girlAction": "all fours,leaning forward, one hand on wall, leaning against wall, body weight supported by arm, slouched posture, head lowered, exhausted, heavy breathing, tired eyes, sweat, worn out, fatigue,",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background, back alley,night",
+        "bgWall": "misty night air",
+        "bgGround": "tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "87",
+      "seed_id": ""
     },
     {
       "title": "疲労困憊(尻)",
