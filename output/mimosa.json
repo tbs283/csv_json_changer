@@ -4145,7 +4145,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the floor, lying on side on the floor",
+        "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -4189,9 +4226,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the floor, lying on side on the floor",
+        "girlAction": "facing back, leg up, the head on the floor, lying on side on the floor",
         "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
@@ -4202,7 +4239,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -4219,7 +4256,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -5514,7 +5551,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -5538,7 +5575,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -7337,6 +7374,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the floor,grabbing another's body,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the floor,covering own mouth,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
+        "bgWall": "",
+        "bgGround": "debris on the floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the floor,covering own mouth,screaming",
         "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, ruins, dark,abandoned building, decayed structure,dusty atmosphere, cracked concrete",
@@ -11177,7 +11288,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the sheets, lying on side on the sheets",
+        "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background",
+        "bgWall": "pink wall,bare room",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,grabbing sheets, the head on the sheets, lying on side on the sheets, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -11221,9 +11369,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the sheets, lying on side on the sheets",
+        "girlAction": "facing back, leg up, the head on the sheets, lying on side on the sheets",
         "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
@@ -11234,7 +11382,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing sheets, the head on the sheets, lying on side on the sheets, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,grabbing sheets, the head on the sheets, lying on side on the sheets, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -11251,7 +11399,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -12546,7 +12694,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -12570,7 +12718,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -14369,6 +14517,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the sheets,grabbing another's body,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background",
+        "bgWall": "pink wall,bare room",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the sheets,covering own mouth,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background",
+        "bgWall": "pink wall,bare room",
+        "bgGround": "pink sheets,pink pillow",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the sheets,covering own mouth,screaming",
         "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
@@ -18394,7 +18616,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the sand, lying on side on the sand",
+        "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, beach",
+        "bgWall": "blue sky",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the sand, the head on the sand, lying on side on the sand, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -18438,9 +18697,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the sand, lying on side on the sand",
+        "girlAction": "facing back, leg up, the head on the sand, lying on side on the sand",
         "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, beach",
@@ -18451,7 +18710,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the sand, the head on the sand, lying on side on the sand, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the sand, the head on the sand, lying on side on the sand, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -18468,7 +18727,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -19763,7 +20022,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -19787,7 +20046,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -21586,6 +21845,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the sand,grabbing another's body,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, beach",
+        "bgWall": "blue sky",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the sand,covering own mouth,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, beach",
+        "bgWall": "blue sky",
+        "bgGround": "bright sand",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the sand,covering own mouth,screaming",
         "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, beach",
@@ -26277,7 +26610,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the floor, lying on side on the floor",
+        "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, outdoor, poolside,wet skin",
+        "bgWall": "white wall",
+        "bgGround": "blue tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -26321,9 +26691,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the floor, lying on side on the floor",
+        "girlAction": "facing back, leg up, the head on the floor, lying on side on the floor",
         "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, outdoor, poolside,wet skin",
@@ -26334,7 +26704,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -26351,7 +26721,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -27276,7 +27646,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -27300,7 +27670,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -28729,6 +29099,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the floor,grabbing another's body,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, outdoor, poolside,wet skin",
+        "bgWall": "white wall",
+        "bgGround": "blue tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the floor,covering own mouth,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, outdoor, poolside,wet skin",
+        "bgWall": "white wall",
+        "bgGround": "blue tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the floor,covering own mouth,screaming",
         "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, outdoor, poolside,wet skin",
@@ -32680,7 +33124,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the floor, lying on side on the floor",
+        "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgGround": "hot spring poolside,stone floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -32724,9 +33205,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the floor, lying on side on the floor",
+        "girlAction": "facing back, leg up, the head on the floor, lying on side on the floor",
         "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
@@ -32737,7 +33218,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -32754,7 +33235,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34049,7 +34530,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -34073,7 +34554,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -35872,6 +36353,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the floor,grabbing another's body,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgGround": "hot spring poolside,stone floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the floor,covering own mouth,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
+        "bgWall": "moon light,rising warm steam, surrounding autumn foliage, red and orange maple leaves,soft moonlight illuminating the scene",
+        "bgGround": "hot spring poolside,stone floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the floor,covering own mouth,screaming",
         "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, outdoor,onsen, natural hot spring pool,smooth stone bath edges,surrounding autumn foliage,night",
@@ -39897,7 +40452,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the ground, lying on side on the ground",
+        "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -39941,9 +40533,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the ground, lying on side on the ground",
+        "girlAction": "facing back, leg up, the head on the ground, lying on side on the ground",
         "male": "completely nude man,faceless man,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
@@ -39954,7 +40546,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -39971,7 +40563,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -41266,7 +41858,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -41290,7 +41882,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -43089,6 +43681,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the ground,grabbing another's body,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the ground,covering own mouth,screaming",
+        "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the ground,covering own mouth,screaming",
         "male": "completely nude man,faceless man,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
@@ -47262,7 +47928,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the ground, lying on side on the ground",
+        "male": "goblin,green body,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, cave,dark,dungeon",
+        "bgWall": "rock wall",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -47306,9 +48009,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the ground, lying on side on the ground",
+        "girlAction": "facing back, leg up, the head on the ground, lying on side on the ground",
         "male": "goblin,green body,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, cave,dark,dungeon",
@@ -47319,7 +48022,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -47336,7 +48039,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -48631,7 +49334,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -48655,7 +49358,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -50454,6 +51157,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the ground,grabbing another's body,screaming",
+        "male": "goblin,green body,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, cave,dark,dungeon",
+        "bgWall": "rock wall",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the ground,covering own mouth,screaming",
+        "male": "goblin,green body,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, cave,dark,dungeon",
+        "bgWall": "rock wall",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the ground,covering own mouth,screaming",
         "male": "goblin,green body,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, cave,dark,dungeon",
@@ -54627,7 +55404,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the ground, lying on side on the ground",
+        "male": "orc,brown body hair,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, dark forest,night",
+        "bgWall": "misty night air",
+        "bgGround": "overgrown underbrush, uneven forest floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -54671,9 +55485,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the ground, lying on side on the ground",
+        "girlAction": "facing back, leg up, the head on the ground, lying on side on the ground",
         "male": "orc,brown body hair,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, dark forest,night",
@@ -54684,7 +55498,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the ground, the head on the ground, lying on side on the ground, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -54701,7 +55515,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -55996,7 +56810,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -56020,7 +56834,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -57819,6 +58633,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the ground,grabbing another's body,screaming",
+        "male": "orc,brown body hair,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, dark forest,night",
+        "bgWall": "misty night air",
+        "bgGround": "overgrown underbrush, uneven forest floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the ground,covering own mouth,screaming",
+        "male": "orc,brown body hair,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, dark forest,night",
+        "bgWall": "misty night air",
+        "bgGround": "overgrown underbrush, uneven forest floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the ground,covering own mouth,screaming",
         "male": "orc,brown body hair,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, dark forest,night",
@@ -61992,7 +62880,44 @@
       "seed_id": "104"
     },
     {
-      "title": "側位",
+      "title": "側位(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "nipples",
+        "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus",
+        "play": "spooning,",
+        "girlLooking": "1",
+        "girlAction": "legs together, the head on the floor, lying on side on the floor",
+        "male": "goblin,green body,man out of frame, penetrating,grabbing breast,cropped head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, back alley,night",
+        "bgWall": "misty night air",
+        "bgGround": "tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "struggle,nipples, legs together,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing viewer",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "104"
+    },
+    {
+      "title": "側位(開脚)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -62036,9 +62961,9 @@
         "motionFlg": "1",
         "girl": "nipples",
         "composition": "crotch focus,dynamic diagonal composition, girl fills frame,close-up,man partially visible,dutch-angle,from front,breast focus,feet out of frame",
-        "play": "spooning,",
+        "play": "spooning,french kiss",
         "girlLooking": "8",
-        "girlAction": "leg up, the head on the floor, lying on side on the floor",
+        "girlAction": "facing back, leg up, the head on the floor, lying on side on the floor",
         "male": "goblin,green body,man out of frame, penetrating,grabbing leg,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, back alley,night",
@@ -62049,7 +62974,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming, facing another",
+        "girlAction": "struggle,nipples, leg up,arms in front of chest,hands on the floor, the head on the floor, lying on side on the floor, screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無理矢理(怯え)",
@@ -62066,7 +62991,7 @@
       "seed_id": "106"
     },
     {
-      "title": "側位",
+      "title": "側位(事後)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -63361,7 +64286,7 @@
       "seed_id": "139"
     },
     {
-      "title": "側位事後",
+      "title": "寝バック事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -63385,7 +64310,7 @@
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesTopStatus": "",
         "clothesBottomStatus": "pulled up skirt",
         "girlTop": "",
         "girlBottom": "",
@@ -65184,6 +66109,80 @@
         "play": "1 girl,cunnilingus",
         "girlLooking": "8",
         "girlAction": "lying on back on the floor,grabbing another's body,screaming",
+        "male": "goblin,green body,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, back alley,night",
+        "bgWall": "misty night air",
+        "bgGround": "tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/口に手を当てる)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "facing away,lying on back on the floor,covering own mouth,screaming",
+        "male": "goblin,green body,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, back alley,night",
+        "bgWall": "misty night air",
+        "bgGround": "tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,blush,struggling, resisting, trying to break free, defensive posture, pushing away, trying to pull away, fighting back, resisting restraint,",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "127",
+      "seed_id": "357"
+    },
+    {
+      "title": "押し倒し(クンニ/顔を背ける)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "pussy, leaning back,m legs,feet out of frame",
+        "composition": "dutch-angle,lower body shot,from below,crotch focus,",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "8",
+        "girlAction": "turning to the side,facing away,lying on back on the floor,covering own mouth,screaming",
         "male": "goblin,green body,bald head,no hair, licking pussy,grabbing thigh,back shot,in front of the girl",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, back alley,night",
