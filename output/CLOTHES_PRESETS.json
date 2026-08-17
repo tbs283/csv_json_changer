@@ -3404,5 +3404,18 @@
     "clothesTopStatus": "2",
     "clothesBottomStatus": "2",
     "characterOnly": "\"灰と幻想のグリムガル/シホル\""
+  },
+  "ライザのアトリエ/ライザ": {
+    "girlBaseClothes": "",
+    "girlHead": "hat,black ribbon",
+    "girlOuter": "yellow hoodie outer",
+    "girlTop": "beige tops",
+    "girlBottom": "red pants",
+    "girlUnder": "thigh-high boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"ライザのアトリエ/ライザ\""
   }
 }
