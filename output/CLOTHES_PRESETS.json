@@ -3417,5 +3417,18 @@
     "clothesTopStatus": "6",
     "clothesBottomStatus": "4",
     "characterOnly": "\"ライザのアトリエ/ライザ\""
+  },
+  "ポケモン/セレナ(アニメ)": {
+    "girlBaseClothes": "pink one-piece dress",
+    "girlHead": "",
+    "girlOuter": "red outer",
+    "girlTop": "black inner, no-sleeves",
+    "girlBottom": "black thigh-high socks",
+    "girlUnder": "black thigh-high socks,brown boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ポケモン/セレナ(アニメ)\""
   }
 }

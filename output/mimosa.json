@@ -21944,6 +21944,43 @@
       "縦横比": "",
       "clothesFlg": "127",
       "seed_id": "357"
+    },
+    {
+      "title": "触手(上半身)(両手上げ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "main subject girl",
+        "composition": "upper body, focus on face, from front",
+        "play": "1 girl, solo,",
+        "girlLooking": "1",
+        "girlAction": "surprised,blush,tears,sad,crying,sweatdrop,  arms together,rising both arms,body suspended in midair,",
+        "male": "tentacles,tentacles around the breast,over the clothes, hold up the girl,",
+        "r18": "",
+        "bgBase": "blurred background, beach",
+        "bgWall": "blue sky",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "362"
     }
   ],
   "学校のプール": [
