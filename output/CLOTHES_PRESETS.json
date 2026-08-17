@@ -2599,6 +2599,19 @@
     "clothesBottomStatus": "10",
     "characterOnly": "\"転スラ/シュナ\""
   },
+  "転スラ/クロエ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "black cape",
+    "girlTop": "pink tops, white groves",
+    "girlBottom": "pink skirt,red belt",
+    "girlUnder": "socks,boots",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"転スラ/クロエ\""
+  },
   "ミカ制服": {
     "girlBaseClothes": "white school uniform",
     "girlHead": "",
