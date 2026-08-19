@@ -3430,5 +3430,18 @@
     "clothesTopStatus": "4",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ポケモン/セレナ(アニメ)\""
+  },
+  "ハチナイ/宇喜多茜": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "hoodie with cat ear",
+    "girlOuter": "orange outer",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": "\"ハチナイ/宇喜多茜\""
   }
 }
