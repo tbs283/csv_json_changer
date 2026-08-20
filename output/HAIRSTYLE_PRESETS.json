@@ -23,6 +23,10 @@
     "prompt": "ponytail",
     "characterOnly": ""
   },
+  "ごちうさ/メグ": {
+    "prompt": "low twintails,pink scrunchie",
+    "characterOnly": "\"ごちうさ/メグ\""
+  },
   "レム": {
     "prompt": "head dress",
     "characterOnly": "\"リゼロ/レム\""
