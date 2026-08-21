@@ -3214,6 +3214,51 @@
         "defaultHairStyle": "ツーサイドアップ",
         "title": "suzumiya haruhi no yuuutsu"
     },
+    "ロウきゅーぶ/湊智花": {
+        "prompt": "minato tomoka, rou-kyuu-bu!, ",
+        "tag": [
+            "ロウきゅーぶ"
+        ],
+        "defaultClothes": "ロウきゅーぶ/湊智花",
+        "defaultHairStyle": "",
+        "title": "rou-kyuu-bu!"
+    },
+    "ロウきゅーぶ/三沢真帆": {
+        "prompt": "misawa maho, rou-kyuu-bu!, ",
+        "tag": [
+            "ロウきゅーぶ"
+        ],
+        "defaultClothes": "ロウきゅーぶ/三沢真帆",
+        "defaultHairStyle": "",
+        "title": "rou-kyuu-bu!"
+    },
+    "ロウきゅーぶ/永塚紗季": {
+        "prompt": "nagatsuka saki, rou-kyuu-bu!, ",
+        "tag": [
+            "ロウきゅーぶ"
+        ],
+        "defaultClothes": "ロウきゅーぶ/永塚紗季",
+        "defaultHairStyle": "",
+        "title": "rou-kyuu-bu!"
+    },
+    "ロウきゅーぶ/香椎愛莉": {
+        "prompt": "kashii airi, rou-kyuu-bu!, ",
+        "tag": [
+            "ロウきゅーぶ"
+        ],
+        "defaultClothes": "ロウきゅーぶ/香椎愛莉",
+        "defaultHairStyle": "",
+        "title": "rou-kyuu-bu!"
+    },
+    "ロウきゅーぶ/袴田ひなた": {
+        "prompt": "hakamada hinata, rou-kyuu-bu!, ",
+        "tag": [
+            "ロウきゅーぶ"
+        ],
+        "defaultClothes": "ロウきゅーぶ/袴田ひなた",
+        "defaultHairStyle": "",
+        "title": "rou-kyuu-bu!"
+    },
     "俺の妹がこんなに可愛いわけがない/新垣あやせ": {
         "prompt": "aragaki ayase (anime), ore no imouto ga konna ni kawaii wake ga nai,",
         "tag": [

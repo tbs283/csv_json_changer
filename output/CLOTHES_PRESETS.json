@@ -441,6 +441,19 @@
     "clothesBottomStatus": "3",
     "characterOnly": ""
   },
+  "スパッツ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white short-sleeved gym shirt with red collar and sleeve bands,",
+    "girlBottom": "spats",
+    "girlUnder": "shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "3",
+    "characterOnly": ""
+  },
   "セーラー服白": {
     "girlBaseClothes": "white sailor uniform",
     "girlHead": "",
