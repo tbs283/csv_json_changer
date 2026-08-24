@@ -441,19 +441,6 @@
     "clothesBottomStatus": "3",
     "characterOnly": ""
   },
-  "スパッツ": {
-    "girlBaseClothes": "",
-    "girlHead": "",
-    "girlOuter": "",
-    "girlTop": "white short-sleeved gym shirt with red collar and sleeve bands,",
-    "girlBottom": "spats",
-    "girlUnder": "shoes",
-    "panties": "white panties",
-    "bra": "white bra",
-    "clothesTopStatus": "6",
-    "clothesBottomStatus": "3",
-    "characterOnly": ""
-  },
   "セーラー服白": {
     "girlBaseClothes": "white sailor uniform",
     "girlHead": "",
@@ -506,9 +493,9 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"トラブル/モモ\",\"トラブル/ナナ\",\"トラブル/ララ\",\"トラブル/ヤミ\""
   },
-  "クローム制服": {
+  "リボーン/クローム": {
     "girlBaseClothes": "",
-    "girlHead": "eye patch",
+    "girlHead": "",
     "girlOuter": "",
     "girlTop": "school uniform,green clothes:tops",
     "girlBottom": "green skirt,black belt:skirt",

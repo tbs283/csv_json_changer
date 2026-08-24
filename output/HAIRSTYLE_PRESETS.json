@@ -27,6 +27,10 @@
     "prompt": "low twintails,pink scrunchie",
     "characterOnly": "\"ごちうさ/メグ\""
   },
+  "リボーン/クローム": {
+    "prompt": "eye patch",
+    "characterOnly": "\"リボーン/クローム\""
+  },
   "レム": {
     "prompt": "head dress",
     "characterOnly": "\"リゼロ/レム\""
