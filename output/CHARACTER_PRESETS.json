@@ -3779,6 +3779,33 @@
         "defaultHairStyle": "",
         "title": "kuroiwa medaka ni watashi no kawaii ga todomari sugite tsurai"
     },
+    "ハヤテのごとく！/桂ヒナギク": {
+        "prompt": "katsura hinagiku (anime), hayate no gotoku!,",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hayate no gotoku!"
+    },
+    "ハヤテのごとく！/マリア": {
+        "prompt": "maria (hayate no gotoku!), hayate no gotoku!,",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hayate no gotoku!"
+    },
+    "ハヤテのごとく！/三千院ナギ": {
+        "prompt": "sanzenin nagi (anime), hayate no gotoku!,",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "hayate no gotoku!"
+    },
     "プリヤ/美遊": {
         "prompt": "miyu edelfelt, prisma illya, ",
         "tag": [
