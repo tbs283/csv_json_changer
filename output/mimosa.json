@@ -80448,7 +80448,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, smile, facing up",
+        "girlAction": "sweat, embarrassed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80485,7 +80485,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, smile, facing up",
+        "girlAction": "sweat, embarrassed,  facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80522,7 +80522,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat",
+        "girlAction": "sweat embarrassed,",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80585,7 +80585,7 @@
         "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,cowboy shot,from side,side view",
         "play": "1 girl, oily body",
         "girlLooking": "100",
-        "girlAction": "lying on back on the bed, head on the pillow,relaxed, eyes closed, stretching, comfortable, resting,leg up",
+        "girlAction": "lying on back on the bed, head on the pillow,relaxed, eyes closed, comfortable, resting,leg up",
         "male": "esthetician,faceless man,white clothes,white tops,white pants,grabbing leg,holding up leg,kneeling",
         "r18": "",
         "bgBase": "blurred background, in massage parlor",
@@ -80622,7 +80622,7 @@
         "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,cowboy shot,from side,side view",
         "play": "1 girl, oily body",
         "girlLooking": "100",
-        "girlAction": "lying on side on the bed, head on the pillow,relaxed, eyes closed, stretching, comfortable, resting,leg up",
+        "girlAction": "lying on side on the bed, head on the pillow,relaxed, eyes closed, comfortable, resting,leg up",
         "male": "esthetician,faceless man,white clothes,white tops,white pants,grabbing leg,holding up leg,kneeling",
         "r18": "",
         "bgBase": "blurred background, in massage parlor",
