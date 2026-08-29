@@ -4862,6 +4862,33 @@
         "defaultHairStyle": "",
         "title": "k-on!"
     },
+    "甘城ブリリアントパーク/ラティファ": {
+        "prompt": "latifa fleuranza, amagi brilliant park,",
+        "tag": [
+            "甘城ブリリアントパーク"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "amagi brilliant park"
+    },
+    "甘城ブリリアントパーク/千斗いすず": {
+        "prompt": "sento isuzu, amagi brilliant park,",
+        "tag": [
+            "甘城ブリリアントパーク"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "amagi brilliant park"
+    },
+    "甘城ブリリアントパーク/ミュース": {
+        "prompt": "muse (amaburi), amagi brilliant park,",
+        "tag": [
+            "甘城ブリリアントパーク"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "amagi brilliant park"
+    },
     "/": {
         "prompt": "",
         "tag": [
