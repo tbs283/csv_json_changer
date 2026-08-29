@@ -4826,6 +4826,42 @@
         "defaultHairStyle": "",
         "title": "love plus"
     },
+    "けいおん！/平沢憂": {
+        "prompt": "hirasawa ui (anime), k-on!,",
+        "tag": [
+            "けいおん！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "k-on!"
+    },
+    "けいおん！/中野梓": {
+        "prompt": "nakano azusa (anime), k-on!,",
+        "tag": [
+            "けいおん！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "k-on!"
+    },
+    "けいおん！/平沢唯": {
+        "prompt": "hirasawa yui (anime), k-on!,",
+        "tag": [
+            "けいおん！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "k-on!"
+    },
+    "けいおん！/秋山澪": {
+        "prompt": "akiyama mio (anime), k-on!,",
+        "tag": [
+            "けいおん！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "k-on!"
+    },
     "/": {
         "prompt": "",
         "tag": [
