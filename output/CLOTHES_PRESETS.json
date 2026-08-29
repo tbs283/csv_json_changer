@@ -493,6 +493,19 @@
     "clothesBottomStatus": "",
     "characterOnly": ""
   },
+  "紙下着": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "black paper bra",
+    "girlBottom": "black paper panties",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
   "toloveる制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
