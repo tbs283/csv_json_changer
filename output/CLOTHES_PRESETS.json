@@ -103,6 +103,19 @@
     "clothesBottomStatus": "2",
     "characterOnly": ""
   },
+  "温泉(アクセサリあり)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white bath towel wrapped around body, secure towel fit,wet body",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": ""
+  },
   "温泉(お団子頭)": {
     "girlBaseClothes": "",
     "girlHead": "hair accessory",
