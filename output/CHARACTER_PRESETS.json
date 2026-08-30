@@ -2346,7 +2346,7 @@
         "title": "gochuumon wa usagi desu ka?"
     },
     "ぼざろ/ぼっちちゃん": {
-        "prompt": "",
+        "prompt": "gotou hitori, bocchi the rock!,",
         "tag": [
             "ぼざろ",
             "ボッチザロック"
@@ -2356,7 +2356,7 @@
         "title": "bocchi the rock!"
     },
     "ぼざろ/喜多ちゃん": {
-        "prompt": "",
+        "prompt": "kita ikuyo, bocchi the rock!,",
         "tag": [
             "ぼざろ",
             "ボッチザロック"
@@ -2366,12 +2366,22 @@
         "title": "bocchi the rock!"
     },
     "ぼざろ/虹香ちゃん": {
-        "prompt": "ijichi nijika (anime), bocchi the rock!,",
+        "prompt": "ijichi nijika, bocchi the rock!,",
         "tag": [
             "ぼざろ",
             "ボッチザロック"
         ],
         "defaultClothes": "虹香制服",
+        "defaultHairStyle": "",
+        "title": "bocchi the rock!"
+    },
+    "ぼざろ/ふたり": {
+        "prompt": "gotoh futari, bocchi the rock!,",
+        "tag": [
+            "ぼざろ",
+            "ボッチザロック"
+        ],
+        "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "bocchi the rock!"
     },
