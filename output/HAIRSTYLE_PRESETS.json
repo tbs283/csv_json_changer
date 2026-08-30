@@ -47,6 +47,10 @@
     "prompt": "hat,twintails,hair ribbon",
     "characterOnly": "\"ウマ娘/ヴィブロス\""
   },
+  "鬼滅の刃/胡蝶忍": {
+    "prompt": "butterfly hair ornament",
+    "characterOnly": "\"鬼滅の刃/胡蝶忍\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""
@@ -70,5 +74,9 @@
   "ゴブスレ/剣の乙女": {
     "prompt": "white veil",
     "characterOnly": "\"ゴブスレ/剣の乙女\""
+  },
+  "ウマ耳": {
+    "prompt": "horse ear",
+    "characterOnly": ""
   }
 }
