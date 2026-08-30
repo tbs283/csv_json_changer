@@ -3034,6 +3034,51 @@
         "defaultHairStyle": "",
         "title": "tokidoki bosotto roshia-go de dereru tonari no alya-san"
     },
+    "精霊幻想記/ラティーファ": {
+        "prompt": "latifa (anime), seirei gensouki,fox ear,fox tail,",
+        "tag": [
+            "精霊幻想記"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seirei gensouki"
+    },
+    "精霊幻想記/アイシア": {
+        "prompt": "aishia (anime), seirei gensouki,",
+        "tag": [
+            "精霊幻想記"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seirei gensouki"
+    },
+    "精霊幻想記/美春": {
+        "prompt": "ayase miharu (anime), seirei gensouki,",
+        "tag": [
+            "精霊幻想記"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seirei gensouki"
+    },
+    "精霊幻想記/リーゼロッテ": {
+        "prompt": "cretia liselotte, seirei gensouki,",
+        "tag": [
+            "精霊幻想記"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seirei gensouki"
+    },
+    "精霊幻想記/セリア": {
+        "prompt": "celia claire (anime), seirei gensouki,",
+        "tag": [
+            "精霊幻想記"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seirei gensouki"
+    },
     "俺ガイル/結衣": {
         "prompt": "yuigahama yui,yahari ore no seishun lovecome wa machigatteiru., ",
         "tag": [
@@ -3285,7 +3330,7 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "go-toubun no hanayome illustration"
+        "title": "to love-ru darkness"
     },
     "トラブル/ナナ": {
         "prompt": "nana asta deviluke, to love-ru darkness,tail",
@@ -3294,7 +3339,7 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "go-toubun no hanayome illustration"
+        "title": "to love-ru darkness"
     },
     "トラブル/ララ": {
         "prompt": "lala satalin deviluke, to love-ru darkness,tail",
@@ -3303,7 +3348,7 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "go-toubun no hanayome illustration"
+        "title": "to love-ru darkness"
     },
     "トラブル/ヤミ": {
         "prompt": "konjiki no yami (anime), to love-ru darkness,",
@@ -3321,7 +3366,43 @@
         ],
         "defaultClothes": "",
         "defaultHairStyle": "",
-        "title": "go-toubun no hanayome illustration"
+        "title": "to love-ru darkness"
+    },
+    "トラブル/古手川": {
+        "prompt": "kotegawa yui (anime), to love-ru darkness,",
+        "tag": [
+            "トラブル"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
+    },
+    "トラブル/メア": {
+        "prompt": "kurosaki mea (anime), to love-ru darkness,",
+        "tag": [
+            "トラブル"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
+    },
+    "トラブル/春奈": {
+        "prompt": "sairenji haruna (anime), to love-ru darkness,",
+        "tag": [
+            "トラブル"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
+    },
+    "トラブル/ティアーユ": {
+        "prompt": "tearju lunatique, to love-ru darkness,",
+        "tag": [
+            "トラブル"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "to love-ru darkness"
     },
     "リボーン/クローム": {
         "prompt": "dokuro chrome (anime), kateikyoushi hitman reborn!,",
@@ -3446,6 +3527,33 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "d.gray-man"
+    },
+    "逃げ上手の若君/雫": {
+        "prompt": "shizuku (nige jouzu no wakagimi), nige jouzu no wakagimi,",
+        "tag": [
+            "逃げ上手の若君"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "nige jouzu no wakagimi"
+    },
+    "アオのハコ/千夏": {
+        "prompt": "kano chinatsu, ao no hako,",
+        "tag": [
+            "アオのハコ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "ao no hako"
+    },
+    "アオのハコ/雛": {
+        "prompt": "chono hina, ao no hako,",
+        "tag": [
+            "アオのハコ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "ao no hako"
     },
     "ニセコイ/小野寺小咲": {
         "prompt": "onodera kosaki (anime),nisekoi,",
@@ -3881,6 +3989,69 @@
         "defaultClothes": "フェルン",
         "defaultHairStyle": "",
         "title": "sousou no frieren"
+    },
+    "葬送のフリーレン/カンネ": {
+        "prompt": "kanne (sousou no frieren), sousou no frieren,",
+        "tag": [
+            "葬送のフリーレン", "フリーレン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "sousou no frieren"
+    },
+    "葬送のフリーレン/ラヴィーネ": {
+        "prompt": "lawine (sousou no frieren), sousou no frieren,",
+        "tag": [
+            "葬送のフリーレン", "フリーレン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "sousou no frieren"
+    },
+    "葬送のフリーレン/エーレ": {
+        "prompt": "ehre (sousou no frieren), sousou no frieren,",
+        "tag": [
+            "葬送のフリーレン", "フリーレン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "sousou no frieren"
+    },
+    "葬送のフリーレン/リーニエ": {
+        "prompt": "linie (sousou no frieren), sousou no frieren,",
+        "tag": [
+            "葬送のフリーレン", "フリーレン"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "sousou no frieren"
+    },
+    "薬屋のひとりごと/玉葉妃": {
+        "prompt": "gyokuyou (kusuriya no hitorigoto), kusuriya no hitorigoto,",
+        "tag": [
+            "薬屋のひとりごと"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kusuriya no hitorigoto"
+    },
+    "薬屋のひとりごと/梨花妃": {
+        "prompt": "lihua (kusuriya no hitorigoto), kusuriya no hitorigoto,",
+        "tag": [
+            "薬屋のひとりごと"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kusuriya no hitorigoto"
+    },
+    "薬屋のひとりごと/里樹妃": {
+        "prompt": "lishu (kusuriya no hitorigoto), kusuriya no hitorigoto,",
+        "tag": [
+            "薬屋のひとりごと"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "kusuriya no hitorigoto"
     },
     "ユーフォ/高坂 麗奈": {
         "prompt": "kousaka reina (anime), hibike! euphonium, ",
@@ -4898,6 +5069,24 @@
         "defaultClothes": "",
         "defaultHairStyle": "",
         "title": "amagi brilliant park"
+    },
+    "パーティーから追放されたその治癒師 実は最強につき/ナルセーナ": {
+        "prompt": "narsena (anime), party kara tsuihousareta sono chiyushi jitsu wa saikyou ni tsuki,",
+        "tag": [
+            "パーティーから追放されたその治癒師 実は最強につき"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "party kara tsuihousareta sono chiyushi jitsu wa saikyou ni tsuki"
+    },
+    "終末何してますか/クトリ": {
+        "prompt": "chtholly nota seniorious, shuumatsu nani shitemasu ka?",
+        "tag": [
+            "終末何してますか"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "shuumatsu nani shitemasu ka?"
     },
     "/": {
         "prompt": "",
