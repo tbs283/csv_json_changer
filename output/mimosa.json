@@ -80559,7 +80559,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed",
+        "girlAction": "sweat, embarrassed,shamed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80818,7 +80818,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed",
+        "girlAction": "sweat, embarrassed,shamed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81299,7 +81299,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed",
+        "girlAction": "sweat,embarrassed,shamed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81336,7 +81336,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed",
+        "girlAction": "sweat,embarrassed,shamed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81373,7 +81373,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed",
+        "girlAction": "sweat,embarrassed,shamed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81521,7 +81521,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed",
+        "girlAction": "sweat,embarrassed,shamed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81558,7 +81558,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed",
+        "girlAction": "sweat,embarrassed,shamed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
