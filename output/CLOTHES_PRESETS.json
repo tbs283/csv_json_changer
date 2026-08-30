@@ -91,10 +91,10 @@
     "characterOnly": ""
   },
   "温泉": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "white bath towel wrapped around body, secure towel fit,wet body",
     "girlHead": "no accessory,less accessory",
     "girlOuter": "",
-    "girlTop": "white bath towel wrapped around body, secure towel fit,wet body",
+    "girlTop": "",
     "girlBottom": "",
     "girlUnder": "",
     "panties": "",
@@ -843,6 +843,32 @@
     "clothesTopStatus": "",
     "clothesBottomStatus": "",
     "characterOnly": "\"田中くんはいつもけだるげ/宮野\""
+  },
+  "アオのハコ/千夏": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "light blue blazer,yellow vest",
+    "girlTop": "white shirt",
+    "girlBottom": "sky blue skirt",
+    "girlUnder": "white socke,brown shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"アオのハコ/千夏\""
+  },
+  "\"アオのハコ/雛\"": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "light blue blazer",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "sky blue skirt",
+    "girlUnder": "white socke,brown shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"アオのハコ/千夏\""
   },
   "一花制服": {
     "girlBaseClothes": "",
