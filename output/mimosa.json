@@ -80485,7 +80485,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed, facing up",
+        "girlAction": "sweat, embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80522,7 +80522,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed,",
+        "girlAction": "sweat, embarrassed,shamed,",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80596,7 +80596,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed, facing up",
+        "girlAction": "sweat, embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80633,7 +80633,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed, facing up",
+        "girlAction": "sweat, embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80670,7 +80670,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed, facing up",
+        "girlAction": "sweat,embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80707,7 +80707,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,surprised, facing up",
+        "girlAction": "sweat,embarrassed,shamed,surprised, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80744,7 +80744,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed,  facing up",
+        "girlAction": "sweat, embarrassed,shamed,  facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80781,7 +80781,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed,",
+        "girlAction": "sweat, embarrassed,shamed,",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80855,7 +80855,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed, facing up",
+        "girlAction": "sweat, embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80892,7 +80892,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat, embarrassed, facing up",
+        "girlAction": "sweat, embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80929,7 +80929,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed, facing up",
+        "girlAction": "sweat,embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -80966,7 +80966,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,surprised, facing up",
+        "girlAction": "sweat,embarrassed,shamed,surprised, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81003,7 +81003,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,surprised, resisting,defensive posture, facing up",
+        "girlAction": "sweat,embarrassed,shamed,surprised, resisting,defensive posture, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81040,7 +81040,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed, facing up",
+        "girlAction": "sweat,embarrassed,shamed, facing up",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81077,7 +81077,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed, facing down",
+        "girlAction": "sweat,embarrassed,shamed, facing down",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81114,7 +81114,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed, facing down",
+        "girlAction": "sweat,embarrassed,shamed, facing down",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81151,7 +81151,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed, facing down",
+        "girlAction": "sweat,embarrassed,shamed, facing down",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81262,7 +81262,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,screaming, facing down",
+        "girlAction": "sweat,embarrassed,shamed,screaming, facing down",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81410,7 +81410,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,surprised",
+        "girlAction": "sweat,embarrassed,shamed,surprised",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81484,7 +81484,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,tears,covering own nipples",
+        "girlAction": "sweat,embarrassed,shamed,tears,covering own nipples",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81595,7 +81595,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,screaming",
+        "girlAction": "sweat,embarrassed,shamed,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81632,7 +81632,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,screaming",
+        "girlAction": "sweat,embarrassed,shamed,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81669,7 +81669,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,tears,covering own nipples",
+        "girlAction": "sweat,embarrassed,shamed,tears,covering own nipples",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81706,7 +81706,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,tears,covering own nipples",
+        "girlAction": "sweat,embarrassed,shamed,tears,covering own nipples",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81743,7 +81743,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,tears,resisting,defensive posture",
+        "girlAction": "sweat,embarrassed,shamed,tears,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81780,7 +81780,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,tears,resisting,defensive posture",
+        "girlAction": "sweat,embarrassed,shamed,tears,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81817,7 +81817,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,crying",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,crying",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81854,7 +81854,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,surprised",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81891,7 +81891,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,surprised,resisting,defensive posture",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81918,7 +81918,7 @@
         "play": "1 girl, oily body,nipples",
         "girlLooking": "100",
         "girlAction": "turn head to the side, looking at penis,head on the pillow,lying on back on the bed",
-        "male": "esthetician,esthetician uniform,white pants,penis,stand next to the girl,grabbing head",
+        "male": "esthetician,esthetician uniform,white tops,white pants,penis,stand next to the girl,grabbing head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "in massage parlor",
         "bgWall": "",
@@ -81928,7 +81928,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,surprised,resisting,defensive posture",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81955,7 +81955,7 @@
         "play": "1 girl, oily body,nipples",
         "girlLooking": "100",
         "girlAction": "turn head to the side, looking at penis,head on the pillow,lying on back on the bed",
-        "male": "esthetician,esthetician uniform,white pants,penis,leaned over the girl,riding on the girl,grabbing head",
+        "male": "esthetician,esthetician uniform,white tops,white pants,penis,leaned over the girl,riding on the girl,grabbing head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "in massage parlor",
         "bgWall": "",
@@ -81965,7 +81965,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,surprised,resisting,defensive posture",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -81992,7 +81992,7 @@
         "play": "1 girl, oily body,nipples",
         "girlLooking": "100",
         "girlAction": "turn head to the side, looking at penis,head on the pillow,lying on back on the bed",
-        "male": "esthetician,esthetician uniform,white pants,penis,leaned over the girl,riding on the girl,grabbing head",
+        "male": "esthetician,esthetician uniform,white tops,white pants,penis,leaned over the girl,riding on the girl,grabbing head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "in massage parlor",
         "bgWall": "",
@@ -82002,7 +82002,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,surprised,resisting,defensive posture",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -82039,7 +82039,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,surprised,resisting,defensive posture",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -82076,7 +82076,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,clenching own teeth,resisting,defensive posture",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,clenching own teeth,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -82113,7 +82113,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "heavy bleath,sweat,embarrassed,tears,clenching own teeth,resisting,defensive posture",
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,clenching own teeth,resisting,defensive posture",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -83149,7 +83149,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "crying,terror,sad,tear,embarrassed,heavy breath,screaming",
+        "girlAction": "crying,terror,sad,tear,embarrassed,shamed,heavy breath,screaming",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -83186,7 +83186,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "crying,terror,sad,tear,embarrassed,heavy breath",
+        "girlAction": "crying,terror,sad,tear,embarrassed,shamed,heavy breath",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -83223,7 +83223,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "tired,terror,sad,tear,embarrassed,heavy breath",
+        "girlAction": "tired,terror,sad,tear,embarrassed,shamed,heavy breath",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -83260,7 +83260,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "tired,terror,sad,tear,embarrassed,heavy breath,",
+        "girlAction": "tired,terror,sad,tear,embarrassed,shamed,heavy breath,",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
