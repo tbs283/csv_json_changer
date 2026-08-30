@@ -857,7 +857,7 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"アオのハコ/千夏\""
   },
-  "\"アオのハコ/雛\"": {
+  "アオのハコ/雛": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
     "girlOuter": "light blue blazer",
@@ -868,7 +868,7 @@
     "bra": "white bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
-    "characterOnly": "\"アオのハコ/千夏\""
+    "characterOnly": "\"\"アオのハコ/雛\"\""
   },
   "一花制服": {
     "girlBaseClothes": "",
