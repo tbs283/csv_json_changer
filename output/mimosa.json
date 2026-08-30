@@ -81945,7 +81945,7 @@
       "seed_id": "465"
     },
     {
-      "title": "仰向け(フェラ)",
+      "title": "仰向け(フェラ/横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -81982,7 +81982,7 @@
       "seed_id": "468"
     },
     {
-      "title": "仰向け(喉奥までのフェラ)",
+      "title": "仰向け(喉奥までのフェラ/横)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -82019,6 +82019,80 @@
       "seed_id": "469"
     },
     {
+      "title": "仰向け(フェラ後)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "dripping semen from mouth",
+        "composition": "dynamic diagonal composition, girl fills frame,man pov,upper body shot,from above,face focus",
+        "play": "1 girl, oily body,nipples",
+        "girlLooking": "100",
+        "girlAction": "turn head to the side, head on the pillow,lying on back on the bed",
+        "male": "esthetician,esthetician uniform,white tops,white pants,penis,stand next to the girl,grabbing head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "in massage parlor",
+        "bgWall": "",
+        "bgGround": "red bed",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised,resisting,defensive posture",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "465"
+    },
+    {
+      "title": "仰向け(フェラ後/口抑え)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "dripping semen from mouth",
+        "composition": "dynamic diagonal composition, girl fills frame,man pov,upper body shot,from above,face focus",
+        "play": "1 girl, oily body,nipples",
+        "girlLooking": "100",
+        "girlAction": "turn head to the side, head on the pillow,lying on back on the bed",
+        "male": "esthetician,esthetician uniform,white tops,white pants,penis,stand next to the girl,grabbing head",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "in massage parlor",
+        "bgWall": "",
+        "bgGround": "red bed",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "heavy bleath,sweat,embarrassed,shamed,tears,surprised,resisting,defensive posture",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "465"
+    },
+    {
       "title": "仰向け(挿入直前)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -82028,7 +82102,7 @@
         "composition": "dynamic diagonal composition, girl fills frame,cowboy shot,from side,side view",
         "play": "1 girl, oily body,nipples",
         "girlLooking": "100",
-        "girlAction": "looking at another,head on the pillow,lying on back on the bed",
+        "girlAction": "looking at another,head on the pillow,lying on back on the bed,covering own mouth",
         "male": "esthetician,faceless man,white clothes,white tops,white sleeves,white pants,penis,leaned over the girl,riding on the girl,grabbing head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "in massage parlor",
