@@ -59,6 +59,10 @@
     "prompt": "long hair,white ribbon",
     "characterOnly": "\"よう実/七瀬\""
   },
+  "薬屋のひとりごと/玉葉妃": {
+    "prompt": "tiara, hair ornament",
+    "characterOnly": "\"薬屋のひとりごと/玉葉妃\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""
