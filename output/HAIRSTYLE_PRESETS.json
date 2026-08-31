@@ -78,5 +78,13 @@
   "ウマ耳": {
     "prompt": "horse ear",
     "characterOnly": ""
+  },
+  "狐耳": {
+    "prompt": "fox ear",
+    "characterOnly": ""
+  },
+  "髪飾り": {
+    "prompt": "hair ornament",
+    "characterOnly": ""
   }
 }
