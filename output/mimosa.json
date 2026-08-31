@@ -1,4 +1,598 @@
 ﻿{
+  "教室": [
+    {
+      "title": "告白",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girlLooking": "",
+        "girlAction": "standing, facing someone at close distance, awkwardness, downward gaze, neutral expression with slight unease, reserved posture,",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "149"
+    },
+    {
+      "title": "告白",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from front",
+        "play": "girl,solo",
+        "girlLooking": "",
+        "girlAction": "scratch own cheek, standing, facing someone at close distance, awkwardness, downward gaze, neutral expression with slight unease, reserved posture,",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "150"
+    },
+    {
+      "title": "押し倒し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from side",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirtblack hair, grabbing girl's left shoulder,cropped head, cropped torso,out of frame",
+        "r18": "",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, standing, facing someone at close distance, another",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "151"
+    },
+    {
+      "title": "押し倒し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, upper torso, focus on upper body, from above",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirtblack hair, grabbing girl's left shoulder",
+        "r18": "",
+        "bgBase": "class room,evening",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, standing, facing someone at close distance, another",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "247"
+    },
+    {
+      "title": "押し倒し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from side",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's left shoulder",
+        "r18": "",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "152"
+    },
+    {
+      "title": "押し倒し",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's left shoulder",
+        "r18": "",
+        "bgBase": "class room,evening",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "248"
+    },
+    {
+      "title": "押し倒し(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from side",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's breast",
+        "r18": "",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "153"
+    },
+    {
+      "title": "押し倒し(乳揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's breast",
+        "r18": "",
+        "bgBase": "class room,evening",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": "249"
+    },
+    {
+      "title": "押し倒し(乳揉み太腿)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "cowboy shot, portrait, medium close-up, focus on upper body, from side",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "spread legs",
+        "male": "boy,faceless,white shirt grabbing girl's breast,touching girl's thigh, between girl's legs",
+        "r18": "",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "23",
+      "seed_id": "154"
+    },
+    {
+      "title": "押し倒し(乳揉み太腿)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "cowboy shot, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "spread legs",
+        "male": "boy,faceless,white shirt grabbing girl's breast,touching girl's thigh, between girl's legs",
+        "r18": "",
+        "bgBase": "class room,evening",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "23",
+      "seed_id": "250"
+    },
+    {
+      "title": "押し倒し(乳首)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from side",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's breast,licking girl's nipple",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "155"
+    },
+    {
+      "title": "押し倒し(乳首)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's breast,licking girl's nipple",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "class room,evening",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "251"
+    },
+    {
+      "title": "押し倒し(乳首)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from side",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's breast,licking girl's nipple,grabbing arm",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "156"
+    },
+    {
+      "title": "押し倒し(乳首)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "girl",
+        "composition": "upper body, from chest up, portrait, medium close-up, focus on upper body, from above",
+        "play": "girl,solo",
+        "girlLooking": "1,8",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt grabbing girl's breast,licking girl's nipple,grabbing arm",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "class room,evening",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "surprised,tears, lying on the desk,  facing someone",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
+      "seed_id": "252"
+    },
+    {
+      "title": "クンニ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "spread legs,pussy, leaning back,m legs,feet out of frame",
+        "composition": "cowboy shot, portrait, medium close-up, crotch focus, from side",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt nipples,licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, class room,evening",
+        "bgWall": "window",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "lying on back on the desk,tears,blush,screaming, touching someone's head",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "95",
+      "seed_id": "253"
+    },
+    {
+      "title": "クンニ",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "spread legs,pussy, leaning back,m legs,feet out of frame",
+        "composition": "cowboy shot, portrait, medium close-up, crotch focus, from above",
+        "play": "1 girl,cunnilingus",
+        "girlLooking": "",
+        "girlAction": "",
+        "male": "boy,faceless,white shirt nipples,licking pussy,grabbing thigh,back shot,in front of the girl",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "class room,evening",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "lying on back on the desk,tears,blush,screaming, touching someone's head",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "95",
+      "seed_id": "157"
+    }
+  ],
   "マッサージ": [
     {
       "title": "うつ伏せ",
@@ -3333,16 +3927,16 @@
       "seed_id": ""
     },
     {
-      "title": "羞恥(がに股)",
+      "title": "がに股",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "0",
-        "girl": "cowboy shot,close-up,from front,straight-on, dutch-angle",
-        "composition": "nipples",
-        "play": "girl,solo",
+        "girl": "girl,solo",
+        "composition": "cowboy shot,close-up,from front,straight-on, dutch-angle",
+        "play": "",
         "girlLooking": "1",
-        "girlAction": "facing viewer,spread legs, both hands behind head,elbows pointing outward to the sides",
+        "girlAction": "facing viewer,bowlegged pose, both hands behind head,elbows pointing outward to the sides",
         "male": "",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, on stage, concert stage, stage lights, spotlight",
@@ -83797,49 +84391,7 @@
       "seed_id": "369"
     }
   ],
-  "ベッドルーム(睡姦)": [
-
-  ],
-  "荒廃した廃墟": [
-
-  ],
-  "廃屋": [
-
-  ],
-  "旅館": [
-
-  ],
-  "ホテル脱衣": [
-
-  ],
-  "ホテル": [
-
-  ],
   "カフェ": [
-
-  ],
-  "ベッドルーム": [
-
-  ],
-  "援助交際①": [
-
-  ],
-  "援助交際②": [
-
-  ],
-  "海(エロなし)": [
-
-  ],
-  "触手": [
-
-  ],
-  "教室": [
-
-  ],
-  "教室2": [
-
-  ],
-  "花畑": [
 
   ]
 }
