@@ -3964,45 +3964,6 @@
       "seed_id": "261"
     }
   ],
-  "ゴブリン戦闘": [
-    {
-      "title": "戦闘",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "1",
-        "girl": "girl,solo",
-        "composition": "cowboy shot,from front,straight-on, dutch-angle",
-        "play": "battle",
-        "girlLooking": "",
-        "girlAction": "fighting",
-        "male": "goblins around the girl",
-        "r18": "",
-        "bgBase": "blurred background, dark forest,night",
-        "bgWall": "misty night air",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "brave face",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "3",
-      "キャラヘッダフラグ": "",
-      "縦横比": "",
-      "clothesFlg": "23",
-      "seed_id": ""
-    }
-  ],
   "旅館(睡姦)": [
     {
       "title": "睡眠↑",
