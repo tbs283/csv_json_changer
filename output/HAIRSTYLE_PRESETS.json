@@ -55,6 +55,10 @@
     "prompt": "flower hair ornament",
     "characterOnly": "\"リゼロ/エミリア\""
   },
+  "よう実/七瀬": {
+    "prompt": "long hair,white ribbon",
+    "characterOnly": "\"よう実/七瀬\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""
