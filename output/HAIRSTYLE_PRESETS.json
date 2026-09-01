@@ -72,11 +72,11 @@
     "characterOnly": "\"薬屋のひとりごと/里樹妃\""
   },
   "五等分の花嫁/中野二乃ロング": {
-    "prompt": "very long hair,two-side up",
+    "prompt": "very long hair,two-side up,hair ribbon",
     "characterOnly": "\"五等分の花嫁/中野二乃\""
   },
   "五等分の花嫁/中野二乃ボブ": {
-    "prompt": "bob hair,two-side up",
+    "prompt": "bob hair,two-side up,hair ribbon",
     "characterOnly": "\"五等分の花嫁/中野二乃\""
   },
   "セレナロング": {
