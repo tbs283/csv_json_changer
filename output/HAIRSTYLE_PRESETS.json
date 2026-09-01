@@ -63,6 +63,22 @@
     "prompt": "tiara, hair ornament",
     "characterOnly": "\"薬屋のひとりごと/玉葉妃\""
   },
+  "薬屋のひとりごと/梨花妃": {
+    "prompt": "hair ornament",
+    "characterOnly": "\"薬屋のひとりごと/梨花妃\""
+  },
+  "薬屋のひとりごと/里樹妃": {
+    "prompt": "bomb hair,hair ornament",
+    "characterOnly": "\"薬屋のひとりごと/里樹妃\""
+  },
+  "五等分の花嫁/中野二乃ロング": {
+    "prompt": "long hair,two-side up",
+    "characterOnly": "\"五等分の花嫁/中野二乃\""
+  },
+  "五等分の花嫁/中野二乃ボブ": {
+    "prompt": "bob hair,two-side up",
+    "characterOnly": "\"五等分の花嫁/中野二乃\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""
