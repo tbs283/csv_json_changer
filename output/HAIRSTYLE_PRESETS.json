@@ -79,6 +79,10 @@
     "prompt": "bob hair,two-side up,hair ribbon",
     "characterOnly": "\"五等分の花嫁/中野二乃\""
   },
+  "ラブライブ!/南ことり": {
+    "prompt": "sidetail,green ribbon",
+    "characterOnly": "\"ラブライブ!/南ことり\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""
@@ -113,6 +117,10 @@
   },
   "髪飾り": {
     "prompt": "hair ornament",
+    "characterOnly": ""
+  },
+  "カチューシャ": {
+    "prompt": "hairband",
     "characterOnly": ""
   }
 }
