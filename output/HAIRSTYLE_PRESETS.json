@@ -112,7 +112,19 @@
     "characterOnly": "\"ゴブスレ/剣の乙女\""
   },
   "ウマ耳": {
-    "prompt": "horse ear",
+    "prompt": "horse ear,hair ornament",
+    "characterOnly": ""
+  },
+  "ウマ耳/カチューシャ": {
+    "prompt": "horse ear,hairband",
+    "characterOnly": ""
+  },
+  "ウマ耳/リボン": {
+    "prompt": "horse ear,hair ribbon",
+    "characterOnly": ""
+  },
+  "ウマ耳/防止": {
+    "prompt": "horse ear,hat",
     "characterOnly": ""
   },
   "狐耳": {

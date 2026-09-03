@@ -601,7 +601,7 @@
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "0",
         "girl": "",
-        "composition": "dynamic diagonal composition, girl fills frame,straight-on,upper body shot,cropped torso,face focus,from front",
+        "composition": "dynamic diagonal composition, girl fills frame,straight-on,upper body shot,face focus,from front",
         "play": "1 girl",
         "girlLooking": "100",
         "girlAction": "lying on stomach on the bed,arms on the pillow, prone, relaxed, eyes closed, resting",
@@ -1405,7 +1405,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "446"
     },
     {
@@ -1442,7 +1442,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "446"
     },
     {
@@ -1479,7 +1479,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "446"
     },
     {
@@ -1516,7 +1516,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "454"
     },
     {
@@ -1553,7 +1553,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "455"
     },
     {
@@ -1590,7 +1590,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "456"
     },
     {
@@ -1627,7 +1627,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "457"
     },
     {
@@ -1664,7 +1664,81 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
+      "seed_id": "458"
+    },
+    {
+      "title": "胸マッサージ(胸フォーカス)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "massage around the chest from behind",
+        "composition": "straight-on,upper body shot,breast focus",
+        "play": "1 girl, oily body",
+        "girlLooking": "100",
+        "girlAction": "facing veiwer,throw up both arms",
+        "male": "esthetician,faceless man,white clothes,white tops,white sleeves,white pants, kneeling,grabbing breast from behind hard",
+        "r18": "",
+        "bgBase": "in massage parlor",
+        "bgWall": "curtain",
+        "bgGround": "red bed,large bed",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "opened clothes",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "14",
+      "seed_id": "458"
+    },
+    {
+      "title": "胸マッサージ(上半身フォーカス)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "massage around the chest from behind",
+        "composition": "straight-on,upper body shot",
+        "play": "1 girl, oily body",
+        "girlLooking": "100",
+        "girlAction": "facing veiwer,both hands behind head,elbows pointing outward to the sides",
+        "male": "esthetician,faceless man,white clothes,white tops,white sleeves,white pants, kneeling,grabbing breast from behind hard",
+        "r18": "",
+        "bgBase": "in massage parlor",
+        "bgWall": "curtain",
+        "bgGround": "red bed,large bed",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,resisting,defensive posture",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "opened clothes",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "15",
       "seed_id": "458"
     },
     {
@@ -1701,7 +1775,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "15",
       "seed_id": "459"
     },
     {
@@ -1738,7 +1812,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "456"
     },
     {
@@ -1775,7 +1849,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "456"
     },
     {
@@ -1785,10 +1859,10 @@
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "0",
         "girl": "massage around the breast from above,see-through towel",
-        "composition": "dutch-angle,straight-on,cowboy shot",
+        "composition": "dutch-angle,straight-on,cowboy shot,feet out of frame",
         "play": "1 girl, oily body",
         "girlLooking": "100",
-        "girlAction": "looking at own crotch,facing veiwer,m legs,spread legs,on the bed,both hands behind head,elbows pointing outward to the sides",
+        "girlAction": "looking at own crotch,facing veiwer,m legs,spread legs,on the bed,leaning back,both hands behind head,elbows pointing outward to the sides",
         "male": "esthetician,faceless man,white clothes,white tops,white sleeves,white pants, kneeling,grabbing breast from behind hard,touching pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "in massage parlor",
@@ -1812,7 +1886,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "456"
     },
     {
@@ -1822,10 +1896,10 @@
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "0",
         "girl": "massage around the breast from above,see-through towel",
-        "composition": "dutch-angle,straight-on,cowboy shot",
+        "composition": "dutch-angle,straight-on,cowboy shot,feet out of frame",
         "play": "1 girl, oily body",
         "girlLooking": "100",
-        "girlAction": "looking away,averting eyes,facing away,m legs,spread legs,on the bed,covering mouth",
+        "girlAction": "looking away,averting eyes,facing away,m legs,spread legs,on the bed,leaning back,covering mouth bay own hand",
         "male": "esthetician,faceless man,white clothes,white tops,white sleeves,white pants, kneeling,grabbing breast from behind hard,touching pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "in massage parlor",
@@ -1849,7 +1923,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "456"
     },
     {
@@ -1860,7 +1934,7 @@
         "motionFlg": "0",
         "girl": "massage around the shoulder from above,see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,man pov,upper body shot,from above,breasts focus,straight-on,",
-        "play": "1 girl, oily body",
+        "play": "1 girl, oily body,spread hair",
         "girlLooking": "100",
         "girlAction": "head on the pillow,lying on back on the bed",
         "male": "esthetician's arms,white tops,grabbing both shoulders,out of frame",
@@ -1897,7 +1971,7 @@
         "motionFlg": "0",
         "girl": "finger pressure massage chest,see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,man pov,upper body shot,from above,breasts focus,straight-on,",
-        "play": "1 girl, oily body",
+        "play": "1 girl, oily body,spread hair",
         "girlLooking": "100",
         "girlAction": "head on the pillow,lying on back on the bed",
         "male": "esthetician's arms,white tops,grabbing both shoulders,out of frame",
@@ -1934,7 +2008,7 @@
         "motionFlg": "0",
         "girl": "massage around the breast from above,see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,man pov,upper body shot,from above,breasts focus,straight-on,",
-        "play": "1 girl, oily body,nipples",
+        "play": "1 girl, oily body,nipples,spread hair",
         "girlLooking": "100",
         "girlAction": "head on the pillow,lying on back on the bed",
         "male": "esthetician's arms,esthetician's white uniform,grabbing breast,out of frame",
@@ -1971,7 +2045,7 @@
         "motionFlg": "0",
         "girl": "massage around the nipples from above,see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,man pov,upper body shot,from above,breasts focus,straight-on,",
-        "play": "1 girl, oily body,nipples",
+        "play": "1 girl, oily body,nipples,spread hair",
         "girlLooking": "100",
         "girlAction": "head on the pillow,lying on back on the bed",
         "male": "esthetician's arms,esthetician's white uniform,grabbing nipples,out of frame",
@@ -2008,7 +2082,7 @@
         "motionFlg": "0",
         "girl": "see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,upper body shot,from above,breasts focus,straight-on,",
-        "play": "1 girl, oily body,nipples",
+        "play": "1 girl, oily body,nipples,spread hair",
         "girlLooking": "100",
         "girlAction": "looking away,averting eyes,head on the pillow,lying on back on the bed",
         "male": "",
@@ -2045,7 +2119,7 @@
         "motionFlg": "0",
         "girl": "see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,man pov,upper body shot,from above,breasts focus,straight-on,",
-        "play": "1 girl, oily body,nipples",
+        "play": "1 girl, oily body,nipples,spread hair",
         "girlLooking": "100",
         "girlAction": "turn head to the side, facing side, looking at penis,head on the pillow,lying on back on the bed",
         "male": "esthetician's arms,esthetician's white uniform,white tops,white pants,penis touching girl's face,stand next to the girl",
@@ -2154,7 +2228,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "1",
-        "girl": "fellatio,see-through towel",
+        "girl": "straddling fellatio,see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,upper body shot,face focus,from side,side view",
         "play": "1 girl, oily body,nipples",
         "girlLooking": "100",
@@ -2191,7 +2265,7 @@
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "1",
-        "girl": "deepthroat,see-through towel",
+        "girl": "straddling deepthroat,see-through towel",
         "composition": "dynamic diagonal composition, girl fills frame,upper body shot,face focus,from side,side view",
         "play": "1 girl, oily body,nipples",
         "girlLooking": "100",
@@ -2478,7 +2552,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -2515,7 +2589,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -2552,7 +2626,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -2848,7 +2922,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "80"
     },
     {
@@ -2885,7 +2959,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -2922,7 +2996,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "81"
     },
     {
@@ -2959,7 +3033,7 @@
       "上下フラグ": "2",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "82"
     },
     {
@@ -3033,7 +3107,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "267"
     },
     {
@@ -3070,7 +3144,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "84"
     },
     {
@@ -3107,7 +3181,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "85"
     },
     {
@@ -3144,7 +3218,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "85"
     },
     {
@@ -3181,7 +3255,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "270"
     },
     {
@@ -3218,7 +3292,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "271"
     },
     {
@@ -3255,7 +3329,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "86"
     },
     {
@@ -3292,7 +3366,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "87"
     },
     {
@@ -3329,7 +3403,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "104"
     },
     {
@@ -3366,7 +3440,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "104"
     },
     {
@@ -3403,7 +3477,7 @@
       "上下フラグ": "1",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "105"
     },
     {
@@ -3440,7 +3514,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "109"
     },
     {
@@ -3477,7 +3551,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "109"
     },
     {
@@ -3514,7 +3588,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "112"
     },
     {
@@ -3551,7 +3625,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "263"
     },
     {
@@ -3588,7 +3662,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "116"
     },
     {
@@ -3625,7 +3699,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "116"
     },
     {
@@ -3662,7 +3736,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "117"
     },
     {
@@ -3699,7 +3773,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "118"
     },
     {
@@ -3810,7 +3884,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "133"
     },
     {
@@ -3847,7 +3921,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "134"
     },
     {
@@ -3884,7 +3958,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "136"
     },
     {
@@ -3921,7 +3995,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "137"
     },
     {
@@ -3958,7 +4032,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "138"
     },
     {
@@ -3995,7 +4069,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": "139"
     },
     {
@@ -4032,7 +4106,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -4069,7 +4143,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     }
   ],
@@ -4108,7 +4182,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -4145,7 +4219,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -4182,7 +4256,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -4219,7 +4293,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -4256,7 +4330,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
@@ -4293,7 +4367,7 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "",
       "縦横比": "",
-      "clothesFlg": "127",
+      "clothesFlg": "63",
       "seed_id": ""
     },
     {
