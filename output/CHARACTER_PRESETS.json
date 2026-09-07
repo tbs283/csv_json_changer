@@ -3455,6 +3455,15 @@
         "defaultHairStyle": "",
         "title": "bleach"
     },
+    "BLEACH/ネム": {
+        "prompt": "kurotsuchi nemu (anime), bleach,",
+        "tag": [
+            "BLEACH"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "bleach"
+    },
     "NARUTO/日向ヒナタ": {
         "prompt": "hyuuga hinata,naruto shippuuden, long hair,",
         "tag": [
