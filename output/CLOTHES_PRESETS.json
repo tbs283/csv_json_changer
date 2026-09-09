@@ -883,6 +883,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"精霊幻想記/セリア\""
   },
+  "とある/五和": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "pink tank tops",
+    "girlBottom": "white pant",
+    "girlUnder": "sandals",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"とある/五和\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
