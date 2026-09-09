@@ -896,6 +896,32 @@
     "clothesBottomStatus": "4",
     "characterOnly": "\"とある/五和\""
   },
+  "ロウきゅーぶブルマ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white short-sleeved gym shirt with red collar and sleeve bands,",
+    "girlBottom": "red gym bloomers,high-leg gym bloomers,white thigh-high socks",
+    "girlUnder": "shoes,white thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "9",
+    "characterOnly": "\"ロウきゅーぶ/袴田ひなた\""
+  },
+  "ロウきゅーぶスパッツ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white short-sleeved gym shirt with red collar and sleeve bands,",
+    "girlBottom": "navy spats",
+    "girlUnder": "shoes,white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "9",
+    "characterOnly": "\"ロウきゅーぶ/香椎愛莉\",\"ロウきゅーぶ/永塚紗季\",\"ロウきゅーぶ/三沢真帆\",\"ロウきゅーぶ/湊智花\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
