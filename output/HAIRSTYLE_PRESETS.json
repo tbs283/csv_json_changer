@@ -87,6 +87,10 @@
     "prompt": "sidetail,green ribbon",
     "characterOnly": "\"ラブライブ!/南ことり\""
   },
+  "精霊幻想記/セリア": {
+    "prompt": "blue hat,hair ribbon",
+    "characterOnly": "\"精霊幻想記/セリア\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""

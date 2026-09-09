@@ -870,6 +870,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"\"アオのハコ/雛\"\""
   },
+  "精霊幻想記/セリア": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "white cape",
+    "girlTop": "white tops",
+    "girlBottom": "blue skirt,tights",
+    "girlUnder": "tights,black shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"精霊幻想記/セリア\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
