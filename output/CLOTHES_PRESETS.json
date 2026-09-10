@@ -931,8 +931,8 @@
     "girlUnder": "black shoes",
     "panties": "white panties",
     "bra": "",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "12",
     "characterOnly": "\"マギ/ヤムライハ\""
   },
   "ゼンゼロ/ビビアン": {
@@ -944,8 +944,8 @@
     "girlUnder": "black shoes",
     "panties": "white panties",
     "bra": "white bra",
-    "clothesTopStatus": "",
-    "clothesBottomStatus": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "3",
     "characterOnly": "\"ゼンゼロ/ビビアン\""
   },
   "一花制服": {
