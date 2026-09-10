@@ -4560,7 +4560,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hands together,nipples",
         "composition": "cowboy shot, girl focus,from above,side view,man out of frame",
         "play": "1 girl",
@@ -4597,7 +4597,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hands together,nipples",
         "composition": "cowboy shot, girl focus,from above,side view,man out of frame",
         "play": "1 girl",
@@ -4634,7 +4634,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hands together,nipples",
         "composition": "cowboy shot, girl focus,from above,side view,man pov",
         "play": "1 girl",
@@ -4671,7 +4671,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hands together,nipples",
         "composition": "diagonal framing,dutch angle,cowboy shot, girl focus,from side,side view,man' head out of frame",
         "play": "1 girl,upright straddle,face to face",
@@ -4708,7 +4708,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hanging, own hands together,nipples",
         "composition": "diagonal framing,dutch angle,cowboy shot, girl focus,from front,man' head out of frame,girl's arm out of frame",
         "play": "1 girl,sex from behind",
@@ -4745,7 +4745,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hanging, own hands together,nipples",
         "composition": "cowboy shot, girl focus,from side,side view,man' head out of frame,girl's arm out of frame",
         "play": "1 girl,sex from behind",
@@ -4782,7 +4782,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hanging, own hands together,nipples",
         "composition": "diagonal framing,dutch angle,cowboy shot, girl focus,from side,side view,man' head out of frame",
         "play": "1 girl,stand up sex,face to face",
@@ -4819,7 +4819,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff, hanging, own hands together,nipples",
         "composition": "diagonal framing,dutch angle,cowboy shot, girl focus,from side,side view,man' head out of frame",
         "play": "1 girl,stand up sex",
@@ -4856,7 +4856,7 @@
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
+        "motionFlg": "1",
         "girl": "arms up, handcuff,hanging, own hands together,nipples",
         "composition": "dutch angle,cowboy shot, girl focus,straight-on,from below,pussy focus,arms out of frame",
         "play": "1 girl,cowgirl position,penetration",
@@ -4895,7 +4895,7 @@
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "0",
         "girl": "arms up, handcuff, hanging, own hands together",
-        "composition": "full body shot, girl fills frame,from diagonally in front",
+        "composition": "diagonal framing,full body shot, girl fills frame,from diagonally in front",
         "play": "1 girl, dirty face,after sex,nipples",
         "girlLooking": "",
         "girlAction": "looking down, looking at viewer,kneeling,leaning forward",
@@ -4932,7 +4932,7 @@
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "0",
         "girl": "arms up, handcuff, hanging, own hands together",
-        "composition": "cowboy shot, girl fills frame,from below,ass focus,back shot",
+        "composition": "diagonal framing,cowboy shot, girl fills frame,from below,ass focus,back shot",
         "play": "1 girl, dirty face,after sex,nipples",
         "girlLooking": "",
         "girlAction": "looking down, looking at viewer,kneeling,leaning forward",
@@ -4963,13 +4963,50 @@
       "seed_id": ""
     },
     {
+      "title": "拘束斜め正面(M字)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "arms up, handcuff, hanging, own hands together",
+        "composition": "cowboy shot, girl fills frame,from diagonally in front",
+        "play": "1 girl, dirty face,after sex,nipples",
+        "girlLooking": "",
+        "girlAction": "looking down, looking at viewer,m legs,sitting on the floor,leaning back",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background",
+        "bgWall": "rock tile wall",
+        "bgGround": "floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "sad,crying, tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": ""
+    },
+    {
       "title": "事後(膝立ち/妊娠)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "0",
         "girl": "arms up, handcuff, hanging, own hands together",
-        "composition": "full body shot, girl fills frame,from diagonally in front,from below",
+        "composition": "diagonal framing,full body shot, girl fills frame,from diagonally in front,from below",
         "play": "1 girl, dirty face,after sex,pregnant,nipples",
         "girlLooking": "",
         "girlAction": "looking down, looking at viewer,kneeling,leaning forward",
