@@ -948,6 +948,32 @@
     "clothesBottomStatus": "3",
     "characterOnly": "\"ゼンゼロ/ビビアン\""
   },
+  "転生王女と天才令嬢の魔法革命/ユフィリア": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "white coat",
+    "girlTop": "white tops",
+    "girlBottom": "blue skirt,black tights",
+    "girlUnder": "black tights,black shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "3",
+    "characterOnly": "\"転生王女と天才令嬢の魔法革命/ユフィリア\""
+  },
+  "転生王女と天才令嬢の魔法革命/アニスフィア": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "white outer",
+    "girlTop": "white tops",
+    "girlBottom": "pink skirt, white thigh-high socks",
+    "girlUnder": "white thigh-high socks,black boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"転生王女と天才令嬢の魔法革命/アニスフィア\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
