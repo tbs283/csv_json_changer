@@ -2454,8 +2454,8 @@
         "tag": [
             "マギ"
         ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultClothes": "マギ/ヤムライハ",
+        "defaultHairStyle": "マギ/ヤムライハ",
         "title": "magi the labyrinth of magic"
     },
     "ゼンゼロ/ビビアン": {
@@ -2463,8 +2463,8 @@
         "tag": [
             "ゼンゼロ"
         ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultClothes": "ゼンゼロ/ビビアン",
+        "defaultHairStyle": "ゼンゼロ/ビビアン",
         "title": "zenless zone zero"
     },
     "リゼロ/レム": {

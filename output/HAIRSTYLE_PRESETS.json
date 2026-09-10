@@ -91,6 +91,14 @@
     "prompt": "blue hat,hair ribbon",
     "characterOnly": "\"精霊幻想記/セリア\""
   },
+  "マギ/ヤムライハ": {
+    "prompt": "black witch hat,shell accessories",
+    "characterOnly": "\"マギ/ヤムライハ\""
+  },
+  "ゼンゼロ/ビビアン": {
+    "prompt": "black hair ribbon",
+    "characterOnly": "\"ゼンゼロ/ビビアン\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""

@@ -922,6 +922,32 @@
     "clothesBottomStatus": "9",
     "characterOnly": "\"ロウきゅーぶ/香椎愛莉\",\"ロウきゅーぶ/永塚紗季\",\"ロウきゅーぶ/三沢真帆\",\"ロウきゅーぶ/湊智花\""
   },
+  "マギ/ヤムライハ": {
+    "girlBaseClothes": "beige clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "pink shell bra",
+    "girlBottom": "",
+    "girlUnder": "black shoes",
+    "panties": "white panties",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"マギ/ヤムライハ\""
+  },
+  "ゼンゼロ/ビビアン": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white blouse,black corset",
+    "girlBottom": "white skirt,black tights",
+    "girlUnder": "black shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": "\"ゼンゼロ/ビビアン\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
