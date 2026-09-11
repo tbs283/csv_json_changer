@@ -780,6 +780,43 @@
       "seed_id": "98"
     },
     {
+      "title": "正常位(乳首揉み)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "nipples,spiral-only eyes,@_@,6_9",
+        "composition": "cowboy shot, dynamic diagonal composition, girl fills frame,boy partially visible,dutch-angle,from above,man pov",
+        "play": "1 girl, oily body,missionary",
+        "girlLooking": "100",
+        "girlAction": "m legs,the head on the sheets,lying on back on the sheets,chest out,arching upper body,facing up,grabbing own nipple",
+        "male": "pov penis,penetration",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "white sheets",
+        "bgFloor": "white bed,white carpet floor",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "blush,tears",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "opend clothes,pull up bra",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "98"
+    },
+    {
       "title": "正常位(オナニー)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -787,9 +824,9 @@
         "motionFlg": "1",
         "girl": "nipples,spiral-only eyes,@_@,6_9",
         "composition": "cowboy shot, dynamic diagonal composition, girl fills frame,boy partially visible,dutch-angle,from above,man pov",
-        "play": "1 girl, oily body,missionary,facing up,masturbation",
+        "play": "1 girl, oily body,missionary,fingering,masturbation",
         "girlLooking": "100",
-        "girlAction": "m legs,the head on the sheets,lying on back on the sheets,chest out,arching upper body,facing up",
+        "girlAction": "m legs,the head on the sheets,lying on back on the sheets,chest out,arching upper body,facing up,grabbing own nipple",
         "male": "pov penis,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
