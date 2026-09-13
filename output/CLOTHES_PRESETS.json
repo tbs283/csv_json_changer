@@ -974,6 +974,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"転生王女と天才令嬢の魔法革命/アニスフィア\""
   },
+  "白聖女と黒牧師/セシリア": {
+    "girlBaseClothes": "black one-piece dress",
+    "girlHead": "",
+    "girlOuter": "white cape",
+    "girlTop": "",
+    "girlBottom": "black thigh-high socks",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"白聖女と黒牧師/セシリア\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
