@@ -3095,7 +3095,7 @@
   },
   "BLEACH/織姫制服(夏)": {
     "girlBaseClothes": "school uniform",
-    "girlHead": "hair behind ear",
+    "girlHead": "*shaped hair accessories,hair behind ear",
     "girlOuter": "beige vest",
     "girlTop": "white shirt,ribbon tie",
     "girlBottom": "gray skirt",
@@ -3108,7 +3108,7 @@
   },
   "BLEACH/織姫制服(冬)": {
     "girlBaseClothes": "school uniform",
-    "girlHead": "hair behind ear",
+    "girlHead": "*shaped hair accessories,hair behind ear",
     "girlOuter": "gray jacket",
     "girlTop": "white shirt,ribbon tie",
     "girlBottom": "gray skirt",
@@ -3121,7 +3121,7 @@
   },
   "BLEACH/織姫(千年決戦編)": {
     "girlBaseClothes": "",
-    "girlHead": "",
+    "girlHead": "*shaped hair accessories",
     "girlOuter": "",
     "girlTop": "white short tops,white sleeves",
     "girlBottom": "white long skirt",
@@ -3131,6 +3131,19 @@
     "clothesTopStatus": "9",
     "clothesBottomStatus": "12",
     "characterOnly": "\"BLEACH/織姫(千年決戦編)\""
+  },
+  "BLEACH/織姫私服": {
+    "girlBaseClothes": "",
+    "girlHead": "*shaped hair accessories,",
+    "girlOuter": "",
+    "girlTop": "plain pink t-shirt,half sleeves",
+    "girlBottom": "gray long leggings",
+    "girlUnder": "beige shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"BLEACH/織姫\""
   },
   "NARUTO/日向ヒナタ": {
     "girlBaseClothes": "",
@@ -3160,7 +3173,7 @@
   },
   "BLEACH/織姫私服": {
     "girlBaseClothes": "",
-    "girlHead": "",
+    "girlHead": "*shaped hair accessories,",
     "girlOuter": "",
     "girlTop": "plain pink t-shirt,half sleeves",
     "girlBottom": "gray long leggings",
