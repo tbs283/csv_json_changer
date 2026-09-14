@@ -3158,6 +3158,19 @@
     "clothesBottomStatus": "2",
     "characterOnly": "NARUTO/日向ヒナタ"
   },
+  "BLEACH/織姫私服": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "plain pink t-shirt,half sleeves",
+    "girlBottom": "gray long leggings",
+    "girlUnder": "beige shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"BLEACH/織姫\""
+  },
   "バトルガールハイスクール/高等部制服": {
     "girlBaseClothes": "white sailor uniform",
     "girlHead": "",
