@@ -594,7 +594,154 @@
     }
   ],
   "シャワールーム": [
-
+    {
+      "title": "シャワー",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "water flow from above,dense steam,showering",
+        "composition": "face focus,upper body shot, focus on girl, from side,side view",
+        "play": "1 girl",
+        "girlLooking": "",
+        "girlAction": "closing eyes,closing mouth,facing up,water pouring on head",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": "1"
+      },
+      "charaVariable": {
+        "girlAction": "relaxing",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": ""
+    },
+    {
+      "title": "シャワー(後ろ姿)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "water flow from above,dense steam,showering",
+        "composition": "diagonal framing,dutch-angle,upper body shot, focus on girl, from behind,back shot",
+        "play": "1 girl",
+        "girlLooking": "",
+        "girlAction": "facing away",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": "1"
+      },
+      "charaVariable": {
+        "girlAction": "relaxing",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": ""
+    },
+    {
+      "title": "シャワー(後ろ姿)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "shower head on wall,water flow from above,dense steam,showering",
+        "composition": "dutch-angle,cowboy shot, focus on girl, from below,back shot",
+        "play": "1 girl",
+        "girlLooking": "",
+        "girlAction": "facing shower",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": "1"
+      },
+      "charaVariable": {
+        "girlAction": "relaxing",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "23",
+      "seed_id": ""
+    },
+    {
+      "title": "シャワー(上から)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "0",
+        "girl": "water flow from above,dense steam,showering",
+        "composition": "dutch-angle,face focus, upper body shot,focus on girl, from above",
+        "play": "1 girl",
+        "girlLooking": "",
+        "girlAction": "facing up,facing viewer,closing eyes,stand up",
+        "male": "",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": "1"
+      },
+      "charaVariable": {
+        "girlAction": "relaxing",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "3",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "7",
+      "seed_id": ""
+    }
   ],
   "催眠": [
     {
