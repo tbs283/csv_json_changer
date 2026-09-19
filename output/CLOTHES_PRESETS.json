@@ -3444,6 +3444,19 @@
     "clothesBottomStatus": "",
     "characterOnly": "\"\""
   },
+  "ウマ娘/全裸": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "horse ears",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "tail",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "",
+    "clothesBottomStatus": "",
+    "characterOnly": ""
+  },
   "ゴブスレ/女神官": {
     "girlBaseClothes": "white and blue dress",
     "girlHead": "",
