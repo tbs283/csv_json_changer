@@ -27,6 +27,10 @@
     "prompt": "twintails",
     "characterOnly": ""
   },
+  "三つ編み": {
+    "prompt": "braid hair",
+    "characterOnly": ""
+  },
   "ごちうさ/メグ": {
     "prompt": "low twintails,pink scrunchie",
     "characterOnly": "\"ごちうさ/メグ\""
