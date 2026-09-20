@@ -3185,6 +3185,43 @@
       "seed_id": "175"
     },
     {
+      "title": "フェラ(事後)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "water flow from above,dense steam,showering,oily body,wet hair",
+        "composition": "extreme close-up,portrait,head shot,face only,cropped face,upper body,focus on face,from above",
+        "play": "1 girl",
+        "girlLooking": "5,7",
+        "girlAction": "open the mouth,dripped semen from mouth,stick out tongue",
+        "male": "completely nude man's lower body, pov crotch, penis,stand up in front of the girl,",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "",
+        "bgWall": "",
+        "bgGround": "blue tile floor",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "tears,nipples,wariza",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "泣き顔",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "33"
+    },
+    {
       "title": "女の子座り事後",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
