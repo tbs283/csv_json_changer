@@ -3324,7 +3324,7 @@
         "title": "ore no imouto ga konna ni kawaii wake ga nai"
     },
     "トラブル/モモ": {
-        "prompt": "momo velia deviluke, to love-ru darkness,tail",
+        "prompt": "momo velia deviluke, to love-ru darkness,tail,",
         "tag": [
             "トラブル"
         ],
@@ -3333,7 +3333,7 @@
         "title": "to love-ru darkness"
     },
     "トラブル/ナナ": {
-        "prompt": "nana asta deviluke, to love-ru darkness,tail",
+        "prompt": "nana asta deviluke, to love-ru darkness,tail,",
         "tag": [
             "トラブル"
         ],
@@ -3342,7 +3342,7 @@
         "title": "to love-ru darkness"
     },
     "トラブル/ララ": {
-        "prompt": "lala satalin deviluke, to love-ru darkness,tail",
+        "prompt": "lala satalin deviluke, to love-ru darkness,tail,",
         "tag": [
             "トラブル"
         ],
@@ -5031,7 +5031,16 @@
             "けいおん！"
         ],
         "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultHairStyle": "ツインテール",
+        "title": "k-on!"
+    },
+    "けいおん！/中野梓(日焼け)": {
+        "prompt": "nakano azusa (anime), k-on!,tanned skin",
+        "tag": [
+            "けいおん！"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "ツインテール",
         "title": "k-on!"
     },
     "けいおん！/平沢唯": {
