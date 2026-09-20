@@ -31,6 +31,10 @@
     "prompt": "braid hair",
     "characterOnly": ""
   },
+  "サイドテール": {
+    "prompt": "sidetail",
+    "characterOnly": ""
+  },
   "ごちうさ/メグ": {
     "prompt": "low twintails,pink scrunchie",
     "characterOnly": "\"ごちうさ/メグ\""
