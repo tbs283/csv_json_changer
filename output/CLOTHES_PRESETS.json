@@ -987,6 +987,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"白聖女と黒牧師/セシリア\""
   },
+  "リボーン/ユニ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "white coat",
+    "girlTop": "black short tops",
+    "girlBottom": "black short pants",
+    "girlUnder": "black boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"リボーン/ユニ\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",

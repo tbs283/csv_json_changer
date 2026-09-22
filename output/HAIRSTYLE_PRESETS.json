@@ -55,6 +55,10 @@
     "prompt": "*shaped hair accessories,",
     "characterOnly": "\"BLEACH/織姫\""
   },
+  "リボーン/ユニ": {
+    "prompt": "white cap",
+    "characterOnly": "\"リボーン/ユニ\""
+  },
   "レム": {
     "prompt": "head dress",
     "characterOnly": "\"リゼロ/レム\""

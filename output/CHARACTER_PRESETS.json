@@ -3413,6 +3413,15 @@
         "defaultHairStyle": "リボーン/クローム",
         "title": "kateikyoushi hitman reborn!"
     },
+    "リボーン/ユニ": {
+        "prompt": "uni (reborn),  kateikyoushi hitman reborn!,",
+        "tag": [
+            "リボーン"
+        ],
+        "defaultClothes": "リボーン/ユニ",
+        "defaultHairStyle": "リボーン/ユニ",
+        "title": "kateikyoushi hitman reborn!"
+    },
     "BLEACH/織姫": {
         "prompt": "inoue orihime (bleach: jigoku-hen),bleach,",
         "tag": [
