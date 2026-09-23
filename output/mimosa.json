@@ -3760,7 +3760,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised",
+        "girlAction": "blush,surprised",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -3797,7 +3797,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -3834,7 +3834,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -3871,7 +3871,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -3908,7 +3908,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -3945,7 +3945,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -3982,7 +3982,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -4019,7 +4019,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -4056,7 +4056,7 @@
         "girlCount": "1"
       },
       "charaVariable": {
-        "girlAction": "surprised,tears",
+        "girlAction": "blush,surprised,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
