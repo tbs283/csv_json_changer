@@ -59,6 +59,18 @@
     "prompt": "white cap",
     "characterOnly": "\"リボーン/ユニ\""
   },
+  "狐耳": {
+    "prompt": "fox ear",
+    "characterOnly": ""
+  },
+  "髪飾り": {
+    "prompt": "hair ornament",
+    "characterOnly": ""
+  },
+  "カチューシャ": {
+    "prompt": "hairband",
+    "characterOnly": ""
+  },
   "レム": {
     "prompt": "head dress",
     "characterOnly": "\"リゼロ/レム\""
@@ -160,7 +172,7 @@
     "characterOnly": "\"ゴブスレ/剣の乙女\""
   },
   "ウマ耳": {
-    "prompt": "horse ear,hair ornament",
+    "prompt": "horse ear",
     "characterOnly": ""
   },
   "ウマ耳/カチューシャ": {
@@ -175,16 +187,24 @@
     "prompt": "horse ear,hat",
     "characterOnly": ""
   },
-  "狐耳": {
-    "prompt": "fox ear",
+  "ウマ耳/髪飾り": {
+    "prompt": "horse ear,hair ornament",
     "characterOnly": ""
   },
-  "髪飾り": {
-    "prompt": "hair ornament",
+  "ウマ耳/ロングヘア": {
+    "prompt": "horse ear,long hair",
     "characterOnly": ""
   },
-  "カチューシャ": {
-    "prompt": "hairband",
+  "ウマ耳/お団子頭": {
+    "prompt": "horse ear,single hair bun",
+    "characterOnly": ""
+  },
+  "ウマ耳/ポニーテール": {
+    "prompt": "horse ear,high ponytail",
+    "characterOnly": ""
+  },
+  "ウマ耳/ツインテール": {
+    "prompt": "horse ear,high twintails",
     "characterOnly": ""
   }
 }
