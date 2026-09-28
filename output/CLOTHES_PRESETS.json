@@ -3470,6 +3470,19 @@
     "clothesBottomStatus": "2",
     "characterOnly": ""
   },
+  "ブルアカ羽有/全裸": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "horse ears",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "tail",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": ""
+  },
   "ゴブスレ/女神官": {
     "girlBaseClothes": "white and blue dress",
     "girlHead": "",
