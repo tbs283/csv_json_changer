@@ -129,16 +129,29 @@
     "clothesBottomStatus": "2",
     "characterOnly": ""
   },
-  "マイクロビキニ(白)": {
-    "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
+  "ビキニパーカー": {
+    "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "bikini bra",
+    "girlTop": "",
     "girlBottom": "simple bikini panties,white bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
-    "bra": "",
+    "bra": "bikini bra",
     "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
+  "マイクロビキニ(白)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "simple white zip hoodie",
+    "girlBottom": "white bikini panties",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "0",
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
