@@ -133,7 +133,7 @@
     "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "",
+    "girlTop": "simple white zip hoodie",
     "girlBottom": "simple bikini panties,white bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
@@ -143,15 +143,15 @@
     "characterOnly": ""
   },
   "マイクロビキニ(白)": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "simple white zip hoodie",
-    "girlBottom": "white bikini panties",
+    "girlTop": "bikini bra",
+    "girlBottom": "simple bikini panties,white bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
     "bra": "",
-    "clothesTopStatus": "0",
+    "clothesTopStatus": "1",
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
