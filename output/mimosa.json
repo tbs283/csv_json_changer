@@ -47,7 +47,7 @@
         "composition": "dutch-angle,from front,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "looking at viewer, glareing at viewer, facing viewer, hidden own breast and crotch",
+        "girlAction": "looking at viewer, facing viewer, hidden own breast and crotch",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -58,7 +58,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -84,7 +84,7 @@
         "composition": "dutch-angle,from front,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "looking at viewer, glareing at viewer, facing viewer, hidden own breast and crotch,leaning forward",
+        "girlAction": "looking at viewer, facing viewer, hidden own breast and crotch,leaning forward",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -95,7 +95,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -121,7 +121,7 @@
         "composition": "dutch-angle,from front,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "upward gaze, facing viewer, hidden own breast and crotch,wariza",
+        "girlAction": "upward gaze, facing viewer, hidden own breast and crotch,wariza,on the bed",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -132,7 +132,44 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "23",
+      "seed_id": ""
+    },
+    {
+      "title": "睨み(M字)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "0",
+        "girl": "",
+        "composition": "dutch-angle,from above,straight-on,cowboy shot",
+        "play": "1 girl",
+        "girlLooking": "",
+        "girlAction": "looking at viewer, facing viewer, lying on back on the bed, m legs,on the bed",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background",
+        "bgWall": "pink curtain",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -195,7 +232,7 @@
         "composition": "dutch-angle,from front,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "looking at viewer, glareing at viewer, facing viewer, paw pose,one hand up",
+        "girlAction": "looking at viewer, facing viewer, paw pose,one hand up",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -206,7 +243,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -232,7 +269,7 @@
         "composition": "dutch-angle,from front,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "upward gaze, facing viewer, paw pose,one hand up,wariza",
+        "girlAction": "upward gaze, facing viewer, paw pose,one hand up,wariza,on the bed",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -243,7 +280,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -260,7 +297,7 @@
       "seed_id": ""
     },
     {
-      "title": "睨み(猫ポーズ/女の子座り)",
+      "title": "睨み(猫ポーズ/四つん這い)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
@@ -269,7 +306,7 @@
         "composition": "dutch-angle,from below,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "looking at viewer, facing viewer, paw pose,one hand up,all fours",
+        "girlAction": "looking at viewer, facing viewer, paw pose,one hand up,all fours,on the bed",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -280,7 +317,44 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "2",
+      "縦横比": "",
+      "clothesFlg": "23",
+      "seed_id": ""
+    },
+    {
+      "title": "睨み(猫ポーズ/M字)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "0",
+        "girl": "",
+        "composition": "dutch-angle,from above,straight-on,cowboy shot",
+        "play": "1 girl",
+        "girlLooking": "",
+        "girlAction": "looking at viewer, facing viewer, paw pose,one hand up, lying on back on the bed, m legs",
+        "male": "",
+        "r18": "",
+        "bgBase": "blurred background",
+        "bgWall": "pink curtain",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -343,7 +417,7 @@
         "composition": "dutch-angle,from front,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "upward gaze, facing viewer, bunny ears pose,wariza",
+        "girlAction": "upward gaze, facing viewer, bunny ears pose,wariza,on the bed",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -354,81 +428,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "",
-      "clothesFlg": "23",
-      "seed_id": ""
-    },
-    {
-      "title": "睨み(M字)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "motionFlg": "0",
-        "girl": "",
-        "composition": "dutch-angle,from above,straight-on,cowboy shot",
-        "play": "1 girl",
-        "girlLooking": "",
-        "girlAction": "looking at viewer, glareing at viewer, facing viewer, lying on back on the bed, m legs",
-        "male": "",
-        "r18": "",
-        "bgBase": "blurred background",
-        "bgWall": "pink curtain",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "",
-        "clothesTopStatus": "",
-        "clothesBottomStatus": "",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
-      "縦横比": "",
-      "clothesFlg": "23",
-      "seed_id": ""
-    },
-    {
-      "title": "睨み(猫ポーズ/M字)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "motionFlg": "0",
-        "girl": "",
-        "composition": "dutch-angle,from above,straight-on,cowboy shot",
-        "play": "1 girl",
-        "girlLooking": "",
-        "girlAction": "looking at viewer, glareing at viewer, facing viewer, paw pose,one hand up, lying on back on the bed, m legs",
-        "male": "",
-        "r18": "",
-        "bgBase": "blurred background",
-        "bgWall": "pink curtain",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -454,7 +454,7 @@
         "composition": "dutch-angle,from above,straight-on,cowboy shot",
         "play": "1 girl",
         "girlLooking": "",
-        "girlAction": "looking at viewer, glareing at viewer, facing viewer, bunny ears pose, lying on back on the bed, m legs",
+        "girlAction": "looking at viewer, facing viewer, bunny ears pose, lying on back on the bed, m legs",
         "male": "",
         "r18": "",
         "bgBase": "blurred background",
@@ -465,7 +465,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "sweat,embarrassed,shamed, resisting,defensive posture",
+        "girlAction": "sweat,embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -496,7 +496,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -533,7 +533,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -570,7 +570,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -607,7 +607,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -644,7 +644,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -681,7 +681,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -718,7 +718,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -755,7 +755,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -792,7 +792,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1310,7 +1310,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1347,7 +1347,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1384,7 +1384,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1421,7 +1421,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1458,7 +1458,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1495,7 +1495,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1532,8 +1532,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -1569,7 +1569,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1606,7 +1606,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1643,7 +1643,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1717,7 +1717,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1754,7 +1754,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1791,7 +1791,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1828,8 +1828,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -1865,8 +1865,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -1902,8 +1902,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -1939,8 +1939,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -1976,8 +1976,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -2013,7 +2013,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2050,7 +2050,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2087,7 +2087,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2124,7 +2124,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2161,7 +2161,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2198,7 +2198,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2235,7 +2235,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2420,7 +2420,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2457,7 +2457,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2494,7 +2494,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2531,7 +2531,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background",
         "bgWall": "pink curtain",
-        "bgGround": "pink carpet",
+        "bgGround": "white sheets",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -2568,8 +2568,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -2605,8 +2605,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -2642,8 +2642,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
@@ -2679,8 +2679,8 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "",
         "bgWall": "",
-        "bgGround": "pink carpet",
-        "bgFloor": "",
+        "bgGround": "white sheets",
+        "bgFloor": "pink carpet",
         "male_c": "",
         "girlCount": ""
       },
