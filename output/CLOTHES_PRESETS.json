@@ -130,7 +130,7 @@
     "characterOnly": ""
   },
   "ビキニパーカー": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "string bikini",
     "girlHead": "",
     "girlOuter": "simple white zip hoodie",
     "girlTop": "bikini bra",
@@ -143,11 +143,11 @@
     "characterOnly": ""
   },
   "マイクロビキニ(白)": {
-    "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
+    "girlBaseClothes": "micro bikini,white string bikini",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "bikini bra",
-    "girlBottom": "simple bikini panties,white bikini panties",
+    "girlBottom": "bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
     "bra": "",
@@ -156,11 +156,11 @@
     "characterOnly": ""
   },
   "マイクロビキニ(黒)": {
-    "girlBaseClothes": "simple micro bikini,black bikini,very small bikini,",
+    "girlBaseClothes": "micro bikini,black string bikini",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "bikini bra",
-    "girlBottom": "simple bikini panties,black bikini panties",
+    "girlBottom": "bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
     "bra": "",
@@ -169,11 +169,11 @@
     "characterOnly": ""
   },
   "マイクロビキニ(金)": {
-    "girlBaseClothes": "simple micro bikini,gold bikini,very small bikini,",
+    "girlBaseClothes": "micro bikini,gold string bikini",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "bikini bra",
-    "girlBottom": "simple bikini panties,gold bikini panties",
+    "girlBottom": "bikini panties",
     "girlUnder": "barefoot",
     "panties": "",
     "bra": "",
