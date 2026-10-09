@@ -3645,6 +3645,15 @@
         "defaultHairStyle": "",
         "title": "ichigo 100 percent"
     },
+    "僕の心のやばいやつ/山田": {
+        "prompt": "yamada anna (anime), boku no kokoro no yabai yatsu, ",
+        "tag": [
+            "僕の心のやばいやつ"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "boku no kokoro no yabai yatsu"
+    },
     "かの借り/水原": {
         "prompt": "mizuhara chizuru, kanojo okarishimasu, ",
         "tag": [
