@@ -6369,6 +6369,43 @@
       "seed_id": ""
     },
     {
+      "title": "立バック(窓越し)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "red collar",
+        "composition": "dynamic diagonal composition, datch-angle,girl fills frame,upper body shot,from front,straight-on",
+        "play": "1 girl,window frame,sex from behind",
+        "girlLooking": "",
+        "girlAction": "facing viewer,against door,breasts on glass",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,standing,grabbing waist",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park,night",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "forsed orgasm, tears,heavy breath",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": ""
+    },
+    {
       "title": "立位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -6379,7 +6416,7 @@
         "play": "1 girl,standing position,face-to-face,",
         "girlLooking": "8",
         "girlAction": "passenger around the girl,stand up,one leg up,hugging,standing on one leg",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,standing,grabbing waist",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,grabbing leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -6440,7 +6477,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": ""
+      "seed_id": "80"
     },
     {
       "title": "バック(尻上げ/正面)",
@@ -6453,43 +6490,6 @@
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,grabbing leg",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "blurred background, park,night",
-        "bgWall": "",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "squinting,tears,heavy breath,screaming",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "2",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "80"
-    },
-    {
-      "title": "バック(腕掴み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "1",
-        "girl": "red collar",
-        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from front",
-        "play": "1 girl, sex from behind",
-        "girlLooking": "100",
-        "girlAction": "facing up, kneeling",
         "male": "completely nude man, sex from behind,grabbing ass,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
@@ -6517,16 +6517,16 @@
       "seed_id": ""
     },
     {
-      "title": "バック(尻上げ/正面/斜め)",
+      "title": "バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "1",
         "girl": "red collar",
-        "composition": "dutch-angle,dynamic diagonal composition, girl fills frame,boy partially visible,from front",
+        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from front",
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
-        "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
+        "girlAction": "facing up, kneeling",
         "male": "completely nude man, sex from behind,grabbing girl's arms",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
@@ -6554,13 +6554,13 @@
       "seed_id": "81"
     },
     {
-      "title": "バック(尻上げ/横)",
+      "title": "バック(尻上げ/正面/斜め)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
         "motionFlg": "1",
         "girl": "red collar",
-        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from side,side shot,side view",
+        "composition": "dutch-angle,dynamic diagonal composition, girl fills frame,boy partially visible,from front",
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
@@ -6591,6 +6591,43 @@
       "seed_id": "82"
     },
     {
+      "title": "バック(尻上げ/横)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "red collar",
+        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from side,side shot,side view",
+        "play": "1 girl, sex from behind",
+        "girlLooking": "100",
+        "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
+        "male": "completely nude man's lower body,  sex from behind,grabbing ass,",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park,night",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "squinting,tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "83"
+    },
+    {
       "title": "バック(尻上げ/上から)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -6601,7 +6638,7 @@
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
-        "male": "completely nude man's lower body,  sex from behind,grabbing ass,",
+        "male": "completely nude man, sex from behind,grabbing ass,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park,night",
         "bgWall": "",
@@ -6625,7 +6662,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "83"
+      "seed_id": "267"
     },
     {
       "title": "バック(尻上げ/後ろ)",
@@ -6638,7 +6675,7 @@
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
-        "male": "completely nude man, sex from behind,grabbing ass,",
+        "male": "completely nude man, sex from behind,out of frame,penetration,grabbing ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -6662,7 +6699,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "267"
+      "seed_id": "84"
     },
     {
       "title": "バック(横から)",
@@ -6675,7 +6712,7 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "leaning forward,all fours,",
-        "male": "completely nude man, sex from behind,out of frame,penetration,grabbing ass",
+        "male": "completely nude man's lower body,  sex from behind,grabbing waist,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -6699,7 +6736,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "84"
+      "seed_id": "85"
     },
     {
       "title": "バック(下から)",
@@ -6712,7 +6749,7 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "all fours,",
-        "male": "completely nude man's lower body,  sex from behind,grabbing waist,cropped head",
+        "male": "completely nude man, sex from behind,grabbing waist,penetration,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -6749,7 +6786,7 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "all fours",
-        "male": "completely nude man, sex from behind,grabbing waist,penetration,cropped head",
+        "male": "completely nude man,bald head, sex from behind,grabbing waist,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -6773,7 +6810,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "85"
+      "seed_id": "270"
     },
     {
       "title": "バック(横から/振り向き)",
@@ -6786,43 +6823,6 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "leaning forward,all fours,",
-        "male": "completely nude man,bald head, sex from behind,grabbing waist,penetration",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "blurred background, park,night",
-        "bgWall": "",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "squinting,tears,heavy breath,screaming",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "270"
-    },
-    {
-      "title": "バック(横から/振り向き/足上げ)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "1",
-        "girl": "red collar",
-        "composition": "girl fills frame, full body shot,pussy focus, boy partially visible,from side,character focus,",
-        "play": "1 girl, doggystyle,",
-        "girlLooking": "100",
-        "girlAction": "leaning forward,leg up",
         "male": "completely nude man's lower body,  sex from behind,grabbing waist,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
@@ -6850,6 +6850,43 @@
       "seed_id": "271"
     },
     {
+      "title": "バック(横から/振り向き/足上げ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
+        "motionFlg": "1",
+        "girl": "red collar",
+        "composition": "girl fills frame, full body shot,pussy focus, boy partially visible,from side,character focus,",
+        "play": "1 girl, doggystyle,",
+        "girlLooking": "100",
+        "girlAction": "leaning forward,leg up",
+        "male": "completely nude man,faceless, sex from behind,holding girl's leg,cropped head,face out of frame",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park,night",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "squinting,tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "472"
+    },
+    {
       "title": "仰向け(挿入乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -6860,7 +6897,7 @@
         "play": "1 girl, nipples",
         "girlLooking": "100",
         "girlAction": "looking away,averting eyes,head on the pillow,lying on back on the ground",
-        "male": "completely nude man,faceless, sex from behind,holding girl's leg,cropped head,face out of frame",
+        "male": "completely nude man, penis,leaned over the girl,riding on the girl,grabbing breast",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park,night",
         "bgWall": "",
@@ -6884,7 +6921,7 @@
       "キャラヘッダフラグ": "2",
       "縦横比": "",
       "clothesFlg": "15",
-      "seed_id": "472"
+      "seed_id": "98"
     },
     {
       "title": "正常位(腕掴み)",
@@ -6897,7 +6934,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground",
-        "male": "completely nude man, penis,leaned over the girl,riding on the girl,grabbing breast",
+        "male": "completely nude man,pov, penis,grabing wrist,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park,night",
         "bgWall": "",
@@ -6934,7 +6971,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground,chest out,arching upper body,facing up,throwing up arms",
-        "male": "completely nude man,pov, penis,grabing wrist,penetration",
+        "male": "completely nude man,pov, grabbing thigh,penis,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park,night",
         "bgWall": "",
@@ -6971,7 +7008,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground,chest out,arching upper body,facing up,throwing up arms",
-        "male": "completely nude man,pov, grabbing thigh,penis,penetration",
+        "male": "completely nude man,pov, grabbing waist,penis,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park,night",
         "bgWall": "",
@@ -7008,7 +7045,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground,chest out,arching upper body,facing up,throwing up arms",
-        "male": "completely nude man,pov, grabbing waist,penis,penetration",
+        "male": "completely nude man,pov, grabbing breast,penis,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park,night",
         "bgWall": "",
@@ -7032,7 +7069,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "98"
+      "seed_id": "96"
     },
     {
       "title": "正常位(口抑え)",
@@ -7045,7 +7082,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,(open eyes | closing eyes),the head on the ground,lying on back on the ground",
-        "male": "completely nude man,pov, grabbing breast,penis,penetration",
+        "male": "completely nude man, pov, penis,grabbing thigh,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park,night",
         "bgWall": "",
@@ -7069,7 +7106,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "96"
+      "seed_id": "97"
     },
     {
       "title": "正常位(口抑え/横)",
@@ -7106,7 +7143,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "97"
+      "seed_id": "104"
     },
     {
       "title": "側位",
@@ -7119,7 +7156,7 @@
         "play": "1 girl, spooning,",
         "girlLooking": "100",
         "girlAction": "legs together, the head on the ground, lying on side on the ground",
-        "male": "completely nude man, pov, penis,grabbing thigh,penetration",
+        "male": "completely nude man,  kneeling,penetrating from below,grabbing ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7156,7 +7193,7 @@
         "play": "1 girl, spooning,",
         "girlLooking": "100",
         "girlAction": "legs together, the head on the ground, lying on side on the ground",
-        "male": "completely nude man,  kneeling,penetrating from below,grabbing ass",
+        "male": "completely nude man, smiling man,faceless,bald head,penetrating,grabbing breast from behing,lying on side",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7180,7 +7217,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "104"
+      "seed_id": "105"
     },
     {
       "title": "側位(開脚)",
@@ -7193,7 +7230,7 @@
         "play": "1 girl, spooning",
         "girlLooking": "100",
         "girlAction": "leg up, the head on the ground, lying on side on the ground",
-        "male": "completely nude man, smiling man,faceless,bald head,penetrating,grabbing breast from behing,lying on side",
+        "male": "completely nude man, kneeling,penetrating from below,grabbing leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7217,7 +7254,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "105"
+      "seed_id": "109"
     },
     {
       "title": "騎乗位(手つなぎ)",
@@ -7230,7 +7267,7 @@
         "play": "1 girl, cowgirl position,holding hands",
         "girlLooking": "100",
         "girlAction": "leaning forward,sitting, connecting with the viewers by both hands",
-        "male": "completely nude man, kneeling,penetrating from below,grabbing leg",
+        "male": "completely nude man, lying on the ground,penetrating",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7291,7 +7328,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "109"
+      "seed_id": "112"
     },
     {
       "title": "騎乗位(後ろ正面)",
@@ -7304,7 +7341,7 @@
         "play": "1 girl, cowgirl position",
         "girlLooking": "100",
         "girlAction": "leaning back,sitting,both hands on another's body behind,arms supporting body,chest out",
-        "male": "completely nude man, lying on the ground,penetrating",
+        "male": "completely nude man,pov, lying on the ground,penetrating",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7328,7 +7365,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "112"
+      "seed_id": "128"
     },
     {
       "title": "背面駅弁(M字)",
@@ -7341,7 +7378,7 @@
         "play": "1 girl,reverse suspended congress,",
         "girlLooking": "1",
         "girlAction": "facing viewer,leaning back,m legs,",
-        "male": "completely nude man,pov, lying on the ground,penetrating",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,grabbing girl's legs,stand up,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7365,7 +7402,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "128"
+      "seed_id": "129"
     },
     {
       "title": "背面駅弁(V字)",
@@ -7402,7 +7439,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "129"
+      "seed_id": "130"
     },
     {
       "title": "羽交い絞めセックス",
@@ -7415,7 +7452,7 @@
         "play": "1 girl,full nelson,",
         "girlLooking": "1",
         "girlAction": "facing viewer,leaning back,v legs,",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,grabbing girl's legs,stand up,",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,stand up,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7439,7 +7476,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "130"
+      "seed_id": "132"
     },
     {
       "title": "駅弁事後",
@@ -7452,7 +7489,7 @@
         "play": "1 girl,after sex,",
         "girlLooking": "1",
         "girlAction": "facing viewer,leaning back,m legs,dripping semen,forsed  orgasm,squirting",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,stand up,",
+        "male": "completely nude man,faceless,smiling man,bald head, holding up girl from behind,grabbing girl's legs,stand up",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park,night",
         "bgWall": "",
@@ -7474,43 +7511,6 @@
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "132"
-    },
-    {
-      "title": "事後(M字開脚)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
-        "motionFlg": "0",
-        "girl": "red collar",
-        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,dutch-angle,from below,feet out of frame",
-        "play": "1 girl,  solo,after sex,",
-        "girlLooking": "100",
-        "girlAction": "facing viewer, leaning back,m legs,dripping semen,sitting on the ground",
-        "male": "completely nude man,faceless,smiling man,bald head, holding up girl from behind,grabbing girl's legs,stand up",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "blurred background, park,night",
-        "bgWall": "",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "crying,terror,sad,tear,embarrassed,shamed,heavy breath,screaming",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "133"
@@ -54166,6 +54166,43 @@
       "seed_id": ""
     },
     {
+      "title": "立バック(窓越し)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "red collar",
+        "composition": "dynamic diagonal composition, datch-angle,girl fills frame,upper body shot,from front,straight-on",
+        "play": "1 girl,window frame,sex from behind",
+        "girlLooking": "",
+        "girlAction": "facing viewer,against door,breasts on glass",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,standing,grabbing waist",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "forsed orgasm, tears,heavy breath",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無理矢理(怯え)",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": ""
+    },
+    {
       "title": "立位",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -54176,7 +54213,7 @@
         "play": "1 girl,standing position,face-to-face,",
         "girlLooking": "8",
         "girlAction": "passenger around the girl,stand up,one leg up,hugging,standing on one leg",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,standing,grabbing waist",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,grabbing leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -54237,7 +54274,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "127",
-      "seed_id": ""
+      "seed_id": "80"
     },
     {
       "title": "バック(尻上げ/正面)",
@@ -54250,43 +54287,6 @@
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,grabbing leg",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "blurred background, park",
-        "bgWall": "",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "squinting,tears,heavy breath,screaming",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "2",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "80"
-    },
-    {
-      "title": "バック(腕掴み)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "motionFlg": "1",
-        "girl": "red collar",
-        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from front",
-        "play": "1 girl, sex from behind",
-        "girlLooking": "100",
-        "girlAction": "facing up, kneeling",
         "male": "completely nude man, sex from behind,grabbing ass,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
@@ -54314,16 +54314,16 @@
       "seed_id": ""
     },
     {
-      "title": "バック(尻上げ/正面/斜め)",
+      "title": "バック(腕掴み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "1",
         "girl": "red collar",
-        "composition": "dutch-angle,dynamic diagonal composition, girl fills frame,boy partially visible,from front",
+        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from front",
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
-        "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
+        "girlAction": "facing up, kneeling",
         "male": "completely nude man, sex from behind,grabbing girl's arms",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
@@ -54351,13 +54351,13 @@
       "seed_id": "81"
     },
     {
-      "title": "バック(尻上げ/横)",
+      "title": "バック(尻上げ/正面/斜め)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "1",
         "girl": "red collar",
-        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from side,side shot,side view",
+        "composition": "dutch-angle,dynamic diagonal composition, girl fills frame,boy partially visible,from front",
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
@@ -54388,6 +54388,43 @@
       "seed_id": "82"
     },
     {
+      "title": "バック(尻上げ/横)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "red collar",
+        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,from side,side shot,side view",
+        "play": "1 girl, sex from behind",
+        "girlLooking": "100",
+        "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
+        "male": "completely nude man's lower body,  sex from behind,grabbing ass,",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "squinting,tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "2",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "83"
+    },
+    {
       "title": "バック(尻上げ/上から)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -54398,7 +54435,7 @@
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
-        "male": "completely nude man's lower body,  sex from behind,grabbing ass,",
+        "male": "completely nude man, sex from behind,grabbing ass,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park",
         "bgWall": "",
@@ -54422,7 +54459,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "83"
+      "seed_id": "267"
     },
     {
       "title": "バック(尻上げ/後ろ)",
@@ -54435,7 +54472,7 @@
         "play": "1 girl, sex from behind",
         "girlLooking": "100",
         "girlAction": "The chin is touching the ground,The body is facing the ground,top-down bottom-up.,the head put on the ground, sex from behind",
-        "male": "completely nude man, sex from behind,grabbing ass,",
+        "male": "completely nude man, sex from behind,out of frame,penetration,grabbing ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -54459,7 +54496,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "267"
+      "seed_id": "84"
     },
     {
       "title": "バック(横から)",
@@ -54472,7 +54509,7 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "leaning forward,all fours,",
-        "male": "completely nude man, sex from behind,out of frame,penetration,grabbing ass",
+        "male": "completely nude man's lower body,  sex from behind,grabbing waist,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -54496,7 +54533,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "84"
+      "seed_id": "85"
     },
     {
       "title": "バック(下から)",
@@ -54509,7 +54546,7 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "all fours,",
-        "male": "completely nude man's lower body,  sex from behind,grabbing waist,cropped head",
+        "male": "completely nude man, sex from behind,grabbing waist,penetration,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -54546,7 +54583,7 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "all fours",
-        "male": "completely nude man, sex from behind,grabbing waist,penetration,cropped head",
+        "male": "completely nude man,bald head, sex from behind,grabbing waist,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -54570,7 +54607,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "85"
+      "seed_id": "270"
     },
     {
       "title": "バック(横から/振り向き)",
@@ -54583,43 +54620,6 @@
         "play": "1 girl, doggystyle,",
         "girlLooking": "100",
         "girlAction": "leaning forward,all fours,",
-        "male": "completely nude man,bald head, sex from behind,grabbing waist,penetration",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "blurred background, park",
-        "bgWall": "",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "squinting,tears,heavy breath,screaming",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "270"
-    },
-    {
-      "title": "バック(横から/振り向き/足上げ)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "motionFlg": "1",
-        "girl": "red collar",
-        "composition": "girl fills frame, full body shot,pussy focus, boy partially visible,from side,character focus,",
-        "play": "1 girl, doggystyle,",
-        "girlLooking": "100",
-        "girlAction": "leaning forward,leg up",
         "male": "completely nude man's lower body,  sex from behind,grabbing waist,cropped head",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
@@ -54647,6 +54647,43 @@
       "seed_id": "271"
     },
     {
+      "title": "バック(横から/振り向き/足上げ)",
+      "base": {
+        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
+        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
+        "motionFlg": "1",
+        "girl": "red collar",
+        "composition": "girl fills frame, full body shot,pussy focus, boy partially visible,from side,character focus,",
+        "play": "1 girl, doggystyle,",
+        "girlLooking": "100",
+        "girlAction": "leaning forward,leg up",
+        "male": "completely nude man,faceless, sex from behind,holding girl's leg,cropped head,face out of frame",
+        "r18": "nsfw,mosaic censoring,",
+        "bgBase": "blurred background, park",
+        "bgWall": "",
+        "bgGround": "",
+        "bgFloor": "",
+        "male_c": "",
+        "girlCount": ""
+      },
+      "charaVariable": {
+        "girlAction": "squinting,tears,heavy breath,screaming",
+        "girlAction_c2": "",
+        "girlAction_c3": "",
+        "girlExpression": "無し",
+        "clothesTopStatus": "opend clothes,pull up bra,",
+        "clothesBottomStatus": "pulled up skirt",
+        "girlTop": "",
+        "girlBottom": "",
+        "girlUnder": ""
+      },
+      "上下フラグ": "",
+      "キャラヘッダフラグ": "1",
+      "縦横比": "",
+      "clothesFlg": "63",
+      "seed_id": "472"
+    },
+    {
       "title": "仰向け(挿入乳揉み)",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
@@ -54657,7 +54694,7 @@
         "play": "1 girl, nipples",
         "girlLooking": "100",
         "girlAction": "looking away,averting eyes,head on the pillow,lying on back on the ground",
-        "male": "completely nude man,faceless, sex from behind,holding girl's leg,cropped head,face out of frame",
+        "male": "completely nude man, penis,leaned over the girl,riding on the girl,grabbing breast",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park",
         "bgWall": "",
@@ -54681,7 +54718,7 @@
       "キャラヘッダフラグ": "2",
       "縦横比": "",
       "clothesFlg": "15",
-      "seed_id": "472"
+      "seed_id": "98"
     },
     {
       "title": "正常位(腕掴み)",
@@ -54694,7 +54731,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground",
-        "male": "completely nude man, penis,leaned over the girl,riding on the girl,grabbing breast",
+        "male": "completely nude man,pov, penis,grabing wrist,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park",
         "bgWall": "",
@@ -54731,7 +54768,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground,chest out,arching upper body,facing up,throwing up arms",
-        "male": "completely nude man,pov, penis,grabing wrist,penetration",
+        "male": "completely nude man,pov, grabbing thigh,penis,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park",
         "bgWall": "",
@@ -54768,7 +54805,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground,chest out,arching upper body,facing up,throwing up arms",
-        "male": "completely nude man,pov, grabbing thigh,penis,penetration",
+        "male": "completely nude man,pov, grabbing waist,penis,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park",
         "bgWall": "",
@@ -54805,7 +54842,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,the head on the ground,lying on back on the ground,chest out,arching upper body,facing up,throwing up arms",
-        "male": "completely nude man,pov, grabbing waist,penis,penetration",
+        "male": "completely nude man,pov, grabbing breast,penis,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park",
         "bgWall": "",
@@ -54829,7 +54866,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "98"
+      "seed_id": "96"
     },
     {
       "title": "正常位(口抑え)",
@@ -54842,7 +54879,7 @@
         "play": "1 girl, missionary",
         "girlLooking": "100",
         "girlAction": "m legs,(open eyes | closing eyes),the head on the ground,lying on back on the ground",
-        "male": "completely nude man,pov, grabbing breast,penis,penetration",
+        "male": "completely nude man, pov, penis,grabbing thigh,penetration",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "park",
         "bgWall": "",
@@ -54866,7 +54903,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "96"
+      "seed_id": "97"
     },
     {
       "title": "正常位(口抑え/横)",
@@ -54903,7 +54940,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "97"
+      "seed_id": "104"
     },
     {
       "title": "側位",
@@ -54916,7 +54953,7 @@
         "play": "1 girl, spooning,",
         "girlLooking": "100",
         "girlAction": "legs together, the head on the ground, lying on side on the ground",
-        "male": "completely nude man, pov, penis,grabbing thigh,penetration",
+        "male": "completely nude man,  kneeling,penetrating from below,grabbing ass",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -54953,7 +54990,7 @@
         "play": "1 girl, spooning,",
         "girlLooking": "100",
         "girlAction": "legs together, the head on the ground, lying on side on the ground",
-        "male": "completely nude man,  kneeling,penetrating from below,grabbing ass",
+        "male": "completely nude man, smiling man,faceless,bald head,penetrating,grabbing breast from behing,lying on side",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -54977,7 +55014,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "104"
+      "seed_id": "105"
     },
     {
       "title": "側位(開脚)",
@@ -54990,7 +55027,7 @@
         "play": "1 girl, spooning",
         "girlLooking": "100",
         "girlAction": "leg up, the head on the ground, lying on side on the ground",
-        "male": "completely nude man, smiling man,faceless,bald head,penetrating,grabbing breast from behing,lying on side",
+        "male": "completely nude man, kneeling,penetrating from below,grabbing leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -55014,7 +55051,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "105"
+      "seed_id": "109"
     },
     {
       "title": "騎乗位(手つなぎ)",
@@ -55027,7 +55064,7 @@
         "play": "1 girl, cowgirl position,holding hands",
         "girlLooking": "100",
         "girlAction": "leaning forward,sitting, connecting with the viewers by both hands",
-        "male": "completely nude man, kneeling,penetrating from below,grabbing leg",
+        "male": "completely nude man, lying on the ground,penetrating",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -55088,7 +55125,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "109"
+      "seed_id": "112"
     },
     {
       "title": "騎乗位(後ろ正面)",
@@ -55101,7 +55138,7 @@
         "play": "1 girl, cowgirl position",
         "girlLooking": "100",
         "girlAction": "leaning back,sitting,both hands on another's body behind,arms supporting body,chest out",
-        "male": "completely nude man, lying on the ground,penetrating",
+        "male": "completely nude man,pov, lying on the ground,penetrating",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -55125,7 +55162,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "112"
+      "seed_id": "128"
     },
     {
       "title": "背面駅弁(M字)",
@@ -55138,7 +55175,7 @@
         "play": "1 girl,reverse suspended congress,",
         "girlLooking": "1",
         "girlAction": "facing viewer,leaning back,m legs,",
-        "male": "completely nude man,pov, lying on the ground,penetrating",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,grabbing girl's legs,stand up,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -55162,7 +55199,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "128"
+      "seed_id": "129"
     },
     {
       "title": "背面駅弁(V字)",
@@ -55199,7 +55236,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "129"
+      "seed_id": "130"
     },
     {
       "title": "羽交い絞めセックス",
@@ -55212,7 +55249,7 @@
         "play": "1 girl,full nelson,",
         "girlLooking": "1",
         "girlAction": "facing viewer,leaning back,v legs,",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,grabbing girl's legs,stand up,",
+        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,stand up,",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -55236,7 +55273,7 @@
       "キャラヘッダフラグ": "1",
       "縦横比": "",
       "clothesFlg": "63",
-      "seed_id": "130"
+      "seed_id": "132"
     },
     {
       "title": "駅弁事後",
@@ -55249,7 +55286,7 @@
         "play": "1 girl,after sex,",
         "girlLooking": "1",
         "girlAction": "facing viewer,leaning back,m legs,dripping semen,forsed  orgasm,squirting",
-        "male": "completely nude man,faceless,smiling man,bald head, penetrating,holding up girl,stand up,",
+        "male": "completely nude man,faceless,smiling man,bald head, holding up girl from behind,grabbing girl's legs,stand up",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, park",
         "bgWall": "",
@@ -55271,43 +55308,6 @@
       },
       "上下フラグ": "",
       "キャラヘッダフラグ": "1",
-      "縦横比": "",
-      "clothesFlg": "63",
-      "seed_id": "132"
-    },
-    {
-      "title": "事後(M字開脚)",
-      "base": {
-        "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
-        "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-        "motionFlg": "0",
-        "girl": "red collar",
-        "composition": "dynamic diagonal composition, girl fills frame,boy partially visible,dutch-angle,from below,feet out of frame",
-        "play": "1 girl,  solo,after sex,",
-        "girlLooking": "100",
-        "girlAction": "facing viewer, leaning back,m legs,dripping semen,sitting on the ground",
-        "male": "completely nude man,faceless,smiling man,bald head, holding up girl from behind,grabbing girl's legs,stand up",
-        "r18": "nsfw,mosaic censoring,",
-        "bgBase": "blurred background, park",
-        "bgWall": "",
-        "bgGround": "",
-        "bgFloor": "",
-        "male_c": "",
-        "girlCount": ""
-      },
-      "charaVariable": {
-        "girlAction": "crying,terror,sad,tear,embarrassed,shamed,heavy breath,screaming",
-        "girlAction_c2": "",
-        "girlAction_c3": "",
-        "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra,",
-        "clothesBottomStatus": "pulled up skirt",
-        "girlTop": "",
-        "girlBottom": "",
-        "girlUnder": ""
-      },
-      "上下フラグ": "",
-      "キャラヘッダフラグ": "2",
       "縦横比": "",
       "clothesFlg": "63",
       "seed_id": "133"
