@@ -5575,7 +5575,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "{trench coat},embarrassed,heavy breath,tears,blush",
+        "girlAction": "{trench coat,nipples},embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -5612,7 +5612,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "{trench coat},embarrassed,heavy breath,tears,blush",
+        "girlAction": "{trench coat,nipples},embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -5760,7 +5760,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "embarrassed,heavy breath,tears,blush",
+        "girlAction": "nipples,embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -5834,7 +5834,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "embarrassed,heavy breath,tears,blush",
+        "girlAction": "nipples,embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -53631,7 +53631,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "{trench coat},embarrassed,heavy breath,tears,blush",
+        "girlAction": "{trench coat,nipples},embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -53668,7 +53668,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "{trench coat},embarrassed,heavy breath,tears,blush",
+        "girlAction": "{trench coat,nipples},embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -53816,7 +53816,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "embarrassed,heavy breath,tears,blush",
+        "girlAction": "nipples,embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
@@ -53890,7 +53890,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "embarrassed,heavy breath,tears,blush",
+        "girlAction": "nipples,embarrassed,heavy breath,tears,blush",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "",
