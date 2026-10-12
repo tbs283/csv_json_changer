@@ -2313,6 +2313,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"SAO/アスナ\""
   },
+  "SAO/アスナ(アーマー無し)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white tops,white sleeves,",
+    "girlBottom": "red skirt,red thigh-high socks",
+    "girlUnder": "red thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SAO/アスナ\""
+  },
   "SAO/アスナ(ALO)": {
     "girlBaseClothes": "white and blue clothes",
     "girlHead": "blue hair",
@@ -2391,6 +2404,19 @@
     "clothesBottomStatus": "4",
     "characterOnly": "\"SAO/シノン(ALO)\""
   },
+  "SAO/シノン(ALO)(アーマー無し)": {
+    "girlBaseClothes": "green and black clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "shorts",
+    "girlUnder": "black boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "4",
+    "characterOnly": "\"SAO/シノン(ALO)\""
+  },
   "SAO/シリカ": {
     "girlBaseClothes": "red and black clothes",
     "girlHead": "",
@@ -2401,6 +2427,19 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "3",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SAO/シリカ\""
+  },
+  "SAO/シリカ(アーマー無し)": {
+    "girlBaseClothes": "red and black clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "skirt, thigh-high socks",
+    "girlUnder": "thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
     "clothesBottomStatus": "0",
     "characterOnly": "\"SAO/シリカ\""
   },
@@ -2417,11 +2456,37 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"SAO/シリカ(ALO)\""
   },
+  "SAO/シリカ(ALO)(アーマー無し)": {
+    "girlBaseClothes": "red and black clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "skirt, thigh-high socks",
+    "girlUnder": "thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SAO/シリカ(ALO)\""
+  },
   "SAOユウキ": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "chest armor,black tops,purple sleeves,",
+    "girlBottom": "purple skirt,black thigh-high socks,",
+    "girlUnder": "black thigh-high socks,",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "3",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SAO/ユウキ\""
+  },
+  "SAOユウキ(アーマー無し)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "black tops,purple sleeves,",
     "girlBottom": "purple skirt,black thigh-high socks,",
     "girlUnder": "black thigh-high socks,",
     "panties": "white panties",
@@ -2453,6 +2518,19 @@
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "3",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SAO/アリス\""
+  },
+  "SAO/アリス(アーマー無し)": {
+    "girlBaseClothes": "golden armor,blue and white clothes",
+    "girlHead": "",
+    "girlOuter": "blue cape",
+    "girlTop": "",
+    "girlBottom": "long skirt",
+    "girlUnder": "golden boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
     "clothesBottomStatus": "0",
     "characterOnly": "\"SAO/アリス\""
   },
