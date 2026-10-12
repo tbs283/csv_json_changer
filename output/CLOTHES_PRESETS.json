@@ -389,6 +389,19 @@
     "clothesBottomStatus": "10",
     "characterOnly": ""
   },
+  "体操服(青)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white short-sleeved gym shirt with blue collar and sleeve bands,",
+    "girlBottom": "blue half poants,white socks,",
+    "girlUnder": "shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "7",
+    "characterOnly": ""
+  },
   "ブルマ(赤)": {
     "girlBaseClothes": "",
     "girlHead": "",
