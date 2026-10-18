@@ -2314,7 +2314,7 @@
     "characterOnly": "\"よう実/佐倉\""
   },
   "SAO/アスナ": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "red and white battle dress",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "chest armor,white tops,white sleeves,",
@@ -2327,7 +2327,7 @@
     "characterOnly": "\"SAO/アスナ\""
   },
   "SAO/アスナ(アーマー無し)": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "red and white battle dress",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "white tops,white sleeves,",
