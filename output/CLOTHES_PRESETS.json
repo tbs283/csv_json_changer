@@ -2482,6 +2482,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"SAO/シリカ(ALO)\""
   },
+  "SAO/リズベット": {
+    "girlBaseClothes": "red and white clothes",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "red ribbon tie",
+    "girlBottom": "white apron,red skirt",
+    "girlUnder": "brown boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SAO/リズベット\""
+  },
   "SAOユウキ": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -2515,6 +2528,19 @@
     "girlTop": "",
     "girlBottom": "skirt, thigh-high socks",
     "girlUnder": "black thigh-high socks,brown boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "4",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SAO/ロニエ\""
+  },
+  "SAO/ティーゼ": {
+    "girlBaseClothes": "black school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "skirt, thigh-high socks",
+    "girlUnder": "black socks,brown boots",
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "4",

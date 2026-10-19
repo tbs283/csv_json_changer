@@ -2961,6 +2961,15 @@
         "defaultHairStyle": "",
         "title": "sword art online"
     },
+    "SAO/リズベット": {
+        "prompt": "lisbeth (sao),sword art online,",
+        "tag": [
+            "SAO"
+        ],
+        "defaultClothes": "SAO/リズベット",
+        "defaultHairStyle": "",
+        "title": "sword art online"
+    },
     "SAO/ユウキ": {
         "prompt": "yuuki (sao),sword art online,",
         "tag": [
@@ -2976,6 +2985,15 @@
             "SAO"
         ],
         "defaultClothes": "SAO/ロニエ",
+        "defaultHairStyle": "",
+        "title": "sword art online"
+    },
+    "SAO/ティーゼ": {
+        "prompt": "tiese schtrinen,sword art online,",
+        "tag": [
+            "SAO"
+        ],
+        "defaultClothes": "SAO/ティーゼ",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
