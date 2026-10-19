@@ -2997,6 +2997,15 @@
         "defaultHairStyle": "",
         "title": "sword art online"
     },
+    "SAO/ソルティリーナ": {
+        "prompt": "sortiliena serlut, sword art online,",
+        "tag": [
+            "SAO"
+        ],
+        "defaultClothes": "SAO/ソルティリーナ",
+        "defaultHairStyle": "",
+        "title": "sword art online"
+    },
     "SAO/アリス": {
         "prompt": "alice zuberg,sword art online,",
         "tag": [
@@ -3013,6 +3022,15 @@
             "ロリ"
         ],
         "defaultClothes": "SAO/アリス(ロリ)",
+        "defaultHairStyle": "",
+        "title": "sword art online"
+    },
+    "SAO/セルカ": {
+        "prompt": "selka zuberg, sword art online,",
+        "tag": [
+            "SAO"
+        ],
+        "defaultClothes": "SAO/セルカ",
         "defaultHairStyle": "",
         "title": "sword art online"
     },
