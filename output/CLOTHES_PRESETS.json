@@ -2392,10 +2392,10 @@
     "characterOnly": "\"SAO/リーファ\""
   },
   "SAO/シノン": {
-    "girlBaseClothes": "white and black clothes",
-    "girlHead": "",
-    "girlOuter": "green outer",
-    "girlTop": "white scarf",
+    "girlBaseClothes": "military wear,white and black clothes",
+    "girlHead": "square hair ornament",
+    "girlOuter": "khaki jacket,short jacket,white scarf",
+    "girlTop": "white inner",
     "girlBottom": "shorts,green thigh-high socks",
     "girlUnder": "green thigh-high socks",
     "panties": "white panties",
