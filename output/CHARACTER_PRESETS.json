@@ -2705,7 +2705,7 @@
         "tag": [
             "ダンまち"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ダンまち/レフィーヤ",
         "defaultHairStyle": "",
         "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
@@ -2714,7 +2714,7 @@
         "tag": [
             "ダンまち"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ダンまち/ヘスティア",
         "defaultHairStyle": "",
         "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
@@ -2723,7 +2723,7 @@
         "tag": [
             "ダンまち"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ダンまち/アイズ",
         "defaultHairStyle": "",
         "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
@@ -2732,7 +2732,7 @@
         "tag": [
             "ダンまち"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ダンまち/春姫",
         "defaultHairStyle": "",
         "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
@@ -2741,7 +2741,7 @@
         "tag": [
             "ダンまち"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ダンまち/リュー",
         "defaultHairStyle": "",
         "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
@@ -2750,7 +2750,7 @@
         "tag": [
             "ダンまち"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "ダンまち/シル",
         "defaultHairStyle": "",
         "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
@@ -2759,8 +2759,8 @@
         "tag": [
             "ダンまち"
         ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultClothes": "ダンまち/リリ",
+        "defaultHairStyle": "ダンまち/リリ",
         "title": "dungeon ni deai wo motomeru no wa machigatte iru darouka"
     },
     "劣等生/司波深雪": {
