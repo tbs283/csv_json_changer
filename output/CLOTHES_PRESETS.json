@@ -2522,7 +2522,7 @@
     "characterOnly": "\"SAO/ユウキ\""
   },
   "SAO/ロニエ": {
-    "girlBaseClothes": "black school uniform",
+    "girlBaseClothes": "black uniform",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "",
@@ -2535,11 +2535,11 @@
     "characterOnly": "\"SAO/ロニエ\""
   },
   "SAO/ティーゼ": {
-    "girlBaseClothes": "black school uniform",
+    "girlBaseClothes": "black uniform",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "",
-    "girlBottom": "black skirt, thigh-high socks",
+    "girlBottom": "black skirt",
     "girlUnder": "black socks,brown boots",
     "panties": "white panties",
     "bra": "white bra",
