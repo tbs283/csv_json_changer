@@ -1026,6 +1026,19 @@
     "clothesBottomStatus": "4",
     "characterOnly": "\"リボーン/ユニ\""
   },
+  "遊戯王/ブラックマジシャンガール": {
+    "girlBaseClothes": "blue cothes with pink lines",
+    "girlHead": "blue witch hat",
+    "girlOuter": "",
+    "girlTop": "blue glove",
+    "girlBottom": "",
+    "girlUnder": "blue boots",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "7",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"遊戯王/ブラックマジシャンガール\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",

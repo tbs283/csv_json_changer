@@ -3582,6 +3582,15 @@
         "defaultHairStyle": "",
         "title": "d.gray-man"
     },
+    "遊戯王/ブラックマジシャンガール": {
+        "prompt": "dark magician girl, yu-gi-oh!,",
+        "tag": [
+            "遊戯王"
+        ],
+        "defaultClothes": "遊戯王/ブラックマジシャンガール",
+        "defaultHairStyle": "遊戯王/ブラックマジシャンガール",
+        "title": "yu-gi-oh!"
+    },
     "逃げ上手の若君/雫": {
         "prompt": "shizuku (nige jouzu no wakagimi), nige jouzu no wakagimi,",
         "tag": [
