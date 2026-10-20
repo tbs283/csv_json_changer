@@ -1039,6 +1039,32 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"遊戯王/ブラックマジシャンガール\""
   },
+  "推しの子/ルビー": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy jacket",
+    "girlTop": "black vest,white shirt,red ribbon tie",
+    "girlBottom": "gray skirt",
+    "girlUnder": "white socks,brown shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"推しの子/ルビー\""
+  },
+  "推しの子/かな": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "navy hat",
+    "girlOuter": "navy jacket",
+    "girlTop": "black vest,white shirt,red ribbon tie",
+    "girlBottom": "gray skirt",
+    "girlUnder": "white socks,brown shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"推しの子/かな\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
