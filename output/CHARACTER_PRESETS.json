@@ -5169,6 +5169,33 @@
         "defaultHairStyle": "",
         "title": "shuumatsu nani shitemasu ka?"
     },
+    "スパイファミリー/ヨル": {
+        "prompt": "yor briar, spy x family, ",
+        "tag": [
+            "スパイファミリー"
+        ],
+        "defaultClothes": "スパイファミリー/ヨル",
+        "defaultHairStyle": "スパイファミリー/ヨル",
+        "title": "spy x family"
+    },
+    "リコリコ/錦木千束": {
+        "prompt": "nishikigi chisato (anime), lycoris recoil,",
+        "tag": [
+            "リコリコ"
+        ],
+        "defaultClothes": "リコリコ/錦木千束",
+        "defaultHairStyle": "リコリコ/錦木千束",
+        "title": "lycoris recoil"
+    },
+    "リコリコ/井ノ上たきな": {
+        "prompt": "inoue takina (anime), lycoris recoil,",
+        "tag": [
+            "リコリコ"
+        ],
+        "defaultClothes": "リコリコ/井ノ上たきな",
+        "defaultHairStyle": "リコリコ/井ノ上たきな",
+        "title": "lycoris recoil"
+    },
     "/": {
         "prompt": "",
         "tag": [
