@@ -1195,6 +1195,58 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"FAIRYTAIL/ウェンディ\""
   },
+  "けいおん！/平沢憂": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy blazer",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "blue skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"けいおん！/平沢憂\""
+  },
+  "けいおん！/中野梓": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy blazer",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "blue skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"けいおん！/中野梓\",\"けいおん！/中野梓(日焼け)\""
+  },
+  "けいおん！/平沢唯": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy blazer",
+    "girlTop": "white shirt,blue ribbon tie",
+    "girlBottom": "blue skirt,black tights",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"けいおん！/平沢唯\""
+  },
+  "けいおん！/秋山澪": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy blazer",
+    "girlTop": "white shirt,blue ribbon tie",
+    "girlBottom": "blue skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"けいおん！/秋山澪\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
