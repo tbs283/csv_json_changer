@@ -1182,6 +1182,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"冴えない彼女の育てかた/加藤\""
   },
+  "FAIRYTAIL/ウェンディ": {
+    "girlBaseClothes": "",
+    "girlHead": "twintails",
+    "girlOuter": "",
+    "girlTop": "red tops,yellow ribbon tie",
+    "girlBottom": "black skirt,navy thigh-high socks",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"FAIRYTAIL/ウェンディ\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",

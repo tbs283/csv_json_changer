@@ -3794,8 +3794,8 @@
         "tag": [
             "FAIRYTAIL"
         ],
-        "defaultClothes": "",
-        "defaultHairStyle": "",
+        "defaultClothes": "FAIRYTAIL/ウェンディ",
+        "defaultHairStyle": "FAIRYTAIL/ウェンディ",
         "title": "fairy tail"
     },
     "FAIRYTAIL/シェリア": {
