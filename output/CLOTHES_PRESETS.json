@@ -64,6 +64,19 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
+  "下着白": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "white panties, light blue ribbon, white floral lace trim, simple panties",
+    "bra": "white bra, light blue ribbon, white floral lace trim, simple bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": ""
+  },
   "浴衣": {
     "girlBaseClothes": "dusty mauve pink yukata,thin vertical stripes,uniform stripe pattern,narrow stripes,desaturated pink fabric,dark gray striped obi",
     "girlHead": "",
