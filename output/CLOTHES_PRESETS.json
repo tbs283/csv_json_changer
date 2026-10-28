@@ -1364,6 +1364,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ガールフレンド(仮)/村上文緒\""
   },
+  "たんもし/シエスタ": {
+    "girlBaseClothes": "gray and black dress",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "red ribbon tie",
+    "girlBottom": "black tights",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "3",
+    "characterOnly": "\"たんもし/シエスタ\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
