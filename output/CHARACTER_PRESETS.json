@@ -4557,6 +4557,42 @@
         "defaultHairStyle": "",
         "title": "tenshi no 3p!"
     },
+    "聖剣学院の魔剣使い/リーセリア・レイ・クリスタリア": {
+        "prompt": "riselia ray crystalia, seiken gakuin no maken tsukai,",
+        "tag": [
+            "聖剣学院の魔剣使い"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seiken gakuin no maken tsukai"
+    },
+    "聖剣学院の魔剣使い/レギーナ・メルセデス": {
+        "prompt": "regina mercedes, seiken gakuin no maken tsukai,",
+        "tag": [
+            "聖剣学院の魔剣使い"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seiken gakuin no maken tsukai"
+    },
+    "聖剣学院の魔剣使い/エルフィーネ・フィレット": {
+        "prompt": "elfine phillet, seiken gakuin no maken tsukai,",
+        "tag": [
+            "聖剣学院の魔剣使い"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seiken gakuin no maken tsukai"
+    },
+    "聖剣学院の魔剣使い/": {
+        "prompt": "seiken gakuin no maken tsukai,",
+        "tag": [
+            "聖剣学院の魔剣使い"
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "seiken gakuin no maken tsukai"
+    },
     "かぐや様/かぐや": {
         "prompt": "shinomiya kaguya (anime), kaguya-sama wa kokurasetai ~tensai-tachi no renai zunousen~, ",
         "tag": [
@@ -5195,6 +5231,51 @@
         "defaultClothes": "リコリコ/井ノ上たきな",
         "defaultHairStyle": "リコリコ/井ノ上たきな",
         "title": "lycoris recoil"
+    },
+    "ガールフレンド(仮)/朝比奈桃子": {
+        "prompt": "asahina momoko, girlfriend (kari),",
+        "tag": [
+            "ガールフレンド(仮)"
+        ],
+        "defaultClothes": "ガールフレンド(仮)/朝比奈桃子",
+        "defaultHairStyle": "ガールフレンド(仮)/朝比奈桃子",
+        "title": "girlfriend (kari)"
+    },
+    "ガールフレンド(仮)/櫻井明音": {
+        "prompt": "sakurai akane (girlfriend), girlfriend (kari),",
+        "tag": [
+            "ガールフレンド(仮)"
+        ],
+        "defaultClothes": "ガールフレンド(仮)/櫻井明音",
+        "defaultHairStyle": "ガールフレンド(仮)/櫻井明音",
+        "title": "girlfriend (kari)"
+    },
+    "ガールフレンド(仮)/椎名心実": {
+        "prompt": "shiina kokomi (anime), girlfriend (kari),",
+        "tag": [
+            "ガールフレンド(仮)"
+        ],
+        "defaultClothes": "ガールフレンド(仮)/椎名心実",
+        "defaultHairStyle": "ガールフレンド(仮)/椎名心実",
+        "title": "girlfriend (kari)"
+    },
+    "ガールフレンド(仮)/クロエ・ルメール": {
+        "prompt": "chloe lemaire, girlfriend (kari),",
+        "tag": [
+            "ガールフレンド(仮)"
+        ],
+        "defaultClothes": "ガールフレンド(仮)/クロエ・ルメール",
+        "defaultHairStyle": "ガールフレンド(仮)/クロエ・ルメール",
+        "title": "girlfriend (kari)"
+    },
+    "ガールフレンド(仮)/村上文緒": {
+        "prompt": "murakami fumio (anime), girlfriend (kari),",
+        "tag": [
+            "ガールフレンド(仮)"
+        ],
+        "defaultClothes": "ガールフレンド(仮)/村上文緒",
+        "defaultHairStyle": "ガールフレンド(仮)/村上文緒",
+        "title": "girlfriend (kari)"
     },
     "/": {
         "prompt": "",
