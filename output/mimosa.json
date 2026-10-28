@@ -108840,7 +108840,7 @@
         "girlLooking": "100",
         "girlAction": "upward gaze,wariza",
         "male": "",
-        "r18": "nsfw,mosaic censoring,",
+        "r18": "",
         "bgBase": "blurred background",
         "bgWall": "white background",
         "bgGround": "white sheets",
@@ -108849,12 +108849,12 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "blush,heavy breath, embarrassed,tears",
+        "girlAction": "embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": ""
@@ -108862,11 +108862,11 @@
       "上下フラグ": "",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "63",
+      "clothesFlg": "31",
       "seed_id": "137"
     },
     {
-      "title": "催眠前",
+      "title": "催眠",
       "base": {
         "quality": "masterpiece,best quality,very aesthetic,absurdres,high resolution",
         "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
@@ -108875,9 +108875,9 @@
         "composition": "dynamic diagonal composition, girl fills frame,from above,upper body shot",
         "play": "1 girl,  solo",
         "girlLooking": "100",
-        "girlAction": "upward gaze,wariza",
+        "girlAction": "upward gaze,sitting on the bed",
         "male": "completely nude man's arm",
-        "r18": "nsfw,mosaic censoring,",
+        "r18": "",
         "bgBase": "blurred background",
         "bgWall": "white background",
         "bgGround": "white sheets",
@@ -108886,12 +108886,12 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "blush,heavy breath, embarrassed,tears",
+        "girlAction": "embarrassed",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
-        "clothesTopStatus": "opend clothes,pull up bra",
-        "clothesBottomStatus": "pulled up skirt",
+        "clothesTopStatus": "",
+        "clothesBottomStatus": "",
         "girlTop": "",
         "girlBottom": "",
         "girlUnder": ""
@@ -108899,7 +108899,7 @@
       "上下フラグ": "3",
       "キャラヘッダフラグ": "2",
       "縦横比": "",
-      "clothesFlg": "63",
+      "clothesFlg": "7",
       "seed_id": "137"
     },
     {
