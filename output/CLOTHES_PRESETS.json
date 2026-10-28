@@ -64,6 +64,19 @@
     "clothesBottomStatus": "1",
     "characterOnly": ""
   },
+  "下着ピンク": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "black thigh-high socks",
+    "girlUnder": "",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": ""
+  },
   "下着白": {
     "girlBaseClothes": "",
     "girlHead": "",
