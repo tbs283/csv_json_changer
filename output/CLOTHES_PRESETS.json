@@ -156,7 +156,7 @@
     "characterOnly": ""
   },
   "マイクロビキニ(白)": {
-    "girlBaseClothes": "micro bikini,white string bikini,white string",
+    "girlBaseClothes": "only white bikini, micro bikini,white string bikini,white bikini string,single color bikini",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "bikini bra",
@@ -743,7 +743,7 @@
   "ひげをそる/沙優": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
-    "girlOuter": "black jacket,beige vest",
+    "girlOuter": "black blazer,beige vest",
     "girlTop": "white shirt",
     "girlBottom": "checked skirt",
     "girlUnder": "black socks",
@@ -1055,7 +1055,7 @@
   "推しの子/ルビー": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
-    "girlOuter": "navy jacket",
+    "girlOuter": "navy blazer",
     "girlTop": "black vest,white shirt,red ribbon tie",
     "girlBottom": "gray skirt",
     "girlUnder": "white socks,brown shoes",
@@ -1068,7 +1068,7 @@
   "推しの子/かな": {
     "girlBaseClothes": "school uniform",
     "girlHead": "navy hat",
-    "girlOuter": "navy jacket",
+    "girlOuter": "navy blazer",
     "girlTop": "black vest,white shirt,red ribbon tie",
     "girlBottom": "gray skirt",
     "girlUnder": "white socks,brown shoes",
@@ -1260,10 +1260,23 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"けいおん！/秋山澪\""
   },
+  "かぐや様/藤原千花": {
+    "girlBaseClothes": "school uniform,black one-piece dress",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "red ribbon tie",
+    "girlBottom": "",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"かぐや様/藤原千花\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "school uniform,white shirts",
     "girlBottom": "green skirt,yellow cardigan around waist,",
     "girlUnder": "black high socks",
@@ -1276,7 +1289,7 @@
   "二乃制服": {
     "girlBaseClothes": "",
     "girlHead": "hair ribbon,bob hair",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "school uniform,black cardigan,white shirts",
     "girlBottom": "green skirt,white thigh-high socks",
     "girlUnder": "white thigh-high socks",
@@ -1289,7 +1302,7 @@
   "三玖制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "school uniform,blue cardigan,white shirts",
     "girlBottom": "green skirt,black tights,",
     "girlUnder": "black tights",
@@ -1302,7 +1315,7 @@
   "四葉制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "school uniform,white shirts,yellow cardigan,robbon tie,",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
@@ -1315,7 +1328,7 @@
   "五月制服": {
     "girlBaseClothes": "",
     "girlHead": "",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "school uniform,white shirts,red cardigan",
     "girlBottom": "green skirt,",
     "girlUnder": "white high socks",
@@ -3499,7 +3512,7 @@
   "俺ガイル/結衣冬": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "white shirt,red  ribbon tie",
     "girlBottom": "checked skirt",
     "girlUnder": "black socks",
@@ -3551,7 +3564,7 @@
   "俺ガイル/雪乃冬": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "white shirt,red  ribbon tie",
     "girlBottom": "checked skirt, thigh-high socks",
     "girlUnder": "black thigh-high socks",
@@ -3577,7 +3590,7 @@
   "俺ガイル/いろはす冬": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
-    "girlOuter": "black jacket",
+    "girlOuter": "black blazer",
     "girlTop": "white shirt,red  ribbon tie",
     "girlBottom": "checked skirt",
     "girlUnder": "black socks",
@@ -3603,7 +3616,7 @@
   "BLEACH/織姫制服(冬)": {
     "girlBaseClothes": "school uniform",
     "girlHead": "*shaped hair accessories,hair behind ear",
-    "girlOuter": "gray jacket",
+    "girlOuter": "gray blazer",
     "girlTop": "white shirt,ribbon tie",
     "girlBottom": "gray skirt",
     "girlUnder": "white socks",

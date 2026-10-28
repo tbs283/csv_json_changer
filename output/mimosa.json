@@ -533,7 +533,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -570,7 +570,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -607,7 +607,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -644,7 +644,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -681,7 +681,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -718,7 +718,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -755,7 +755,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -792,7 +792,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
         "bgWall": "red wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -828,8 +828,8 @@
         "male": "completely nude man,faceless man, bald head,simple face, kneeling in front of girl,back shot,grabbing girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
-        "bgWall": "",
-        "bgGround": "white bed",
+        "bgWall": "red wall",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -865,8 +865,8 @@
         "male": "completely nude man,faceless man, bald head,simple face, kneeling in front of girl,back shot,grabbing girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
-        "bgWall": "",
-        "bgGround": "white bed",
+        "bgWall": "red wall",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -1013,7 +1013,7 @@
         "male": "completely nude man,faceless man, bald head,simple face, holding girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
-        "bgWall": "",
+        "bgWall": "red wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -1050,7 +1050,7 @@
         "male": "completely nude man,faceless man, bald head,simple face, holding girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
-        "bgWall": "",
+        "bgWall": "red wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -1198,7 +1198,7 @@
         "male": "completely nude man's hands, spread pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
-        "bgWall": "",
+        "bgWall": "red wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -1235,7 +1235,7 @@
         "male": "completely nude man's hands, spread pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, red background,hotel",
-        "bgWall": "",
+        "bgWall": "red wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -5830,7 +5830,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -5867,7 +5867,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -5890,7 +5890,7 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "0",
         "girl": "",
-        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,upper body shot,from side,man out of frame",
+        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,cowboy body shot,from side,man out of frame",
         "play": "1 girl, upright straddle",
         "girlLooking": "100",
         "girlAction": "face-to-face,hands on the man's shoulder",
@@ -5904,7 +5904,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -5927,7 +5927,7 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "0",
         "girl": "",
-        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,upper body shot,from side,man out of frame",
+        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,cowboy body shot,from side,man out of frame",
         "play": "1 girl, upright straddle,kiss",
         "girlLooking": "100",
         "girlAction": "face-to-face,hands on the man's shoulder",
@@ -5941,7 +5941,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -7343,7 +7343,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7380,7 +7380,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7417,7 +7417,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7454,7 +7454,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7491,7 +7491,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7528,7 +7528,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7565,7 +7565,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7602,7 +7602,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
         "bgWall": "gold wall",
-        "bgGround": "white bed",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7638,8 +7638,8 @@
         "male": "completely nude man,faceless man, bald head,simple face, kneeling in front of girl,back shot,grabbing girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
-        "bgWall": "",
-        "bgGround": "white bed",
+        "bgWall": "gold wall",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7675,8 +7675,8 @@
         "male": "completely nude man,faceless man, bald head,simple face, kneeling in front of girl,back shot,grabbing girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
-        "bgWall": "",
-        "bgGround": "white bed",
+        "bgWall": "gold wall",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -7823,7 +7823,7 @@
         "male": "completely nude man,faceless man, bald head,simple face, holding girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
-        "bgWall": "",
+        "bgWall": "gold wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -7860,7 +7860,7 @@
         "male": "completely nude man,faceless man, bald head,simple face, holding girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
-        "bgWall": "",
+        "bgWall": "gold wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -8008,7 +8008,7 @@
         "male": "completely nude man's hands, spread pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
-        "bgWall": "",
+        "bgWall": "gold wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -8045,7 +8045,7 @@
         "male": "completely nude man's hands, spread pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, gold background,hotel",
-        "bgWall": "",
+        "bgWall": "gold wall",
         "bgGround": "white bed",
         "bgFloor": "",
         "male_c": "",
@@ -12640,7 +12640,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -12677,7 +12677,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -12700,7 +12700,7 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "0",
         "girl": "",
-        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,upper body shot,from side,man out of frame",
+        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,cowboy body shot,from side,man out of frame",
         "play": "1 girl, upright straddle",
         "girlLooking": "100",
         "girlAction": "face-to-face,hands on the man's shoulder",
@@ -12714,7 +12714,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -12737,7 +12737,7 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "0",
         "girl": "",
-        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,upper body shot,from side,man out of frame",
+        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,cowboy body shot,from side,man out of frame",
         "play": "1 girl, upright straddle,kiss",
         "girlLooking": "100",
         "girlAction": "face-to-face,hands on the man's shoulder",
@@ -12751,7 +12751,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -24519,7 +24519,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24556,7 +24556,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24593,7 +24593,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24630,7 +24630,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24667,7 +24667,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24704,7 +24704,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24741,7 +24741,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24778,7 +24778,7 @@
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
         "bgWall": "fusuma",
-        "bgGround": "white futon",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24814,8 +24814,8 @@
         "male": "completely nude man,faceless man, bald head,simple face, kneeling in front of girl,back shot,grabbing girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
-        "bgWall": "",
-        "bgGround": "white futon",
+        "bgWall": "fusuma",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24851,8 +24851,8 @@
         "male": "completely nude man,faceless man, bald head,simple face, kneeling in front of girl,back shot,grabbing girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
-        "bgWall": "",
-        "bgGround": "white futon",
+        "bgWall": "fusuma",
+        "bgGround": "",
         "bgFloor": "",
         "male_c": "",
         "girlCount": ""
@@ -24999,7 +24999,7 @@
         "male": "completely nude man,faceless man, bald head,simple face, holding girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
-        "bgWall": "",
+        "bgWall": "fusuma",
         "bgGround": "white futon",
         "bgFloor": "",
         "male_c": "",
@@ -25036,7 +25036,7 @@
         "male": "completely nude man,faceless man, bald head,simple face, holding girl's leg",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
-        "bgWall": "",
+        "bgWall": "fusuma",
         "bgGround": "white futon",
         "bgFloor": "",
         "male_c": "",
@@ -25184,7 +25184,7 @@
         "male": "completely nude man's hands, spread pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
-        "bgWall": "",
+        "bgWall": "fusuma",
         "bgGround": "white futon",
         "bgFloor": "",
         "male_c": "",
@@ -25221,7 +25221,7 @@
         "male": "completely nude man's hands, spread pussy",
         "r18": "nsfw,mosaic censoring,",
         "bgBase": "blurred background, japanese room",
-        "bgWall": "",
+        "bgWall": "fusuma",
         "bgGround": "white futon",
         "bgFloor": "",
         "male_c": "",
@@ -29816,7 +29816,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -29853,7 +29853,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -29876,7 +29876,7 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "0",
         "girl": "",
-        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,upper body shot,from side,man out of frame",
+        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,cowboy body shot,from side,man out of frame",
         "play": "1 girl, upright straddle",
         "girlLooking": "100",
         "girlAction": "face-to-face,hands on the man's shoulder",
@@ -29890,7 +29890,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
@@ -29913,7 +29913,7 @@
         "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
         "motionFlg": "0",
         "girl": "",
-        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,upper body shot,from side,man out of frame",
+        "composition": "dynamic diagonal composition, girl fills frame,girl focus,dutch-angle,cowboy body shot,from side,man out of frame",
         "play": "1 girl, upright straddle,kiss",
         "girlLooking": "100",
         "girlAction": "face-to-face,hands on the man's shoulder",
@@ -29927,7 +29927,7 @@
         "girlCount": ""
       },
       "charaVariable": {
-        "girlAction": "screaming,blush,heavy breath, embarrassed,tears",
+        "girlAction": "blush,heavy breath, embarrassed,tears",
         "girlAction_c2": "",
         "girlAction_c3": "",
         "girlExpression": "無し",
