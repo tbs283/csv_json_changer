@@ -39,7 +39,7 @@
     "characterOnly": ""
   },
   "下着赤": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "nude",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "red plunge Bra",
@@ -52,7 +52,7 @@
     "characterOnly": ""
   },
   "下着黒": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "nude",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "black plunge Bra",
@@ -65,7 +65,7 @@
     "characterOnly": ""
   },
   "下着ピンク": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "nude",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "",
@@ -78,7 +78,7 @@
     "characterOnly": ""
   },
   "下着白": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "nude",
     "girlHead": "",
     "girlOuter": "",
     "girlTop": "",
