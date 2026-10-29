@@ -51,6 +51,19 @@
     "clothesBottomStatus": "2",
     "characterOnly": ""
   },
+  "ニーハイソックス(白)": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "white thigh-high socks",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
+    "characterOnly": ""
+  },
   "下着赤": {
     "girlBaseClothes": "nude",
     "girlHead": "",
@@ -3643,7 +3656,7 @@
     "girlBaseClothes": "school uniform",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "white shirt,red  ribbon tie",
+    "girlTop": "white shirt,rolled up sleeves,red  ribbon tie",
     "girlBottom": "checked skirt",
     "girlUnder": "black socks",
     "panties": "pink panties",
