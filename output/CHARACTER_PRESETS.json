@@ -3654,6 +3654,24 @@
         "defaultHairStyle": "",
         "title": "nisekoi"
     },
+    "食戟のソーマ/薙切えりな": {
+        "prompt": "nakiri erina (anime), shokugeki no souma, ",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "食戟のソーマ/薙切えりな",
+        "defaultHairStyle": "",
+        "title": "shokugeki no souma"
+    },
+    "食戟のソーマ/田所恵": {
+        "prompt": "tadokoro megumi (anime),  shokugeki no souma, ",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "食戟のソーマ/田所恵",
+        "defaultHairStyle": "",
+        "title": "shokugeki no souma"
+    },
     "いちご100%/東城綾": {
         "prompt": "toujou aya (anime), ichigo 100 percent,",
         "tag": [
@@ -4562,7 +4580,7 @@
         "tag": [
             "聖剣学院の魔剣使い"
         ],
-        "defaultClothes": "",
+        "defaultClothes": "聖剣学院の魔剣使い/リーセリア・レイ・クリスタリア",
         "defaultHairStyle": "",
         "title": "seiken gakuin no maken tsukai"
     },

@@ -1377,6 +1377,45 @@
     "clothesBottomStatus": "3",
     "characterOnly": "\"たんもし/シエスタ\""
   },
+  "聖剣学院の魔剣使い/リーセリア・レイ・クリスタリア": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "red hair ribbon",
+    "girlOuter": "blue blazer",
+    "girlTop": "white shirt,black tie",
+    "girlBottom": "blue skirt,white belt,black thigh-high socks",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"聖剣学院の魔剣使い/リーセリア・レイ・クリスタリア\""
+  },
+  "食戟のソーマ/薙切えりな": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy blazer",
+    "girlTop": "white shirt,red tie",
+    "girlBottom": "checked skirt,black thigh-high socks",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"食戟のソーマ/薙切えりな\""
+  },
+  "食戟のソーマ/田所恵": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy blazer",
+    "girlTop": "white shirt,red tie",
+    "girlBottom": "checked skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"食戟のソーマ/田所恵\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",
