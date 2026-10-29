@@ -2677,6 +2677,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"よう実/一之瀬\""
   },
+  "よう実一之瀬制服靴下リボン": {
+    "girlBaseClothes": "completely nude",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "navy ribbon tie",
+    "girlBottom": "",
+    "girlUnder": "black socks",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"よう実/一之瀬\""
+  },
   "よう実七瀬制服": {
     "girlBaseClothes": "school uniform,",
     "girlHead": "",
