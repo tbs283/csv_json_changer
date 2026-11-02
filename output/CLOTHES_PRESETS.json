@@ -1520,15 +1520,28 @@
     "clothesBottomStatus": "1",
     "characterOnly": "\"五等分の花嫁/中野四葉\""
   },
-  "ごちうさ制服": {
-    "girlBaseClothes": "school uniform,",
-    "girlHead": "",
+  "ごちうさ中学生制服(夏)": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "white hat",
     "girlOuter": "",
-    "girlTop": "school uniform,half sleeves,blue tie,",
-    "girlBottom": "white skirt,",
+    "girlTop": "half sleeves,blue tie,white tops",
+    "girlBottom": "white skirt",
     "girlUnder": "white socks,brown shoes,",
-    "panties": "sky blue panties,",
-    "bra": "sky blue bra,",
+    "panties": "white panties",
+    "bra": "white bra,",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ごちうさ/チノ\",\"ごちうさ/メグ\",\"ごちうさ/マヤ\""
+  },
+  "ごちうさ中学生制服(冬)": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "blue hat",
+    "girlOuter": "",
+    "girlTop": "long white sleeves,blue tops",
+    "girlBottom": "blue skirt",
+    "girlUnder": "white socks,brown shoes,",
+    "panties": "white panties",
+    "bra": "white bra,",
     "clothesTopStatus": "6",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ごちうさ/チノ\",\"ごちうさ/メグ\",\"ごちうさ/マヤ\""
@@ -1675,6 +1688,32 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ごちうさ/シャロ\""
+  },
+  "ごちうさ_ココア_学校の制服": {
+    "girlBaseClothes": "sailor suit,school uniform",
+    "girlHead": "cherry blossom hair ornament",
+    "girlOuter": "",
+    "girlTop": "red ribbon tie,pink cardigan",
+    "girlBottom": "white skirt,white thigh-hish socks",
+    "girlUnder": "black shoes",
+    "panties": "white panties",
+    "bra": "white bra,",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ごちうさ/ココア\""
+  },
+  "ごちうさ_チヤ_学校の制服": {
+    "girlBaseClothes": "sailor suit,school uniform",
+    "girlHead": "cherry blossom hair ornament",
+    "girlOuter": "",
+    "girlTop": "red ribbon tie,beige cardigan",
+    "girlBottom": "white skirt,black tights",
+    "girlUnder": "black shoes",
+    "panties": "white panties",
+    "bra": "white bra,",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ごちうさ/千夜\""
   },
   "リーリヤ制服": {
     "girlBaseClothes": "",
@@ -2686,8 +2725,8 @@
     "girlUnder": "black socks",
     "panties": "",
     "bra": "",
-    "clothesTopStatus": "0",
-    "clothesBottomStatus": "0",
+    "clothesTopStatus": "2",
+    "clothesBottomStatus": "2",
     "characterOnly": "\"よう実/一之瀬\""
   },
   "よう実七瀬制服": {
