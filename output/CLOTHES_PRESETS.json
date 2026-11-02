@@ -1715,6 +1715,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ごちうさ/千夜\""
   },
+  "ごちうさ_リゼ_下着": {
+    "girlBaseClothes": "purple checked underwear",
+    "girlHead": "twintails",
+    "girlOuter": "",
+    "girlTop": "purple bra",
+    "girlBottom": "purple panties",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": "\"ごちうさ/リゼ\""
+  },
   "リーリヤ制服": {
     "girlBaseClothes": "",
     "girlHead": "",
