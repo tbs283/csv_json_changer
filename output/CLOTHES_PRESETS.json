@@ -675,18 +675,31 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"めだかわ/川井モナ\""
   },
-  "椎名真昼制服": {
-    "girlBaseClothes": "",
+  "お隣の天使様にダメ人間にされてしまった件/椎名真昼": {
+    "girlBaseClothes": "school uniform",
     "girlHead": "",
-    "girlOuter": "school uniform,navy blazer:blazer",
+    "girlOuter": "navy blazer:blazer",
     "girlTop": "white shirt, red ribbon tie:shirt",
-    "girlBottom": "brown skirt,black tights:skirt,",
+    "girlBottom": "brown checked skirt,black tights:skirt",
     "girlUnder": "black tights:tights",
     "panties": "white panties, light blue ribbon, white floral lace trim, simple panties",
     "bra": "white bra, light blue ribbon, white floral lace trim, simple bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
+  },
+  "お隣の天使様にダメ人間にされてしまった件/白河千歳": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "navy blazer:blazer",
+    "girlTop": "pink cardigan,white shirt, red ribbon tie:shirt",
+    "girlBottom": "brown checked skirt:skirt",
+    "girlUnder": "white socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/白河千歳\""
   },
   "高坂麗奈:ユーフォ": {
     "girlBaseClothes": "school uniform",
