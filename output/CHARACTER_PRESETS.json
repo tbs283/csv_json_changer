@@ -2844,7 +2844,18 @@
             "お隣の天使様",
             "天使様"
         ],
-        "defaultClothes": "椎名真昼制服",
+        "defaultClothes": "お隣の天使様にダメ人間にされてしまった件/椎名真昼",
+        "defaultHairStyle": "",
+        "title": "otonari no tenshi-sama ni itsu no ma ni ka dame ningen ni sareteita ken"
+    },
+    "お隣の天使様にダメ人間にされてしまった件/白河千歳": {
+        "prompt": "shirakawa chitose, otonari no tenshi-sama ni itsu no mani ka dame ningen ni sarete ita ken,",
+        "tag": [
+            "お隣の天使様にダメ人間にされてしまった件",
+            "お隣の天使様",
+            "天使様"
+        ],
+        "defaultClothes": "お隣の天使様にダメ人間にされてしまった件/白河千歳",
         "defaultHairStyle": "",
         "title": "otonari no tenshi-sama ni itsu no ma ni ka dame ningen ni sareteita ken"
     },
