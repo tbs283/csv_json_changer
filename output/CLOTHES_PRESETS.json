@@ -1403,6 +1403,19 @@
     "clothesBottomStatus": "3",
     "characterOnly": "\"たんもし/シエスタ\""
   },
+  "たんもし/シエスタビキニ": {
+    "girlBaseClothes": "red and white bordered bikini",
+    "girlHead": "short ponytail",
+    "girlOuter": "",
+    "girlTop": "",
+    "girlBottom": "",
+    "girlUnder": "light blue flip flops",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": "\"たんもし/シエスタ\""
+  },
   "聖剣学院の魔剣使い/リーセリア・レイ・クリスタリア": {
     "girlBaseClothes": "school uniform",
     "girlHead": "red hair ribbon",
@@ -3351,6 +3364,19 @@
     "bra": "black bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
+    "characterOnly": "\"その着せ替え人形は恋をする/喜多川海夢\""
+  },
+  "喜多川海夢ビキニ": {
+    "girlBaseClothes": "black bikini",
+    "girlHead": "choker",
+    "girlOuter": "",
+    "girlTop": "yellow floral bikini",
+    "girlBottom": "",
+    "girlUnder": "",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
     "characterOnly": "\"その着せ替え人形は恋をする/喜多川海夢\""
   },
   "マーシャ制服": {
