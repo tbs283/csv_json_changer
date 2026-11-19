@@ -147,6 +147,10 @@
     "prompt": "long hair,glasses",
     "characterOnly": "\"トラブル/ティアーユ\""
   },
+  "魔女の旅々/イレイナ": {
+    "prompt": "black witch hat",
+    "characterOnly": "black witch hat"
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""

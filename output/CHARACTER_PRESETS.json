@@ -2889,6 +2889,42 @@
         "defaultHairStyle": "",
         "title": "watashi ga koibito ni nareru wake naijan, muri muri! (muri janakatta!?)"
     },
+    "魔女の旅々/イレイナ": {
+        "prompt": "elaina (majo no tabitabi), majo no tabitabi,",
+        "tag": [
+            "魔女の旅々"
+        ],
+        "defaultClothes": "魔女の旅々/イレイナ",
+        "defaultHairStyle": "魔女の旅々/イレイナ",
+        "title": "majo no tabitabi"
+    },
+    "SSSS.GRIDMAN/宝多六花": {
+        "prompt": "takarada rikka (anime), ssss.gridman, ",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "SSSS.GRIDMAN/宝多六花",
+        "defaultHairStyle": "SSSS.GRIDMAN/宝多六花",
+        "title": "ssss.gridman"
+    },
+    "SSSS.GRIDMAN/新条アカネ": {
+        "prompt": "shinjou akane, ssss.gridman, ",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "SSSS.GRIDMAN/新条アカネ",
+        "defaultHairStyle": "SSSS.GRIDMAN/新条アカネ",
+        "title": "ssss.gridman"
+    },
+    "負けヒロインが多すぎる!/八奈見杏奈": {
+        "prompt": "yanami anna (anime), make heroine ga oo sugiru!,",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "make heroine ga oo sugiru!"
+    },
     "SAO/アスナ": {
         "prompt": "yuuki asuna (anime), sword art online,",
         "tag": [
@@ -3068,7 +3104,7 @@
         "tag": [
             "ロシデレ"
         ],
-        "defaultClothes": "アーリャ制服",
+        "defaultClothes": "ロシデレ/アーリャ",
         "defaultHairStyle": "",
         "title": "tokidoki bosotto roshia-go de dereru tonari no alya-san"
     },
@@ -3077,9 +3113,54 @@
         "tag": [
             "ロシデレ"
         ],
-        "defaultClothes": "マーシャ制服",
+        "defaultClothes": "ロシデレ/マーシャ",
         "defaultHairStyle": "",
         "title": "tokidoki bosotto roshia-go de dereru tonari no alya-san"
+    },
+    "ロシデレ/周防有希": {
+        "prompt": "suou yuki (anime), tokidoki bosotto roshia-go de dereru tonari no alya-san,",
+        "tag": [
+            "ロシデレ"
+        ],
+        "defaultClothes": "ロシデレ/周防有希",
+        "defaultHairStyle": "ロシデレ/周防有希",
+        "title": "tokidoki bosotto roshia-go de dereru tonari no alya-san"
+    },
+    "ロシデレ/君嶋綾乃": {
+        "prompt": "kimishima ayano, tokidoki bosotto roshia-go de dereru tonari no alya-san,",
+        "tag": [
+            "ロシデレ"
+        ],
+        "defaultClothes": "ロシデレ/君嶋綾乃",
+        "defaultHairStyle": "ロシデレ/君嶋綾乃",
+        "title": "tokidoki bosotto roshia-go de dereru tonari no alya-san"
+    },
+    "中二病でも恋がしたい/小鳥遊六花": {
+        "prompt": "takanashi rikka (anime), chuunibyou demo koi ga shitai!,",
+        "tag": [
+            "中二病でも恋がしたい"
+        ],
+        "defaultClothes": "中二病でも恋がしたい/小鳥遊六花",
+        "defaultHairStyle": "中二病でも恋がしたい/小鳥遊六花",
+        "title": "chuunibyou demo koi ga shitai!"
+    },
+    "中二病でも恋がしたい/丹生谷森夏": {
+        "prompt": "nibutani shinka (anime), chuunibyou demo koi ga shitai!,",
+        "tag": [
+            "中二病でも恋がしたい"
+        ],
+        "defaultClothes": "中二病でも恋がしたい/丹生谷森夏",
+        "defaultHairStyle": "中二病でも恋がしたい/丹生谷森夏",
+        "title": "chuunibyou demo koi ga shitai!"
+    },
+    "中二病でも恋がしたい/五月七日くみん": {
+        "prompt": "tsuyuri kumin (anime), chuunibyou demo koi ga shitai!,",
+        "tag": [
+            "中二病でも恋がしたい"
+        ],
+        "defaultClothes": "中二病でも恋がしたい/五月七日くみん",
+        "defaultHairStyle": "中二病でも恋がしたい/五月七日くみん",
+        "title": "chuunibyou demo koi ga shitai!"
     },
     "精霊幻想記/ラティーファ": {
         "prompt": "latifa (anime), seirei gensouki,fox ear,fox tail,",
@@ -4030,9 +4111,45 @@
         "tag": [
             "プリヤ"
         ],
-        "defaultClothes": "美遊制服",
+        "defaultClothes": "プリヤ/美遊",
         "defaultHairStyle": "",
         "title": "prisma illya"
+    },
+    "プリヤ/イリヤ": {
+        "prompt": "illyasviel von einzbern, prisma illya, ",
+        "tag": [
+            "プリヤ"
+        ],
+        "defaultClothes": "プリヤ/イリヤ",
+        "defaultHairStyle": "",
+        "title": "prisma illya"
+    },
+    "Fate/間桐桜": {
+        "prompt": "matou sakura, fate/grand order,",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "fate/grand order"
+    },
+    "Fate/遠坂凛": {
+        "prompt": "toosaka rin (anime), fate/grand order, ",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "fate/grand order"
+    },
+    "Fate/セイバー": {
+        "prompt": "saber (anime), fate/grand order, ",
+        "tag": [
+            ""
+        ],
+        "defaultClothes": "",
+        "defaultHairStyle": "",
+        "title": "fate/grand order"
     },
     "田中くんはいつもけだるげ/白石さん": {
         "prompt": "shiraishi (tanakeda), tanaka-kun wa itsumo kedaruge, ",

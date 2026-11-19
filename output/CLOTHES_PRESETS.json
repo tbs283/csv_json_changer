@@ -649,7 +649,7 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"劣等生/司波深雪\",\"劣等生/光井ほのか\",\"劣等生/七草真由美\",\"劣等生/北山雫\",\"劣等生/桜井水波\",\"劣等生/柴田美月\""
   },
-  "美遊制服": {
+  "プリヤ/美遊": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "",
@@ -661,6 +661,19 @@
     "clothesTopStatus": "6",
     "clothesBottomStatus": "0",
     "characterOnly": "\"プリヤ/美遊\""
+  },
+  "プリヤ/イリヤ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "school uniform,white tops,half sleeves,ribbon tie,",
+    "girlBottom": "black skirt",
+    "girlUnder": "white socks",
+    "panties": "pinkpanties,",
+    "bra": "pink bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"プリヤ/イリヤ\""
   },
   "川井モナ制服": {
     "girlBaseClothes": "",
@@ -1454,6 +1467,32 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"食戟のソーマ/田所恵\""
+  },
+  "SSSS.GRIDMAN/宝多六花": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "white cardigan",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "black skirt",
+    "girlUnder": "red socks,black shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"SSSS.GRIDMAN/宝多六花\""
+  },
+  "SSSS.GRIDMAN/新条アカネ": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "purple hoodie",
+    "girlTop": "white shirt,purple ribbon tie",
+    "girlBottom": "black skirt, black tights",
+    "girlUnder": "black shoes",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "3",
+    "characterOnly": "\"SSSS.GRIDMAN/新条アカネ\""
   },
   "一花制服": {
     "girlBaseClothes": "",
@@ -3379,7 +3418,7 @@
     "clothesBottomStatus": "1",
     "characterOnly": "\"その着せ替え人形は恋をする/喜多川海夢\""
   },
-  "マーシャ制服": {
+  "ロシデレ/マーシャ": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "gray blazer:blazer",
@@ -3392,7 +3431,7 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"ロシデレ/マーシャ\""
   },
-  "アーリャ制服": {
+  "ロシデレ/アーリャ": {
     "girlBaseClothes": "",
     "girlHead": "",
     "girlOuter": "gray blazer:blazer",
@@ -3404,6 +3443,32 @@
     "clothesTopStatus": "6",
     "clothesBottomStatus": "0",
     "characterOnly": "\"ロシデレ/アーリャ\""
+  },
+  "ロシデレ/周防有希": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "gray blazer:blazer",
+    "girlTop": "black tops,white shirt,red tie:tops",
+    "girlBottom": "black skirt:skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ロシデレ/周防有希\""
+  },
+  "ロシデレ/君嶋綾乃": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "gray blazer:blazer",
+    "girlTop": "black tops,white shirt,red tie:tops",
+    "girlBottom": "black skirt:skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "6",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"ロシデレ/君嶋綾乃\""
   },
   "れな子制服": {
     "girlBaseClothes": "",
@@ -4392,6 +4457,19 @@
     "clothesTopStatus": "2",
     "clothesBottomStatus": "2",
     "characterOnly": "\"灰と幻想のグリムガル/シホル\""
+  },
+  "魔女の旅々/イレイナ": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "black  hoodie coat",
+    "girlTop": "white shirt,yellow tie",
+    "girlBottom": "black skirt",
+    "girlUnder": "black boots",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"魔女の旅々/イレイナ\""
   },
   "ライザのアトリエ/ライザ": {
     "girlBaseClothes": "",
