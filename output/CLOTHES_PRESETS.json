@@ -624,10 +624,10 @@
     "characterOnly": "\"ニセコイ/小野寺小咲\",\"ニセコイ/千棘\",\"ニセコイ/小野寺春\""
   },
   "黒川あかね制服": {
-    "girlBaseClothes": "",
+    "girlBaseClothes": "school uniform",
     "girlHead": "",
     "girlOuter": "",
-    "girlTop": "school uniform, navy vest,white shirt with long sleeves,blue tie,",
+    "girlTop": "navy vest,white shirt with long sleeves,blue tie,",
     "girlBottom": "gray skirt",
     "girlUnder": "black socks",
     "panties": "white panties",
@@ -635,6 +635,19 @@
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
     "characterOnly": "\"推しの子/あかね\""
+  },
+  "推しの子/MEMちょ": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "navy vest,white shirt with long sleeves,blue tie,",
+    "girlBottom": "gray skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"推しの子/MEMちょ\""
   },
   "魔法科高校の劣等生制服": {
     "girlBaseClothes": "",
