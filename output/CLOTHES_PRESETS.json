@@ -1494,6 +1494,58 @@
     "clothesBottomStatus": "3",
     "characterOnly": "\"SSSS.GRIDMAN/新条アカネ\""
   },
+  "カノジョも彼女/佐木咲": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "white jacket",
+    "girlTop": "white shirt,red ribbon tie",
+    "girlBottom": "navy skirt,black thigh-high socks",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"カノジョも彼女/佐木咲\""
+  },
+  "カノジョも彼女/水瀬渚": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "white jacket",
+    "girlTop": "white shirt,light blue ribbon tie",
+    "girlBottom": "navy skirt",
+    "girlUnder": "black socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"カノジョも彼女/水瀬渚\""
+  },
+  "カノジョも彼女/星崎理香": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "white jacket",
+    "girlTop": "white shirt,orange ribbon tie",
+    "girlBottom": "navy skirt,black thigh-high socks",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"カノジョも彼女/星崎理香\""
+  },
+  "カノジョも彼女/桐生紫乃": {
+    "girlBaseClothes": "school uniform",
+    "girlHead": "",
+    "girlOuter": "white jacket",
+    "girlTop": "white shirt,purple ribbon tie",
+    "girlBottom": "navy skirt,black tights",
+    "girlUnder": "",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"カノジョも彼女/桐生紫乃\""
+  },
   "一花制服": {
     "girlBaseClothes": "",
     "girlHead": "",

@@ -4079,6 +4079,42 @@
         "defaultHairStyle": "",
         "title": "kuroiwa medaka ni watashi no kawaii ga todomari sugite tsurai"
     },
+    "カノジョも彼女/佐木咲": {
+        "prompt": "saki saki (anime), kanojo mo kanojo, ",
+        "tag": [
+            "カノジョも彼女"
+        ],
+        "defaultClothes": "カノジョも彼女/佐木咲",
+        "defaultHairStyle": "カノジョも彼女/佐木咲",
+        "title": "kanojo mo kanojo"
+    },
+    "カノジョも彼女/水瀬渚": {
+        "prompt": "minase nagisa (anime), kanojo mo kanojo, ",
+        "tag": [
+            "カノジョも彼女"
+        ],
+        "defaultClothes": "カノジョも彼女/水瀬渚",
+        "defaultHairStyle": "カノジョも彼女/水瀬渚",
+        "title": "kanojo mo kanojo"
+    },
+    "カノジョも彼女/星崎理香": {
+        "prompt": "hoshizaki rika (kanojo mo kanojo), kanojo mo kanojo, ",
+        "tag": [
+            "カノジョも彼女"
+        ],
+        "defaultClothes": "カノジョも彼女/星崎理香",
+        "defaultHairStyle": "カノジョも彼女/星崎理香",
+        "title": "kanojo mo kanojo"
+    },
+    "カノジョも彼女/桐生紫乃": {
+        "prompt": "kiryuu shino (anime), kanojo mo kanojo, ",
+        "tag": [
+            "カノジョも彼女"
+        ],
+        "defaultClothes": "カノジョも彼女/桐生紫乃",
+        "defaultHairStyle": "カノジョも彼女/桐生紫乃",
+        "title": "kanojo mo kanojo"
+    },
     "ハヤテのごとく！/桂ヒナギク": {
         "prompt": "katsura hinagiku (anime), hayate no gotoku!,",
         "tag": [

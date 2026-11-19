@@ -151,6 +151,18 @@
     "prompt": "black witch hat",
     "characterOnly": "black witch hat"
   },
+  "カノジョも彼女/水瀬渚": {
+    "prompt": "sidetail,blue hair ribbon",
+    "characterOnly": "\"カノジョも彼女/水瀬渚\""
+  },
+  "カノジョも彼女/星崎理香": {
+    "prompt": "twintails",
+    "characterOnly": "\"カノジョも彼女/星崎理香\""
+  },
+  "カノジョも彼女/桐生紫乃": {
+    "prompt": "hair bun,purple hair ribbon",
+    "characterOnly": "\"カノジョも彼女/桐生紫乃\""
+  },
   "セレナロング": {
     "prompt": "pink hat,black tops,long hair",
     "characterOnly": "\"ポケモン/セレナ\""
