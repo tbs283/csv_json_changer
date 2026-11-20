@@ -2422,6 +2422,15 @@
         "defaultHairStyle": "推しの子/かな",
         "title": "oshi no ko"
     },
+    "推しの子/MEMちょ": {
+        "prompt": "memcho, oshi no ko,",
+        "tag": [
+            "推しの子"
+        ],
+        "defaultClothes": "推しの子/MEMちょ",
+        "defaultHairStyle": "推しの子/MEMちょ",
+        "title": "oshi no ko"
+    },
     "推しの子/みなみ": {
         "prompt": "kotobuki minami (anime), oshi no ko,",
         "tag": [

@@ -1,0 +1,22 @@
+{
+  "前上": "from front,from above",
+  "前上斜": "from front,from above,dutch angle,dynamic angle",
+  "前中": "from front",
+  "前中斜": "from front,dutch angle,dynamic angle",
+  "前下": "from front,from below",
+  "前下斜": "from front,from below,dutch angle,dynamic angle",
+  "横上": "from side,from above",
+  "横上斜": "from side,from above,dutch angle,dynamic angle",
+  "横中": "from side",
+  "横中斜": "from side,dutch angle,dynamic angle",
+  "横下": "from side,from below",
+  "横下斜": "from side,from below,dutch angle,dynamic angle",
+  "後上": "from behind,from above",
+  "後上斜": "from behind,from above,dutch angle,dynamic angle",
+  "後中": "from behind",
+  "後中斜": "from behind,dutch angle,dynamic angle",
+  "後下": "from behind,from below",
+  "後下斜": "from behind,from below,dutch angle,dynamic angle",
+  "真正面": "straight-on",
+  "真正面斜": "straight-on,dutch angle,dynamic angle"
+}
