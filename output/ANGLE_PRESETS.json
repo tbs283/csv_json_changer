@@ -18,5 +18,7 @@
   "後下": "from behind,from below",
   "後下斜": "from behind,from below,dutch angle,dynamic angle",
   "真正面": "straight-on",
-  "真正面斜": "straight-on,dutch angle,dynamic angle"
+  "真正面斜": "straight-on,dutch angle,dynamic angle",
+  "真上": "from above,straight-on",
+  "真上斜": "from above,straight-on,dutch angle,dynamic angle"
 }
