@@ -7404,7 +7404,7 @@
     ],
     "variable": {},
     "male": "",
-    "quality": "masterpiece,very aesthetic,no text,simple background,flat background",
+    "quality": "masterpiece,very aesthetic,no text,simple background",
     "style": "",
     "bgBase": "",
     "bgWall": "",
@@ -7447,7 +7447,7 @@
         },
         "上下フラグ": "",
         "キャラヘッダフラグ": "",
-        "clothesFlg": "127",
+        "clothesFlg": "63",
         "seed_id": "370"
       },
       {
@@ -7484,7 +7484,7 @@
         },
         "上下フラグ": "",
         "キャラヘッダフラグ": "",
-        "clothesFlg": "127",
+        "clothesFlg": "15",
         "seed_id": "371"
       },
       {
@@ -7521,7 +7521,7 @@
         },
         "上下フラグ": "",
         "キャラヘッダフラグ": "",
-        "clothesFlg": "127",
+        "clothesFlg": "63",
         "seed_id": "371"
       },
       {
@@ -7558,7 +7558,7 @@
         },
         "上下フラグ": "",
         "キャラヘッダフラグ": "",
-        "clothesFlg": "127",
+        "clothesFlg": "63",
         "seed_id": "371"
       },
       {
@@ -7595,7 +7595,7 @@
         },
         "上下フラグ": "",
         "キャラヘッダフラグ": "",
-        "clothesFlg": "127",
+        "clothesFlg": "63",
         "seed_id": "371"
       },
       {
@@ -7632,7 +7632,7 @@
         },
         "上下フラグ": "",
         "キャラヘッダフラグ": "",
-        "clothesFlg": "127",
+        "clothesFlg": "63",
         "seed_id": "370"
       },
       {
@@ -7854,7 +7854,7 @@
         },
         "上下フラグ": "",
         "キャラヘッダフラグ": "",
-        "clothesFlg": "127",
+        "clothesFlg": "63",
         "seed_id": "371"
       }
     ],
@@ -7893,7 +7893,7 @@
       "事後": "red dog collar"
     },
     "male": "全裸男性",
-    "quality": "masterpiece,very aesthetic,no text,simple background,flat background",
+    "quality": "masterpiece,very aesthetic,no text,simple background",
     "style": "game cg,anime coloring,dark, no lighting,thin lines,pastel color",
     "bgBase": "park,deep night",
     "bgWall": "",
