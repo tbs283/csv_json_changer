@@ -10,5 +10,11 @@
     "上半身": "",
     "下半身": "",
     "腕": ""
+  },
+  "エステティシャン": {
+    "全身": "esthetician,white clothes,white tops,white sleeves,white pants, bald head,faceless man,simple man",
+    "上半身": "esthetician,white clothes,white tops,white sleeves",
+    "下半身": "esthetician's lower body,white pants",
+    "腕": "esthetician's hands,white sleeves"
   }
 }
