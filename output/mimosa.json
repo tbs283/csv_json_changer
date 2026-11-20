@@ -8052,7 +8052,7 @@
     "items": [
       {
         "title": "うつ伏せ",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8089,7 +8089,7 @@
       },
       {
         "title": "仰向け",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8126,7 +8126,7 @@
       },
       {
         "title": "オイル",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8163,7 +8163,7 @@
       },
       {
         "title": "首回り(指圧)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8200,7 +8200,7 @@
       },
       {
         "title": "足",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8237,7 +8237,7 @@
       },
       {
         "title": "足(横)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8274,7 +8274,7 @@
       },
       {
         "title": "太腿",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8311,7 +8311,7 @@
       },
       {
         "title": "股間",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8348,7 +8348,7 @@
       },
       {
         "title": "仰向け(目隠し)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8385,7 +8385,7 @@
       },
       {
         "title": "オイル(目隠し)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8422,7 +8422,7 @@
       },
       {
         "title": "首回り(指圧/目隠し)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8459,7 +8459,7 @@
       },
       {
         "title": "足(目隠し)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8496,7 +8496,7 @@
       },
       {
         "title": "足(横/目隠し)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8533,7 +8533,7 @@
       },
       {
         "title": "太腿(目隠し)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8570,7 +8570,7 @@
       },
       {
         "title": "股間(目隠し)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8607,7 +8607,7 @@
       },
       {
         "title": "股間抵抗",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8644,7 +8644,7 @@
       },
       {
         "title": "文句",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8681,7 +8681,7 @@
       },
       {
         "title": "足指圧",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8718,7 +8718,7 @@
       },
       {
         "title": "背中(横)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8755,7 +8755,7 @@
       },
       {
         "title": "背中(前)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8792,7 +8792,7 @@
       },
       {
         "title": "背中(上)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8829,7 +8829,7 @@
       },
       {
         "title": "尻",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8866,7 +8866,7 @@
       },
       {
         "title": "尻(開き)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8903,7 +8903,7 @@
       },
       {
         "title": "尻(開き/振り向き)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8940,7 +8940,7 @@
       },
       {
         "title": "座り込み",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -8977,7 +8977,7 @@
       },
       {
         "title": "肩マッサージ",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9014,7 +9014,7 @@
       },
       {
         "title": "肩マッサージ(両手を頭の上)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9051,7 +9051,7 @@
       },
       {
         "title": "胸マッサージ(両手を頭の上/乳首)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9088,7 +9088,7 @@
       },
       {
         "title": "胸マッサージ(抵抗/乳首)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9125,7 +9125,7 @@
       },
       {
         "title": "胸マッサージ(胸フォーカス)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9162,7 +9162,7 @@
       },
       {
         "title": "胸マッサージ(上半身フォーカス)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9199,7 +9199,7 @@
       },
       {
         "title": "胸マッサージ(振り向き/乳首)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9236,7 +9236,7 @@
       },
       {
         "title": "肩マッサージ(両手を頭の上/開脚)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9273,7 +9273,7 @@
       },
       {
         "title": "乳マッサージ(両手を頭の上/開脚)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9310,7 +9310,7 @@
       },
       {
         "title": "乳マッサージ(両手を頭の上/開脚/手マン)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9347,7 +9347,7 @@
       },
       {
         "title": "乳マッサージ(開脚/手マン)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9384,7 +9384,7 @@
       },
       {
         "title": "首回り",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9421,7 +9421,7 @@
       },
       {
         "title": "首回り(指圧)",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9458,7 +9458,7 @@
       },
       {
         "title": "乳揉み",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9495,7 +9495,7 @@
       },
       {
         "title": "乳首揉み",
-        "group": "massage",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
