@@ -1,7 +1,7 @@
 ﻿{
   "全裸男性": {
     "全身": "completely nude man, bald head,faceless man,simple man",
-    "胴体": "completely nude man,cropped man's head",
+    "胴体": "completely nude man,cropped man's head out of frame",
     "上半身": "completely nude man",
     "下半身": "completely nude man's lower body",
     "腕": "completely nude man's hands"
@@ -14,10 +14,10 @@
     "腕": ""
   },
   "エステティシャン": {
-    "全身": "esthetician,white clothes,white tops,white sleeves,white pants, bald head,faceless man,simple man",
-    "胴体": "esthetician,white clothes,white tops,white sleeves,white pants,cropped man's head",
-    "上半身": "esthetician,white clothes,white tops,white sleeves",
-    "下半身": "esthetician's lower body,white pants",
-    "腕": "esthetician's hands,white sleeves"
+    "全身": "esthetician with white simple uniform,white tops,white pants, bald head,faceless man,simple man",
+    "胴体": "esthetician with white simple uniform,man's head out of frame",
+    "上半身": "esthetician with white simple uniform,white tops",
+    "下半身": "esthetician's lower body with white pants",
+    "腕": "esthetician's hands with white sleeves"
   }
 }
