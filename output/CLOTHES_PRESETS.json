@@ -727,6 +727,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
   },
+  "お隣の天使様にダメ人間にされてしまった件/椎名真昼/裸足": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirts with rolled up sleeves,red ribbon tie",
+    "girlBottom": "brown checked skirt,barethigh",
+    "girlUnder": "barefoot",
+    "panties": "white panties, light blue ribbon, white floral lace trim, simple panties",
+    "bra": "white bra, light blue ribbon, white floral lace trim, simple bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"お隣の天使様にダメ人間にされてしまった件/椎名真昼\""
+  },
   "お隣の天使様にダメ人間にされてしまった件/白河千歳": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
@@ -1585,6 +1598,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"五等分の花嫁/中野一花\""
   },
+  "一花制服/裸足": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirts with rolled up sleeves",
+    "girlBottom": "green skirt,yellow cardigan around waist,",
+    "girlUnder": "barefoot",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"五等分の花嫁/中野一花\""
+  },
   "二乃制服": {
     "girlBaseClothes": "",
     "girlHead": "hair ribbon,bob hair",
@@ -1592,6 +1618,19 @@
     "girlTop": "school uniform,black cardigan,white shirts",
     "girlBottom": "green skirt,white thigh-high socks",
     "girlUnder": "white thigh-high socks",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"五等分の花嫁/中野二乃\""
+  },
+  "二乃制服/裸足": {
+    "girlBaseClothes": "",
+    "girlHead": "hair ribbon,bob hair",
+    "girlOuter": "",
+    "girlTop": "white shirts with rolled up sleeves",
+    "girlBottom": "green skirt,barethigh",
+    "girlUnder": "barefoot",
     "panties": "white panties",
     "bra": "white bra",
     "clothesTopStatus": "0",
@@ -1611,6 +1650,19 @@
     "clothesBottomStatus": "3",
     "characterOnly": "\"五等分の花嫁/中野三玖\""
   },
+  "三玖制服/裸足": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirts with rolled up sleeves",
+    "girlBottom": "green skirt,barethigh",
+    "girlUnder": "barefoot",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"五等分の花嫁/中野四葉\""
+  },
   "四葉制服": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -1622,7 +1674,20 @@
     "bra": "white bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
-    "characterOnly": "\"五等分の花嫁/中野四葉\""
+    "characterOnly": "\"五等分の花嫁/中野五月\""
+  },
+  "四葉制服/裸足": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirts with rolled up sleeves,ribbon tie",
+    "girlBottom": "green skirt,",
+    "girlUnder": "barefoot",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"五等分の花嫁/中野五月\""
   },
   "五月制服": {
     "girlBaseClothes": "",
@@ -1635,7 +1700,20 @@
     "bra": "white bra",
     "clothesTopStatus": "0",
     "clothesBottomStatus": "0",
-    "characterOnly": "\"五等分の花嫁/中野五月\""
+    "characterOnly": "\"五等分の花嫁/中野二乃\""
+  },
+  "五月制服/裸足": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirts with rolled up sleeves",
+    "girlBottom": "green skirt,",
+    "girlUnder": "barefoot",
+    "panties": "white panties",
+    "bra": "white bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"五等分の花嫁/中野二乃\""
   },
   "二乃全裸": {
     "girlBaseClothes": "",
@@ -1648,7 +1726,7 @@
     "bra": "completely nude,",
     "clothesTopStatus": "2",
     "clothesBottomStatus": "2",
-    "characterOnly": "\"五等分の花嫁/中野二乃\""
+    "characterOnly": "\"五等分の花嫁/中野四葉\""
   },
   "四葉マイクロビキニ": {
     "girlBaseClothes": "simple micro bikini,white bikini,very small bikini,",
@@ -1661,7 +1739,7 @@
     "bra": "",
     "clothesTopStatus": "1",
     "clothesBottomStatus": "1",
-    "characterOnly": "\"五等分の花嫁/中野四葉\""
+    "characterOnly": ""
   },
   "ごちうさ中学生制服(夏)": {
     "girlBaseClothes": "school uniform",
@@ -3925,6 +4003,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"俺ガイル/結衣\""
   },
+  "俺ガイル/結衣(裸足)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt,rolled up sleeves,red  ribbon tie",
+    "girlBottom": "checked skirt,barethigh",
+    "girlUnder": "barefoot",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"俺ガイル/結衣\""
+  },
   "俺ガイル/がはままエプロンあり": {
     "girlBaseClothes": "",
     "girlHead": "",
@@ -3964,6 +4055,19 @@
     "clothesBottomStatus": "0",
     "characterOnly": "\"俺ガイル/雪乃\""
   },
+  "俺ガイル/雪乃(裸足)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt,red  ribbon tie,half sleeves",
+    "girlBottom": "checked skirt,barethigh",
+    "girlUnder": "barefoot",
+    "panties": "light blue panties",
+    "bra": "light blue bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"俺ガイル/雪乃\""
+  },
   "俺ガイル/雪乃冬": {
     "girlBaseClothes": "school uniform",
     "girlHead": "",
@@ -3984,6 +4088,19 @@
     "girlTop": "white shirt,red  ribbon tie",
     "girlBottom": "checked skirt",
     "girlUnder": "black socks",
+    "panties": "pink panties",
+    "bra": "pink bra",
+    "clothesTopStatus": "0",
+    "clothesBottomStatus": "0",
+    "characterOnly": "\"俺ガイル/いろはす\""
+  },
+  "俺ガイル/いろはす(裸足)": {
+    "girlBaseClothes": "",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "white shirt,red  ribbon tie",
+    "girlBottom": "checked skirt,barethigh",
+    "girlUnder": "barefoot",
     "panties": "pink panties",
     "bra": "pink bra",
     "clothesTopStatus": "0",
