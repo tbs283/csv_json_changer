@@ -10081,7 +10081,7 @@
         "seed_id": "148"
       },
       {
-        "title": "遊び2",
+        "title": "遊び3",
         "group": "base",
         "base": {
           "motionFlg": "0",
@@ -10118,7 +10118,7 @@
         "seed_id": "148"
       },
       {
-        "title": "遊び2",
+        "title": "遊び4",
         "group": "base",
         "base": {
           "motionFlg": "0",
@@ -10162,12 +10162,12 @@
           "base": "",
           "composition": "後中斜",
           "focus": "背中",
-          "pov": "1",
+          "pov": "",
           "play": "girl,solo",
           "girlLooking": "",
           "girlAction": "looking back,back shot,stand up",
           "male": "",
-          "male_action": "walk-in",
+          "male_action": "",
           "r18": "",
           "situationOption": "splash of water,lower body in the water",
           "bgFlg": "1",
@@ -10193,12 +10193,12 @@
       }
     ],
     "variable": {
-      "座位": "bed edge",
-      "痴漢座": "bed",
-      "仰向け": "bed",
+      "座位": "ground",
+      "痴漢座": "ground",
+      "仰向け": "ground",
       "寝バック": "splash of water",
       "バック": "splash of water",
-      "壁手つき": "bed edge",
+      "壁手つき": "wall",
       "ソロ": "splash of water,lower body in water",
       "痴漢": "splash of water,lower body in water",
       "キス": "splash of water,lower body in water",
