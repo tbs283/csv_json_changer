@@ -21,10 +21,10 @@
     "腕": "esthetician's hands with white sleeves"
   },
   "会社員": {
-    "全身": "business man with black suit, bald head,faceless man,simple man",
-    "胴体": "business man with black suit,cropped man's head out of frame",
-    "上半身": "business man with black suit",
-    "下半身": "business man's lower body with black suit",
-    "腕": "business man's hands with black suit"
+    "全身": "businessman,black business suit, bald head,faceless man,simple man",
+    "胴体": "businessman,black business suit,cropped man's head out of frame",
+    "上半身": "businessman,black business suit",
+    "下半身": "businessman's lower body,black business suit",
+    "腕": "businessman's hands,black business suit"
   }
 }
