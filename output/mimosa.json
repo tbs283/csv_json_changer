@@ -9806,7 +9806,7 @@
     "male": "全裸男性",
     "quality": "masterpiece,very aesthetic,no text,simple background",
     "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
-    "bgBase": "indoor,bedroom,simple back ground,white back ground",
+    "bgBase": "indoor,no interior,bedroom,simple back ground,white back ground",
     "bgWall": "white wall,flat wall",
     "bgGround": "white sheets",
     "bgFloor": "green carpet"
