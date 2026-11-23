@@ -10230,7 +10230,7 @@
     "quality": "masterpiece,very aesthetic,no text,simple background",
     "style": "game cg,anime coloring,soft lighting,thin lines,pastel color,glossy skin",
     "bgBase": "out door,beach, sun light",
-    "bgWall": "",
+    "bgWall": "sun,blue sky",
     "bgGround": "",
     "bgFloor": ""
   }
