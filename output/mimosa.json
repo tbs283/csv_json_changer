@@ -9741,7 +9741,7 @@
     "items": [
       {
         "title": "脱衣",
-        "group": "x",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9755,7 +9755,7 @@
           "male_action": "",
           "r18": "",
           "situationOption": "girl changing clothes",
-          "bgFlg": "2",
+          "bgFlg": "1",
           "depthFlg": "1",
           "male_c": "",
           "girlCount": ""
@@ -9778,7 +9778,7 @@
       },
       {
         "title": "脱衣",
-        "group": "x",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9792,7 +9792,7 @@
           "male_action": "",
           "r18": "",
           "situationOption": "girl changing clothes",
-          "bgFlg": "2",
+          "bgFlg": "1",
           "depthFlg": "1",
           "male_c": "",
           "girlCount": ""
@@ -9815,7 +9815,7 @@
       },
       {
         "title": "脱衣",
-        "group": "x",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9829,13 +9829,13 @@
           "male_action": "",
           "r18": "",
           "situationOption": "girl changing clothes",
-          "bgFlg": "2",
+          "bgFlg": "1",
           "depthFlg": "1",
           "male_c": "",
           "girlCount": ""
         },
         "charaVariable": {
-          "girlAction": "upper body nude",
+          "girlAction": "upper body nude,leaning forward",
           "girlAction_c2": "",
           "girlAction_c3": "",
           "girlExpression": "",
@@ -9852,7 +9852,7 @@
       },
       {
         "title": "脱衣",
-        "group": "x",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9866,13 +9866,13 @@
           "male_action": "",
           "r18": "",
           "situationOption": "girl changing clothes",
-          "bgFlg": "2",
+          "bgFlg": "1",
           "depthFlg": "1",
           "male_c": "",
           "girlCount": ""
         },
         "charaVariable": {
-          "girlAction": "upper body nude",
+          "girlAction": "upper body nude,leaning forward",
           "girlAction_c2": "",
           "girlAction_c3": "",
           "girlExpression": "",
@@ -9889,7 +9889,7 @@
       },
       {
         "title": "脱衣",
-        "group": "x",
+        "group": "base",
         "base": {
           "motionFlg": "0",
           "base": "",
@@ -9903,13 +9903,13 @@
           "male_action": "",
           "r18": "",
           "situationOption": "girl changing clothes",
-          "bgFlg": "2",
+          "bgFlg": "1",
           "depthFlg": "1",
           "male_c": "",
           "girlCount": ""
         },
         "charaVariable": {
-          "girlAction": "upper body nude",
+          "girlAction": "upper body nude,leaning forward",
           "girlAction_c2": "",
           "girlAction_c3": "",
           "girlExpression": "",
