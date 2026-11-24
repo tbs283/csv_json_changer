@@ -818,6 +818,19 @@
     "clothesBottomStatus": "6",
     "characterOnly": "\"陰実/アルファ\",\"陰実/ベータ\",\"陰実/ガンマ\"\"陰実/デルタ\",\"陰実/イプシロン\",\"陰実/ゼータ\",\"陰実/イータ\""
   },
+  "冴カノ:加藤(ビキニ)": {
+    "girlBaseClothes": "micro bikini,black and white string bikini,bordered bikini",
+    "girlHead": "",
+    "girlOuter": "",
+    "girlTop": "bikini bra",
+    "girlBottom": "bikini panties",
+    "girlUnder": "barefoot",
+    "panties": "",
+    "bra": "",
+    "clothesTopStatus": "1",
+    "clothesBottomStatus": "1",
+    "characterOnly": "\"冴えない彼女の育てかた/加藤\""
+  },
   "冴カノ:加藤": {
     "girlBaseClothes": "white one-piece dress",
     "girlHead": "white hat",
